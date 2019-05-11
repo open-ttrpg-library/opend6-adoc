@@ -1,0 +1,13 @@
+= Non-human races
+
+:leveloffset: +1
+
+ifdef::include-fantasy[]
+include::fantasy_races.adoc[]
+endif::[]
+
+ifdef::include-space[]
+include::sci-fi_races.adoc[]
+endif::[]
+
+:leveloffset: -1

@@ -1,0 +1,17 @@
+= Game rules
+
+:leveloffset: +1
+
+include::game_basics.adoc[]
+
+include::using_skills.adoc[]
+
+include::movement.adoc[]
+
+ifdef::include-space[]
+include::space_travel.adoc[]
+endif::[]
+
+include::combat/main.adoc[]
+
+:leveloffset: -1

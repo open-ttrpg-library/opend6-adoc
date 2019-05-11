@@ -1,0 +1,11 @@
+= Space
+
+:leveloffset: +1
+
+include::attribute_and_skill_list.adoc[]
+
+include::skill_examples.adoc[]
+
+include::character_templates.adoc[]
+
+:leveloffset: -1

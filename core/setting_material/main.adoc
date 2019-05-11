@@ -1,0 +1,17 @@
+= Setting material
+
+:leveloffset: +1
+
+ifdef::include-adventure[]
+include::adventure/main.adoc[]
+endif::[]
+
+ifdef::include-fantasy[]
+include::fantasy/main.adoc[]
+endif::[]
+
+ifdef::include-space[]
+include::space/main.adoc[]
+endif::[]
+
+:leveloffset: -1

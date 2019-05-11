@@ -1,0 +1,15 @@
+= OpenD6
+:plugins: ./plugins
+:core: ./core
+:toc:
+:include-adventure:
+:include-fantasy:
+:include-space:
+:include-gm:
+// :include-ext:
+
+include::core/main.adoc[]
+
+ifdef::include-ext[]
+include::extensions/main.adoc[leveloffset=+1]
+endif::[]

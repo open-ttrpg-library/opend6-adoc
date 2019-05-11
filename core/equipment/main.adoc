@@ -1,0 +1,9 @@
+= Equipment
+
+:leveloffset: +1
+
+include::armor_weapons_and_vehicles.adoc[]
+
+include::basic_ship_design.adoc[]
+
+:leveloffset: -1

@@ -1,0 +1,15 @@
+= Space aliens
+
+:leveloffset: +1
+
+include::alien_templates.adoc[]
+
+include::homosapient_species.adoc[]
+
+include::hypersapient_species.adoc[]
+
+include::hyposapient_species.adoc[]
+
+include::random_alien_generation.adoc[]
+
+:leveloffset: -1

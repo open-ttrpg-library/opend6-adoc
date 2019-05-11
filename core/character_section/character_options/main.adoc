@@ -1,0 +1,23 @@
+= Character options
+
+:leveloffset: +1
+
+include::advantages.adoc[]
+
+include::disadvantages.adoc[]
+
+include::special_abilities.adoc[]
+
+include::cybernetics.adoc[]
+
+include::magic.adoc[]
+
+include::metaphysics.adoc[]
+
+include::miracles.adoc[]
+
+include::psionics.adoc[]
+
+include::spells.adoc[]
+
+:leveloffset: -1

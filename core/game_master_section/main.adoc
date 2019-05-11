@@ -1,0 +1,9 @@
+= Game Master section
+
+:leveloffset: +1
+
+include::adventure_tips.adoc[]
+
+include::generic_characters/main.adoc[]
+
+:leveloffset: -1

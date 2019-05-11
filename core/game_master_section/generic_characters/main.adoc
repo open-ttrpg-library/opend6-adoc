@@ -1,0 +1,17 @@
+= Generic characters
+
+:leveloffset: +1
+
+ifdef::include-adventure[]
+include::generic_adventure_characters.adoc[]
+endif::[]
+
+ifdef::include-fantasy[]
+include::generic_fantasy_characters.adoc[]
+endif::[]
+
+ifdef::include-space[]
+include::generic_space_characters.adoc[]
+endif::[]
+
+:leveloffset: -1

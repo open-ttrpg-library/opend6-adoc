@@ -1,0 +1,11 @@
+= Combat
+
+:leveloffset: +1
+
+include::combat_options.adoc[]
+
+include::damage.adoc[]
+
+include::healing.adoc[]
+
+:leveloffset: -1

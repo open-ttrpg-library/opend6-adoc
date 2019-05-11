@@ -1,0 +1,13 @@
+= Character section
+
+:leveloffset: +1
+
+include::character_basics/main.adoc[]
+
+include::character_options/main.adoc[]
+
+include::non-human_races/main.adoc[]
+
+include::improving_characters.adoc[]
+
+:leveloffset: -1

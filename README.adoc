@@ -1,0 +1,24 @@
+= OpenD6 asciidoc repository
+
+A fork-able, diff-able rendition of the http://opend6project.org/[OpenD6] rules covered by the link:LICENSE[OGL].
+
+Build into docbook, PDF or HTML with https://asciidoctor.org[asciidoctor].
+
+== About
+
+The OpenD6 Project exists to provide a unified system reference document for the OpenD6 rules and to promote the use of OpenD6 in new products.
+
+In 1996, West End Games released a core book titled “The D6 System”, the back cover of which touted it as “The Customizable Roleplaying Game”.
+Its intention was to provide gamers with a framework around which they could select the attributes, skills, and powers that would correctly flavor their game.
+
+This material is a reproduction of D6 Adventure, D6 Fantasy, and D6 Space published in 2004 by West End Games and to which the terms of the Open Gaming License were attached in 2010 under the license “OpenD6”.
+The intention is to present the material is a way that faithfully preserves the content while streamlining organization and access.
+
+It is also a place to continue development of the game system.
+The D6 System was ahead of its time in many ways, using such things as a simplified difficulty system (Savage Worlds), an abstracted attribute set (Cortex), and Fate Points (uh… Fate).
+But gaming has continued to evolve, and the rules are in need of an update.
+
+When Eric Gibson attached the Open Gaming License and the OpenD6 trademark to the material in 2010, he stated that no further “official” development or support would be forthcoming. From here forward, it’s up to the community.
+The fine folks at Anti-Paladin Games have done some awesome work with their Mini Six build of the rules, but they focused on streamlining and deliberately left out a ton of the “bells and whistles”.
+
+This System Reference Document intends to enable continued development of OpenD6 as a comprehensive customizable game system that will remain freely accessible and to provide a platform for new creators to enter the hobby and build upon a common and completely interactive set of rules.
