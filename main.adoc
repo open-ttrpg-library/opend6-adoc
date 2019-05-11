@@ -8,8 +8,12 @@
 :include-gm:
 // :include-ext:
 
+:leveloffset: +1
+
 include::core/main.adoc[]
 
 ifdef::include-ext[]
-include::extensions/main.adoc[leveloffset=+1]
+include::extensions/main.adoc[]
 endif::[]
+
+:leveloffset: -1

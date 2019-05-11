@@ -1,4 +1,4 @@
-ASCIIDOCTOR_COMMAND = asciidoctor main.adoc -d book
+ASCIIDOCTOR_COMMAND = asciidoctor main.adoc
 
 html:
 	$(ASCIIDOCTOR_COMMAND) -b html5 -o out/index.html
