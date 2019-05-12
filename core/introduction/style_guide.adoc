@@ -1,0 +1,44 @@
+# Style guide
+
+
+
+The following stylistic rules are to be applied to all material on this site.
+
+“OpenD6” is one word, not two.
+
+The correct name is “OpenD6”, not “OpenD6 System”.
+
+“Role playing” is two words and is not hyphenated.
+
+Die codes are always abbreviated by leaving off the “6” after the “D”. 1D instead of 1D6.
+
+Die codes are always written with a capital. 1D not 1d.
+
+“Game Master” is a title.
+It is always capitalized when referring to a specific person or a titular role in the game.
+
+* Ryan is our Game Master.
+* Ask your OpenD6 Game Master what happens next.
+* Joe is a game master at chess.
+
+“Game Master” is two words; “Game Master”, not “GameMaster” or “gamemaster”.
+
+“Game Master” is always abbreviated as “GM”, not “gm”.
+
+Categories of game terms are not capitalized.
+Specific instances of game terms are capitalized.
+“Traits,” “attributes,” “skills,” and “specializations” are categories and are therefore not capitalized.
+Individual attributes and skills are specific instances of game terms and are therefore capitalized.
+“Normal” and “Extranormal” are specific instances of game terms and are therefore capitalized.
+
+* Two traits in OpenD6 are attributes and skills.
+* Assign die codes to your attributes.
+* He put 1D into the Normal attribute Strength and 1D into the Extranormal attribute Magic.
+* Assign die codes to your skills.
+* He put 1D into Guns as a skill and 1D into Desert Eagle as a specialization.
+
+Difficulty codes are lowercase when used descriptively and capitalized when referring to a specific position on the difficulty chart.
+Capitalized difficulty codes are always followed by a specific value in parenthesis.
+
+* Picking the lock proved to be of moderate difficulty.
+* The difficulty to beat the lock is Moderate (11).

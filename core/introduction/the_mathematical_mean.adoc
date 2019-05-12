@@ -1,0 +1,22 @@
+= The mathematical mean
+
+In the standard rules, traits are rated by whole and partial increments of six-sided dice.
+A whole die increment is written as “1D”, where the integer denotes a number of dice to be rolled and totaled.
+Partial die increments are written as “1D+1”, where the primary identity denotes a number of dice to be rolled and totaled, and the secondary identity denotes an absolute value to be added to the sum total.
+
+Conflict resolution in OpenD6 is based on a standardized difficulty scale that is adjusted for the mathematical mean of a given trait score.
+
+On this difficulty scale, a “Moderate” difficulty is defined as a number approximating the mean roll of a trait score totaling between 3D and 4D, so that the sum total of a trait roll will equal or exceed the difficulty on approximately 50% of a given set of iterations.
+Difficulties are then derived mathematically in multiples of 3.5, where the corresponding descriptive value is derived in multiples of 5.
+Each die code corresponds to a difficulty computed using a fixed value equal to 3.5x the whole die increment, and adding the partial die increments (pips) to the sum total.
+
+The purpose of defining a “Moderate” difficulty with this range of values is to approximate a 50% success ratio for the most common trait totals assigned to protagonists and antagonists within the system, as well as to provide an increasing success ratio to higher trait totals.
+The 50% success ratio can be adjusted along a sliding scale to correspond to higher trait totals.
+
+The purpose of providing descriptive values for each numerical value allows difficulties to be evaluated quickly relative to a baseline trait score of 3D.
+
+.Standardized difficulty table
+[%header,format=csv]
+|===
+include::standardized_difficulty_table.csv[]
+|===

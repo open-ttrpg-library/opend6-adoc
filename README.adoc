@@ -4,6 +4,12 @@ A fork-able, diff-able rendition of the http://opend6project.org/[OpenD6] rules 
 
 Build into docbook, PDF or HTML with https://asciidoctor.org[asciidoctor].
 
+== Style guide
+
+* Follow the link:core/introduction/style_guide.adoc[OpenD6 style guide]
+* Grouped asciidoc files should be in a directory
+** The directory should have a `main.adoc` file
+
 == About
 
 The OpenD6 Project exists to provide a unified system reference document for the OpenD6 rules and to promote the use of OpenD6 in new products.

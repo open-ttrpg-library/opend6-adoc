@@ -1,0 +1,31 @@
+description,difficulty,die code,mean result
+Very Easy,1,1,1
+Very Easy,2,2,2
+Very Easy,3,,
+Very Easy,4,1D,3.5
+Very Easy,5,1D+1,4.5
+Easy,6,1D+2,5.5
+Easy,7,2D,7
+Easy,8,2D+1,8
+Easy,9,2D+2,9
+Easy,10,,
+Moderate,11,3D,10.5
+Moderate,12,3D+1,11.5
+Moderate,13,3D+2,12.5
+Moderate,14,4D,14
+Moderate,15,4D+1,15
+Difficult,16,4D+2,16
+Difficult,17,,
+Difficult,18,5D,17.5
+Difficult,19,5D+1,18.5
+Difficult,20,5D+2,19.5
+Very Difficult,21,6D,21
+Very Difficult,22,6D+1,22
+Very Difficult,23,6D+2,23
+Very Difficult,24,,
+Very Difficult,25,7D,24
+Heroic,26,7D+1,25.5
+Heroic,27,7D+2,26.5
+Heroic,28,8D,28
+Heroic,29,8D+1,29
+Heroic,30,8D+2,30
