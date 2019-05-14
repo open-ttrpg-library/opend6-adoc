@@ -1,5 +1,53 @@
 = Introduction
 
+If you’re reading this document, you are probably quite familiar with role playing games.
+In case you need a refresher or to explain it to your friends, we suggest telling them that this is an interactive storytelling game wherein they play the part of major characters in the story.
+If that rouses their curiosity, let them read this introduction.
+You might also want to start with this introduction if you’ve role-played before getting this document but it wasn’t with OpenD6.
+
+.What Is a Role Playing Game?
+A role playing game is very much like improvisational acting or interactive storytelling — but with rules.
+ Many video games are like this, and there are plenty of online interactive worlds, so chances are good that you know what a role playing game is about.
+This role playing game, however, doesn’t need any expensive equipment, special software or cartridges, or a connection to the Internet.
+
+.What Do I Need to Play?
+To play this game, you need this document, some paper, something to write with, some six-sided dice, a lot of imagination, and a group of people, one of whom is willing to act as the guiding force in the game.
+This person is called many things, but “Game Master” serves well as short- hand for someone who presents information about the game setting, creates obstacles for the other players to overcome, takes the part of the people the players encounter, and adjudicates the rules.
+The rest of the group, simply called “the players,” take on roles of major characters in the story that they and the Game Master create together. +
+The stories are called “adventures,” or “scenarios.” Very short adventures, usually encompassing only one or two obstacles to a simple goal, are referred to as “encounters.” A series of encounters can become an adventure, while a series of adventures can turn into a campaign.
+This document contains a section (called “Adventure Tips”) on how to come up with adventures.
+
+.Reality
+The OpenD6 rules are not meant to reflect the real world’s reality.
+Rather, they have been designed to model fiction reality, the reality of stories, television shows, comic books, and movies.
+Game Masters who want to use this system to describe the real world will need to add their own modifiers and limits.
+
+.Where Do I Go Next?
+Will you be you joining a game where everyone else knows how to play, and you don’t have a lot of time to learn the rules? +
+Read “Character Basics” and then flip to the character templates.
+Ask the Game Master which one or ones you can use.
+Fill in the template as you learned from “Character Basics”, then take the sheet to the game session and start playing.
+The rest of the players will teach the details as you go along.
+
+.Do you have some time to learn the rules, but you don’t want to be the Game Master?
+Read all of the sections up through the “Healing” section.
+In this introduction is a solitaire adventure that will get you started on the basics; the rest of the sections fill in more details.
+Then skip to the “Equipment” section.
+
+.Do you want to be the Game Master, with all its responsibilities and privileges?
+You’ll need to read this entire document, or at least through the “Healing” section and skim the rest.
+Then use the “Adventure Tips” section to design your own scenario.
+After that, invite some friends over, introduce them to creating characters, and have fun!
+
+.System Overview
+The purpose of this document is to provide a reference work for OpenD6 that explains the core concepts of the system as well as their execution.
+The core concepts of OpenD6 are:
+
+. making actions
+. the mathematical mean
+. tiered traits
+. scale of effect.
+
 :leveloffset: +1
 
 include::style_guide.adoc[]

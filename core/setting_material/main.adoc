@@ -1,4 +1,46 @@
-= Setting material
+= Setting Material
+
+=== Designing the Adventure Setting
+
+Adventure works well for a number of different genres. When deciding which one you want to play in, consider what other reference material, such as movies, television shows, and books, you have to draw on. Reference material can inspire you with adventure ideas, setting particulars, and interesting characters.
+
+Wild West: One of the most chaotic genres, the Wild West features gun fights, chases on horseback, and the lure of hidden wealth, usually in the form of gold, but sometimes a coveted piece of land. Generally, technology is low, though weird science is possible.
+
+Pulp Fiction: Set during World War I and World War II, the pulp fiction genre emphasizes excitement over complicated plot development, mission-oriented adventures over long puzzle-solvers. Few “civilized” people deal with magic, though technology is being developed so fast that almost anything seems possible.
+
+Real World: The game setting is not far removed from the real world of today. Often, however, there is at least one change — maybe magic has suddenly become possible, or aliens have invaded, or the time period has changed from the twentieth century to somewhere in the past.
+
+Super Heroes: Super hero adventures usually happen in the present or not too distant future. Special Abilities are common place, coming from scientific experiments, random mutations, weapons, equipment, training, and more.
+
+Espionage: Plot and character development — along with lots of ultra-high-tech equipment — dominate the espionage setting. Full of secrets, and double crosses, violence is generally more subtle than in other genres, though there’s still plenty of room for a car chase with big guns.
+
+=== Designing the Fantasy Setting
+
+The system and information in fantasy suits two types of fantasy subgenres: high and low. The primary difference between the two lies in the amount of magic available, which in turn affects the types of characters played and monsters encountered.
+
+High Fantasy: Myths, legends, and magic are the keywords in a high fantasy campaign. Magic is common, ranging from every village having its own wizard or witch, to certain castes or groups limiting spell casting to their members. Often, the characters are larger-than-life heroes who are battling an even larger foe. Good and evil are living entities, and quests are popular adventure hooks.
+
+Low Fantasy: A low fantasy world is much more “gray” than high fantasy. Magic is mysterious, and spells are difficult to cast (represented by a higher base Spell Total). Monsters are dangerous and often few and far between. Not everyone in the world is either good or evil, and the players’ characters may be of mixed morality.
+
+=== Designing the Sci-Fi Setting
+
+This book offers several features common to many, but not all, science fiction settings. You, as the Game Master, need to decide what you want to include before you create your adventures. You’ll also need to let your players know the details, so everyone experiences the game from a similar viewpoint.
+
+Aliens: Aliens generally allow players to explore one or two key aspects of the human condition in depth, without actually being bound by the stereotype of “Human.” However, you might decide that, though Humanity has never met any alien cultures, the Human colonists have grown so far apart that they’ve practically become their own species — at least culturally.
+
+Of course, if you decide to make interstellar travel prohibitively costly or even scientifically impossible, unless the aliens come to the players, it’s likely that they’ll never meet another species outside of their own.
+
+On the flip side, you could decide that Humans are the minority rather than the norm in your setting.
+
+Cybernetics: Cybernetics allow players to have amazing Special Abilities. You might decide that you don’t want to deal with that, instead ruling that the setting hasn’t reached a level of technology beyond installing prosthetic devices. Or, you could take a middle ground and limit the Special Abilities available for installation with cybernetics.
+
+Metaphysics: Extraordinary mental abilities exist as another feature that can really throw off the fun factor in a game — or it can open up new horizons. You decide on how much you feel that Humans and aliens have tapped into the power of the mind. Perhaps it’s strictly random, and you randomly assign the Metaphysics attribute to one player in the group after character creation and at no additional cost (and give everyone else an extra piece of equipment as a consolation prize). Or you could limit Metaphysics to certain alien species or make it much more difficult to use than it currently is.
+
+Space Travel: Easy access to interstellar travel means that you’ll need to come up with new planets and, possibly, new alien races. You can avoid this by deciding that the society has not yet reached that level of technology. Alternatively, you can limit the speed of interstellar travel, having it take months or years to reach the next solar system. Pirates and interstellar police forces are less likely, but divergent cultures are much more possible.
+
+If you want plenty of contact between various species and solar systems, you can make space travel faster than the default listed in this book or use a combination of the default rate plus special artificial wormholes or gates.
+
+Scope of the Galaxy. Space can be be big and teeming with life or it can be sparse and lonely. The more you allow access to easy interstellar travel, the more fun it is for the players to regularly encounter alien and Human offshoots, lost civilizations and treasure planets, and pirates and interstellar military forces.
 
 :leveloffset: +1
 

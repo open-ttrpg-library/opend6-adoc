@@ -4,6 +4,24 @@ A fork-able, diff-able rendition of the http://opend6project.org/[OpenD6] rules 
 
 Build into docbook, PDF or HTML with https://asciidoctor.org[asciidoctor].
 
+== To do
+
+* [ ] magic tables
+* [ ] miracles tables
+* [ ] psionics tables
+* [ ] armor weapons and vehicles tables
+* [ ] basic ship design tables
+* [ ] equipment/main tables
+* [ ] space travel tables
+* [ ] skill example tables
+* [ ] do cross-references
+* [ ] creatures and locations?
+** Big job!
+* [ ] Split paragraphs onto lines
+* [ ] check/adjust section levels (use warnings from asciidoctor)
+* [ ] https://github.com/asciidoctor/asciidoctor-extensions-lab/pull/96[multipage HTML]
+* [ ] PDF theme
+
 == Style guide
 
 * Follow the link:core/introduction/style_guide.adoc[OpenD6 style guide]

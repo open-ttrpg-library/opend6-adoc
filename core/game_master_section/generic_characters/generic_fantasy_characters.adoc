@@ -1,0 +1,47 @@
+= Generic Fantasy Characters
+
+=== People
+
+Healer: Agility 2D, Coordination 2D, sleight of hand 2D+1, Phy- sique 2D, stamina 2D+1, Intellect 3D, healing 4D, reading/writing 2D+1, scholar 2D+2, Acumen 2D, investigation 2D+1, Charisma 2D. Move: 10. Strength Damage: 1D. Fate Points: 0. Character Points: 2. Body Points: 10/Wound levels: 2. Equipment: large healer’s kit (+1 bonus to 6 to 12 healing attempts).
+
+Henchman: Agility 2D, fighting 4D, melee combat 3D, stealth 3D, Coordination 2D, lockpicking 3D, marksmanship 4D, Physique 3D, running 3D+2, Intellect 2D, Acumen 2D, hide 3D, streetwise 3D, tracking 3D, Charisma 2D. Move: 10. Physique Damage: 1D. Fate Points: 0. Character Points: 2. Body Points: 13/Wound levels: 2. Equipment: dagger (damage +1D), lockpicking tools (+1D to lockpicking rolls), soft leather armor (Armor Value +2).
+
+Merchant: Agility 2D, riding 2D+1, Coordination 2D, sleight of hand 2D+2, Physique 2D, running 2D+1, Intellect 2D, cultures 3D, reading/writing 2D+2, scholar 3D, speaking 3D, trading 3D, Acumen 2D, streetwise 2D+1, Charisma 3D, bluff 3D+2, charm 4D, persuasion 3D. Move: 10. Strength Damage: 1D. Fate Points: 0. Character Points: 2. Body Points: 11/Wound levels: 2. Equipment: coins of various realms; trinkets or wares to sell; pouches; small knife (damage +2); heavy garments (Armor Value +1).
+
+Ranger: Agility 3D, dodge 3D+1, fighting 3D+1, melee combat 3D+1, stealth 3D+2, Coordination 2D, Physique 2D, running 3D+1, lifting 3D+2, Intellect 2D, Acumen 2D, hide 2D+2, investigation 2D+1, search 2D+1, survival 2D+2, tracking 2D+2, Charisma 2D, intimidation 2D+1, mettle 2D+1. Move: 10. Strength Damage: 2D. Fate Points: 0. Character Points: 2. Body Points: 14/Wound levels: 2. Equipment: short sword (damage +1D+2); knife (damage +1D); soft leather armor (Armor Value +2); mottled green-grey cloak (+1 to hide attempts among trees).
+
+Ruffian: Agility 2D, fighting 3D, melee combat 3D, stealth 2D+1, Coordination 2D, lockpicking 3D, Physique 3D, Intellect 2D, traps 3D, Acumen 2D, gambling 2D+2, hide 2D+2, streetwise 3D, Charisma 1D, intimidation 3D. Move: 10. Strength Damage: 2D. Fate Points: 0. Character Points: 2. Body Points: 12/Wound levels: 2. Equipment: dagger (damage +1D); burlap bag.
+
+Soldier: Agility 2D, dodge 3D, fighting 3D, melee combat 3D, Coordination 2D, Physique 3D, lifting 3D+1, running 3D+1, Intel- lect 2D, Acumen 2D, search 2D+1, streetwise 2D+1, survival 2D+1, Charisma 2D, intimidation 2D+2, mettle 2D+1. Move: 10. Strength Damage: 2D. Fate Points: 0. Character Points: 2. Body Points: 15/Wound levels: 2. Equipment: short sword (damage +1D+2); knife (damage +1D); padded leather armor (Armor Value +1D) with helmet.
+
+=== Animals
+
+Bird of Prey (Falcon, Hawk): Agility 4D, fighting 5D, flying 5D, Coordination 1D, Physique 2D, Intellect 1D, Acumen 2D, search 3D, tracking 3D, Charisma 2D, mettle 3D. Move: 32 (flying)/15 (gliding). Strength Damage: 1D. Body Points: 7/Wound levels: 1. Natural Abili- ties: wings allow the bird to fly or glide for several hundred miles or as long as there are thermals to keep them aloft; beak (damage +2); talons (damage +1D); small size (scale modifier 9).
+
+Cat, Domestic: Agility 3D, fighting 4D, climbing 4D, dodge 4D, jumping 4D, stealth 4D, Coordination 1D, Physique 1D, running 3D, Intellect 1D, Acumen 2D, search 3D, tracking 3D, Charisma 2D, mettle 3D. Move: 20. Strength Damage: 1D. Body Points: 8/Wound levels: 1. Natural Abilities: claws (damage +2), teeth (damage +2); small size (scale modifier 6).
+
+Cat, Large (Lion, Puma, Tiger): Agility 4D, climbing 5D, dodge 5D, fighting 5D, jumping 5D, stealth 5D, Coordination 2D, Physique 4D, running 5D, Intellect 1D, Acumen 2D, search 3D, tracking 3D, Charisma 2D, intimidation 5D, mettle 4D. Move: 30. Body Points: 24/ Wound levels: 3. Strength Damage: 2D. Natural Abilities: thick fur (armor value +2), claws (damage +1D), teeth (damage +1D). Note: Large cats can leap up to 10 meters horizontally or two meters vertically.
+
+Cobra: Agility 4D, fighting 5D, stealth 5D, Coordination 2D, marksmanship: spitting 4D, Physique 1D, Intellect 1D, Acumen 2D, search 3D, tracking 3D, Charisma 2D, intimidation 4D, mettle 4D. Body Points: 5/Wound levels: 1. Move: 15. Strength Damage: 1D. Natural Abilities: fangs (damage +1D; venom injected when fighting success beats difficulty by 5 or more); venom spitting (with a called shot to the eyes or mouth, the cobra spits venom into this area); venom (causes 5 points of damage or 1 Wound level every 10 minutes until victim dies or is treated; Very Difficult stamina roll to resist); small size (scale modifier 9).
+
+Dog, Domestic: Agility 3D, dodge 4D, fighting 4D, Coordination 1D, Physique 3D, running 4D, Intellect 1D, Acumen 2D, search 3D, tracking 4D, Charisma 2D, intimidation 3D, mettle 2D+1. Move: 25. Strength Damage: 2D. Body Points: 9/Wound levels: 1. Natural Abilities: teeth (damage +1D); small size (scale modifier 5).
+
+Dog, Guard: Agility 3D, dodge 6D, fighting 5D, Coordination 1D, Physique 4D, running 4D+1, Intellect 1D, Acumen 2D, search 3D, tracking 4D, Charisma 2D, intimidation 5D, mettle 4D. Move: 25. Strength Damage: 2D. Body Points: 12/Wound levels: 2. Natural Abilities: teeth (damage +1D); small size (scale modifier 4).
+
+Horse: Agility 3D, fighting 4D, jumping 4D, Coordination 1D, Physique 4D, running 5D, Intellect 1D, Acumen 3D, Charisma 2D, intimidation 3D, mettle 3D. Move: 25. Strength Damage: 2D. Body Points: 15/Wound levels: 2. Natural Abilities: hoof (damage +2); teeth (damage +2); large size (scale modifier 3). Note: Horses can attack the same target twice in one round with their hooves (two front or two back) at no penalty, or they can bite once.
+
+Rats: Agility 3D, acrobatics 3D+1, climbing 3D+2, dodge 3D+1, fighting 3D+2, jumping 4D, Physique 1D, running 3D, swimming 1D+2, Intellect 1D, Acumen 2D, hide: self only 4D, search 3D, Charisma 1D, willpower 2D. Move: 3. Strength Damage: 1D. Body Points: 6/Wound levels: 1. Natural Abilities: teeth (Strength Damage only); swarm attack (roll a single fighting total for entire group of rats, adding +5 to the total for every 10 creatures involved; if using the optional damage bonus, add the bonus for this roll to the Strength Damage of a single rat); small size (scale modifier 9 for single rat).
+
+=== Monsters
+
+As there are so many different kinds of each monster in existence, use this information when you need quick game characteristics.
+
+Demon, Minor Destructive: Agility 3D, fighting 4D, stealth 4D, Coordination 2D, throwing 4D, Physique 5D, lifting 5D+1, running 6D, Intellect 2D, Acumen 2D, Charisma 2D, intimidation 6D, mettle 4D. Move: 10. Strength Damage: 2D. Body Points: 24/Wound levels: 3. Disadvantages: Employed (R1), anyone who knows its true name can command it completely; Devotion (R3), totally committed to wreaking havoc. Special Abilities: Attack Resistance (R1), +1D to damage resis- tance total against weapons not blessed or enchanted; Immortality (R1), a holy symbol and proper ritual returns it to its realm.
+
+Dragon, Young: Agility 3D, fighting 4D, flying 3D+1, Coordina- tion 2D, marksmanship 3D, Physique 5D, lifting 5D+1, Intellect 3D, Acumen 2D, Charisma 3D, intimidation 6D, mettle 3D+2. Move: 10. Strength Damage: 3D. Body Points: 32/Wound levels: 5. Advantages: Size: Large (R4), scale value 12. Disadvantages: Achilles’ Heel: Metabolic Difference (R3), requires large quantities of fresh meat; Infamy (R3), species feared and hunted because of destructive tendencies; Quirk (R3), easily angered; Quirk (R3), greedy. Special Abilities: Natural Armor: Scales (R2), +1D to damage resistance total; Natural Hand- to-Hand Weapon: Claws (R3), damage +3D; Natural Ranged Weapon: Fiery Breath (R2), damage 6D.
+
+Evil Humanoid (Goblin, Kobold, Orc): Agility 3D, climbing 3D+2, fighting 4D, jumping 3D+1, stealth 4D, Coordination 3D, marksmanship 4D, throwing 4D, Physique 3D, lifting 3D+1, running 4D, Intellect 1D, Acumen 2D, hide 2D+2, survival 3D, tracking 3D, Charisma 1D, intimidation 2D. Move: 10. Strength Damage: 2D. Body Points: 12/Wound levels: 2. Disadvantages: Devotion (R3), killing and looting. Special Abilities: None.
+
+Giant: Agility 3D, fighting 4D, melee combat 4D, Coordination 1D, throwing 4D, Physique 5D, lifting 6D, running 6D+2, Intellect 2D, Acumen 1D, tracking 2D, Charisma 1D, intimidation 6D. Move: 10. Strength Damage: 3D. Body Points: 26/Wound levels: 4. Advantages: Size: Large (R2), scale value 6. Disadvantages: None. Special Abilities: Hypermovement (R2) +4 to Move; Increased Attribute: Physique (R3), +3 to all Physique totals. Equipment: Large club (damage +2D).
+
+Walking Dead (Mummy, Skeleton, Zombie): Agility 2D, fight- ing 3D, Coordination 1D, Physique 2D, lifting 3D, Intellect 1D, Acumen 1D, search 3D, tracking 3D, Charisma 1D, intimidation 6D. Move: 10. Strength Damage: 2D. Body Points: 15/Wound levels: 2. Disadvantages: Employed (R3), slave to the one who raised them. Special Abilities: Hardiness (R2), +2 to damage resistance totals; Immortality (R1), cease functioning when smashed to pieces or head is cut off.

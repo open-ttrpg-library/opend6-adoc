@@ -1,1 +1,1696 @@
 = Magic
+
+This chapter covers the ability to manipulate the paranormal forces of the universe for extraordinary effects. The Magic skills are available only to characters with the Magic Extranormal attribute.
+
+Although this chapter discusses guidelines for creating magical spells, Game Masters may still include unexplainable magic. Since unexplainable magic doesn’t have to be explained — it just is — its use is out of the players’ characters’ control. Only the Game Master knows how it works.
+
+=== Obtaining Access to Magic
+
+There are only two ways for players’ characters to get magical abilities. The first is to put dice in the Magic attribute and skills at character creation, which costs the same as obtaining other attributes. The second is to obtain the Game Master’s permission after play has begun. If the player can come up with a reason for the character to learn or gain magic abilities (such as they were latent or were a gift from a supernatural being) and the Game Master agrees, then the player may purchase them for the character. The cost to get the initial 1D in Magic is 20 Character Points. After that, it is 10 times the number in front of the “D” to improve this attribute by one pip. The player must still purchase Magic skill pips separately, though a player may buy one pip in one Magic skill for the character at the same time as he initially gets the attribute after character creation.
+
+Game Masters are discouraged from allowing characters to have multiple Extranormal abilities, but it is possible, especially if the character has several Disadvantages that show up frequently in each session or the character’s religion requires experience in both magic and miracles.
+
+=== Learning & Improving Magic Skills
+
+Magic skills may be learned between adventures, like regular skills. The cost for a Magic skill, in Character Points, equals twice the normal cost for gaining or improving a normal skill. This cost is doubled again if a teacher — simply another magic user with the skill at a higher level — is not available to instruct the character. A character may learn or improve one Magic skill after each adventure.
+
+=== Magic Skills
+
+All spells require one of these skills in order to cast them. When casting a spell, the character generates a Magic skill total and tries to beat the spell’s difficulty. If the skill total equals or exceeds the difficulty, then the spell works (to a greater or lesser extent).
+
+==== Alteration
+
+Alteration governs magic involving change. Change means taking something that exists and modifying it or mutating it into something else. A magic spell used to increase a character’s Physique attribute would be an alteration spell, as would one that converts a simple flame into an exploding fireball. Alteration could enhance, reduce, or restrict a character’s existing skills.
+
+Alteration must work with things that are already there. An alteration spell can only modify existing characteristics. It could be used to change a person into a bat, but it would not give the person the ability to fly; conjuration would also be necessary to give the character the Flight Special Ability, something he didn’t have before.
+
+==== Apportation
+
+Apportation governs magic involving movement. For example, a telekinesis spell, by which a character could “grab” an object and move it using magic, would be an apportation spell. Calling a dagger from a box at home to your hand is apportation, as is teleporting yourself to another place. Apportation can also cause a person or creature to move from one place to another under its own power. Spells that restrict movement would also be apportation spells.
+
+Apportation is not conjuration — the object or the creature summoned is in existence at the time the spell is cast, the apportation spell simply “calls” the object or creature.
+
+Characters or creatures may either be apported by compulsion (and come under their own power), moved by the spell’s power, or teleported. When the apportation spell uses compulsion, the skill total is compared to the target’s mettle or Charisma in much the same way a persuasion attempt would be used — the target’s attitude toward being apported must be assessed, and the spell works as if it were “persuading” the target.
+
+For apportation spells with the speed less than the range, the target is moved by the spell’s power. The spell lifts up the target and brings her to the caster. For apportation spells with the speed equal to the range, the target is teleported. In either case, the apportation skill total has to overcome the target’s weight value. (Look up the target’s mass on the “Spell Measures” table.) The target can resist by rolling her Physique or lifting and adding it to her weight value (theoretically, she tries to make herself harder for the spell to grasp). (Resisting does not count as an action for the target character.) If the apportation total is equal to or higher than the weight value, the character is teleported. This goes for self-teleportation as well (though the character is not likely to resist).
+
+==== Conjuration
+
+Conjuration magic involves producing something from nothing. A spell that produces gold out of thin air is conjuration, as is one that imbues an inanimate object with animate features (such as creating a stone man and giving it the attributes of a person). Conjured items and characteristics remain in existence for the duration of the spell.
+
+Conjuration is used for only one purpose: creation of something out of nothing. For example, if you wanted to animate a plant and give it the power of speech, you would use conjuration — you would have to “create” in it the ability to talk and the Intellect and Acumen necessary to speak. Conjuration is not used to bring things from one place to another — that is apportation.
+
+==== Divination
+
+Divination governs magic involving obtaining knowledge. For example, scrying spells, “far-sight” spells, and “speak with the dead” types of spells are all covered by divination. Spells that block the obtaining of Intellect are also divination spells.
+
+=== Characteristics of a Spell
+
+There are eight characteristics of a spell, and the precalculated spells are formatted using these categories of information.
+
+Skill Used: The skill selected is the one necessary to cast the spell. A different one might be necessary to target or use the spell.
+
+Difficulty: The difficulty is the skill total a character must generate to get a spell to work.
+
+Effect: The effect describes the primary features of the spell (amount of damage, amount of protection, distance moved, etc.), plus the value of the effect.
+
+Duration: Duration specifies how long a spell’s effect will last. The duration is given in both “real” time (minutes, seconds, hours, etc.) and in a time value (as read on the “Spell Measures” table).
+
+Range: The maximum distance the effect travels from the magic user’s casting location is called the range. (If the magic user moves, the starting point of the range does not go with her.) In most cases, the character using the spell can only use it at this range or less. Often, the caster can choose the exact range when the effect is used. Sometimes, the character must use the spell at this range exactly. Ranges are given in meters and in distance values (as read on the “Spell Measures” table).
+
+Speed: The speed indicates how quickly the spell travels from the caster to the target.
+
+Casting Time: This aspect indicates how long the character must spend creating the spell’s effect. During the period of casting time, the character may be performing related actions (like concentrating, performing rituals, arranging components, etc.), but no other skills can be used during the casting time.
+
+Other Aspects: Other aspects of the spell encompass modifiers, including components and expanded effects, that influence the spell’s effect and adjust its difficulty.
+
+Precalculated spells also include a description, which tells what skill is needed to create the spell, what the spell does, what any success levels mean, and so on. The description may be very short, or it may include tables and precise explanations of effects.
+
+=== Using Spells & Their Effects
+
+Roll the spell skill for the spell in question to get a skill total. If the total is higher than the difficulty number, the spell has succeeded and the caster may use the spell’s effect.
+
+Which skill the spell requires is either decided when the effect is developed or listed with a precalculated spell.
+
+Remember that players may spend Character or Fate Points to make sure they have sufficiently high skill totals to cast the spell.
+
+=== Targeting or Using the Spell
+
+Many spells require separate targeting or manipulative skill totals when they are used. The most common of these are combat effects that act like weapons.
+
+If the spell focuses on a target (such as a heighten attribute or alter movement spell), the player and Game Master must decide what skill (such as marksmanship, melee combat, or throwing) to use to hit, if it’s not already built into the spell or described with it, as well as the appropriate defense, if any. (Game Masters who prefer to keep activation skills within the arcane arts could allow a separate apportation roll as the targeting skill.) Attack spells, for example, would use standard combat difficulties and modifiers for their defense (regardless of the targeting skill). Common sense should be used to determine which skill and defense to use.
+
+Example: With a fireball spell, the Game Master decides that the caster has to generate a marksmanship skill total to hit his target. Even though the fireball will go where he wants it to, there still has to be some way to determine whether or not anybody is hit by it.
+
+This keeps effects from being automatic “killers.” Granted, most spells won’t need this — a spell that a character uses to take over a target’s mind needs no “to hit” total; it is instead the effect versus the target’s mettle or Charisma.
+
+Casting a spell at the same time as using its targeting or activation skill is not considered a multi-action. However, if the character wishes to cast an attack spell, which requires a targeting skill roll, and use a sword in the same round, then the multi-action modifier of -1D (for taking two actions in the same round) is applied to the casting roll, the spell targeting roll, and the weapon targeting roll.
+
+In general, any spell that works like a weapon requires this kind of control, and a few others might. Game Masters in doubt may wish to assign a targeting skill check in addition to the spell skill difficulty.
+
+=== Backlash Option
+
+At the Game Master’s option, characters who roll a Critical Failure with an abysmally small skill total becoming disoriented and lose all of their actions in the next round.
+
+=== Strain Option
+
+As another means of controlling the use of magic, Game Masters may choose to increase the difficulty to cast spells by 1 for each spell that the character performs beyond a set number (such as five or 10) before the wizard has a chance to rest (generally, five minutes or so per spell cast prior to the break).
+
+=== Untrained Magic
+
+Characters might have spurts of inspiration in areas in which they have no training. For those who have some training (that is, pips or dice in any Magic skill), the difficulty increases by +5 to cast a spell using a skill in which they have no experience. For those who have no training (that is, no pips or dice in any Magic skill but they do have dice in the Magic attribute), the difficulty increases by +5 for all spell casting and the character must include one additional Negative Spell Total Modifier (casting time increase, gesture, community, etc.) worth two or more. This additional modifier does not reduce the difficulty of the spell, regardless of its level.
+
+=== Applying the Effect
+
+The effect is applied differently depending on its purpose. Skill Simulations: Some spells provide the character with skills or bonuses to skills or attributes. For example, a “healing” spell might give a character a certain number of dice in healing, and the result of using the spell’s skill gift would be compared to the normal difficulty for using healing on a target. Any attribute bonuses affect the skills and specializations under them, and any skill bonuses add to the specializations under them (if the character has any).
+
+Damage and Protection: The damage from any spell that causes injury is magical in nature, of course, while protective spells can defend against it. Thus, creatures and beings that are not normally affected by standard weapons can be harmed. Of course, unless the spell includes the appropriate option, nonmagical armor can protect against magically produced damage.
+
+General Effects: When the spell offers a “general” effect, and thus has no skill associated with it, the Game Master will have to make up levels of success for that spell. A minimal success, with the roll equal to the difficulty, means that the spell was slightly off or less than perfect. A solid success of one to five points over the difficulty usually gets the spell to do exactly what the caster wants the spell to do. A superior success of six points over the difficulty reveals that the spell worked better than usual; at this level, the Game Master might even provide a bonus to its use.
+
+=== Result Points
+
+Unless the spell description mentions otherwise, the result points (the difference between the spell casting roll and the spell difficulty) applies to one basic aspect of the spell. The magic user must decide which one — effect, range, or duration — before casting the spell. Add one-half of the result points as the bonus to the appropriate value and refigure the value’s measure or die code, if necessary. (Round fractions up.)
+
+=== Artifacts & Legends
+
+Every once in a while, the Game Master will come up with a spell or magical item that is either too powerful for game balance, or she doesn’t want to explain how it works for some reason. In that case, the Game Master should use the “artifacts and legends” rule. The Game Master can simply assign values and difficulties to a spell and state that the spell’s effect is “legendary” or part of an “artifact.” It only works the way it does because the Game Master says it does. She can assign any side effects, rules, or whatever to the special artifact because it is a truly special case.
+
+=== Designing the Spell
+
+As you create each spell, you will keep track of a Spell Total and a Negative Spell Total Modifier. Certain elements, like the value and the range of the effect, cause the Spell Total to go up (that is, expand the effect but making it harder to “cast”), while other elements, like gestures or a longer casting time, add to the Negative Spell Total Modifier and (in the end) make the Spell Total go down (that is, make the spell’s casting more challenging though, in the end, easier to cast).
+
+Note that Negative Spell Total Modifiers are designated within the spell design system as negative numbers to distinguish them from those modifiers added to the Spell Total. However, they add to the Negative Spell Total Modifier total, which is subtracted from the Spell Total at the end of the design.
+
+You will need a paper and pencil and an active imagination for this part, so get ready. You can find a blank Spell Design Sheet, including a worksheet to help you with the calculations, at the end of this chapter. A calculator might also help.
+
+=== Adjusting & Readjusting
+
+As you design a spell, you can always adjust any aspects you include, so that you can get the Spell Total (and the spell difficulty) that you want. So, if you decide to add charges to your wand of power after you’ve created the initial design but you don’t want the higher difficulty, you can go back and lower the range, increase the casting time, or tinker with another aspect, until you have a Spell Total you like.
+
+=== Determining the Desired Effect
+
+At this point, write out what you want the spell to do — basically. What sort of effect are you trying to create? What range will you need? Will it need charges? How long will the effect last? Consider all things along these lines. Having some general ideas up front will help you choose the values of the various aspects of your spell.
+
+=== Basic Aspects
+
+Use the Spell Worksheet to keep track of the Spell Total and all modifiers, aspects, and your own ideas.
+
+=== Starting Spell Total & Starting Negative Spell Total Modifiers
+
+Most Spell Totals begin at zero, but Game Masters who want magic less common and spells to be more difficult to cast should have a greater starting Spell Total. Negative Spell Total Modifiers always start at zero.
+
+=== Effect & Skill Used
+
+One you decide what the spell will do — damage, protection, skill bonus, and so on — determine its corresponding value using the “Die Code” table or “Spell Measures” table — or both, if the spell is intended to do more than one thing (such as create an animated golem). Here are some guidelines. Damage spells affect character health (that is, their Body Points or Wounds). To hurt someone, 6D (which you can determine, by using the “Die Code” table, has a value of 18) is a safe bet. To kill someone outright, 10D (which has a value of 30) is usually necessary.
+
+Protection spells work similarly, though, obviously, they reduce the amount of damage taken. Checking out weapon damage die codes can help you determine the number of dice you need for your spell.
+
+Both protection and damage have a visible component (such as a glowing aura) that indicates their use and, if relevant, trajectory. Spells that increase, decrease, create, or otherwise affect attributes or skills are determined the same way. For example, a spell to take over someone’s mind would give the caster a persuasion of +3D or more with a value of at least 14.
+
+Spells may not create stand-alone attributes unless they are included in something that the spell has created (such as a creature). In this case, use the same level as the stand-alone skill.
+
+Some spells’ effects are best reflected by a Special Ability or a Disadvantage. With a Special Ability, the spell effect’s value equals 3 times the Special Ability cost times the number of ranks in that Special Ability, plus the cost of any Enhancements and their ranks, minus the cost of any Limitations and their ranks. With a Disadvantage, the spell effect’s value equals the 3 times the cost of the Disadvantage. Spells generally do not provide a target with Advantages or improved Funds, but the Game Master may allow this in special circumstances, such creating a friendship spell using Contacts.
+
+Spell effects that don’t fall into any category should be given a difficulty and the circumstance in which the difficulty can be beat. The difficulty equals the effect’s value.
+
+If the spell creates something, refer to the “Spell Measures” table to determine the spell effect’s value for the desired amount of weight. Find the desired weight in kilograms, then read over to the corresponding value under the “Val.” column. Most offensive and defensive spells have a weight value of zero, but the Game Master may require exceptionally heavy-duty spells to have a larger weight value.
+
+The spell designer may choose to have certain characteristics of the spell (such as a golem’s Physique and Body Points or Wounds) be determined by the points by which the spell skill beats the spell difficulty. (Subtract the spell difficulty from the spell skill total to determine the number of points.) Any attributes figured this way have a die code equal to the points above the difficulty (minimum of 1D). Body Points equal 10 plus the points above the difficulty, while Wound levels equal the points above the difficulty, divided by 2 and rounded up (minimum of one Wound level). There is no cost for Body Points or Wound levels and the first attribute decided with this method; each additional attribute ups the Spell Total by one.
+
+A spell may contain more than one effect. Each effect is determined separately and added to the total. All of the effects must fall under the domain of the same skill. You should also list the skill used to cast the spell at this time. See the “Skills and Sample Effects” sidebar for suggestions.
+
+The minimum value for an effect is zero.
+
+Once you decide on a spell effect’s value, write it down. This is the first element of your Spell Total.
+
+==== Note on Attack & Protection Spells
+
+By default, magical and nonmagical armor can defend against attack spells. To ignore nonmagical armor, double the value to add it. Damage is either physical or mental. To do both, each kind must be purchased separately.
+
+Similarly, protection spells defend against both magical and nonmagical attacks. To be subject to one but not the other, half the value to add it (round up). The protection may be against physical or mental attacks. To resist both, each kind must be purchased separately.
+
+=== Using the Spell Measures Table
+
+To determine the value for a measure, find the amount (in seconds, kilograms, meters, or meters per second) in the “Measure” column. Then read across to the number in the “Val.” (value) column. If the desired amount is greater than one number but less than another, either lower your amount or select the bigger number. Use the “Measure Conversions” chart if you have a measure in a different unit; you would like to get it to seconds, kilograms, meters, or meters per second; and you don’t want to do the math before using the “Spell Measures” table.
+
+Example: If you want a spell to last for one hour, you look up the number of hours in the “Measure” column. This gives you an hour value of 0. To convert this to seconds, which is what is needed for the spell duration value, add 18 to the hour value (which, in this case, is 0). If you look up the corresponding measure for 18, you’ll see that it’s 4,000, which is close enough to the number of seconds in one hour (that is, 3,600 seconds).
+
+*Die Codes*
+
+Values are cumulative, so, if the spell effect has a die code of 3D+1, the spell effect’s value is 10. The type of characteristic the spell affects also modifies the spell effect’s value. Round up fractions.
+
+*Die Code*
+
+*Value*
+
+1 pip
+
+1
+
+2 pips
+
+2
+
+1 die
+
+3 per whole die
+
+*Characteristic Type*
+
+*Value Multiplier*
+
+Stand-alone stun damage (physical only)
+
+0.75
+
+Stand-alone damage*
+
+1
+
+Stand-alone protection*
+
+1
+
+Protection or damage modifier*
+
+1.5
+
+Stand-alone die code or non-Extranormal skill
+
+1
+
+Non-Extranormal skill modifier
+
+1.5
+
+Stand-alone non-Extranormal attribute
+
+1.5
+
+Non-Extranormal attribute modifier
+
+2
+
+Stand-alone Extranormal skill
+
+2
+
+Extranormal skill modifier
+
+2.5
+
+Extranormal attribute modifier
+
+3
+
+*To protect against or do damage as both mental and physical, each type, purchase each one separately. Note: To have damage ignore non-magical armor, add 0.5 to the value multiplier listed. To have protection against either magical or non-magical attacks (but not both), subtract 0.5 from the value multiplier listed.
+
+*Spell Measures*
+
+*Val.*
+
+*Measure*
+
+*Val.*
+
+*Measure*
+
+*Val.*
+
+*Measure*
+
+0
+
+1
+
+35
+
+10 million
+
+70
+
+100 trillion
+
+1
+
+1.5
+
+36
+
+15 million
+
+71
+
+150 trillion
+
+2
+
+2.5
+
+37
+
+25 million
+
+72
+
+250 trillion
+
+3
+
+3.5
+
+38
+
+40 million
+
+73
+
+400 trillion
+
+4
+
+5
+
+39
+
+60 million
+
+74
+
+600 trillion
+
+5
+
+10
+
+40
+
+100 million
+
+75
+
+1 quadrillion
+
+6
+
+15
+
+41
+
+150 million
+
+76
+
+1.5 quadrillion
+
+7
+
+25
+
+42
+
+250 million
+
+77
+
+2.5 quadrillion
+
+8
+
+40
+
+43
+
+400 million
+
+78
+
+4 quadrillion
+
+9
+
+60
+
+44
+
+600 million
+
+79
+
+6 quadrillion
+
+10
+
+100
+
+45
+
+1 billion
+
+80
+
+10 quadrillion
+
+11
+
+150
+
+46
+
+1.5 billion
+
+81
+
+15 quadrillion
+
+12
+
+250
+
+47
+
+2.5 billion
+
+82
+
+25 quadrillion
+
+13
+
+400
+
+48
+
+4 billion
+
+83
+
+40 quadrillion
+
+14
+
+600
+
+49
+
+6 billion
+
+84
+
+60 quadrillion
+
+15
+
+1000
+
+50
+
+10 billion
+
+85
+
+100 quadrillion
+
+16
+
+1500
+
+51
+
+15 billion
+
+86
+
+150 quadrillion
+
+17
+
+2500
+
+52
+
+25 billion
+
+87
+
+250 quadrillion
+
+18
+
+4000
+
+53
+
+40 billion
+
+88
+
+400 quadrillion
+
+19
+
+6000
+
+54
+
+60 billion
+
+89
+
+600 quadrillion
+
+20
+
+10000
+
+55
+
+100 billion
+
+90
+
+1 quintillion
+
+21
+
+15000
+
+56
+
+150 billion
+
+91
+
+1.5 quintillion
+
+22
+
+25000
+
+57
+
+250 billion
+
+92
+
+2.5 quintillion
+
+23
+
+40000
+
+58
+
+400 billion
+
+93
+
+4 quintillion
+
+24
+
+60000
+
+59
+
+600 billion
+
+94
+
+6 quintillion
+
+25
+
+100000
+
+60
+
+1 trillion
+
+95
+
+10 quintillion
+
+26
+
+150000
+
+61
+
+1.5 trillion
+
+96
+
+15 quintillion
+
+27
+
+250000
+
+62
+
+2.5 trillion
+
+97
+
+25 quintillion
+
+28
+
+400000
+
+63
+
+4 trillion
+
+98
+
+40 quintillion
+
+29
+
+600000
+
+64
+
+6 trillion
+
+99
+
+60 quintillion
+
+30
+
+1 million
+
+65
+
+10 trillion
+
+100
+
+100 quintillion
+
+31
+
+1.5 million
+
+66
+
+15 trillion
+
+32
+
+2.5 million
+
+67
+
+25 trillion
+
+33
+
+4 million
+
+68
+
+40 trillion
+
+34
+
+6 million
+
+69
+
+60 trillion
+
+*Benchmarks*
+
+*Value*
+
+*Time*
+
+*Weight*
+
+*Distance*
+
+0
+
+Second
+
+1 kilo
+
+1 meter
+
+1
+
+Great horned owl
+
+War horse height
+
+2
+
+Large goose
+
+Tallest Human
+
+3
+
+Human baby
+
+Large wagon
+
+4
+
+Round
+
+Small armadillo
+
+6
+
+Sea turtle
+
+Small sailing ship
+
+7
+
+Small tree
+
+Caravel sailing ship
+
+8
+
+Medium dog
+
+Galleon
+
+9
+
+Minute
+
+Deer
+
+Large longship
+
+10
+
+Human male
+
+Javelin throw
+
+11
+
+Lion
+
+Great Pyramid height
+
+12
+
+Brown bear
+
+Great Pyramid base
+
+13
+
+Alligator
+
+Long bow flight
+
+14
+
+War horse
+
+Trebuchet range
+
+15
+
+Small rhino
+
+Kilometer
+
+16
+
+Giraffe
+
+Mile
+
+17
+
+Medium squid
+
+18
+
+Hour
+
+Hippopotamus
+
+19
+
+Medium elephant
+
+Chariot race
+
+20
+
+Large orca
+
+22
+
+Medium dragon
+
+Day’s march
+
+23
+
+Caravel ship
+
+Marathon race
+
+25
+
+Day
+
+Blue whale
+
+Day’s travel for a dispatch rider
+
+26
+
+British naval cutter
+
+27
+
+Galleon cargo cap.
+
+Athens to Sparta
+
+28
+
+Galleon
+
+29
+
+Week
+
+Colossus of Rhodes
+
+30
+
+2-story building
+
+Length of Great Britain
+
+32
+
+Month
+
+10-meter boulder
+
+Paris to Constantinople
+
+38
+
+Year
+
+Medium cathedral
+
+Circumference of Earth
+
+43
+
+Orbit of Moon
+
+49
+
+Great Pyramid
+
+*Measure Conversions*
+
+Add the value modifier to the measure’s value to determine what it is in seconds, meters per second, meters, or kilograms, as appropriate to the conversion.
+
+*Measure is in units of*
+
+*Value Modifier*
+
+Seconds
+
+0
+
+Minutes
+
+9
+
+Hours
+
+18
+
+Days
+
+25
+
+Weeks
+
+29
+
+Months
+
+32
+
+Years
+
+38
+
+*Measure is in units of*
+
+*Value Modifier*
+
+Meters per second
+
+0
+
+Miles per hour
+
+2
+
+Kilometers per hour
+
+1
+
+Meters
+
+0
+
+Feet
+
+-3
+
+Kilometers
+
+15
+
+Miles
+
+16
+
+Kilograms
+
+0
+
+Pounds
+
+-2
+
+Tons
+
+15
+
+== Skills & Sample Effects
+
+Here are some typical effects associated with each of the Magic skills.
+
+Alteration: modifier to a skill or attribute; additional levels of a Special Ability the target already has; new Limitations or Enhancements on an existing Special Ability; damage modifier; Armor Value modifier; transmutation. Spells may not directly affect movement skills.
+
+Apportation: weight of material moved; distance moved; speed at which target moves; modifiers to movement skills and Move.
+
+Conjuration: amount of material created; new or standalone skills or attributes (skills or attributes that do not modify an existing skill or attribute); new Disadvantages; new Special Abilities; skills and attributes included in conjured items; damage or protection not based on an existing value. Divination: time in the past or future; stand-alone investigation, search, or tracking skills to discern specific information.
+
+== Range
+
+Determine how far away you want the caster to be able to affect things with the spell. Then read the measurement (in meters) on the “Spell Measures” table to get a range value. Add the value to your Spell Total.
+
+Unless otherwise specified, the mage can use the spell (or its effect, if the spell was charged into an object) to target anywhere within that range. The caster can aim at a spot or something mobile (such as a person or a carriage). If the caster hits a moving target within the range of the effect, and the target leaves the range of the spell before it ends, the effect disappears (unless you use the focus optional aspect, described herein). Even if the target comes back into range within the spell’s duration, the spell has to be created again. For purposes of determining the range modifier with ranges longer than 20 meters, consider anything from three meters up to one-third of the range to be Short range, anything from one-third to two-thirds to be Medium range, and anything from two-thirds to the full range to be Long range. (Round fractions up.) For ranges of 20 meters or less, distances from three meters to the full range are Short range.
+
+Example: A spell has a range of 40 meters, which translates to a Short range of 3 to 14, Medium of 14 to 27, and Long of 27 to 40. For apportation spells, range indicates either how far away the target is or how far a target may be sent. If the latter, the target must be no more than one meter from the caster.
+
+== Speed
+
+Speed determines how fast the spell gets from the caster to the target. First, look at the range value (above). That is the maximum distance the effect travels. If you select a speed value equal to the range value, then the spell’s effect travels from the caster to the target in one second, because the speed’s unit of measure is meters per second.
+
+You can select a lower speed value. Its corresponding measure indicates how quickly the spell’s effect moves.
+
+To see how long it takes the effect to reach a given target, subtract the speed value from the range value to the target (not the range value of the spell). Read the result as a value on the “Spell Measures” table. The measurement is the number of seconds it takes for the spell’s effect to go from the caster to the target.
+
+Example: A player decides the range value of his new spell is an incredible 30 (one million meters, or 1,000 kilometers). She makes the speed value, however, only 20 (10,000 meters per second, or 10 kilometers per second). The target is 400 kilometers away (a value of 28). The range of 28 minus the speed of 20 gives a result of 8. Reading this on the “Spell Measures” chart reveals that it takes 40 seconds (eight rounds) for the effect to reach the target.
+
+Sometimes, you’ll use a lower speed to keep the Spell Total lower. However, quite often, especially with attack spells, you’ll need that instantaneous effect. If you build an attack spell with a lower speed, you have to be aware that the spell will be less accurate — that is, the target will be able to get out of the way much easier.
+
+The difference between the speed value and the range value of the target is added to the target’s defense value or combat difficulty when getting out of the way of a slow attack. So, in the previous example, not only would it take a value of 8 (40 seconds) to reach the target, the target would get a bonus of +8 to dodge on the round that the spell’s effect reaches the area where the caster guessed the target would be at that time.
+
+A higher speed value than the range value provides no benefit. Add the speed value onto the Spell Total and keep going.
+
+== Duration
+
+Duration indicates how long the effect lasts or continues to act upon a target. To determine how long the duration is, find the time value on the “Spell Measures” table and add it to the Spell Total. List the time measure with the spell, leaving it as seconds or converting it to rounds, minutes, hours, or whatever.
+
+The minimum duration for any spell is one second (or zero value). Since the duration begins from the moment the spell is cast, the duration may have to be quite long, especially if it takes a while for the spell to travel to its target (determined by a lower speed value than its range value; see the pervious section).
+
+== Effects & Their Durations
+
+Magic is not a science based on observations of the natural world. It is an art based on intervening in natural laws. Magical effects create a reality that temporarily supersede the local laws of physics. When the magic wears off, the natural laws resume. In order for there to be a permanent effect, the altered reality has to stick around long enough for the natural laws to take over. As it is much easier to destroy something than to construct it, damage is instantly permanent while a conjured item usually disappears when the spell’s duration ends. Thus, many spells, especially combat spells, may have the minimum duration because their effects are permanent.
+
+Generally, once a natural process begins to break down the conjured or altered item, then the magic can return control of the reality to the local natural laws and the conjured or altered item will not return to its state before being affected by magic. Similarly, if it would require more work for nature to revert an altered item (such as closing an opened door or lock), then reality concedes the spell’s effect and allows it to continue past the spell’s duration.
+
+== Casting Time
+
+The last of the mandatory elements is casting time. This is the time the character must spend preparing the spell and performing any optional aspects (such as rituals, concentration, and so forth). This time must be spent every time the character casts the spell. The casting time for a spell cannot be rushed. A magic user may perform no other actions while casting a spell, unless the cast time is three seconds (value of 3) or less.
+
+The minimum casting time is zero (one second). Unlike the other mandatory elements, casting time falls under the Negative Spell Total Modifiers.
+
+Some Notes Regarding Casting Time: For a noncombat spell, or for a spell that will be built with charges (see the charges optional aspect), high casting times are good. The character can spend some time during or between adventures preparing and casting the spell and then release it using an activation.
+
+If a character attempts to cast a spell over several days or several weeks, the physical and mental strain will take their toll on the magic user. When performing a lengthy ritual, the caster must make a stamina roll against a difficulty of 5 increased by +2 for each day the character continues the casting time past the first day. The Game Master may have the character roll each day, or once at the end. Failure of a stamina roll means that the character could not maintain the ritual or concentration, and the casting of the spell fails.
+
+== Summary
+
+To this point, you have created a basic spell. It has a set effect, a set duration, and a set casting time. It may be used at any range up to the maximum and can only affect one specific target (person, tree, carriage, spot of ground, etc.). There are no other controls or modifications.
+
+If you don’t wish to go any further, add the Negative Spell Total Modifiers to the Spell Total and then divide the total by 2, rounding up. This is the difficulty to cast the spell. See “Final Spell Total” later in this chapter for restrictions on the Spell Total. Then decide which Magic skill is necessary to cast the spell. Write these last few things on the Spell Worksheet, and you’re done.
+
+Of course, there’s so much else you can do with the spell …
+
+== Optional Aspects
+
+The caster may not care about having any options, but without optional aspects, the spell is pretty limited. With every optional aspect, the caster must define exactly what that particular spell calls for.
+
+For those optional aspects that include a special roll (such as certain levels of gestures or incantations), the roll is made at the end of the casting time and it does not count as a multi-action, though the roll must be modified if the magic user is attempting some other, non-casting-related action in the round.
+
+== Area Effect
+
+The effect of the spell travels out from a target. Add the area effect modifier to the Spell Total.
+
+Adjust the effect by -1 (pip, point of damage, etc.) per full meter for characters outside of ground zero (within a half-meter of the target). Compare the targeting roll of spell against the defense total of characters not at ground zero; those who have a defense total greater than the targeting roll managed to dive for cover or protect themselves from the effect.
+
+Example: A spell with a damaging effect and an area effect with a four-meter radius would do the full damage to between zero and one-half meter from the target, one point less to characters between one-half and one meter, two points less to characters between one and two meters, and so on.
+
+Two-dimensional circle (a few centimeters thick): +1 per halfmeter radius.
+
+Three-dimensional sphere (for explosions and 3D illusions): +5 per meter radius and +1 bonus to hit one target (bonus is applied to the same target).
+
+One alternate shape: +1 to area effect modifier.
+
+Several alternate shapes (specific one chosen at time of casting): +3 to area effect modifier.
+
+Fluid shape (shape may change any time during spell’s duration): +6 to area effect modifier.
+
+== Change Target
+
+The caster can move the spell’s effect to a new target. Add the change target modifier to the Spell Total.
+
+Only spells with durations of 2.5 seconds or longer may include this modifier. Changing a target requires a new targeting roll and, if done within the same round as the first targeting roll, incurs a multi-action penalty. If the old target moves out of range before a new one is acquired, the spell ends.
+
+Change target: +5 per target (including first).
+
+Change target with multi-target (multi-target aspect purchased separately): the change target modifier applies to each multitarget (ex., three change targets with four multi-targets is +60, or +5 times 3 changes times 4 targets).
+
+== Charges
+
+The caster fixes the spell in his mind or in an object or another person. Add the charges modifier (see below for determining it) to the Spell Total.
+
+The caster need spend the time to cast the spell only once, but if there is a targeting or activation skill or requirement, then this must be done each time. The charge goes off in the round it was activated. Charges: Look up the number of charges as a measure on the “Spell Measures” table; the corresponding value is the cost of putting the charges in. (Round fractional measures down; minimum value of 1.)
+
+Wards: If the charge is activated by a certain set of situations (specified at spell casting) — such as a phrase, a condition, or a time limit — then the charge costs an additional 10% (round up). Should a specific skill be able to circumvent the ward, the reduction equals -1 for a difficulty of 20 and an additional -1 for each one point below the starting difficulty. (So a difficulty of 15 gives a reduction of -6.) Only spells that have a speed less than the range (and therefore take at least one round before the effect occurs) may include wards that skills can circumvent.
+
+Example: A magic user decides to give his mystic bolt spell five charges. This has a value of 4, which is the charge modifier. Should the mage decide to charge a door frame with the spell, requiring that anyone who passes through the door sets off the spell, the charge modifier becomes 5.
+
+== Community
+
+The spell requires helpers in order for it to be cast. Use the accompanying tables to determine the amount to add to the Negative Spell Total Modifiers.
+
+The number of helpers determines the basic community modifier. The “Number of Helpers” is a range of helpers the character has assisting him. The character must specify when the spell is created exactly how many helpers are necessary (along with what they must do and any skills associated with those actions). The tasks must be reasonable and appropriate to the spell’s effect.
+
+The participation of the helpers is determined by what the helper actually has to do during the casting time. Decide how much help the helpers lend (that is, how difficult their tasks are), and multiply the community modifier by the corresponding participation multiplier. The participants must be able to perform the tasks within the casting time.
+
+The character creating the spell must declare what type of actions the helpers must perform. Simple actions include readying components, chanting mantras, passing tools, and so on. A participation level with a difficulty means that the helpers actually have to execute some sort of complex action during the casting — perform a sacrifice, dance (and make an acrobatics skill roll), or whatever. Different helpers can be doing different things of the same difficulty for this purpose. Multiple groups of helpers might be performing different levels of actions, for multiple community multipliers.
+
+Example: A magic user casts a spell to summon a spirit. There might be two communities involved. The minor apprentice members of his guild (a group of 31) might be chanting (a simple action). This gives a community modifier of 4 (8 times 0.5), while a cadre of four senior apprentices perform the sacrifice of a lamb (difficulty 11), for a modifier of 2 times 1, or 2. These are two separate modifiers worth 4 and 2 respectively, or a total of 6.
+
+When the magic user finishes the casting time of a communityaided spell, the Game Master generates a skill total for any communities involved (when necessary). The skill of the community should be fairly average, unless the Game Master has reason to think differently (the minor apprentices, above, would probably have artist skills of around 2D+2, while the priests might have melee combat skill of 3D or so).
+
+Add the difficulty modifier to the difficulty to determine the chance of having the entire group succeed (in a mass skill total). So, if the 31 minor apprentices in the above example had to generate a artist: chanting total of 11 (because they had to chant a long string of words correctly) using their average skill level (2D+2), the actual difficulty would be 22 (11 + 14). For this reason, it is best if large groups only participate by performing simple actions.
+
+If the group is a small one (under six), or if the community role is being performed by players’ characters or specific Game Master-controlled characters, however, the skill totals can be made separately. No difficulty modifier should be added to the community difficulty when the skill totals are figured separately. If any community group or member of a community fails in his skill total, the entire spell does not work.
+
+Character Points and Fate Points may only be spent from individual character pools on their own rolls. They may not be spent on “group” rolls.
+
+The “Community” table is based on the “Spell Measures” table, so you can extend the modifiers accordingly. To get the difficulty modifier, multiply the “base modifier” by 2 and subtract 2 from that. Example: A spell that use 1,000 apprentices would yield a bonus of +15. The difficulty modifier would be +28 (15 x 2 = 30 -2 = 28).
+
+== Components
+
+The spell requires one or more items or needs to be done in a certain location in order for the effect to go off. The items or location should be representative of the spell’s effect. Use the accompanying table to determine the amount to add to the Negative Spell Total Modifiers.
+
+*Components*
+
+*Component is …*
+
+*Modifier*
+
+Ordinary, easily obtained (rock, dirt, tree branch)
+
+-1
+
+Very common, easily purchased or traded for (match, wooden board, candle)
+
+-2
+
+Common, but must be purchased for reasonable cost (flint and steel, inexpensive clothing, oil, incense)
+
+-3
+
+Uncommon (rare in some places, common in others) (certain types of food or cloth)
+
+-4
+
+Very rare (rare in most places or expensive) (valuable gem, precious metal, rare spice, exotic herb)
+
+-5
+
+Extremely rare (near-priceless gem, orichaleum, plutonium)
+
+-6
+
+Unique (a particular king’s burial garments)
+
+-7
+
+Destroyed in casting or at end of spell’s duration
+
+x2
+
+*Number of Components*
+
+*Multiplier**
+
+1–3
+
+1
+
+4–6
+
+0.75
+
+7 or more
+
+0.5
+
+*Multiply the total component modifier by this value and round up.
+
+== Concentration
+
+The caster needs to devote his complete attention to the creation of the spell in order for it to work. The length of concentration must be equal to or less than the casting time. The minimum concentration time is 1.5 seconds.
+
+Concentration: Use the “Spell Measures” table to determine the corresponding value for the concentration time measure; divide this value by 3 (round up) to determine the amount to add to the Negative Spell Total Modifiers. Add the concentration modifier to 6 to get the mettle difficulty, which the character rolls at the end of the concentration time. If the character fails the mettle roll, the spell fails. A Critical Failure on the mettle roll indicates that the caster takes any feedback associated with the spell, even though it didn’t work.
+
+*Concentration Distractions*
+
+*Level of Distraction*
+
+*Modifier**
+
+Completely isolated chamber
+
+0
+
+Isolated, but some distractions (trees, birds chirping, pictures)
+
+2
+
+On a fairly deserted street, with a few passers-by
+
+6
+
+In a room with a few other people who are being quiet
+
+8
+
+Alone in a booth at a sparsely filled tavern
+
+10
+
+Alone at a table in the middle of a sparsely filled tavern
+
+14
+
+Alone at a booth in a busy tavern
+
+16
+
+At a tavern booth with a few other people who are being quiet
+
+18
+
+Packed tavern
+
+20
+
+* Modifier to mettle difficulty.
+
+== Countenance
+
+The caster’s body changes in response to the use of magic. Some go pale or even blue with a lack of blood flow to their skin, others shake uncontrollably or foam at the mouth, still others get bulging eyes or swollen lolling tongues. This alteration in appearance lasts until the end of the spell’s duration. Use the accompanying tables to determine the amount to add to the Negative Spell Total Modifiers.
+
+Nothing unreal can happen here: no glowing eyes, no flames from nostrils, no unearthly aura, except as a psychic illusion that only the target can see. The drawback to an illusory change is that, no matter what the victim’s perceptions and predispositions were before the fact, after the image is seen, the victim is forever firmly convinced that the caster is an inhuman monster. Only those already endowed with a psychic or magic ability are capable of accepting that image for what it truly is. Psychic illusions may be used only with living targets.
+
+*Countenance*
+
+*Change in Appearance*
+
+*Modifier*
+
+Noticeable (gray pallor, foaming)
+
+-1
+
+Extreme (convulsions, psychic image)
+
+-2
+
+== Feedback
+
+The magic user lowers her resistance to taking damage when she casts the spell. This damage may not be defended by armor, Special Abilities, other spells, or any other means. It may only be healed by natural means (such as resting or sufficient food).
+
+Feedback: -1 to the Negative Spell Total Modifiers for each -1 to the damage resistance total. The damage resistance modifier dissipates at a rate of one-half of a roll of the character’s Physique per day, with the decrease occurring at the beginning of a new day.
+
+== Focused
+
+When a spell is “focused” on a target, it stays with the target until the duration has ended. Add the focused modifier to the Spell Total. The range of the spell, then, only determines how far away the target can be from the caster. Damage spells that are focused on a target do the same damage each round.
+
+Focused: (value of effect + value of duration)/5, round down, minimum of +1, per target.
+
+Example: A spell’s effect is 5D in damage, so the effect has a value of 15, and the spell has a duration of 10 seconds (two rounds), so the duration has a value of 5. The cost of the focused optional aspect is (15 + 5)/5, or +4.
+
+== Gesture
+
+The caster, a charge, or a ward requires that a gesture be made so that the spell will work. Use the accompanying tables to determine the modifier to the Spell Total. If there is a difficulty listed, the character must make an acrobatics or sleight of hand roll against that difficulty at the end of the casting time.
+
+*Gesture*
+
+*Complexity*
+
+*Modifier*
+
+Simple (point finger, toss herbs, flip switch)
+
+-1
+
+Fairly simple (make circles with finger)
+
+-2
+
+Complex (action difficulty 11)
+
+-3
+
+Very complex (action difficulty 15)
+
+-4
+
+Extremely complex (action difficulty 19)
+
+-5
+
+Challenging and extremely complex (action difficulty 23)
+
+-6
+
+Also will offend most seeing it
+
+-1
+
+== Incantation
+
+The caster, a charge, or a ward requires that a word or phrase be said so that the spell will work. Use the accompanying tables to determine the modifier to the Spell Total. If there is a difficulty listed, the character must make an artist or persuasion roll against that difficulty at the end of the casting time.
+
+*Incantation*
+
+*Complexity*
+
+*Modifier*
+
+A few words or sounds
+
+-1
+
+A complete sentence or lengthy phrase
+
+-2
+
+A complex incantation (action difficulty 11)
+
+-3
+
+Litany (action difficulty 15)
+
+-4
+
+Complex formula (action difficulty 19)
+
+-5
+
+Extensive, complex elements (action difficulty 23)
+
+-6
+
+Also in a foreign tongue and character must have one pip in that speaking specialization
+
+-1
+
+Also must say it very loudly
+
+-1
+
+Also will offend most hearing it
+
+-1
+
+== Multiple Targets
+
+The caster can place the exact same spell on more than one target (but not the same target multiple times) without having to cast the spell separately for each target. Add the multiple targets modifier to the Spell Total. Each target must be within the spell’s range. If a targeting skill roll is required by the spell, using it on multiple targets is not considered a multi-action. If the difficulties to hit each target are within three points of each other, the caster need roll only once. If it’s greater than this, each target requires a separate targeting roll.
+
+Multi-target: +3 per target (including first target; ex., three targets is +9).
+
+Multi-target with area effect modifier (area effect aspect purchased separately): +6 per target (including first target; ex., three targets is +18).
+
+== Unreal Effect
+
+When a caster adds this optional aspect to a spell, it causes the effect of the spell to be illusory. The effects are not real — they are just perceived as real. The special effect is automatically believed unless a target or an observer actually states otherwise. Then, depending on the disbelief difficulty (see the accompanying table), the illusion may lose all of its effects. The easier an illusion is to disbelieve, the more the modifier is worth (the “Modifier Multiplier”).
+
+Since the effect is what is being tampered with, the spell effect’s value directly controls how much the modifier can be worth. Start with the spell effect’s value, determined way back in “Effect & Skill Used.” Then, when you decide how hard it is for a character to disbelieve the illusion, multiply the effect’s value by the modifier multiplier. Round up. The resulting number is added to the Negative Spell Total Modifiers.
+
+Example: You decide that your fireball with a damage of 10D, which has a value of 30, is an illusionary effect with a disbelief difficulty of 0. You multiply 30 by the Modifier Multiple of 0.75 for a result of 22.5 (rounds up to 23).
+
+The guidelines for disbelief are as follows:
+
+• Any player’s character can disbelieve at any time he sees a spell’s effect occur but, if the effect was used during a conflict round, this counts as an action.
+
+• Game Master characters should only disbelieve when the gamemaster thinks it is appropriate, or when the character using the spell uses it quite often (and effectively).
+
+• When a character disbelieves, he generates a Acumen or investigation total. If the total is equal to or higher than the disbelief difficulty, he is successful. The spell has no affect on him whatsoever — it does not disappear, but any effects it had do not apply to him.
+
+• If a character is encouraged to disbelieve by another character who has successfully disbelieved (and who he trusts or who can persuade him), he gains +4 to his Acumen or investigation total.
+
+• A character who has disbelieved a spell will not believe in the effect later if it comes from the same source in the same way (i.e., if the character disbelieves the effect of a particular wand of power, that wand of power will never be effective against him again, but he may or may not believe in other magical wands).
+
+• The character who uses or creates the spell knows it is an illusion and can never be influenced by its effect.
+
+• The Game Master can, and should, apply difficulty modifiers to the disbelief difficulty based on how believable (or ridiculous) the spell seems to be.
+
+• In the event a character takes damage or suffers some sort of debilitating effect from an illusion that would, logically, disappear after he disbelieves the illusion, it does.
+
+Example: If a character falls into a “trap” and takes damage from falling, and then finds out the whole pit was an illusion, he’ll be healthy. But, a character who is “killed” by an illusion is dead unless another character, who does not believe the illusion can, first, perform a healing total equal to 21 and then, second, help him disbelieve the illusion. This has to be done within a number of hours equal to three times the character’s Acumen attribute — otherwise, he slips into an irreversible coma and dies.
+
+Warning: Do not overuse this modifier. Once the players are clued into what the Game Master is doing, she’ll never get another illusionary spell through on them. The best way to use this is to have a nasty Game Master character mage research a number of spells two ways, as both “real” effect and “unreal.” He then casts the illusionary versions (with the lower difficulty number) until someone figures out they’re not real. Then, just for fun, he switches. Imagine the look on the player’s faces when their characters charge through the “illusionary” wall of fiery death and find out it’s a bit more substantial than they first thought. It’ll drive them nuts.
+
+There are a few things to remember when casting unreal effects. The spell does not affect the caster. He knows it’s illusionary. So a character can’t make an unreal bridge over a ravine and walk across it. Using the same example, if someone other than the caster believed in the bridge, they could walk across it, maybe. They would unconsciously use any means at their disposal to cross the chasm without realizing it. If they couldn’t locate a way, they would find some reason that they could not cross the bridge. An illusionary bridge doesn’t allow people to walk on air, nor can it cause people to jump off a cliff and die without realizing it.
+
+*Unreal Effect*
+
+*Disbelief Difficulty*
+
+*Modifier Multiplier*
+
+0
+
+0.75
+
+9
+
+0.5
+
+13
+
+0.25
+
+== Variable Duration
+
+The caster may turn on and off the spell as many times as desired before the duration expires. Add the variable duration modifier to the Spell Total.
+
+The duration lasts from the time the spell is cast until the duration time is up, regardless of the number of times or how long the spell is turned on or off.
+
+Off-only: +4.
+
+On/off switch: +8.
+
+Extended duration (separate from off-only and switch; extended duration time measure — not value — added at spell casting if desired): For every +1 of extended duration, the time may be increased by the equivalent measure for that number of points. For example, +1 allows the caster to extend the duration by 1.5 seconds, while +9 allows a duration extension of 60 seconds.
+
+== Variable Effect
+
+The caster may change the amount of the spell’s effect when he casts the spell. Add the variable effect modifier to the Spell Total. Raising and lowering the effect’s amount (die code or bonus) add to the Spell Total separately. Be sure to specify in the spell’s description the maximum or minimum effect. If the spell has multiple effects, each variable effect must be purchased separately for each effect (though not all effects need have the same variable effect aspect, if they have it at all).
+
+Variable effect: +1 for every pip or point per direction per effect. (There are three pips in one die.)
+
+== Variable Movement
+
+The caster can control the movement of the spell’s effect. Add the variable movement modifier to the Spell Total.
+
+Accuracy bonus: +2 for each +1 bonus to the targeting skill total.
+
+Bending: +1 to bend around obstacles smaller than the target; +3 to bend around obstacles the same size or smaller than the target; +4 to use the effect to find a target the caster can’t see (though the spell may no affect the target); +5 to send the spell after a target the caster can’t see, although the caster gets a +4D (+12) modifier to the targeting difficulty.
+
+Movement of effect: To move a spell associated with a target (such as a flight or telekinesis spell), or to make an otherwise stationary effect move (such as an illusion), the spell needs this optional aspect. Determine the desired speed measure (in meters per second) and its corresponding value on the “Spell Measures” table and add 1 to it; this is the cost of the movement of effect aspect.
+
+== Other Alterants
+
+A spell might involve an expansion of its effect not related to one of the other aspects presented herein. Use the accompanying table to decide how much the alterant changes the spell and add the related modifier to the Spell Total.
+
+*Other Alterants*
+
+*Amount of Improvement*
+
+*Modifier*
+
+Small (adding flavor or a scent)
+
+1
+
+Moderate (+1 to required activation skill, giving a golem features)
+
+2
+
+Significant (giving manipulative fingers to tendrils)
+
+3
+
+Incredible (conjuring a small animal)
+
++4 or more
+
+== Other Conditions
+
+There might be other circumstances the spell requires in order to work. Compare the condition concept to the accompanying table to determine the amount to add to the Negative Spell Total Modifiers.
+
+*Other Conditions*
+
+*Condition*
+
+*Modifier*
+
+The condition can be fulfilled most of the time or with simple preparations, or requires a skill roll of difficulty 9
+
+-1
+
+The condition is not met normally, or at least without some preparation, or requires a skill roll of difficulty 10–11
+
+-2
+
+The condition is out of the caster’s control, but is fairly frequent, or the condition requires a skill roll of difficulty 12–13, or the caster has to go to elaborate lengths to meet the condition
+
+-3
+
+The condition occurs very infrequently, or is very hard for the caster to obtain, or requires a skill roll of difficulty 14–16
+
+-4
+
+The condition will not occur without the caster taking elaborate measures, or requires a skill roll of difficulty 17–19
+
+-5
+
+The condition is rare and almost totally (or totally) out of the caster’s control, or requires a skill roll of difficulty 20 or more
+
+-6
+
+== Final Spell Total & Spell Difficulty
+
+Once you have determined all of the factors involved with casting the spell, add the Negative Spell Total Modifiers to the Spell Total to get the Final Spell Total. Then divide the Final Spell Total by 2, rounding up. This is the difficulty the caster must meet or beat with the appropriate Magic skill.
+
+== Minimum Spell Total
+
+Negative Spell Total modifiers may not reduce the positive Spell Total to lower than 20 for most spells, making the spell difficulty no less than 10.
+
+== Cantrips
+
+Cantrips, also known as glamours, are small, simple, everyday spells. They may have maximum Final Spell Totals of 10 and minimum difficulties of 2. Their duration values must be 9 (one minute) or less and their casting values must be 4 (one round) or less. Cantrips may not have the following optional aspects: change target, charges, community, focused, or variable effect. Components may only be of the ordinary, very common, or common variety, though, if the player can make a good case for it, the Game Master may allow a component of a higher level that is not destroyed to be used (such as a personal staff or ring). Gestures and incantations may offer no more than a -2 modifier each, and no cantrip may have more than one of each. Modifiers from “other conditions” may offer no more than a -2 adjustment.
+
+== Design Time
+
+A player who learns this magic system can probably come up with a basic spell in a matter of minutes. The Game Master can review it quickly, and it can be used right away.
+
+Well, not exactly. The character has to spend time working out the spell, too. He has to experiment, do trial and error, and come up with the effect — or risk blowing himself up. The amount of time it takes to design a spell has nothing to do with the amount of time it takes to cast it.
+
+To figure out the base design time, look up the spell difficulty in the “Val.” column of the “Spell Measures” table. Read across to the “Measures” column to determine the number of seconds that the spell takes to design. (Divide this number by 5 to get the number of rounds, or 60 to get the number of minutes, or 3,600 to get the number of hours.) Design times of less than five seconds round up to five seconds. The character may rush the design, but this increases the difficulty (not the Final Spell Total) of casting the spell. The minimum design time that may be rushed is 10 seconds. The difficulty increases depending on how much less time the character puts into the task: +5 for 25% less time, +10 for 50% less time, and +20 for 75% less time. A character may not perform any task in less than 75% of the normally needed time. Thus, to rush an hour-long design time into 30 minutes, the difficulty increases by +10.
+
+Taking any other actions while designing the spell increases the amount of time to make it. Usually, it takes twice as long, but Game Masters should adjust this up or down, depending on the circumstances of the distraction.
+
+Characters remaking a spell they previously designed or working from spell in a book or on a scroll can cut their time in half, though the design time minimum of five seconds still applies.
+
+There is no roll to design a spell, though there certainly could be an adventure in finding the right components or the perfect location to cast the spell.
+
+== Starting Spells
+
+By default, a character may start with any number of spells, though some require more effort and components than others to cast. Some Game Masters may wish to restrict the number of starting spells to ones that the magic user has specifically “learned.” The more that magic abounds in the setting, the more the novice user should have, but three spells per skill per full die in it would generally serves most settings.
+
+== Scrivened Spells
+
+Scrivened spells are spells triggered by reading them. Most commonly written on a single sheet of paper or parchment, any surface will do.
+
+Almost any spell that doesn’t involve charges, a ward, or a component that’s enhanced because of the spell (such as deadly dart or mystical shield) may be set down as a scrivened spell. They are usable once by anyone who reads the spell, even those with no magical ability. The scrivened spell scribe performs all of the requisite aspects; the spell releaser is bound by the skill required to use the spell (such as a targeting skill) and most of its aspects, except casting time, community, concentration, components, feedback, gestures, incantations, and other conditions requiring the releaser to do something. (The wizard has already performed these requirements.)
+
+The scribe of the spell may not use a scrivened spell that he created.
+
+The following aspects for a scroll spell are added to any required by the spell:
+
+• Charge (+2): 1 charge with ward, spell released when the description is read
+
+• Components (-6): sheet of paper (common); ink (common)
+
+• Concentration (-3): 4 minutes with mettle difficulty of 9
+
+• Gestures (-2): Write a brief description of the spell on the paper
+
+Scroll spell modifier (total value of above new aspects): -9
+
+The casting time might also need adjusting.
+
+[cols=",",]
+|===
+|*Current Casting Time Value* |*New Casting Time & Value*
+|0–5 |4 minutes 10 seconds (-12)
+|6–13 |10 minutes (-14)
+|14 |16 minutes (-15)
+|15 |25 minutes (-16)
+|16 |42 minutes (-17)
+|17 or more |No change (0)
+|===
+
+Using the chart, determine the new time. Subtract the old time’s value from the new time’s value. Add this number to the scroll spell modifier of -9. Divide the new total by 2. Reduce the spell difficulty by this number to get the new spell difficulty. The minimum difficulty for a scrivened spell is 5 (which is lower than the normal minimum difficulty).
+
+Example: Evil eye curse has a casting time of two rounds, which has a value of 5, and a difficulty of 11. Using the chart to determine the new casting time, the player notes that it’s now four minutes 10 seconds with a value of 12. Subtracting 5 from 12 gets 7. Adding this to the scrivened spell modifier gets 16. Dividing by 2 gives a modifier of 8. The difficulty for a evil eye curse scrivened spell is 5 (11 – 8 = 3, with a minimum of difficulty of 5).
+
+Players may use these guidelines to create scrivened spells from scratch, with a minimal spell difficulty of 5.
+
+== Spell Design in Action
+
+Geoff decides to create a basic fire missile spell, since he doesn’t see anything like that in the precalculated spells in this book. Once he decides on the value of an aspect, he writes it on the Spell Difficulty Worksheet.
+
+Starting Spell Total: In this setting, the Game Master has decided that spells aren’t easier or more difficult to cast than average, so the starting Spell Total is zero.
+
+Starting Negative Spell Total Modifiers: The Negative Spell Total Modifiers always start at zero. Geoff knows that, although they are listed as negative numbers, these modifiers will add to the Negative Spell Total Modifiers total.
+
+Effect: Geoff decides that he doesn’t want to make a spell that’s too powerful (and too difficult to cast), so he picks 3D as the amount of damage the missile spell does. He only wants it to do physical damage. Using the “Die Codes” chart, he figures that this has a value of 9. He writes this on line 1 of the worksheet.
+
+Spell’s Skill: At this time, he also picks the skill needed to cast the spell. Since it has to do the creation of something, this spell falls under conjuration.
+
+Range: Looking on the “Spell Measures” table, Geoff selects 15 under the “Measure” column, which has a value of 6. Since the base measure for distance is meters, the range becomes 15 meters. Geoff writes “6” on line 2.
+
+Speed: Geoff doesn’t want a delay, so he makes the speed equal to the range and writes “6” on line 3.
+
+Duration: As this is simply a tiny missile, it doesn’t need to last long. Again using the “Spell Measures” table, this time keeping in mind the measure is in seconds, Geoff thinks that 3.5 seconds is long enough. He writes its value of 3 on line 4.
+
+Casting Time: Geoff wants the caster to do this quickly, so, referring to the “Spell Measures” table, he decides on a time of 1.5 seconds. This allows the caster to perform it in the same round as its effect. This is his first Negative Spell Total Modifier, so he writes the casting time’s value of 1 in the bottom of the worksheet, on line 5.
+
+Optional Aspects: Geoff decides at this point to skip the optional aspects — he’s in a hurry. He writes “0” on lines 6 through 23 of the worksheet.
+
+Finishing the Spell: Geoff first adds the lines related to the Spell Total and gets 24. Then she adds the lines dealing with the Negative Spell Total Modifiers and gets 1. He subtracts 1 from 24 to get 23. Dividing this by 2 and rounding up, she finds that the difficulty to cast this spell is 12. Geoff realizes, because of the rounding, he could go back and add 1 to the damage, which would give him, after subtracting the Negative Spell Total Modifiers, an even 24 to divide. He decides that he’ll do that next time.
+
+Design Time: Geoff wants to find out how quickly his mage can use the new spell. He looks up the spell difficulty of 12 on the “Spell Measures” chart to find the equivalent measure of 250. He divides this by 5 to get the number of rounds (which is 50 rounds) and by 60 to get the number of minutes (which is about four minutes). Good thing he thought of this before his caster would need it!
+
+== Sample Fire Missile Spell
+
+Skill Used: Conjuration
+
+Difficulty: 12
+
+Effect: 9 (3D damage)
+
+Range: 15 meters (+6)
+
+Speed: +6
+
+Duration: 3.5 seconds (+3)
+
+Casting Time: 1.5 seconds (-1)
+
+Other Aspects: None
+
+Design Time: 4 minutes
+
+*Fire Missile Spell Difficulty Worksheet*
+
+Total the values for each aspect and put the number in the correct box. If you do not use an aspect, put 0 on its line. NM = Negative Spell Total Modifiers.
+
+*Starting Spell Total*
+
+*0*
+
+{empty}1. Effect
+
+9
+
+{empty}2. Range
+
+6
+
+{empty}3. Speed
+
+6
+
+{empty}4. Duration
+
+3
+
+{empty}6. Area Effect
+
+0
+
+{empty}7. Change Target
+
+0
+
+{empty}8. Charges
+
+0
+
+{empty}14. Focused
+
+0
+
+{empty}17. Mult. Targets
+
+0
+
+{empty}19. Var. Duration
+
+0
+
+{empty}20. Var. Effect
+
+0
+
+{empty}21. Var. Move.
+
+0
+
+{empty}22. Alterants
+
+0
+
+_Spell Total_
+
+_= 24_
+
+*Starting NM*
+
+*0*
+
+{empty}5. Cast Time
+
+1
+
+{empty}9. Community
+
+0
+
+{empty}10. Components
+
+0
+
+{empty}11. Concentration
+
+0
+
+{empty}12. Countenance
+
+0
+
+{empty}13. Feedback
+
+0
+
+{empty}15. Gesture
+
+0
+
+{empty}16. Incantation
+
+0
+
+{empty}18. Unreal Effect
+
+0
+
+{empty}23. Conditions
+
+0
+
+_NM Total_
+
+_= 1_
+
+Spell Total
+
+24
+
+NM Total
+
+– 1
+
+Final Spell Total
+
+ 23
+
+Difficulty
+
+ 12
+
+(Final Spell Total/2)
+
+ 

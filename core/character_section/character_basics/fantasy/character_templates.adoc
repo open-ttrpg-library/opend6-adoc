@@ -1,1 +1,421 @@
-= Character templates
+= Fantasy Character Templates
+
+=== Occupation: Bard
+
+Race: Human
+
+Agility 2D
+
+Coordination 2D
+
+Physique 2D
+
+Charisma 4D
+
+Intellect 4D
+
+Acumen 4D
+
+Extranormal 0
+
+Fate Points 1
+
+Character Points 5
+
+Funds 5D
+
+Silver 300
+
+Strength Damage 1D
+
+Move 10
+
+Body Points 24
+
+Advantages: None
+
+Disadvantages: Quirk (R1), your muse often overcomes you and inspires you to create a song or story on the spot.
+
+Special Abilities: Skill Bonus: Eidetic (R1), +1 bonus to speaking, scholar, and investigation totals.
+
+Equipment: Dagger (damage +1D); leather jerkin (Armor Value +2); paper; quill and ink; scroll tube.
+
+Description: Others get ideas for their tales second or third hand. You prefer to see the really exciting parts of history unfold for yourself.
+
+=== Occupation: Cleric
+
+Race: Human
+
+Agility 2D+1
+
+Coordination 2D
+
+Physique 2D
+
+Charisma 3D
+
+Intellect 3D+2
+
+Acumen 3D
+
+Miracles 2D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Silver 180
+
+Strength Damage 1D
+
+Move 10
+
+Body Points 23
+
+Advantages: Equipment (R1), armor and weapon.
+
+Disadvantages: Devotion (R2), to your religion; Employed (R1), must follow sect’s regulations.
+
+Special Abilities: Skill Bonus: Miracles (R2). +2 to strife, divination, and favor skill totals.
+
+Equipment: Mace (damage +1D+1); hard leather armor (Armor Value +1D+1); religious symbol; leather pouch; ceremonial cloth.
+
+Description: Being the youngest of a very large family, your family sent you away to a join a religious sect, one that promoted charity and knowledge. Your sect has now sent you out to practice what you have been taught and help others. Although you will defend yourself, you consider indiscriminate violence as stooping to the level of lesser beings.
+
+=== Occupation: Gladiator
+
+Race: Human
+
+Agility 4D
+
+Coordination 3D
+
+Physique 4D
+
+Charisma 2D
+
+Intellect 2D
+
+Acumen 3D
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Silver 180
+
+Strength Damage 2D
+
+Move 10
+
+Body Points 38
+
+Advantages: Trademark Specialization (R1), gain +2D when using one weapon (your choice) plus you may be recognized by those watching.
+
+Disadvantages: Devotion (R1), you are devoted to fighting.
+
+Special Abilities: None
+
+Equipment: Short sword (damage +1D+2); hard leather armor (Armor Value +1D+1); small shield (Armor Value +2D).
+
+Description: You have so focused yourself on battle that you find it hard to resist a fight when you have the opportunity. From your time in the arena circuit, you’ve become famous for the use of a particular weapon.
+
+=== Occupation: Healer
+
+Race: Human
+
+Agility 2D+2
+
+Coordination 2D
+
+Physique 2D+1
+
+Charisma 3D+1
+
+Intellect 4D
+
+Acumen 3D+2
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 4D
+
+Silver 240
+
+Strength Damage 1D
+
+Move 10
+
+Body Points 26
+
+Advantages: None
+
+Disadvantages: Quirk: Stutter (R1), whenever you fail a skill check, you become flustered and stutter, getting a +3 to all interaction difficulties, until you get a Critical Success on a roll.
+
+Special Abilities: Skill Bonus: Naturally Soothing (R1), +1 bonus to animal handling, charm, and healing totals.
+
+Equipment: Knife (damage +1D), 3 candles, tinderbox, pouch of herbs (+1 bonus to healing totals; six uses).
+
+Description: You’ve always had a predilection toward caring for others. Except when you get nervous and stutter, people like to be around you.
+
+=== Occupation: Merchant
+
+Race: Human
+
+Agility 2D+2
+
+Coordination 2D
+
+Physique 2D+1
+
+Charisma 4D
+
+Intellect 4D
+
+Acumen 3D
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 5D
+
+Silver 300
+
+Strength Damage 1D
+
+Move 10
+
+Body Points 28
+
+Advantages: Wealth (R1), +2 to Funds totals/10 silver coins.
+
+Disadvantages: Quirk (R1), always looking for a way to make a profit — always.
+
+Special Abilities: None
+
+Equipment: Staff (damage +1D+2); fine garments with a heavy brocade vest (Armor Value +1); leather bag filled with a handful of small gold and silver coins and small jewels.
+
+Description: You’ve made your fortune several times over (and lost some of it on other schemes). You’re looking for a new town that could use your services.
+
+=== Occupation: Monster Slayer
+
+Race: Human
+
+Agility 3D+2
+
+Coordination 3D+1
+
+Physique 3D+2
+
+Charisma 2D
+
+Intellect 2D
+
+Acumen 3D+1
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Silver 180
+
+Strength Damage 2D
+
+Move 10
+
+Body Points 35
+
+Advantages: None
+
+Disadvantages: Age (R1), you are slightly younger than typical, so people don’t always take you seriously; Devotion (R1), devoted to protecting ordinary people from extraordinary fiends.
+
+Special Abilities: Attack Resistance: Nonenchanted Weapons (R1), +1D to your damage resistance total against such weapons.
+
+Equipment: Battle axe (damage +3D); leather pants (Armor Value +2 to legs only).
+
+Description: After a band of monsters killed those you loved, you’ve been wandering the world, seeking to rid it of such diabolical creatures. A priest blessed your cause, giving you a resistance to certain kinds of physical harm.
+
+=== Occupation: Ranger
+
+Race: Human
+
+Agility 3D+1
+
+Coordination 3D+1
+
+Physique 3D
+
+Charisma 3D
+
+Intellect 2D+2
+
+Acumen 2D+2
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Silver 180
+
+Strength Damage 2D
+
+Move 10
+
+Body Points 33
+
+Advantages: Contacts (R1), you’ve helped a lot of people, many of whom would be willing return the favor.
+
+Disadvantages: Devotion (R2), fiercely devoted to protecting wilderness areas and their inhabitants.
+
+Special Abilities: Skill Bonus: Keen Eye (R1), +1 bonus to marksmanship, search, and tracking.
+
+Equipment: Cloak; long bow and quiver of arrows (damage +2D+2); leather jerkin (Armor Value +2).
+
+Description: You grew up in forests, and you’ve traveled through a lot of wilderness. You firstly seek to protect the land, plants, and animals, and secondly, any travelers.
+
+=== Occupation: Thief
+
+Race: Human
+
+Agility 3D
+
+Coordination 4D
+
+Physique 3D
+
+Charisma 3D
+
+Intellect 2D+1
+
+Acumen 2D+2
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Silver 180
+
+Strength Damage 2D
+
+Move 10
+
+Body Points 30
+
+Advantages: None
+
+Disadvantages: Enemy (R1), someone caught you while you were stealing — though you managed to escape, you now have someone after you.
+
+Special Abilities: Skill Bonus: Nimble Fingers (R1), +1 bonus to lockpicking, sleight of hand, and gambling totals.
+
+Equipment: Dagger (damage +1D), cloak, rope, sack, a few tools to spring traps.
+
+Description: Some people farm or fight professionally to earn a living. You prefer to test your wits against the awareness of a household. If you win, you get to keep something.
+
+=== Occupation: Wanderer
+
+Race: Human
+
+Agility 3D
+
+Coordination 3D
+
+Physique 3D
+
+Charisma 3D
+
+Intellect 3D
+
+Acumen 3D
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Silver 180
+
+Strength Damage 2D
+
+Move 10
+
+Body Points 34
+
+Advantages: Cultures (R1), you have a knack for drawing parallels between known and unusual cultures.
+
+Disadvantages: Hindrance: Trick Shoulder (R1), +1 to climbing, melee combat, and throwing difficulties.
+
+Special Abilities: None
+
+Equipment: Studded staff (damage +2D); cloak; sack; water skin.
+
+Description: You seek to learn about new cultures. When you’ve had your fill of one, you move on.
+
+=== Occupation: Wizard
+
+Race: Human
+
+Agility 2D+1
+
+Coordination 2D
+
+Physique 2D
+
+Charisma 2D+2
+
+Intellect 3D+1
+
+Acumen 3D+1
+
+Magic 2D+1
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Silver 180
+
+Strength Damage 1D
+
+Move 10
+
+Body Points 22
+
+Advantages: None
+
+Disadvantages: Prejudice (R2), the wizard cult you belonged to has a bad reputation and you find many people shun you.
+
+Special Abilities: Good Luck (R1).
+
+Equipment: Small knife (damage +2); soft leather jerkin and pants (Armor Value +2); paper; quill and ink; a few small spell components; a few spells on scrolls.
+
+Description: Though the art of spell design fascinates you, the idea of staying locked in a stuffy library doesn’t. You’ve taken to adventuring to find inspiration for new spells, lost sources of mystical energy, and forgotten ancient artifacts.

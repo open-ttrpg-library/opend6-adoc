@@ -1,1 +1,231 @@
-= Adventure tips
+= Adventure Tips
+
+In an adventure, characters confront a series of obstacles as they attempt to reach an ultimate goal. Thus, here’s a chapter devoted to some tips on preparing and running adventures, including obstacle ideas, rewards, and generic characters.
+
+=== Creating Adventures
+
+Like most games, role players must overcome a series of obstacles to reach a final goal. But in role playing games, that combination of obstacles and goals, called an adventure, takes on the same structure as a story. Both have an exposition, progressively more difficult challenges to overcome, a climax, and a resolution. You can use movies, television shows, novels, or comic books to come up with ideas for adventures, always remembering that the players get to decide how their characters react to the given obstacle, instead of being dictated by the writer.
+
+You, the Game Master, choose the hurdles the characters must deal with. You provide a goal and then presents the characters with a series of problems that prevents them from reaching that objective. The hindrances can take a variety of forms, from monsters to evil scientists to acid storms to covert government agents, depending on the genre and the particular circumstances of the adventure your characters are working through.
+
+=== Designing the Adventure Setting
+
+Adventure works well for a number of different genres. When deciding which one you want to play in, consider what other reference material, such as movies, television shows, and books, you have to draw on. Reference material can inspire you with adventure ideas, setting particulars, and interesting characters.
+
+Wild West: One of the most chaotic genres, the Wild West features gun fights, chases on horseback, and the lure of hidden wealth, usually in the form of gold, but sometimes a coveted piece of land. Generally, technology is low, though weird science is possible.
+
+Pulp Fiction: Set during World War I and World War II, the pulp fiction genre emphasizes excitement over complicated plot development, mission-oriented adventures over long puzzle-solvers. Few “civilized” people deal with magic, though technology is being developed so fast that almost anything seems possible.
+
+Real World: The game setting is not far removed from the real world of today. Often, however, there is at least one change — maybe magic has suddenly become possible, or aliens have invaded, or the time period has changed from the twentieth century to somewhere in the past.
+
+Super Heroes: Super hero adventures usually happen in the present or not too distant future. Special Abilities are common place, coming from scientific experiments, random mutations, weapons, equipment, training, and more.
+
+Espionage: Plot and character development — along with lots of ultra-high-tech equipment — dominate the espionage setting. Full of secrets, and double crosses, violence is generally more subtle than in other genres, though there’s still plenty of room for a car chase with big guns.
+
+=== Designing the Fantasy Setting
+
+The system and information in fantasy suits two types of fantasy subgenres: high and low. The primary difference between the two lies in the amount of magic available, which in turn affects the types of characters played and monsters encountered.
+
+High Fantasy: Myths, legends, and magic are the keywords in a high fantasy campaign. Magic is common, ranging from every village having its own wizard or witch, to certain castes or groups limiting spell casting to their members. Often, the characters are larger-than-life heroes who are battling an even larger foe. Good and evil are living entities, and quests are popular adventure hooks.
+
+Low Fantasy: A low fantasy world is much more “gray” than high fantasy. Magic is mysterious, and spells are difficult to cast (represented by a higher base Spell Total). Monsters are dangerous and often few and far between. Not everyone in the world is either good or evil, and the players’ characters may be of mixed morality.
+
+=== Designing the Sci-Fi Setting
+
+This book offers several features common to many, but not all, science fiction settings. You, as the Game Master, need to decide what you want to include before you create your adventures. You’ll also need to let your players know the details, so everyone experiences the game from a similar viewpoint.
+
+Aliens: Aliens generally allow players to explore one or two key aspects of the human condition in depth, without actually being bound by the stereotype of “Human.” However, you might decide that, though Humanity has never met any alien cultures, the Human colonists have grown so far apart that they’ve practically become their own species — at least culturally.
+
+Of course, if you decide to make interstellar travel prohibitively costly or even scientifically impossible, unless the aliens come to the players, it’s likely that they’ll never meet another species outside of their own.
+
+On the flip side, you could decide that Humans are the minority rather than the norm in your setting.
+
+Cybernetics: Cybernetics allow players to have amazing Special Abilities. You might decide that you don’t want to deal with that, instead ruling that the setting hasn’t reached a level of technology beyond installing prosthetic devices. Or, you could take a middle ground and limit the Special Abilities available for installation with cybernetics.
+
+Metaphysics: Extraordinary mental abilities exist as another feature that can really throw off the fun factor in a game — or it can open up new horizons. You decide on how much you feel that Humans and aliens have tapped into the power of the mind. Perhaps it’s strictly random, and you randomly assign the Metaphysics attribute to one player in the group after character creation and at no additional cost (and give everyone else an extra piece of equipment as a consolation prize). Or you could limit Metaphysics to certain alien species or make it much more difficult to use than it currently is.
+
+Space Travel: Easy access to interstellar travel means that you’ll need to come up with new planets and, possibly, new alien races. You can avoid this by deciding that the society has not yet reached that level of technology. Alternatively, you can limit the speed of interstellar travel, having it take months or years to reach the next solar system. Pirates and interstellar police forces are less likely, but divergent cultures are much more possible.
+
+If you want plenty of contact between various species and solar systems, you can make space travel faster than the default listed in this book or use a combination of the default rate plus special artificial wormholes or gates.
+
+Scope of the Galaxy. Space can be be big and teeming with life or it can be sparse and lonely. The more you allow access to easy interstellar travel, the more fun it is for the players to regularly encounter alien and Human offshoots, lost civilizations and treasure planets, and pirates and interstellar military forces.
+
+=== Creating Adventures
+
+Like most games, role players must overcome a series of obstacles to reach a final goal. But in role playing games, that combination of obstacles and goals, called an adventure, takes on the same structure as a story. Both have an exposition, progressively more difficult challenges to overcome, a climax, and a resolution. You can use movies, television shows, novels, or comic books to come up with ideas for adventures, always remembering that the players get to decide how their characters react to the given obstacle, instead of being dictated by the writer. The hurdles the characters must deal with are chosen by you, the Game Master. You provide a goal and then present the characters with a series of problems that prevents them from reaching that objective. The hindrances can take a variety of forms, from aliens to evil technocrats to acid storms to covert government agents, depending on the particular circumstances of the adventure through which the players’ characters are working.
+
+=== Types of Adventures
+
+The most direct way of creating an adventure is to select the goal first. Once you know the end, you can more easily decide on what types of obstacles make it interesting for the characters to reach the goal.
+
+Caught in a Tight Spot: Escape from a situation that could cause some type of harm to the characters or their allies.
+
+Contest: The characters must accomplish a predetermined goal more quickly or more efficiently than everyone else involved in the contest.
+
+Guard Duty: Protect someone or something from harm.
+
+Foil a Plan: Stop someone else from accomplishing their goal. Generally, the plan to be foiled has something to do with the destruction of a person, place, or thing of importance to the characters or to the entire world.
+
+Mystery: The players’ characters must discover the truth about a person, thing, or event.
+
+The Quest: Locate and retrieve an object or person at the behest of another. It could be a stolen object, the person kidnapped, or a criminal who’s escaped justice.
+
+=== Types of Obstacles
+
+Once you’ve determined the type of adventure you want to create, you must divide it up into smaller chunks called scenes, each containing one or two obstacles. A scene is triggered by the players’ characters’ arrival at a given location or by the passage of time. Once the characters overcome or bypass the obstacle, they move on to the next scene and one step closer to the goal of the adventure. Here are a few examples.
+
+Adverse Conditions: Weather, terrain, and hostile or uncooperative Game Master’s characters can hamper the characters in accomplishing the goal.
+
+Game Master’s Characters: The people that the player’s characters meet come in handy for all sorts of situations, so much so that there’s a whole section on them in this chapter.
+
+Combat: In order to continue forward or get to something, the characters first must defeat a creature or villain.
+
+Diversions: Include extraneous details in setting descriptions or when the players’ characters talk to other people. The details are more for show than to further the adventure, but they offer some interesting role playing opportunities.
+
+Information: The players’ characters often need to obtain information, and you can make this more challenging by making it harder for them to find (two secretaries to convince instead of one), missing (part of a needed tablet has been destroyed), in the form of a puzzle or riddle, from a questionable source, or giving the characters what seems like a right lead but ends up being to the wrong place. However, make sure that the information the characters seek really is attainable. Be careful not to force the players’ characters to go through an enormous amount of trouble based on clues and hints you’ve given them only to find that their efforts were wasted.
+
+Multiple Goals: Typically for experienced roleplayers, adding the rumor of a new goal can force the characters to rearrange their priorities.
+
+Restrictions: The characters can’t use some of the regular equipment or must be certain to perform certain rituals, or there will be dire consequences.
+
+Time Limits: There’s nothing like a time limit to speed up a scene. This kind of obstacle can take the form of limited supplies, limited ammunition, or a set amount of time before something horrible occurs.
+
+=== Game Master’s Characters
+
+During their adventures players’ characters encounter various allies, enemies, and neutrals who serve to shape the story, establishing the setting or helping or hindering the characters at critical moments. Without these characters, nothing much would happen.
+
+However, you don’t have to create enough characters to fill the entire universe. Save yourself work and carefully choose which gamemaster’s characters play the most pivotal roles in your adventure and design them in detail. Then select the less important characters and determine most of their background and personality, and so on until you come down to the nameless characters who need nothing more than a brief mention.
+
+=== Assigning Characteristics
+
+Once you’ve come up with the overall concept for the character, you should decide on his game statistics. Skim through the “Character Basics” and “Character Options” chapters for some ideas, jotting down whatever details are important for the character’s importance to the adventure and what’s needed to use him. There’s no need to follow the character creation rules exactly; instead, give each character what you think they need to play their part in the story.
+
+The average adult human being has 2D in all attributes. Depending on how much experience you want an individual to have, give the character between 7 and 14 dice in skills.
+
+Children will generally have 1D in all attributes, with two or three dice in skills, such as throwing (for tossing baseballs, footballs, food, etc.), climb/jump, running, swim, computer interface/repair, hide, and con. Older or gifted children may have more or a greater variety of skills. Children will have few, if any, specializations. They often carry a favorite toy or nothing.
+
+Elderly adults may have fewer dice in their Agility, Mechanical, and Strength. However, they have twice as many skill dice (between 14 and 20) to account for their greater experience.
+
+Body Points for generic characters likewise depend on age and toughness. For base Body Points, use these guidelines: 5 for kids and elderly individuals, 10 for ordinary innocent bystanders and most animals, 15 for minor villainous opponents, and 20 for major secondary and leading Game Master’s characters. Add to these values any additional points as you deem appropriate.
+
+Should you prefer the Wounds system, be sure to drop one or more levels from the bottom of the list. For example, most animals, kids, and elderly would take one Wound level (Incapacitated) before dying, while minor character and large animals might take two (Stun and Incapacitated), and so on.
+
+=== Character Points and Fate Points
+
+Cannon-fodder villains, such as army troops, henchmen, and merchants, typically have no Character Points or Fate Points. Minor villains, whose survival isn’t dependent upon the adventure’s plot may have one to three Character Points and (usually) no Fate Points.
+
+Continuing villains, such as those who may be used for several adventures or who are subordinate to the main villain, may have several Character Points and no more than one or two Fate Points.
+
+Major villains who might be used over the course of a campaign and are integral to an adventure should have at least 11 Character Points (some characters may have well over 50 Character Points) and many will have at least three Fate Points.
+
+=== Starting the Adventure
+
+Once you’ve got the goal and a few obstacles, you’ll need to give the players’ characters a reason to go on the adventure. Often called the hook, here are a few examples.
+
+Character Goals: The group, even just one of the players’ characters, gets information that could help get them closer to a long-term goal. Informant: Someone lets the players’ characters know about the goal and gives them just enough information to get to the first obstacle. The information could be provided as a letter, a holo-vid announcement, a classified ad, or an anonymous source.
+
+In Medias Res: Start the game in the middle of an explosive or suspenseful event. Such fast starts put the players immediately on their toes, thrusting their characters into the action before they even know it. Once they’ve dealt with their immediate problem, they’re thoroughly enmeshed in the story.
+
+Mission Briefing: The organization in which the characters are involved calls a meeting and sets reveals the goal (though, of course, not how to accomplish it!).
+
+=== Running Adventures
+
+You’ve successfully brought the players’ characters into the adventure. Now you have to keep them focused and enthralled with the plot. If you see their eyes start to wander, or they fall into a conversation about the last game (or worse, what they watched on television last night), you know something’s gone wrong. This section should help you maintain an involving story and a sense of “really being there.”
+
+=== Setting the Scene
+
+Your first job is to vividly depict the scene unfolding before the players’ characters. Where are they? Who else is there? What’s happening? These are the questions you must answer immediately.
+
+=== Description
+
+The key here is to engage the players’ senses, just like a good movie, novel, or television show. Try to use evocative words to give the players a clear and vivid view of their characters’ environment. The best way to learn how to provide such lifelike descriptions is to picture the scene in your mind and do whatever you can to convey that same scene to your players. You may incorporate movie or television footage you’ve taped, maps and diagrams you copied out of library books, or even illustrations you’ve drawn yourself. Sound effects CDs especially can help you set the stage for the characters. Just remember that your players have five senses. Don’t just rely on the sense of sight.
+
+Describe what your characters hear, smell, touch, and (sometimes) taste. The following example engages several senses.
+
+Game Master: “The thick, musty smell of swamp begins to permeate the air. From all around you, you can hear the screeching chirps of birds and small animals. The humidity settles against your skin like a blanket of moisture as you continue trudging forward on the increasingly squishy ground. The gangly gray trees scattered in small stands reach upward into the mist, and you get the distinct feeling that something out there is watching you.”
+
+=== Believable Characters
+
+Other than the setting, the players’ characters will also encounter other people who live in the game world. Your job is to make sure that these Game Master’s characters appear real to the players. Their words and actions must seem appropriate in the context of their histories, personalities, and ambitions. If a stoic military officer suddenly took off his helmet and started joking around, the players would probably just stare at you for a minute as the game comes crashing to a halt.
+
+Play each character to the best of your ability. Make sure he does everything in his power to achieve his goals, whether he’s trying to thwart the players’ characters or earn a hefty sum of credits. This does not mean that each Game Master’s character should act overtly. Part of his goal may be to achieve his objective undetected, or to make it look like someone else was responsible. Rather, the idea is that the character should use all of his resources — his skills, allies, finances, and so on — to accomplish his immediate as well as his long-term goals.
+
+=== Exciting Locales
+
+Try to make each place the players’ characters visit seem different than the others. By doing this, you can make these sites engaging and memorable for the players.
+
+=== Personal Stake
+
+Every once in while you should ask to see the players’ character sheets. Look for background information and personality traits that might lend themselves to a personal stake. If a player has written that her character is extremely competitive, for example, you could create a rival group that seeks to outdo the players’ characters at every turn. The players will do everything in their power to make sure their characters succeed more often and more quickly than the newcomers.
+
+=== Giving Options
+
+Don’t constantly force your players to follow along the prescribed path of the adventure. They may have devised an alternate scheme for success not covered by the scenario, and you shouldn’t penalize them for their creativity. Instead you’ll have to use your judgment to run the remainder of the adventure.
+
+If the players feel that they never have a choice, that you have predetermined what their characters will do and say — and therefore, how the adventure will turn out — they’re not going to have any interest in playing. Part of the fun of a role playing game is the almost unlimited possible reactions to any given situation. Take that away, and you’ve lost much of the reason for participating in this type of game.
+
+Sometimes the characters will have only a few choices — or at least, a few obvious choices — and that’s fine if it makes logical sense in the context of the scenario and doesn’t seem like an attempt by you as the Game Master to dictate their characters’ paths. Reward creativity. Give the players a reason to exercise their brains.
+
+The more freedom they believe they have, the more they’ll enjoy the adventure. When their characters make a mistake, they have no one else to blame it on, and when their characters succeed, they feel a genuine sense of accomplishment.
+
+=== The Subtle Art of Misdirection
+
+If the players can correctly guess the conclusion of an adventure while they’re progressing through the first encounter, the ensuing encounters won’t provide as much excitement as they should.
+
+This is where the subtle art of misdirection comes in. The object here is to keep the players (and their characters) guessing and revising those guesses through the whole adventure. You can do this in small ways: make die rolls, smile for a moment, and then don’t say anything about it; have the characters roll Perception checks, ask for their totals, and then just continue with the encounter; ask a player for detailed information on how her character is going to close a door (“Which hand are you using?” “Do you have a weapon in your hand?”), but then have the portal close uneventfully.
+
+You also have the option of throwing in major red herrings. If a character starts tracking the players’ characters, the players will immediately attempt to mesh this new person’s presence with the rest of the adventure. In reality, however, he’s just a common thief looking for an easy mark, or he thinks that one of the characters looks familiar but doesn’t want to say anything until he’s sure he’s not mistaking that character for someone else.
+
+=== Allowing the Characters to Fail
+
+It’s that chance of failure that gives excitement to a role playing game, so sometimes characters need to fail. If they roll poorly, or are simply outclassed, or most importantly, if they play poorly, their characters will not accomplish their goal.
+
+Yet, with each defeat, the characters (and players) should learn something. They may learn a better way to approach a situation, or they may stumble upon a tool or gadget that will help them in the future. It should take perseverance and dedication, but learning from mistakes will eventually lead to success.
+
+=== Getting Feedback
+
+Sometimes an adventure doesn’t thrill the players like you expected it to when you were first reading or creating it. As you run a scenario, you should pay attention to the players’ reactions to the various scenes. Did they stand up and all try to talk at once during the chase? Did they go comatose when they reached the puzzle-solving encounter? Gauge their reactions to your judgment calls and improvisation. The players’ words and actions can convey a great deal of information about which parts of the adventure they enjoyed and which parts put them to sleep.
+
+Ask the players what they did and didn’t like. You could even have them write you an anonymous note with a list of their favorite and least favorite scenes.
+
+Don’t take any negative responses as criticism. It takes a lot of work to plan and run a game, and you can’t always please everyone no matter what you do. Just don’t forget to listen to what your players have to say. They may want to take the game in a different direction than you do.
+
+Compromise. Make sure you and your players have fun. If not, either you or your players will eventually give up and find something else to do during those precious spare moments. View player reactions and comments as hints for what you can do in the next adventure that will keep them on the edge of their seats.
+
+=== Rewarding the Players
+
+Part of the fun of role playing is watching characters improve and develop. Game Masters have plenty of options for helping that along, though, of course, no single option should be overused or the players will have no reason to continue adventuring.
+
+=== Character Options
+
+Look through the list of Advantages for some reward ideas. Typically, when a Game Master allows access to an Advantage, it’s a one-shot deal, especially for particularly powerful Advantages, such as being owed a favor by a galactic tyrant. If the characters want a more permanent access to this kind of Advantage, they will have pay for it (in Character Points). Game Masters might also give free Advantages to characters — along with an equivalent amount of Disadvantages!
+
+=== Equipment and Other Loot
+
+Depending on the circumstances of the present adventure and the Game Master’s ideas for future adventures, Game Masters may allow the players’ characters to keep equipment, gear, and treasure that they find in abandoned temples or acquire from a villain’s lair. Game Masters may even want to plant various items in the adventure for the players’ characters to locate, whether to fulfill a character’s dream or help the group in a future scenario. Should the equipment or other material cause the players’ characters to become too powerful, too quickly, remember that things can break, become the object of desire by more powerful personages, or get stolen.
+
+=== Funds
+
+Characters might choose to sell some of their loot and put the money into their bank account or investments. Depending on what characters do with their money, Game Masters may allow a permanent one-pip increase to each of their Funds attribute (because of putting it into solid investments as determined by a business roll), or give the characters a larger bonus to a limited number of Funds rolls (because they kept the cash in a vault at their hideout).
+
+=== Information
+
+While not terribly tangible, information could be useful for drawing the characters into another adventure or helping to fulfill a character’s goal (such as discovering details about her mysterious past).
+
+=== Character and Fate Points
+
+Assuming that the players have really been trying and have been sufficiently challenged by the adventure, each character should receive enough Character Points to improve one skill, plus a few extra for help in overcoming a low roll at a future inconvenient time. Obviously, more experienced characters will either have to experience more adventures, or they’ll need bigger challenges.
+
+Here are a few guidelines for distributing Character and Fate Points for an adventure that lasts two or more nights, several hours per night. They are per character, not per group.
+
+Obstacle was easy to overcome (the difficulty numbers were about three times the die code in the skills required): No reward.
+
+Obstacle was somewhat difficult to overcome (the difficulty numbers were about three to four times the die code in the skills required): one Character Point per low-difficulty obstacle in the adventure.
+
+Obstacle was quite challenging to overcome (the difficulty numbers were about five times the die code in the skills required; generally reserved for the climactic scene): two or more Character Points per high-difficulty obstacle in the adventure (depending on how many Character Points the characters had to spend to beat the difficulties set). Individual role playing (overcoming goals and playing in character): two to three Character Points (awarded to each character, not to the whole group).
+
+Group role playing (teamwork and interacting with each other in character): three to four Character Points.
+
+Everybody had fun (including the Game Master): one to two Character Points.
+
+Accomplished the goal: one Fate Point.

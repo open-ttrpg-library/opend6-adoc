@@ -1,1 +1,101 @@
-= Improving characters
+= Improving Characters
+
+=== Learning and Improving Skills
+
+When a player ﬁrst creates a character, she should use the character creation guidelines for gaining attributes and skills.
+
+Players whose characters have been through at least one adventure can use Character Points, accumulated from completing adventures, to learn new skills and improve old ones. Spending Character Points this way may be done only between adventures.
+
+In addition to Character Points, the character needs experience with the skill, either through training or by attempting to use the skill (through rolling its die code or its governing attribute’s die code, regardless of the outcome) during an adventure. If the Game Master decides that there is a signiﬁcant amount of training involved (such as improving a skill beyond 6D), or the character needs to ﬁnd a suitable teacher, that might become an adventure’s focus. (The teacher must have a skill die code higher than the one the potential student currently has.)
+
+The cost of getting one pip in a new base skill equals the number before the “D” in the governing attribute’s die code.
+
+_Example:_ If a character wants to learn languages after an adventure and he has a Knowledge die code of 3D, the ﬁrst pip in languages costs him three Character Points. The hero then has a 3D+1 in his languages skill.
+
+The cost of improving an existing skill is determined in the same way, except that the number of dice in the skill (instead of in the attribute) is used to determine the cost.
+
+_Example:_ A character has a dodge of 4D+2 and wants to increase it. To raise the skill by one pip to 5D, the character must spend four Character Points. To increase the skill to 5D+1 after the next scenario, the character must spend ﬁve Character Points.
+
+The cost to get one pip in a new specialization equals one-half of the number before the “D” in the governing attribute or skill’s die code. The cost to improve an existing specialization by one pip equals one-half of the number before the “D” in specialization skill’s die code. (In both cases, round up.)
+
+A character does not need the governing skill to get a specialization in it. However, if he does have one, getting a specialization in it acts as a bonus to the base skill when taking actions of that type, but it does not also improve all uses of the base skill.
+
+_Example:_ For a character with 6D in missile weapons to gain a bow and arrow specialization, he needs to spend three Character Points to get a +1 in the specialization. The full missile weapons skill, however, stays at 6D.
+
+Specialization improves when the base skill improves.
+
+A character may improve a skill or any of its specializations but not both. In other words, a character may improve as many specializations as he desires at the same time, though he cannot improve them at the same time as he’s improving the governing skill. Skills and specializations may only be improved by one pip each in between each adventure.
+
+Once characters reach 10D in a skill, Game Masters may choose to use the upper limit rule for improving attributes (see that section for details).
+
+Extranormal skills cost twice as much to learn as other skills. Skills gained due to a special ability are not improved when that special ability is improved. Instead, they are increased as a normal skill.
+
+=== Improving Strength Damage
+
+Strength damage depends on another attribute or skill that describes strength, in this example: Physique and Lifting. As a character’s Physique or Lifting goes up or is altered by special abilities, disadvantages, or Character Point expenditure, re-figure the Strength Damage die code: take the character’s new Physique or Lifting (including any modiﬁers from disadvantages or special abilities) and drop the pips. Divide by 2, and round up. This is the Strength Damage die code.
+
+=== Improving Attributes
+
+With the exception of Extranormal and Funds, the attributes you choose for your character usually represent her maximum potential. Most of the time, you’ll improve your character’s attributes by training in one particular aspect (improving skills), through temporary means (taking drugs), or with implanted equipment. Nonetheless, some freak industrial accident or bio-manipulation experiment might provide you with a reason to improve your character’s base attributes. (Some characters, such as kids, might start with fewer attribute dice, but their excuse for their attributes’ improvement is puberty.) There are two ways to do this.
+
+The ﬁrst way is how kids improve their normal attributes and how everyone improves their Extranormal attributes. The Game Master may chose to use this option for adult characters who want to increase their normal attributes.
+
+In the ﬁrst method, to boost an attribute by one pip costs 10 times the number before the attribute’s “D” in Character Points. Generally, a single attribute may be raised only one pip per adventure, though it’s possible that the effects of the situation inﬂuence the character’s physical makeup for a while or the Game Master may decide that the situation was so life-changing that more than one attribute may be boosted by more than one pip.
+
+There is an upper limit using this method: Every time an adult character boosts a normal attribute, the player rolls that attribute’s new die code and the Game Master rolls one die less than the maximum die code for the species, including any appropriate special abilities. (The maximum for all attributes except Extranormal and Funds is 5D, unless altered by a special ability, so the Game Master would roll 4D.) If the Game Master’s roll equals or exceeds the player’s roll, the attribute improves. If it does not, the attribute does not improve, the character gets half the Character Points back, and the character has reached her upper limit for that attribute. Ignore this upper limit rule for Extra-normal and Funds attributes.
+
+In the second way, the Game Master requires all adult characters to take the Increased Attribute special ability (discussed in the “Character Options” chapter) in order to improve their physical and mental attributes. There is no maximum with this method, aside from whatever role playing or adventure obstacles the Game Master decides to include.
+
+=== Improving Body Points
+
+Body Points and Wounds depends on another attribute or skill that describes endurance, in this example: Physique. As a character’s Physique goes up or is altered by special abilities or disadvantages, you’ll need to change the Body Points amount. Roll the dice indicated by the special ability or disadvantage (if applicable), and add any pips or other modiﬁer. Then add or subtract, as dictated by the special ability or disadvantage, that number from the Body Points total.
+
+=== Improving Wounds
+
+As a character’s Body Points go up or down, the Wound level changes. For characters who rely solely on Wounds, the only way to alter how quickly or slowly the character reaches each level is by changing his damage resistance total. This could be through a change in Physique or by acquiring more protective gear or protecting special abilities.
+
+=== Gaining and Losing Character Options
+
+As players take their characters through adventures and develop them, they may decide that the advantages, special abilities, and disadvantages the characters started with don’t ﬁt the current concept. To be ﬂexible, there are ways you can accommodate your players’ desire to grow their characters. For example, an “enemy” might eventually be killed, a character might be able to negotiate a way out of Debt, or an Advantage Flaw might be “repaired.”Getting rid of and gaining advantages, special abilities, and disadvantages should only happen after the character has been used during several adventures and has had a chance to come up with reasons for character alteration.
+
+These game mechanics for gaining advantages, special abilities, and disadvantages apply only to individuals who seek to have them. Because of an adventure or series of adventures, the members of a group may each acquire the same new advantage or disadvantage. In this case, each hero does not pay the cost or receive any Character Point benefits outlined here. The new advantage can be considered a reward for participating in the team and the scenario, while the new disadvantage would be a penalty.
+
+=== Advantages
+
+There are two methods for acquiring new advantages: (1) The player pays, in Character Points, 5 times the rank of the advantage. (2) The player takes an equivalent amount of dice in disadvantages and pays a number of Character Points equal to the rank of the advantage. In either case, the player must come up with a well-crafted story for getting the new advantage that’s backed by actual experiences in one or more adventures. The story, and its related advantage, must be approved by the Game Master.
+
+Generally, a player may not remove an advantage from a character, but it might be lost in the course of role playing due to player negligence (that is, continuously bad role playing or ignoring disadvantages) or some tragic game-world mishap (such as a Patron’s city being destroyed). If the loss occurred through no fault of the character, the Game Master may give the player a consolation gift of three Character Points per rank in the advantage, or may substitute an equally valuable advantage. Game Masters should not reward the loss of an advantage through player negligence.
+
+=== Disadvantages
+
+There are also two methods for permanently overcoming a disadvantage: (1) The player pays 10 times the die code of the disadvantage. (2) The player loses an equal number of advantages and pays a number of Character Points equal to the die code of the disadvantage. As with advantages, the player must have a good tale and adequate adventuring experience before the Game Master should approve the loss of any disadvantage.
+
+_Example:_ If a character had Equipment (R3), he might also have a Rank 3 disadvantage tied to it. If the character can get rid of the equipment (which he might not be able to do in some settings — a cursed sword or a cybernetic spine, for example), then the disadvantage goes away.
+
+When a player wishes to add another disadvantage to her hero, she receives an immediate bonus for this choice if she isn’t using the disadvantage to help her get a new advantage. For the new disadvantage, the character receives a number of Character Points equal to 3 times the die code of the disadvantage. However, the hero now has a new limitation to contend with!
+
+=== Special Abilities
+
+Unless the Game Master decides to reward a character with a special ability, it costs 5 times the sum of the special ability’s base cost plus the current number of ranks in Character Points — and a really good excuse — to acquire or improve a special ability after character creation. A character may improve a special ability by only one rank after each adventure, unless there is some compelling reason to allow otherwise. Game Masters may disallow increases in special abilities if they feel the reason for the improvement isn’t good enough.
+
+_Example:_ A character has Accelerated Healing at Rank 1. She decides to spend some time in a monastery, learning how to improve it. The cost in Character Points to increase her special ability to Rank 2 is 16 (5 times the sum of the base cost of 3 plus the current rank of 1).
+
+Characters can have their special abilities weakened and occasionally even lose them entirely, and they get no reward for this. In other circumstances, the character could wish to use all his mental and spiritual resources to defeat an otherwise unstoppable force.
+
+In these instances, by sacriﬁcing one rank in a special ability, a character receives in Character Points 2 times the base cost of the special ability. If the player wants to remove completely a special ability from the character, however, he reduces the special ability to one rank, receiving Character Points for each rank lost, as above. In sacriﬁcing the ﬁnal rank of the special ability, the character receives in Character Points 7 times the initial cost of the special ability. Costs of enhancements and limitations are ignored. The character also, of course, loses all enhancements and limitations associated with that special ability when he permanently sacriﬁces it. (Getting the special ability back requires the character to spend Character Points for it as a new special ability.)
+
+The act of losing special abilities does not typically count as an action. Even so, some circumstances may justify a Moderate willpower roll or the character’s complete concentration for a full round to simulate the character summoning his deep inner resources.
+
+The player can combine losing special abilities with gaining special abilities to simulate an event that alters the character’s extraordinary abilities completely. In this case, if the Game Master accepts the player’s explanation, simply trade the hero’s current special abilities for Character Points and spend them on the desired new special abilities.
+
+=== Gaining and Losing Special Ability Enhancements and Limitations
+
+It is possible for a character to gain or lose control over a special ability, beyond what increases in skill and special ability rank allow. Unlike advantages and disadvantages, special ability enhancements and limitations are fundamental to a special ability’s manifestation in a character or item. Enhancements and limitations must be purchased or overcome with Character Points, representing the character’s greater understanding of the special ability. Also, the Game Master may not allow some limitations to be bought off without an excellent plot-related explanation, especially if the limitation is physical in nature. Unless the enhancement or limitation relates to the character’s understanding of the special ability, such as many Minor Stigmas, a reasonable explanation of how the special ability has changed is also required.
+
+Gaining a new enhancement costs 8 times the desired rank times the base cost of the enhancement in Character Points. Although most enhancements have several possible ranks that can be purchased in stages, common sense should apply. A special ability may obtain new levels for the same enhancement, but the nature of previously added enhancements cannot be altered, unless the enhancements are removed.
+
+_Example:_ An enhancement that provides an additional effect must be purchased at the full cost of each desired effect. A player could not, for instance, buy the one rank of energy sustenance for Attack Resistance, and then later spend more Character Points to increase the enhancement rank and change it to attack reﬂection. However, a character with an additional effect of stickiness on the Natural Ranged Weapon special ability could purchase additional ranks of the enhancement.
+
+Eliminating a limitation costs 10 times the die code of the limitation in Character Points. As with enhancements, it is possible to buy off a limitation in stages, if the stages are related. The Debt limitation probably couldn’t be bought down one level at a time, but a Flaw with multiple ranks could be, if the Narrator allowed. The Game Master may disallow buying off certain variations of limitations because they are inextricably tied to the related special ability.
+
+A character can also remove an enhancement or acquire a limitation after character creation. A character who purposely removes an enhancement from a special ability receives 4 times the rank times the base cost of the enhancement in Character Points. The character can’t rely on the enhancement until the player buys it again. A character who takes a limitation for a special ability after character creation gains 5 times the rank times the base cost of the limitation in Character Points. Since it is unlikely (though not impossible) that a character would do either of these deliberately, the player must come up with a reasonable explanation for how the special ability has become less useful. Again, the Game Master may take away enhancement or limitations based on the adventure situation and does not necessarily have to award points for it.

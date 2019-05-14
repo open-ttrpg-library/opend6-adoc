@@ -1,1 +1,791 @@
-= Basic ship design
+= Basic Ship Design
+
+This chapter offers a simple ship design system to get you started on creating your own space-faring vessels, including three example ships.
+
+=== Using the Ship Design System
+
+The first order of business in making a spaceship is deciding on the ship’s purpose. Will it be a small in-system shuttle craft, or a cargo freighter? From this, you can jot down a few ideas on crew complement, number of passengers, cargo space, types of drives, armor, and weapons. Then, with notes in hand and a copy of the Ship Design Log (found at the end of this chapter), go through each section, marking your decisions on the log. The worksheets on the right side of the page can help you figure out the final totals for various important aspects of the ship.
+
+=== Freeform Ship Design
+
+If you think this sort of ship design is too rigid, you should feel free to ignore the mathematics and choose whatever options you decide best meet the concept of the ship you have in mind. (If you’re a player, you should get your Game Master’s permission before attempting this — just in case she has some other ideas in mind.)
+
+=== Determining the Price Difficulty
+
+After you have found the total cost of all components you’re including in the ship, divide the number by 10,000 (round up) and add 20 to determine the price difficulty.
+
+=== Shape and Size
+
+For purposes of introducing this system, all ships are ellipsoid, or flattened egg-shaped, vessels several meters deep and about twice as long as they are wide. Using a system of modules with defined area, you can create just about anything from a fighter to a pleasure yacht. A nearly infinite number of variations on putting modules together exists, and those who become comfortable with designing basic models should move on to adding complexity to their creations.
+
+All ships have inertial compensators. These incredibly sturdy machines placed throughout a ship’s hull exert a strong but shortwaved gravity field in the area. This keeps the ship from being torn apart whenever the pilot makes high-g turns — and it makes life a lot easier for the crew as well. Perceived gravity is simply an extra function of the system that simulates normal Human gravity forces (things will fall toward the floor area when you drop them).
+
+For ellipsoid vehicles, add together the number of area units of all of your modules and divide by 2. Should you wish to arrange your modules in some other fashion, use graph paper and designate each square as one meter on a side. Arrange your modules however you wish, making sure that each one takes up the required number of units and that each module connects directly to another module. Count the squares from one end to another to determine the length.
+
+=== Module Descriptions
+
+Using this modularized list, you should be able to quickly create a ship that suits the needs of your crew and any passengers. Each square meter of the vessel’s interior is assumed to be three meters high — enough room for most sentient species to stand upright (this, by the way, includes ceiling and floor panels, cables, and conduits, so the actual “open space” is a little less — about 2.5 meters).
+
+Figure that each square meter of life-supported area masses one half of a metric ton. This approximation is a good average between empty areas (which should have very little mass) and more complex areas like the heating and cooling, oxygen and water recycling, and food-producing equipment.
+
+If you need larger area, simply buy the module several more times to accommodate the desired number of people. For instance, some ships will want a bridge large enough for the entire crew. If the number of crewmen is five, then buy the standard bridge five times.
+
+Buying additional modules also serves as a good way to increase the luxuriousness of your vessel. The modules described herein are created with the least amount of wasted space possible. If you want your crew to have plenty of area to move around and stretch their legs, simply design the ship as if you wanted to support more people. For instance, you could buy two “one-person rooms” to make a single “state room” with a couch, chair, personal entertainment system, etc.
+
+The accompanying table lists each type of module, the number of people it supports, the number of area units it requires, its mass, and its cost. All figures are per inclusion of that type of module.
+
+=== Life Support Equipment
+
+The modules do not include supplies (just the hardware); the ship’s owner needs to purchase them separately. The accompanying chart provides information about the cost of supplies. Initial installation costs five credits per 0.2 area added.
+
+To get the correct figure for breathable atmosphere, add the number of people that the total number of modules support (regardless of whether people will be in those rooms all of the time), then multiply that by the values for the breathable atmosphere unit. Multiply this by the number of months’ worth of atmosphere needed.
+
+For food processing, multiply the number of people in the crew plus the maximum number of additional passengers (not the total number of people the modules could hold) by the values for the food processing unit. Multiply this by the number of months’ worth of food required.
+
+The exact nature of the breathable atmosphere and food depends on the type of crew the ship has.
+
+=== Life-Supporting Modules
+
+Airlock: The airlocks on cargo freighters and the like are generally provided so that a crew can go extra-vehicular without forcing everyone inside to put on environmental suits. Most are little more than two meters square and are sealed with doors of the same basic Toughness as the ship itself. Note that airlocks are not designed to be lived in — they can hold and support up to five people (per unit), but they do not provide food and water or sleeping areas.
+
+Bridge/Duty Station: The standard bridge or duty station contains a cushioned swivel chair bolted to the floor with a computer interface and display panel in front of it. Additional duty stations may be included by adding this module for the appropriate number of people.
+
+The captain commands the ship’s crew from the bridge. In ships with only one crew, the captain serves all duties and runs the entire ship from the bridge. In larger ships, the duty stations that control various functions (such as sensors or weapons) may be within the bridge, scattered throughout the ship, or both.
+
+Most bridges and duty stations come with rations of food and water (in processors) for crew members who want to live or spend considerable time at their station. The chairs recline slightly so that the crew can sleep at their stations.
+
+Bridge/Duty Station Upgrades to Sensors and Communications: Even the most primitive spaceships have some sort of sensor equipment — even if that equipment amounts to a window. In most cases, the ship has scanners and programs of differing quality. Similarly, a ship’s communication equipment can vary greatly depending on the components installed.
+
+The bridge and duty stations come with basic equipment that gives no aid to the user’s basic abilities. Sensors and communication equipment take up no additional space (it’s already figured into the design), but they do require a bridge or duty station module. To provide better sensor or processing programs, see “Module Upgrades” later in this chapter.
+
+Bunks, Communal: These are four bunks stacked two high with a minimum of space between each set. The room also features a single toilet room and a sectional storage cabinet for personal effects on the opposite side. The room has ration processors.
+
+Coldsleep Module: Coldsleep modules are self-contained, selfpowered, computer-regulated “sleeper-coffins.” A unit of cold-coffins can usually operate for 25 years after the ship’s power is shut down. The beds provide nutrients (at a reduced rate) directly into the sleeper’s system.
+
+Hallway: Purchased in one-meter-square increments, some ships use hallways to separate various rooms and allow their occupants or users privacy from others moving about the ship.
+
+Infirmary: This fully equipped two-bed hospital has an array of medications and medical equipment, including computerized health monitors and equipment for performing surgeries.
+
+Lounge, Basic: The basic lounge is simply a long table and chairs for the crew with a little space to stretch or have discussions. It does not include entertainment systems or the like, though there is room to mount small units in the walls if desired. Food processing is standard.
+
+Lounge, Deluxe: As above but the deluxe lounge includes audio and visual entertainment system, snack processor, and any other amenities the crew desires.
+
+Passenger Seating: This area contains four seats designed to hold passengers for short hops (less than 10 hours). The module also has a large view screen (the contents of which the captain controls), a limited snack dispenser, and a single-person toilet room. Room, Two-Person: This dormitory-style room contains two bunked beds, a single toilet room, two small desks, and two narrow lockers. Food processors are standard. Noncoms usually share twoperson rooms.
+
+Room, One-Person: As above but designed for a single person. Officers, the captain, or high-ranking crew who spend a lot of time on board usually have a room of their own.
+
+Workroom: This is a generic term for any sort of area dedicated to such things as repair rooms, kitchens (for nonprocessed food), or even laundry services. Note that the number of people is the amount of persons that can reasonably work in this area, though it may service many, many more. Workrooms are sometimes equipped with food processors and sleeping areas (especially on independent ships), though this is not standard (the cost remains, however, virtually the same).
+
+*Life-Supporting Modules*
+
+*Module*
+
+*# of People*
+
+*Area Units*
+
+*Mass (tons)*
+
+*Cost*
+
+Airlock
+
+5
+
+4
+
+2
+
+300
+
+Bridge
+
+1
+
+4
+
+2
+
+100
+
+Bunks, communal
+
+5
+
+20
+
+10
+
+900
+
+Coldsleep module
+
+1
+
+1
+
+0.5
+
+200
+
+Infirmary
+
+3
+
+18
+
+9
+
+1500
+
+Lounge, basic
+
+5
+
+30
+
+15
+
+1500
+
+Lounge, deluxe
+
+5
+
+36
+
+18
+
+3000
+
+Passenger seating
+
+4
+
+6
+
+3
+
+300
+
+Room, one-person
+
+1
+
+10
+
+5
+
+500
+
+Room, two-person
+
+2
+
+14
+
+7
+
+700
+
+Workroom
+
+5
+
+10
+
+5
+
+3000
+
+*Life Support Equipment*
+
+*Equipment*
+
+*# of People*
+
+*Area Units**
+
+*Mass (tons)*
+
+*Cost*
+
+Breathable atmosphere (per month)
+
+1
+
+0.2
+
+0.1
+
+100
+
+Food processor (per month)
+
+1
+
+0.2
+
+0.1
+
+100
+
+*When determining area of life support equipment, multiply 0.2 by the number of units (any combination), rounding down. It’s otherwise integrated into the life-supporting modules.
+
+== Cargo Modules
+
+Cargo space covers all extra open areas within a spaceship. This includes areas for portage and equipment, parking for vehicles or small ships, and so on. Life support must be purchased separately, at a rate equivalent to one person for every four area units (round up).
+
+Basic sections: They may have walls, doors, and power couplings, but basic sections are mostly designed for holding large amounts of everchanging goods in many different sizes and masses. Most freighters and interplanetary haulers have thousands of tons of basic cargo space.
+
+Segmented: This cargo space is generally designed for ships that will be hauling the same kinds of cargo repeatedly. Ships that haul livestock, vehicles (that don’t require power), or other stock most often have segmented cargo compartments. When building a ship, the designer should be able to divide up the cargo area as he sees fit, within reason. This can include multiple gantries and walkways, cranes and lift systems, etc. Automated systems for off loading and more sophisticated devices will have to be paid for, but portable lifts and simpler equipment are standard.
+
+Specialized: These cargo areas include vehicle launch platforms, hangars, automatic ammo bays, or any other space dedicated to a specific function. These are by far the most complex and costliest cargo spaces, and always include multiple power coupling systems, terminals connected to the ship’s computer, and any other amenities that contribute to the section’s purpose..
+
+Bulk Space (basic): Empty cargo areas are termed bulk space. They include simple power outlets and cables for bolting down stock.
+
+Hangar (specialized): A hangar holds a fighter-sized craft and takes up about 60 cubic meters. It includes room for minor maintenance.
+
+Launch Bay (specialized): This bay can launch a single ship at a time and takes up 255 cubic meters. It includes flight control booths, terminals, guidance systems, exterior doorways, and all other devices necessary to send and receive spacecraft.
+
+Livestock Bay (segmented): Ten large animals (up to half a ton each) can live comfortably in this 90-cubic-meter bay. This includes perceived gravity and atmospheric controls.
+
+Pod Bay (specialized): An escape pod, which can hold up five people, takes up about 12 cubic meters of space with all of its dedicated terminals and rescue-courier launchers. The escape pod includes a distress beacon and enough food and breathable atmosphere to keep the occupants alive for six weeks. It has not controls. (Food and breathable atmosphere need on be purchased separately, and they cannot be upgraded.)
+
+Vehicle Bay (specialized): This is a small (24 cubic meters) garage designed to house and secure a normal-sized land vehicle. The crew should buy additional tools and fuels as desired.
+
+*Cargo Modules*
+
+*Module*
+
+*Area Units*
+
+*Mass (tons)*
+
+*Cost*
+
+Bulk Space
+
+1
+
+0.5
+
+25
+
+Hangar (1 fighter)
+
+20
+
+24
+
+6000
+
+Launch Bay (1 fighter)
+
+85
+
+103
+
+25000
+
+Livestock Bay (10 animals)
+
+30
+
+39
+
+9100
+
+Pod Bay (1 pod)
+
+4
+
+5
+
+1200
+
+Vehicle Bay
+
+8
+
+5
+
+600
+
+== Energy Unit Requirements
+
+Add together the total metric tonnage of the modules, including the tonnage from life-support equipment. Divide this number by 5 and round up. This is the number of energy units these areas need to filter and recycle oxygen, provide heat and light, and generate artificial and perceived gravity.
+
+== Module Upgrades
+
+Ships can offer a variety of computer programs that enhance their crew members’ innate skills. Likewise, workrooms and vehicle bays may have built-in equipment to help with maintenance, diagnostics, or whatever function the room is designed to serve. These upgrades give their users a +1 pip bonus to the relevant skill use with an installation cost of 500 credits and a energy unit draw of one per pip. (Remember that a bonus of three pips equals a bonus of +1D.)
+
+Those with neural-jacked crew can accommodate them by including a cyber interface. For a cost of 2,000 credits per interface, this allows a character with a neural jack to directly connect to the computer. The captain may restrict access to select users.
+
+== Drives
+
+Drives power the ship and move it through space, however the Game Master wants to describe the technology. Ships have two types of drives: in-system (or sublight) and interstellar.
+
+=== *In-System Drives*
+
+Though the bulk of the in-system drive is housed in a single section of the ship, a series of maneuvering jets and retros along the ship allow it to turn in frictionless space. A basic system provides 0D in Maneuverability. Better or additional thrusters increase the Maneuverability. Each thruster takes up 0.5 area units and weighs one ton, whether additional or upgrading an existing one. Each unit or upgrade costs 300 credits. They must be bought in pairs. Each set or improvement adds one pip to the Maneuverability rating, with an energy draw of two units. (Remember that there are three pips in one die.)
+
+The smallest in-system drive covers five area units, has a mass of five metric tons, and has a cost of 6,000 credits. It gives a space Move of one space unit per round with an energy unit draw of three. It provides 25 energy units to the ship. (This does not include the Move energy requirements; those are taken from this pool.) For each additional Move increase of 1, the cost goes up by 1,000 credits and the energy requirement goes up by three. Adding more power increases the size by one additional area unit and two additional tons for each extra 15 energy units, with a cost increase of 2,000 for each upgrade. Improving the power of the drive does not increase the Move.
+
+=== Atmospheric Capability
+
+A ship’s atmospheric speed generally equals its capabilities in space. To determine the base atmospheric Move, multiply the ship’s space Move by 50. Then use the table to translate that value to kilometers per hour. Find the closest atmosphere speed to get the corresponding number of kilometers per hour. Game Masters may decide that ships over a certain number of modules may never enter the atmosphere.
+
+*Atmosphere Movement Rate*
+
+*Atmosphere Move*
+
+*Kilometers per Hour*
+
+50
+
+130
+
+100
+
+260
+
+150
+
+430
+
+200
+
+560
+
+250
+
+750
+
+300
+
+850
+
+350
+
+1000
+
+400
+
+1150
+
+450
+
+1300
+
+500
+
+1450
+
+550
+
+1600
+
+600
+
+1750
+
+650
+
+1850
+
+700
+
+2000
+
+750
+
+2150
+
+800
+
+2300
+
+=== Interstellar Drives
+
+Perhaps the least understood and most internally valuable of a starship’s components is its interstellar drive. This drive allows spacefaring vessels to make the miraculous leaps of distance that can shape the universe. Some Game Masters may disallow these drives, preferring instead to focus adventures on a single system. For everyone else, here are guidelines for adding them to the ship.
+
+The interstellar drive must be located next to the in-system drive, because the interstellar drive is actually an extension of that system, drawing on the same power source but using it in a vastly different way (one determined by the Game Master). Interstellar drives are ranked by ratings. Interstellar drives with low rating numbers increase the amount of time it takes to reach a destination, while high ones decrease it. The lowest rating a ship with an interstellar drive can have is 0.1. It costs 5,000 credits. It takes up two area units, with a mass of five tons and an energy requirement of 10. For each additional 0.1 in rating, add one area unit, three tons of mass, 10 energy units, and 5,000 credits to the price.
+
+== Weapons
+
+Nearly every ship the players’ characters encounter in a science-fiction universe has intership weapons on board. Indeed, most space-faring vessels of any significant tonnage at all have at least one weapon built in. Ship weapons are huge versions, in most cases, of personal and heavy weapons. The list provides a few of the most common kinds.
+
+Use the accompanying chart for various game characteristics for some common weapons. The weapon’s arc (forward, port side, starboard side, or rear) needs to be designated. A weapon can be swivel mounted, for an extra 200 credits and one additional energy unit per additional fire arc (so, to fire in four directions costs 600 credits — three extra arcs — and another three energy units).
+
+A ship’s computer can aid with firing a weapon. See the “Modules Upgrade” section for details on improving the ship’s computer. Note that weapons cannot lock on anything less than one space unit away from the targeting vessel.
+
+=== Tractor Beam
+
+A tractor beam allows one ship to pull another one closer to it. (A small ship can pull itself closer to a large one, while a large one can pull a smaller one in.) It costs 8,000 credits to install the base module, which takes up seven area units, draws 10 energy units, and offers a tractor beam “damage” of 2D. For each additional +1D to the beam, add 4,000 credits, another seven area units, and another 10 energy units.
+
+*Weapons*
+
+*Type*
+
+*Area Units*
+
+*Mass*
+
+*Energy*
+
+*Cost*
+
+*Ammo*
+
+*Range (space units)*
+
+*Damage*
+
+Blaster cannon, small
+
+1
+
+2
+
+13
+
+10000
+
+–
+
+08/25/40
+
+3D+2
+
+Laser cannon, medium
+
+2
+
+6
+
+13
+
+15000
+
+–
+
+03/12/25
+
+7D
+
+Torpedo launcher
+
+2
+
+3
+
+2
+
+5000
+
+1
+
+01/03/07
+
+9D
+
+Tractor beam projector
+
+7
+
+15
+
+10
+
+8000
+
+–
+
+05/15/30
+
+2D
+
+Note: Replacement torpedoes cost 1,000 credits; they have negligible mass.
+
+== Hull
+
+Once you’ve figured out where everything’s going, you’ll need to put walls around your collection of modules. Adding a hull does not increase the vehicle’s size, but it does up its mass.
+
+The mass of the bulkheads equals half the mass of the modules for life support, cargo, life support, drives, and weapons combined (round up). To figure out the cost of the bulkheads, multiply the bulkhead mass by 500 credits.
+
+Then, use the bulkhead’s mass to determine its base Toughness by reading the figure on the accompanying chart. Round the number of kilograms down when figuring hull toughness. A ship with a hull mass of 105 tons has a hull Toughness of 2D+2, not 3D.
+
+*Hulls*
+
+*Mass (metric tons)*
+
+*Toughness*
+
+*Cost per Extra Armor Pip*
+
+10
+
+1D
+
+1000
+
+15
+
+1D+1
+
+1500
+
+25
+
+1D+2
+
+2500
+
+40
+
+2D
+
+4000
+
+60
+
+2D+1
+
+6000
+
+100
+
+2D+2
+
+10000
+
+150
+
+3D
+
+15000
+
+250
+
+3D+1
+
+25000
+
+400
+
+3D+2
+
+40000
+
+600
+
+4D
+
+60000
+
+1000
+
+4D+1
+
+100000
+
+1500
+
+4D+2
+
+150000
+
+2500
+
+5D
+
+250000
+
+4000
+
+5D+1
+
+400000
+
+6000
+
+5D+2
+
+600000
+
+10000
+
+6D
+
+1 million
+
+15000
+
+6D+1
+
+1.5 million
+
+25000
+
+6D+2
+
+2.5 million
+
+40000
+
+7D
+
+4 million
+
+100000
+
+7D+1
+
+10 million
+
+150000
+
+7D+2
+
+15 million
+
+250,000 or more
+
+8D
+
+30 million
+
+== Armor
+
+Adding armor to the hull means riveting plates on the outside, using better materials for the exterior, reinforcing bulkheads, and improving the supports. Use the “Hulls” chart to determine how much each additional pip of armor costs. The maximum amount of armor a ship can have equals the hull Toughness. (Remember that there are three pips in one die.) Armor draws no energy. It add a number of kilograms equal to its cost.
+
+Hull armor (which includes the structure of the ship) needs to be repaired — or, more likely, replaced — when it is damaged.
+
+== Shields
+
+Space vessel shields work very much like hull armor, but have an additional advantage — unless the whole system is blown away, they will usually only need to be fitted with a few new components. Enough damage can overload them, however; see the “Ship Travel” chapter for details.
+
+Energy shields are cyclotronic magnetic “bottles” that surround a ship. The units work in conjunction to form this bubble.
+
+The shield module costs 1.5 times the cost for adding armor, per pip, but there is no maximum. (A three-pip increase equals one die.) They have an energy requirement of one unit per pip. Divide the cost by 10,000 to get the number of tons and by 20,000 (round up) to get the number of area units.
+
+Shield modules do not add to the ship tonnage when determining the hull Toughness.
+
+== Example Ships
+
+In these descriptions, “areas” refers to area units, “eu” stands for “energy units,” and “cr” means “credits.”
+
+=== In-System Defender
+
+In one form or another, nearly every high-tech worlds have these small ships darting about their planets or battlecruisers.
+
+Modules (10 energy units)
+
+Life Supporting: bridge (4 areas, 2 tons, 100 cr); upgrades: sensors +1D (1,500 cr), comm +1D (1,500 cr), gunnery +1D (1,500 cr); no food processor; 1 oxygen unit (0.1 tons, 1-month supply, 100 cr)
+
+Cargo Bay: 0
+
+In-System Drive (9 areas, 13 tons, 21,000 cr)
+
+Move: 8 (space), 400 (atmosphere, 1,150 kph), 24 eu
+
+Maneuverability: +2D (12 eu, 3 areas, 6 tons, 1,800 cr)
+
+Energy Units: 85
+
+Interstellar Drive: none
+
+Weapons (26 eu, 2 areas, 4 tons, 20,000 cr) 2 small blaster cannons (each: damage 3D, range 8/25/40, forward arc)
+
+Hull Toughness: 1D (13 tons, 6,500 cr)
+
+Armor: 0
+
+Shields: +2D (6 eu, 1 area, 0.9 tons, 9,000 cr)
+
+Length: 9.5 meters
+
+Total Tonnage: 39
+
+Crew: 1
+
+Passengers: 0
+
+Total Cost (new): 61,500 credits/Price Difficulty: 27
+
+=== Light Freighter
+
+The workhorse of the mercantile industry, light freighters make short runs between established and colony worlds. Add some nice paint to the interior and a flashy name, and this sample ship serves well as a small yacht. Stock the ship with survey equipment and long-term supplies, and it becomes a scout ship.
+
+Modules (24 energy units)
+
+Life Supporting: bridge (4 areas, 2 tons, 100 cr) with gunnery +1 (500 cr); duty station (4 areas, 2 tons, 100 cr) with sensors +1D+1 (2,000 cr); duty station (4 areas, 2 tons, 100 cr) with comm +2 (1,000 cr); 2 two-person rooms (28 areas, 14 tons, 1,400 cr), 1 one-person room (10 areas, 5 tons, 500 cr); basic lounge (30 areas, 15 tons, 1,500 cr) with food processor (6 areas, 3 tons, 6-month/5-person supply, 3,150 cr); 13 oxygen units (15 areas, 7.8 tons, 6-month supply, 78,390 cr)
+
+Cargo: bulk (25 areas, 12.5 tons, 625 cr) with 7 breathable atmosphere units (8 areas, 4.2 tons, 6month supply, 4,410 cr)
+
+In-System Drive (12 areas, 19 tons, 26,000 cr)
+
+Move: 7 (space), 350 (atmosphere, 1,000 kph), 21 eu
+
+Maneuverability: 0
+
+Energy Units: 130
+
+Interstellar Drive: 0.5 (50 eu, 9 areas, 17 tons, 25,000 cr)
+
+Weapons (16 eu, 1 area, 2 tons, 20,600 cr) 1 small blaster cannon (damage 3D, range 8/25/40, on top-mounted turret with four arcs)
+
+Hull Toughness: 2D (53 tons, 26,500 cr)
+
+Armor: 0
+
+Shields: +1D (3 eu, 1 area, 1.8 tons, 18,000 cr)
+
+Length: 78.5 meters
+
+Total Tonnage: 161.2
+
+Crew: 3
+
+Passengers: 2
+
+Total Cost (new): 209,875 credits/Price Difficulty: 41
+
+=== Shuttlecraft
+
+Used for short jaunts between planets and space stations and other orbiting vessels, shuttlecraft can transport people and cargo safely, even if not comfortably. Add an additional small blaster cannon and improve the sensors, and this small ship works well for asteroid mining.
+
+Modules (3 energy units)
+
+Life Supporting: bridge (4 areas, 2 tons, 100 cr) with gunnery +1 (500 cr); duty station (4 areas, 2 tons, 100 cr) with sensors +2 (1,000 cr) and comm +2 (1,000 cr); passenger area with seating for 8 (12 areas, 6 tons, 600 cr) with food processor (2 areas, 1 ton, 1-month/10-person supply, 1,000 cr); 10 oxygen units (2 areas, 1 tons, 1-month supply, 1,000 cr)
+
+Cargo: bulk (10 areas, 5 tons, 250 cr) with 3 breathable atmosphere units (0.3 tons, 1-month supply, 300 cr)
+
+In-System Drive (7 areas, 9 tons, 13,000 cr)
+
+Move: 7 (space), 350 (atmosphere, 1,000 kph), 21 eu
+
+Maneuverability: 0
+
+Energy Units: 55
+
+Interstellar Drive: none
+
+Weapons (13 eu, 1 area, 2 tons, 20,000 cr) 1 small blaster cannon (each: damage 3D, range 8/25/40, forward arc)
+
+Hull Toughness: 1D+2 (15 tons, 7,500 cr)
+
+Armor: 0
+
+Shields: +2 (2 eu, 1 area, 0.45 tons, 7,500 cr)
+
+Length: 21.5 meters
+
+Total Tonnage: 43.75
+
+Crew: 2
+
+Passengers: 8
+
+Total Cost (new): 53,850 credits/Price Difficulty: 26

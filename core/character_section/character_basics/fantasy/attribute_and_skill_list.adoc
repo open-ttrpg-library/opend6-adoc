@@ -1,1 +1,151 @@
-= Attribute and skill list
+= Fantasy Attribute and Skill List
+
+=== Attributes
+
+The following six attributes are Normal attributes for a fantasy setting with a focus on action and adventure.
+
+*Agility:* An indication of balance, limberness, quickness, and full-body motor abilities.
+
+*Coordination:* A quantification of hand-eye coordination and fine motor abilities.
+
+*Physique:* An estimation of physical power and ability to resist damage.
+
+*Intellect:* A measure of strength of memory and ability to learn.
+
+*Acumen*: Your character’s mental quickness, creativity, and attention to detail.
+
+*Charisma:* A gauge of emotional strength, physical attractiveness, and personality.
+
+=== Skills
+
+*Agility*
+
+*acrobatics:* Performing feats of gymnastics, extraordinary balance, and dance (and related performance arts), as well as breaking falls. Useful for running obstacle courses or doing courtly promenade.
+
+*fighting:* Competence in unarmed combat.
+
+*climbing:* Scaling various surfaces.
+
+*contortion:* Escaping from otherwise secure physical bonds by twisting, writhing, and contorting the body.
+
+*dodge:* Slipping out of danger’s way, whether avoiding an attack or a sprung booby trap.
+
+*flying:* Maneuvering under one’s own power (such as with wings).
+
+*jumping:* Leaping over obstacles.
+
+*melee* *combat:* Wielding hand-to-hand weapons.
+
+*riding:* Controlling and riding domesticated mounts.
+
+*stealth:* Moving silently and avoiding detection, whether through shadows or crowds.
+
+*Coordination*
+
+*charioteering:* Accelerating, steering, and decelerating chariots (in particular) or any kind of cart-and-animal vehicle.
+
+*lockpicking:* Opening a mechanical lock without possessing the key or combination.
+
+*marksmanship:* Shooting any kind of mechanical device — such as a bow or sling — that projects missiles across a distance.
+
+*pilotry:* Operating any water-faring vehicle, including steering, applying the oars, or managing the sails.
+
+*sleight* *of* *hand:* Nimbleness with the fingers and misdirection, including picking pockets, palming items, and stage magic.
+
+*throwing:* Hitting a target accurately with a thrown item, including stones, javelins, bottles, and knives. Also used for catching thrown items.
+
+*Physique*
+
+*lifting:* Moving or lifting heavy objects, as well as representing the ability to inflict additional damage with strength-powered weapons.
+
+*running:* Moving quickly on the ground while avoiding obstacles and keeping from stumbling.
+
+*stamina:* Physical endurance and resistance to pain, disease, and poison.
+
+*swimming:* Moving and surviving in a liquid medium.
+
+*Intellect*
+
+*cultures:* Comprehension of customs, traditions, art, history, politics, and views on outsiders of various regions or groups, as well as the ability to generalize about common cultural forms.
+
+*devices:* Using and designing complex mechanical equipment. Actually building items requires crafting.
+
+*healing:* Dressing wounds, applying splints, and disinfecting injuries, plus an understanding and application of medical procedures, such as diagnosing illnesses and performing surgery.
+
+*navigation:* Determining the correct course using external reference points, such as stars, maps, or landmarks, as well as creating maps.
+
+*reading/writing:* Familiarity with and ability to understand various forms of written communication, as well as the ability to create literary compositions, including forging papers and identifying such forgeries. Characters do not begin with the ability to read or write.
+
+*scholar:* This skill represents knowledge and/or education in areas not covered under any other skill (such as alchemy, cooking, arcane lore, etc.). This may be restricted to a specific field (represented by specializations) or a general knowledge of a wide range of subjects. It is used to remember details, rumors, tales, legends, theories, important people, and the like, as appropriate for the subject in question. However, the broader the category, the fewer the details that can be recalled. It covers what the character himself can recall. Having another skill as a specialization of the scholar skill means that the character knows the theories and history behind the skill but can’t actually use it. Scholar can be useful with investigation to narrow a search for information.
+
+*speaking:* Familiarity with and ability to understand various forms of verbal communication. Characters know the Trade Speech (assuming the setting has one) and one “native” language in which they have spoken fluency. Additional languages in which a character has proficiency can be represented by specializations of this skill.
+
+*trading:* Knowledge of business practices, exchange rates, the monetary value of goods and opportunities, and other information regarding barter and sales, including the ability to determine how to make money with another skill the character has. Trading can complement bluff, charm, and persuasion when haggling over prices for goods and services being bought or sold.
+
+*traps:* Installing, altering, and bypassing security devices, as well as identifying various kinds of traps (gas, pit, wire-triggered, etc.).
+
+*Acumen*
+
+*artist:* Making works of art, like paintings, music compositions, and dance choreographies.
+
+*crafting:* Creating, fixing, or modifying equipment, weapons, armor, and vehicles, as well as woodworking, metalworking, constructing buildings, and the like.
+
+*disguise:* Altering features or clothing to be unrecognizable or to look like someone else. Also useful in acting performances.
+
+*gambling:* Playing and cheating at games of strategy and luck.
+
+*hide:* Concealing objects, both on oneself and using camouflage.
+
+*investigation:* Gathering information, researching topics, analyzing data, and piecing together clues.
+
+*know-how:* Figuring out how to perform an action in which the character does not have experience, as well as a catch-all skill encompassing areas not covered by other skills (such as utilitarian sewing or cooking).
+
+*search:* Spotting hidden objects or people, reconnoitering, lipreading, or eavesdropping on or watching another person.
+
+*streetwise:* Finding information, goods, and contacts in an urban environment, particularly through thieves’ guilds and similar criminal organizations, black markets, and other illicit operations. Also useful for determining possible motives and methods of criminals.
+
+*survival:* Surviving in wilderness environments, including the ability to identify plants, animals, and their nutritional and medicinal uses.
+
+*tracking:* Following the trail of another person, animal, or creature, or keeping after a moving target without being noticed.
+
+*Charisma*
+
+*animal* *handling:* Controlling animals and making them perform tricks and follow commands.
+
+*bluff:* Lying, tricking, or deceiving others, as well as verbal evasion, misdirection, and blustering. Disguise can complement uses of this skill. Also useful in putting on acting performances.
+
+*charm:* Using friendliness, flattery, or seduction to influence someone else. Also useful in sales and bartering transactions, putting on performances (such as singing, acting, or storytelling), and situations involving etiquette.
+
+*command:* Effectively ordering and coordinating others in team situations.
+
+*intimidation:* Using physical presence, verbal threats, taunts, torture, or fear to influence others or get information out of them.
+
+*mettle:* Ability to withstand stress, temptation, other people’s interaction attempts, mental attacks, and pain. The Game Master may allow a specialization in a specific faith tradition or belief system to enhance many, though not all, applications of mettle.
+
+*persuasion:* Influencing others or getting information out of them through bribery, honest discussion, debate, diplomacy, or speeches. Also useful in negotiations, business transactions, storytelling, and oration.
+
+=== *Extranormal*
+
+The following two attributes are Extranormal attributes for a fantasy setting with a focus on action and adventure.
+
+*Magic*
+
+Magic is the ability to manipulate the paranormal forces of the universe for extraordinary effects.
+
+*alteration:* Casting spells involving change.
+
+*apportation*: Casting spells involving movement.
+
+*divination*: Casting spells involving knowledge.
+
+*conjuration*: Casting spells involving creation.
+
+*Miracles*
+
+Miracles is the ability to call upon a higher power for extraordinary effects.
+
+*divination:* Requesting divine aid to gain knowledge of the past, present, or future.
+
+*favor:* Requesting divine aid to help, improve, heal, or benefit someone or something.
+
+*strife:* Requesting divine aid to cause injury or destruction.

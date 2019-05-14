@@ -1,1 +1,421 @@
-= Character templates
+= Space Character Templates
+
+=== Occupation: Communications/Cultures Expert
+
+Species: Human
+
+Agility 2D+2
+
+Strength 2D+1
+
+Knowledge 3D
+
+Metaphysics 1D
+
+Mechanical 3D
+
+Perception 3D+2
+
+Technical 2D+1
+
+Funds 3D
+
+Credits 525
+
+Strength Damage 1D
+
+Move 10
+
+Body Points 26
+
+Fate Points 1
+
+Character Points 5
+
+Advantages: Cultures (R1), you have a knack for drawing parallels between known and unusual cultures.
+
+Disadvantages: Handicap: Trick Shoulder (R1), +1 to melee combat, climb/jump, and throwing difficulties.
+
+Special Abilities: None
+
+Equipment: Hand computer with communication link; data wands with information about numerous languages and cultures (+1D to aliens, cultures, and languages attempts); personal blaster (damage 3D; range 4/8/12; ammo 6) with 2 spare energy cells (ammo 6 each); cred-key.
+
+Description: With a shoulder that never quite worked correctly, you focused on the softer side of life, learning how find common ground with anyone, no matter what part of the galaxy they’re from.
+
+=== Occupation: Con Artist
+
+Species: Human
+
+Agility 3D+1
+
+Strength 2D
+
+Knowledge 3D
+
+Metaphysics 1D
+
+Mechanical 3D
+
+Perception 3D+2
+
+Technical 2D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Credits 525
+
+Strength Damage 1D
+
+Move 10
+
+Body Points 25
+
+Advantages: Equipment (R1), con game props add 2 to any con attempts when using them.
+
+Disadvantages: Quirk (R1), you tend to forget your cons are cons and sometimes get caught in your own lies.
+
+Special Abilities: None
+
+Equipment: Various decks of cards and manipulatable games of chances; Plastovar armor decorated to look like a flashy outfit (Armor Value +1D+1); personal blaster (damage 3D; range 4/8/12; ammo 6) with 1 spare energy cell (ammo 6); hidden holster; 1,000 credits in various types and denominations (not usable on all worlds); props for con games.
+
+Description: Life is an opportunity to be exploited to its fullest. You like to think of yourself as wandering the universe, revealing the wonders of the ages to the uniformed, hoping to move happiness from one corner of the galaxy to another.
+
+=== Occupation: Cyberchopper
+
+Species: Human
+
+Agility 3D+2
+
+Strength 3D
+
+Knowledge 2D+2
+
+Metaphysics 0D
+
+Mechanical 3D+1
+
+Perception 2D+1
+
+Technical 3D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Credits 525
+
+Strength Damage 2D
+
+Move 10
+
+Body Points 31
+
+Advantages: None.
+
+Disadvantages: Debt (R2), you need to pay protection to keep yourself out of prison; Enemy (R2), you’re a known cyberjacker and thief, suspected of worse crimes, and wanted by most police.
+
+Special Abilities: See cybernetics equipment.
+
+Equipment: SuperSight (Enhanced Sense: Sight (R1), +1 to sight-based rolls); cyberarm (Increased Attribute (R2), +2 to Strength with Limitation Ability Loss (R1), right arm only); blaster pistol (damage 5D; range 20/50/150; ammo 12) with 2 spare energy cells (ammo 12 each); med-kit with cybertools (+1D to medicine rolls and allows performance of Cybernetics surgery; includes spare supplies); cred-key.
+
+Description: You used to zipyank other steelskins and taking the goods back to the chopshop. Then the cutter got slagged, and they were gonna close you down. But you got new skills fast and now you’re the cutter.
+
+=== Occupation: Demolitions Expert
+
+Species: Human (mutant)
+
+Agility 3D
+
+Strength 3D
+
+Knowledge 2D+2
+
+Metaphysics 0D
+
+Mechanical 2D
+
+Perception 3D+2
+
+Technical 3D+2
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Credits 525
+
+Strength Damage 2D
+
+Move 10
+
+Body Points 32
+
+Advantages: None.
+
+Disadvantages: Quirk (R3), you’re talkative and every round you need to be quiet is a Very Difficult willpower roll (does not count as an action).
+
+Special Abilities: Fast Reactions (R1), +1D to Perception when determining initiative and get 1 additional action 3 times per adventure.
+
+Equipment: Malleable explosive with timing chips (damage 6D; 10 uses); syntheleather jacket (Armor Value +2 ); work laser tool (damage 1D); connecting wires; cred-key.
+
+Description: Something about your heritage makes you little different from other members of your species. Maybe it’s because you’re good at blowing things up, but others contend it’s because you talk too much.
+
+=== Occupation: Hard Warrior
+
+Species: Human
+
+Agility 4D
+
+Strength 4D
+
+Knowledge 2D+1
+
+Metaphysics 0D
+
+Mechanical 2D+2
+
+Perception 2D+2
+
+Technical 2D+1
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Credits 525
+
+Strength Damage 2D
+
+Move 10
+
+Body Points 35
+
+Advantages: None
+
+Disadvantages: None
+
+Special Abilities: None
+
+Equipment: Serrated combat knife (damage +1D+2) with compass in handle; plasteel breastplate (Armor Value +1D+2); makeshift greaves on arms and legs (Armor Value +1); medium semi-automatic (damage 4D; range 8/13/35; ammo 17); med-kit (+1D to medicine rolls; includes spare supplies); cred-key; miscellaneous supplies and keepsakes.
+
+Description: From war zone to gang to battlefield, you know nothing but fighting. You take the money to keep yourself in ammo and medical supplies, but you give no one loyalty except yourself.
+
+=== Occupation: Medic
+
+Species: Human
+
+Agility 2D+2
+
+Strength 2D+1
+
+Knowledge 3D+2
+
+Metaphysics 0D
+
+Mechanical 2D+1
+
+Perception 3D
+
+Technical 4D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Credits 525
+
+Strength Damage 1D
+
+Move 10
+
+Body Points 27
+
+Advantages: None
+
+Disadvantages: Quirk (R1), you can’t resist adding a little flair to anything you do.
+
+Special Abilities: Skill Bonus: Upbeat (R1), +1 bonus to bargain, con, and persuasion totals.
+
+Equipment: Med-kit (+1D to medicine first-aid attempts; five uses); personal blaster (damage 3D; range 4/8/12; ammo 6) with 2 spare energy cells (ammo 6 each); medical reader (+1D to medicine diagnostic attempts); cred-key.
+
+Description: With an irresistible personality, most people find it hard not to give you your way. That’s often come in handy with reluctant patients, especially the macho types with serious injuries.
+
+=== Occupation: Megacorp Contract Negotiator
+
+Species: Human
+
+Agility 3D+2
+
+Strength 2D
+
+Knowledge 3D+1
+
+Metaphysics 0D
+
+Mechanical 3D
+
+Perception 3D
+
+Technical 3D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Credits 525
+
+Strength Damage 2D
+
+Move 10
+
+Body Points 27
+
+Advantages: Cultures (R4), you’ve got extensive knowledge about many cultures, enough to help you fit in and make first contact go smoother; Patron (R4), your employer keeps you well informed and supplied.
+
+Disadvantages: Advantage Flaw (R1), your employer often lies to get you to take a job; Employed (R3), your employer dictates your assignments; Infamy (R2), you are well known and rarely well liked by those in other corporations and in many local space fleets; Quirk (R2), you’re a snob to people working for other corporations — unless you need them for something.
+
+Special Abilities: None
+
+Equipment: Slick-looking Plastovar suit (Armor Value +1D+1); medium semi-automatic (damage 4D; range 8/13/35; ammo 17) plus 2 extra clips (ammo 10 each); armored briefcase (damage resistance total 21) with blank contracts; cred-key; corporate contacts might help you get other items needed for the job at hand.
+
+Description: Working for a multi-planetary organization, your life is fast paced, complicated, and, aside from the steady pay, unpredictable. One day your negotiating a contract; the next you’re quelling a dispute.
+
+=== Occupation: Old Scout
+
+Species: Human
+
+Agility 2D+2
+
+Strength 2D+1
+
+Knowledge 3D+2
+
+Metaphysics 0D
+
+Mechanical 3D+2
+
+Perception 2D+2
+
+Technical 3D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Credits 525
+
+Strength Damage 1D
+
+Move 10
+
+Body Points 28
+
+Advantages: Ship (R4), you have the use of a space service ship.
+
+Disadvantages: Age (R1), you’re almost past your prime; Advantage Flaw (R3), your ship has problems — see the equipment description; Employed (R2), you only get the use of the ship while you remain in service.
+
+Special Abilities: Iron Will (R1), +1D to willpower rolls and +2 to default interaction difficulties.
+
+Equipment: Military scout ship (owned by the military; less-than-mint condition; on any Critical Failure with ship system, the ship shuts down and requires a repair roll for that system against a difficulty of 16 to get it running again); worn Plastovar armor (Armor Value +1D+1); laser pistol (damage 4D; range 25/75/150; ammo 15); standard comlink; standard enviro-suit; cred-key.
+
+Description: It seems like you’ve been a scout for years, with no an end in sight. You’re heartily sick of regs and reports, but you know you’d be worse off at a desk job or in the brig. You do your job just enough to keep from getting kicked out (and losing the few perks), but you concentrate on your many different “sidelines.”
+
+=== Occupation: Security Expert
+
+Species: Human
+
+Agility 3D
+
+Strength 3D
+
+Knowledge 3D+2
+
+Metaphysics 0D
+
+Mechanical 2D
+
+Perception 3D
+
+Technical 3D+1
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Credits 525
+
+Strength Damage 2D
+
+Move 10
+
+Body Points 29
+
+Advantages: None
+
+Disadvantages: Enemy (R1), you stumbled across some information you shouldn’t have (you’re not sure what), and someone wants to make sure you never reveal it; Advantage Flaw: Skills (R3), you must spend a round doing nothing else but concentrating before using your security, demolitions, or computer interface/repair skills (do not get preparing bonus).
+
+Special Abilities: Skill Minimum (R1), your skill totals for security, demolitions, and computer interface/repair will always be a minimum of 3 times the number before the D.
+
+Equipment: Hand computer with communication link, various connectors as well as data wands containing common security protocols and cracking programs (+1D to security and security regulations attempts); personal blaster (damage 3D; range 4/8/12; ammo 6) with 2 spare energy cells (ammo 6 each); cred-key.
+
+Description: You’ve always had a knack for breaking and entering — and preventing others from doing the same. Unfortunately, ever since you stumbled across someone’s deep, dark secret, you always get nervous before attempting any security procedures.
+
+=== Occupation: Technical Wiz
+
+Species: Human
+
+Agility 2D+2
+
+Strength 2D
+
+Knowledge 3D
+
+Metaphysics 0D
+
+Mechanical 3D
+
+Perception 3D+1
+
+Technical 4D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Credits 525
+
+Strength Damage 1D
+
+Move 10
+
+Body Points 25
+
+Advantages: None
+
+Disadvantages: Age (R1), you are slightly younger than typical, so people don’t always take you seriously.
+
+Special Abilities: Skill Bonus: Observant (R1), +1 to investigation, search, and sensors totals.
+
+Equipment: Repair and diagnostic kit (+1D to repair attempts; one use per skill); blaster pistol (damage 5D; range 20/50/150; ammo 12) with 1 spare energy cell (ammo 12); syntheleather jacket (Armor Value +2); cred-key.
+
+Description: Quick to spot and diagnose a problem, you can fix anything. You’re always looking for new jobs that can help you keep up on the latest technology or improve older versions.

@@ -1,1 +1,151 @@
-= Using skills
+= Using Skills
+
+At those times when there’s a chance that a character may fail at an action, that character must make a skill check. The player decides what she wants her character to do and which skill is best for accomplishing the task (sometimes with the help of the Game Master). The Game Master determines a suitable difficulty number, which the player must meet or beat by rolling the number of dice in the skill and adding the results.
+
+=== Untrained Skill Use
+
+If a character doesn’t have dice in the skill required to attempt an action, she generally may use the die code of the attribute under which that skill falls. This is sometimes referred to as defaulting to the attribute or using the skill untrained or unskilled. The Game Master may include an unskilled modiﬁer to the difficulty. This modiﬁer takes into account that people who aren’t trained or don’t have experience in certain tasks usually have a harder time doing them. Typically, this modiﬁer is +5, but it could be as low as +1 for simple tasks or much higher for complex plans. The Game Master may rule that some situations, such as building a spaceship or performing brain surgery, are impossible for anyone to attempt without the proper training and the correct skills.
+
+When attributes are given in the text along with the skill, such as in spell descriptions, resisting Wounds, and so on, do not apply the untrained modiﬁer. This also includes most uses of dodge and brawling in combat situations, attempts to ﬁnd clues in a room with search, and resisting interaction attempts or mental attacks with willpower.
+
+=== Alternate Attribute Option
+
+Sometimes it makes more sense to base a skill on a different attribute than the one it’s under by default. In such cases as the Game Master designates, subtract the skill value from the attribute value to get the number of skill adds. Then add those skill adds to the new attribute and roll away. Some example alternate skill-attribute combinations (and the reason for using each attribute) include:
+
+• Climbing, jumping, running, swimming: Physique for distance; Reﬂexes for obstacles.
+
+• Command: Presence for leading others; Knowledge for determining tactics.
+
+• Disguise: Perception for creating the disguise, especially on someone else; Presence for pulling off a disguise.
+
+• Flying: Physique for wings or to represent the physical strain of rapid movement; Reﬂexes for obstacles.
+
+• Medicine: Knowledge for information and diagnosing; Coordination for performing surgery.
+
+• Security: Knowledge for information and recognizing systems; Perception for installing systems.
+
+=== Related Skills
+
+In some situations, two or more skills seem to suit the task at hand. The Game Master can declare that only one is suitable for the current circumstances. Or he can choose the primary one and decides which other skills are appropriate secondary, or related, skills that the character can use to improve his chances with the primary skill. The Game Master sets difficulties for each skill. The character ﬁrst performs the related skills, and then he attempts the primary one.
+
+To determine the related skill’s modiﬁer to the primary skill, the Game Master subtracts the difficulty from the total rolled with the related skill; this determines the number of result points from the roll. Then he divides that number by 2, rounding up, to get the modiﬁer to the total rolled with the primary skill. The minimum related skill modiﬁer is 1. If the skill total was less than the difficulty, the modiﬁer is subtracted from the primary skill total. If the skill total was equal to or greater than the difficulty, the modiﬁer is added to the primary skill total.
+
+The character may perform the related skills and the primary skill successively, but the related skill modiﬁer is only good for the one initially intended attempt and the character must make that attempt within a short time of using the other skills. Should the character decide to perform the primary skill and the related skill at the same time, he takes the multi-action penalty.
+
+Example: Your character has to carefully place some charges on a wall. You decide that the character ﬁrst examines the wall for weaknesses (using the search skill). Once examination has been completed and the search roll has been made, you apply the modiﬁer to your demolitions roll only, which must take place immediately after your character’s examination of the wall.
+
+Game Masters also can use the related-skills guidelines for deciding how well one person can help another person.
+
+== CHOOSING DIFFICULTIES
+
+There are two possibilities for assigning difficulties to a speciﬁc action: a difficulty number or an opposed roll. Generally, the adventure speciﬁes the difficulty and what skill is needed, but the Game Master may come across circumstances that were not foreseen. In such cases, use these guidelines to decide what to do.
+
+Certain circumstances (typically involving a character attempting a task without a force actively opposing her, such as climbing a wall or piloting a boat) may call for a static difficulty number. In these cases, select a standard difficulty or use a special difficulty. Circumstances involving an actively opposing force call for an opposed difficulty.
+
+=== Standard Difﬁculties
+
+A standard difficulty is a number that the Game Master assigns to an action based on how challenging the Game Master thinks it is. Existing conditions can change the difficulty of an action. For instance, walking has an Automatic difficulty for most characters, but the Game Master may require someone who is just regaining the use of his legs to make a Very Difficult running roll to move even a few steps.
+
+The numbers in parentheses indicate the range of difficulty numbers for that level.
+
+*Automatic (0):* Almost anyone can perform this action; there is no need to roll. (Generally, this difficulty is not listed in a pre-generated adventure; it is included here for reference purposes.)
+
+*Very Easy (1–5):* Nearly everyone can accomplish this task. Typically, only tasks with such a low difficulty that are crucial to the scenario are rolled.
+
+*Easy (6–10):* Although characters usually have no difficulty with these tasks, an untrained character may ﬁnd them challenging.
+
+*Moderate (11–15):* There is a fair chance that the average character will fail at this type of task. Tasks of this type require skill, effort, and concentration.
+
+*Difficult (16–20):* Those with little experience in the task must have a lot of luck to accomplish these actions.
+
+*Very Difficult (21–25):* The average character only rarely succeeds at these kinds of task. Only the most talented regularly succeed.
+
+*Heroic (26–30), Legendary (31 or more):* These kinds of tasks are nearly impossible, though there’s still that chance that lucky average or highly experienced characters can accomplish them.
+
+=== Opposed Difﬁculties
+
+An opposed difficulty (also called an opposed roll) applies when one character resists another character’s action. In this case, both character generate skill totals and compare them. The character with the higher value wins, and ties go to the initiator of the action.
+
+In an opposed task, since both characters are actively doing something, both the initiator and the resisting character use up actions. This means that the resisting character can only participate in an opposed task either if he waited for the initiating character to make a move or if he was actively preparing for the attempt. Otherwise, the Game Master may allow a reaction roll of the appropriate skill as a free action in some circumstances, or he may derive a difficulty equal to 2 times the target’s appropriate opposing skill.
+
+=== Special Difﬁculties
+
+There are two special and optional difficulties: Wild Die Only and Derived.
+
+*Wild Die Only:* The standard difficulty of an action may be so much lower than a character’s skill value that rolling and totaling dice would waste time. However, the Game Master may feel that the situation is such that a complication could greatly affect the outcome of the scene. In such cases, the game master may require the player to roll the Wild Die. A Critical Success result indicates that some special bit of good fortune occurred, while a Critical Failure indicates a minor complication. Any other result shows that the result is successful, though nothing special.
+
+*Derived:* Any time one character does something to another character or animate creature or object, the base difficulty equals 2 times the target’s relevant opposing attribute or skill and add the pips. Game Masters may further modify derived values, as the situation warrants. Derived values do not get the unskilled modiﬁer if they are determined from the governing attribute.
+
+Example: Your character attempts to intimidate a thug. The Game Master could use the standard intimidation difficulty of 10 or she could derive one from the thug’s willpower skill, or, if he doesn’t have one, the governing attribute, Presence. If his Presence has a die code of 3D, then the base derived difficulty is 6.
+
+=== Generic Modiﬁers
+
+The modiﬁers offered in a skill’s list or a pre-generated adventure may not cover all the Game Master’s needs. When conditions arise for which there aren’t pre-established modiﬁers, use the chart herein to help at those times. Game Masters can add these modiﬁers to opposed, standard, or derived difficulty values.
+
+==== Good Role Playing Modiﬁer
+
+Game Masters should reward good role playing by lowering the difficulty a few points. The better the role playing — and the more entertaining the player makes the scenario — the higher the modiﬁer the Game Master should include.
+
+==== Unskilled Attempts
+
+Remember that someone without training or experience might, with blind luck, do better than someone with experience — but generally only that one time. There is no guarantee of future success. When a character defaults to the attribute, ﬁgure in not only a difficulty modiﬁer of +1, +5, or more, but also adjust the result accordingly: the result won’t happen as precisely or stylishly as someone with skill.
+
+==== Preparing
+
+A character willing to spend twice as much time to complete a task receives a +1D bonus for the die roll for every doubling of time, up to a maximum bonus of +3D. However, the character can do nothing else or be otherwise distracted (such as getting shot at) during this time.
+
+==== Rushing
+
+A character can also attempt to perform an action that normally requires two or more rounds (10 seconds or more) in less time. The difficulty increases depending on how much less time the character puts into the task: +5 for 25% less time, +10 for 50% less time, and +20 for 75% less time. A character may not perform any task in less than 75% of the normally needed time. Thus, to rush an hour-long surgery into 30 minutes, the difficulty increases by +10. Of course, not every task can be rushed. If in doubt, the Game Master should ask the player to justify how the character can speed up the task.
+
+==== Generic Difﬁculty Modiﬁers
+
+*+16+ Overpowering disadvantage:* Something affects the skill use in an almost crippling fashion (repairing a vehicle without any proper tools).
+
+*+11–15 Decisive disadvantage:* The skill use is very limited by circumstance (trying to ﬁnd someone in complete darkness).
+
+*+6–10 Signiﬁcant disadvantage:* The skill use is affected negatively (tracking someone through drizzling rain).
+
+*+1–5 Slight disadvantage:* There is an annoying problem (picking a lock by ﬂashlight).
+
+*-1–5 Slight advantage:* A tool or modiﬁcation that makes the skill use a little easier (really good athletic shoes for jumping).
+
+*-6–10 Signiﬁcant advantage:* A tool or modiﬁcation that makes the skill use much easier (rope with knots is used for climbing).
+
+*-11–15 Decisive advantage:* A tool speciﬁcally designed to make the job easier (complete language database used for languages).
+
+*-16+ Overpowering advantage:* An exceptional tool or modiﬁcation that speciﬁcally makes the skill use much easier (complete set of wilderness tools and equipment specially designed to help with survival).
+
+== DETERMINING SUCCESS
+
+If the total rolled on the dice is greater than the difficulty, the attempt was a success. Ties generally go to the initiator of the action, but certain circumstances dictate otherwise (such as the use of some special abilities or determining the amount of damage done). The description of the ability, challenge, or activity explains the results.
+
+==== Result Points
+
+Result points refer to the difference between the skill roll and the difﬁculty. The Game Master can use the result points to decide how well the character completed the task; the “Result Points and Success” sidebar for suggestions. The Game Master may allow a player to add one-half of the result points (rounded up) as a bonus to another skill roll or Extranormal or special ability effect. One-ﬁfth of the result points from an attack roll can be included as bonus to damage. (Round fractions up.)
+
+==== Result Points and Success
+
+Here are some guidelines for describing different levels of success. Use the result points of the roll — the difference between the skill total and the difficulty — to decide on the exact level.
+
+*Minimal (0):* The total was just barely enough. The character hardly succeeded at all, and only the most minimal effects apply. If “minimal effects” are not an option, then maybe the action took longer than normal to succeed.
+
+*Solid (1–4):* The action was performed completely, but without frills.
+
+*Good (5–8):* The results were better than necessary and there may be added beneﬁts.
+
+*Superior (9–12):* There are almost certainly additional beneﬁts to doing an action this well. The character performed the action better, faster, or more adeptly than expected.
+
+*Spectacular (13–16):* The character performed the action deftly and expertly. Observers would notice the ease or grace with which the action was performed (if applicable).
+
+*Incredible (16 or more):* The character performed the skill with such dazzling quality that, if appropriate to the task, it could become the subject of conversation for some time — it’s at least worth writing home about. Game Masters should dole out some signiﬁcant bonuses for getting this large of a roll.
+
+Example: A character who trying to use the survival skill to forage for food gets a minimal success — she ﬁnds “subsistence level” food; it’s barely better than garbage. The next day she gets a spectacular result — not only does she ﬁnd good, wholesome food, but she ﬁnds enough for two days instead of one.
+
+==== Second Chances
+
+As characters tackle obstacles, they’ll ﬁnd ones that they can’t overcome initially. Game Masters must rely on their judgment to decide whether and when a character may try an action again. For some actions, such as marksmanship or running, the character may try the action again the next turn, even if she failed. For other actions, such as repair or con, failing the roll should have serious consequences, depending on how bad the failure was. A small difference between the difficulty number and the success total means the character may try again next round at a higher difficulty. A large difference means that the character has made the situation signiﬁcantly worse. She will need to spend more time thinking through the problem or ﬁnd someone or something to assist her in her endeavor. A large difference plus a Critical Failure could mean that the character has created a disaster. She can’t try that speciﬁc task for a long time — perhaps ever. This is especially true with locks and computer programs.
+
+==== Game Master’s Fiat
+
+The rules are a framework upon which the Game Masters and their friends build stories set in fantastic and dynamic worlds. As with most frameworks, the rules work best when they show the least, and when they can bend under stress. Keeping to the letter of the rules is almost certainly counterproductive to the whole idea of making an engaging story and having fun. To keep a story ﬂowing with a nice dramatic beat, Game Masters might need to bend the rules, such as reducing the signiﬁcance of a modiﬁer in this situation but not in another one, or allowing a character to travel a meter or two beyond what the movement rules suggest.

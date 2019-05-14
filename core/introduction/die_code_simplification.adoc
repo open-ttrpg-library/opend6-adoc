@@ -1,1 +1,32 @@
 = Die code simplification
+
+As characters progress, often the number of dice players have to roll and add becomes daunting.
+With this in mind, this chart provides two ways of reducing the amount of dice needed.
+
+The fast way is to roll five dice, including the Wild Die, add the results, and then add the die code’s pips and a bonus number.
+To determine the bonus number, find the die code (ignoring the pips) of the original attribute, skill, weapon, or other value in the “Die Code” column.
+Then read across to the “5D” column to get the bonus number.
+
+Example:
+A character has a Natural Ranged Weapon that does 30D of damage.
+Instead of rolling 30 dice, the player rolls five and adds 88 to the total on the dice.
+
+The faster way is to roll only the Wild Die, adding to its result the corresponding bonus listed in the “Wild Die” column of the chart.
+
+Example:
+A character has a skill with a value of 10D.
+The Game Master rolls the Wild Die and adds 32 to the result.
+
+When using only the Wild Die, a Critical Failure only indicates a complication or funny thing happening; it does not affect the total rolled.
+
+Because Character Points function similar to a Wild Die, roll any dice gained from Character Point expenditure separately.
+When using Fate Points on a roll, double the original die code and use that to determine the bonus number.
+
+For bonus numbers beyond the 50D level for the “5D” column, subtract 5 from the die code and multiply the number by 3.5.
+Round up.
+To get bonus numbers beyond the 50D level for the “Wild Die” column, subtract 1 from the die code and multiply the number by 3.5. Round up.
+
+[%header,format=csv]
+|===
+include::die_code_simplification.csv[]
+|===

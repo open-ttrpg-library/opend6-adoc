@@ -1,4 +1,79 @@
-= Character options
+= Character Options
+
+== Expanding the Character Concept
+
+When you first created your character, you probably had a character concept in mind or one was suggested by the template that you used. Now’s the time to expand the character’s history.
+
+There are several ways you can do this. The easiest is to answer questions like:
+
+* Where and when was my character born?
+* What did my character do as a child?
+* What unusual experiences did my character have?
+* How did my character become the person he is now?
+* What is one of my character’s major goals?
+* What was my character doing right before the game begins?
+* Why does my character have the skills that he has?
+
+Say your character knows marksmanship and several specializations. Why? Was the character in the army? A child of a mercenary? How were these skills learned? You don’t have to explain every skill, but try to rationalize any unusual skills (such as Extranormal skills), as well as skills the character has two dice or more in (he is really good at those).
+
+There are, of course, other questions you can come up with, though these are among the most common.
+
+You can jot down notes and go back and fill in the gaps as you play. You can make up the name of the character’s village, the exact date of birth, and other things as you go along. If you’re stuck for ideas, read the basic description of the game setting or remember pertinent books, television shows, and movies — you can develop ideas based on them.
+
+=== Peruse the Character Options
+
+You might not want to write a background for your character until you look at some of the options available to you. Take a look at the Advantages, Disadvantages, and Special Abilities, and see some of the benefits and drawbacks you can choose for your character. You might see something you want to work in, and that will help give you ideas for a background story.
+
+== Fantastic Species
+
+Game Masters and players can use character options to tweak the basic Human starting character package into any sort of species template that they desire. Zombies, ghosts, space aliens, and nuclear mutations are all possibilities in a role playing game, depending upon the game setting, as are any other combinations you can devise.
+
+When creating a species template, every character based on that species must have certain background Special Abilities, Disadvantages, and possibly Advantages. However, enough points should remain with which the player may customize the character. Usually, the character ends up with more options than normal for the average person in the game setting, but fewer than if the player had stuck with Human. (Experienced members of the species should have more skills and, perhaps, higher levels of the template’s Special Abilities and Disadvantages.)
+
+== Selecting Character Options
+
+Advantages, disadvantages, and special abilities make the character more interesting, more (and less) effective, and more fun to role play (if you do it right). You know the story of your character — here’s what that story means.
+
+*Advantages* are perks that the character has because of her status in society, the people she knows, or something in her background. They generally do not directly affect attributes or skills.
+
+*Disadvantages* hamper the character in some way. They might affect her attributes or skills or they might mean trouble for her in certain situations. Both advantages and disadvantages make the character more rounded and more believable.
+
+*Special* a**bilities** are those abilities that exceed the baseline capabilities of a character. The character’s species, some sort of unique training, or a magical/super-science/cybernetic/other effect might explain their origin. They give the character a bonus to her attributes or skills, or they provide her with access to something that the average character can’t do.
+
+_Example:_ You decide to give your character a special ability that provides him with a +1 to one of three combat-related skill totals. If you don’t have any points to spend on special abilities, your character needs to have some kind of disadvantage as well. The character might have to add 1 to the difficulty of all interaction-related skill totals, or you might include a totally unrelated disadvantage (of comparative power) — like the character is afraid of the dark and has trouble acting when in the dark.
+
+=== Using Character Options
+
+Every character option in this chapter has its own rules for implementation. There are, if you look hard enough, some nightmarish combinations. If something seems like it is could cause trouble in the game later on, check with your Game Master before choosing it. Ultimately, the Game Master has final say on the choice of all Advantages, Disadvantages, and Special Abilities, as well as final say on the interpretation of those choices. Players who misuse their character options, particularly their Disadvantages, may find their Advantages or Special Abilities meeting with some unfortunate accident.
+
+== Organization
+
+Advantages, Disadvantages, and Special Abilities are listed alphabetically in their respective sections. Advantages and Disadvantages are further organized into ranks. These ranks are numbered; higher-numbered ranks are more powerful. They are abbreviated R1, R2, R3, R4, and so on.
+
+Special Abilities don’t have listed ranks. Instead, the descriptions give the initial cost for gaining one rank in that ability.
+
+*Note:* Game Masters may allow higher ranks of character options than the examples given here. Players and Game Masters should discuss the best way to represent their characters’ unique set of traits.
+
+=== Costs at Character Creation
+
+Each rank in an advantage or disadvantage is worth one creation point (or one skill die, if you’re using defined limits) per number. Advantages cost creation points, while disadvantages give you creation points (or skill dice). Thus, a Rank 1 advantage costs one point or die, while a Rank 4 disadvantages gives you four points or dice.
+
+The cost of one rank of the special ability is included in parentheses. Some special abilities, such as Ambidextrous, do not lend themselves to being taken more than once. Players may also add limitations to their special abilities, which reduce their effectiveness (and the cost) or enhancements, which increase their effectiveness (and the cost).
+
+In settings where characters with special abilities are common, additional ranks of each special ability cost one point (or skill die) per rank at character creation. In settings where characters with special abilities are uncommon, additional ranks of each special ability costs the value listed with the special ability.
+
+When using templates or defined limits for attributes and skill dice, players may use skill dice or dice received from disadvantages to get advantages and special abilities. Players in games using character creation point pools may use some of the points in their pool or points gained from disadvantages to purchase advantages and special abilities.
+
+A maximum of 10 creation points or 10 skill dice worth of disadvantages is recommended for any genre.
+
+=== Using the Additional Creation Points
+
+You may use creation points that you earn from giving your character disadvantages to buy advantages (at their rank cost), more skill dice (at a rate of one creation point for each skill die), or more attribute dice (at a rate of four creation points for each attribute die).
+
+=== Using the Additional Skill Dice
+
+You may spend additional skill dice gained from including disadvantages in your character to buy advantages (at their rank cost), add more skills, or improve attributes (at a rate of four skill dice for each attribute die).
+
 
 :leveloffset: +1
 

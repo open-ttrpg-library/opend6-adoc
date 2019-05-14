@@ -1,1 +1,198 @@
-= Space travel
+= Space Travel
+
+Some characters might find sticking around one planet fun, while others get the yen to explore the galaxy. This chapter offers ideas on finding passage and operating a ship.
+
+== Getting around the Galaxy
+
+=== Your Own Ship
+
+By earning enough credits, borrowing a sufficient amount of funds (probably illegally and with plenty of strings attached), or getting an inheritance, a character can obtain her own starship. Generally, these ships have plenty of problems, but at least it’s something to call one’s own! Patrons and employers might also provide a ship, while contacts might be able to help the character gain access to one temporarily.
+
+=== Charter a Ship
+
+Characters can hire an independent ship captain to take them to a planet. While more expensive than commercial liners — some chartered ships charge tens of thousands of credits — they generally offer more privacy and more travel freedom. The characters can often pick the departure and arrival timetable, and they don’t necessarily have to go to popular destinations.
+
+=== Booking Passage
+
+Depending on the Game Master’s setting, it might be possible to book passage on a passenger liner or transport that has regular service to one of several major worlds. Accommodations range from spartan (a seat and perhaps a meal for short journeys) to staterooms with all the luxuries one could possibly imagine. Naturally, costs match the “style” one travels in, from a few hundred credits for a short trip on a cheap transport to many thousands of credits for luxury cruises. Alternatively, characters can save a few credits by booking passage on a freighter with cargo destined for the planet they want to visit. Many freighters have a spare bunk or two — and few other amenities. Some freighters may even take on working passengers, who pay for part or all of their passage by performing some of the less desirable duties on the ship.
+
+=== Sample Ships
+
+You can find sample ships, including a light freighter suitable for most travel needs, and guidelines for creating new ones in the “Basic Ship Design” chapter.
+
+== Encounters in Space
+
+Unless the characters travel well-established routes, plenty of things exist in space that can make the trip rather exciting — whether or not a mishap occurs in navigation or drive use.
+
+*Local Space Patrols:* Each planet with interstellar drive capability generally has its own space navy. In some campaigns, there might also be an interstellar police force. Some might turn out to be quite helpful, while some prefer to keep all travel under their control.
+
+*Traders:* From owner-operated light freighters to gigantic corporate and military bulk haulers, the space ways are filled with folks traveling around the galaxy, hawking their goods or taking things to where they’re wanted. Traders, legal and illegal, can prove good — perhaps even the only — sources of information about their destinations, space routes, and new jobs.
+
+*Pirates:* Unwilling or unable to make it legitimately, pirates prefer to acquire their goods from other ships. They might prey on the edges of populated regions, or they could set up “road blocks” that cause an interstellar drive to drop its ship into normal space. Privateers are pirates legalized by one or more government to attack certain ships.
+
+*Slavers:* Similar to pirates, slavers look for sentient beings to steal and sell. Generally, these go into the service as gladiators or slaves to crime lords (some of whom might be legitimate heads of corporations or governments).
+
+*Natural Hazards:* Rogue planetoids, gas clouds, immense asteroid fields, energy storms, and other interstellar phenomena can interfere with interstellar travel, causing the ship to drop into normal space, take damage to systems, or throw the ship off course.
+
+*Unexplored Systems:* Alien civilizations, metal and mineral deposits, potentially habitable planets, lost caches of artifacts and technology, long-forgotten colonies, and so much more exist in this galaxy, awaiting discovery, whether on purpose or by accident.
+
+== Starship Operation
+
+=== A Ship’s Drives
+
+Ships have two types of drives: in-system (or sublight) drives and interstellar drives.
+
+=== In-System Drives
+
+In-system drives are used for getting off of a planet as well as traveling around a system. They could take a ship to another planet, but generally only generation or automated ships attempt such a journey.
+
+*In-System Benchmarks*
+
+Here are some rough guidelines for in-system travel times.
+
+Five minutes to fly from orbit to a safe interstellar transition point.
+
+Half an hour to fly from a planet to one of its moons.
+
+Two to six hours to fly from one planet to the nearest planet in the system.
+
+Anywhere from 10 to 48 hours to fly from a star to the outer limits of the system, depending upon distance and the presence of any hazards such as asteroid belts or gas clouds. As one example, a typical system of a single yellow star and less than a dozen significant planetary bodies would take about 15 hours to reach the outer limit from a terrestrial world relatively near the star.
+
+=== Interstellar Drives
+
+Assuming that the Game Master allows interstellar travel in the setting, these types of drives can take a variety of forms, but for sake of game mechanics, they all work the same way. Essentially, they accelerate the ship to near-light speeds and then fold time and space, create a temporary wormhole, or drop the ship into another parallel yet connected dimension. Game Masters who want to add a little excitement to interstellar journeys can have space debris or even the nature of the wormhole or subdimension negatively effect space travel.
+
+*Interstellar Drive Ratings*
+
+An interstellar drive is ranked by a “rating.” The higher the number, the faster the drive. Most civilian ships have a Rating 0.5 or lower drive, while military vessels typically have a Rating 1 or higher engine.
+
+Each interstellar journey has a duration. Divide the duration by the ship’s rating to find out how long it takes the ship to reach the destination.
+
+*Interstellar Benchmarks*
+
+Here are some guidelines for how long it generally takes to get from one planet to another with an interstellar drive. A die code is given in parentheses after the general time, for Game Masters who want a quick of coming up with distances between star systems. Once a time is rolled, unless the Game Master decides that there are many hazards that could alter the path, the Game Master should write it down in his own gazetteer.
+
+Systems are within the same sector: A few days (1D).
+
+Systems are within the same region but different sectors: Several days (2D).
+
+Systems are in neighboring regions: Several weeks (2D).
+
+Systems are in regions distant from each other: Several months (2D).
+
+Route is well-traveled: Reduce the time by half.
+
+Route is known to have many random hazards: Add 1D of the base time unit (days, weeks, or months) to the time it takes to travel it.
+
+=== Navigation Computers
+
+To handle the overwhelming complexities of calculating interstellar trips, most ships are equipped with navigation computers. A ship’s astro-navigator uses the navigation computer to plot a safe trip through interstellar space. Navigation computers hold a tremendous amount of data, storing the coordinates for the locations of stars, planets, debris, gravity wells, asteroid fields, gas clouds, and other hazards. Navigators use this information to determine the best routes to avoid these obstacles.
+
+As a route becomes well-known and its hazards are better understood, interstellar journeys can be plotted with more precision at faster speeds. In some cases, travel times between specific planets may decrease. In other cases, large enough obstacles may drift into the known route and cause the time to increase.
+
+In general, the greater the physical distance between planets, the longer the journey in hyperspace takes. However, even systems that are in close proximity to one another may require roundabout routes because of debris and other hazards.
+
+*Using Interstellar Drives*
+
+When characters wish to travel to another system (and they didn’t get someone else to do the driving), they follow four steps:
+
+. Determine the trip’s destination and duration.
+. Make calculations for the interstellar journey.
+. Figure out the navigation difficulty number.
+. Find out the navigation results.
+
+*Determine the Trip’s Destination and Duration:* The first step a ship’s captain needs to do is decide where she’s going and how she wants to take to get there. Use the “Interstellar Benchmarks” sidebar to determine the time. Once the base duration is determined, the navigator may then divide that number by her drive’s class to get the actual amount of time the ship will take (assuming perfect conditions).
+
+*Make Calculations for the Trip:* Figuring out the best route then inputting it into the computer isn’t easy, and even with the incredible advances in computers. How much time it takes to perform the calculations depends on where the ship’s supposed to end up. A character can rush the calculations, taking the rushing penalty (see the “Game Basics” chapter for details). Many ship captains begin navigation calculations while they wait in space dock, so they can leave as soon as the local authorities clear them for departure.
+
+Use these guidelines to figure out how much time it takes to make the navigation calculation.
+
+Well-plotted route or precalculated coordinates: 1 minute.
+
+Known systems but best route has not been determined: 30 minutes.
+
+Never been to the system: Several hours.
+
+Lost because of a miscalculation or unknown obstacle: 1 day.
+
+*Figure Out the Navigation Difficulty Number:* All trips have a base difficulty of Moderate, with modifiers that adjust it for easy trips (such as one core world to another) or much higher for particularly perilous routes. Use the accompanying chart to determine the final difficulty.
+
+*Find the Space Navigation Results:* Once the destination, duration, and route have been decided —and the navigation difficulty is determined — the player rolls her character’s navigation skill to see how well she did. Find the result points (the difference between the difficulty and the skill total) and compare them to the accompany chart to decide what happens. In this case, result points can be positive or negative.
+
+*Space Navigation Modifiers*
+
+_Situation Modifier_
+
+No navigation computer +30
+
+Each extra hour added to trip* -1
+
+Each hour saved on trip* +1
+
+Obstacles (gas clouds, large space debris, black holes) or more +1
+
+*Space Navigation Results*
+
+_Result Points = Result_
+
++5 or more Saved an hour on the trip per 5 points over the difficulty (round down).
+
+0 to +4 Trip occurred without mishap.
+
+-1, -2 A radiation surge or other mishap affects the drive’s performance and damages another system on the ship (Game Master selects). The characters need to use the appropriate repair skill with a Moderate difficulty to fix it. The trip is extended by 2D hours.
+
+-3, -4 The calculations were good enough to get the characters to a destination, just the wrong one (perhaps from a computer malfunction or an unplotted obstacle).
+
+-5, -6 The interstellar drive cut-out to avoid a collision with an unplotted obstacle. A Moderate flight systems repair roll is necessary to get the engines back on line. The characters also need to plot a new course.
+
+-7 or more The computer refuses the calculation and requires them to be refigured.
+
+== In-System Travel and Combat
+
+Starships move through space and battle other ships in much the same way as planetary vehicles. Players can use standard vehicle movement and character combat rules to determine the effectiveness of one vessel attacking another.
+
+Spaceships can have two additional systems worth mentioning: shields and tractor beams.
+
+=== Shields
+
+Ships can have two types of shields: passive and active. Passive shields including hull plating and some low-level energy shielding. They’re good for warding off small asteroids and similar space debris, but they aren’t effective against high-grade equipment. Active shields generally involve energy of some kind, and they create field around the ship that absorbs or deflects harmful rays and objects.
+
+Each starship has a shield die code, which the pilot splits among four areas of an ellipsoid when he activates the shields. The four areas are forward quarter, aft quarter, starboard quarter, port quarter. The difficulty to deploy the shields depends on how many areas the pilot wants to protect. Deploying shields counts as an action, but the shield setting remains in effect until the pilot realigns them or they’re overloaded. (When splitting dice among areas, remember that there are three pips in a die.)
+
+=== Overloading Shields
+
+Shields that let pass through more than 3 times their current setting die code (not including pips) in damage are overloaded. They shut down, and the pilot must restart them, which takes a round.
+
+*Shield Deployment*
+
+_Number of Areas = Difficulty_
+
+1 = 10
+
+2 = 15
+
+3 = 20
+
+4 = 25
+
+=== Tractor Beams
+
+Resolve attempts to sling a tractor beam on another ship just like any other attack. Then, roll the tractor beam’s die code against the target ship’s hull Toughness. Should the tractor beam’s total be equal to or higher than the target’s total, the attacking ship has captured the target. Otherwise, the beam was too weak to hold it.
+
+The attacker may automatically reel in the captured ship, assuming that the target doesn’t attempt to resist on any round before being brought into the hanger bay. (That means that, if the attacking ship has no hanger bay to store the ship, the target can continue to attempt an escape — or at least until the defender can move any more.)
+
+If the target ship resists, roll the tractor beam’s damage against the target ship’s hull Toughness. If the target ship’s Toughness roll is higher, it breaks free of the tractor beam. If the tractor beam rolls equal to or higher than the target ship, the target ship is reeled in and its drives may be damaged. Find the results on the accompanying chart.
+
+*Tractor Beam*
+
+_Tractor Beam Roll ≥ Target’s_ _Hull Roll By: Max Move_
+
+0–3 —
+
+4–8 1 level less
+
+9–12 2 levels less
+
+13–15 3 levels less
+
+16+ Drives blown

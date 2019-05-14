@@ -1,1 +1,401 @@
-= Character templates
+= Adventure Character Templates
+
+=== Occupation: Bodyguard
+
+Species: Human
+
+Reflexes 3D+1
+
+Coordination 3D+1
+
+Physique 3D+2
+
+Presence 3D
+
+Strength Damage 2D
+
+Knowledge 2D+1
+
+Perception 2D+2
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Move 10
+
+Body Points 33
+
+Advantages: None
+
+Disadvantages: Devotion (R2), you will do what is necessary to protect the employer.
+
+Special Abilities: Ambidextrous (R1), adept at working with either hand.
+
+Equipment: Pocket knife (+2); handgun (damage 4D+2, ammo 6, 10/25/40); hidden holster; long, dark overcoat.
+
+Description: Powerful businesspeople, high-ranking government officials, and wealthy entertainers have hired you to protect them from those who violently disagree with what they are doing. You’re especially good with small arms, unarmed fighting, and frightening others.
+
+=== Occupation: Correspondent
+
+Species: Human
+
+Reflexes 2D+2
+
+Coordination 2D
+
+Physique 2D+1
+
+Presence 3D
+
+Strength Damage 1D
+
+Knowledge 4D
+
+Perception 4D
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 4D
+
+Move 10
+
+Body Points 28
+
+Advantages: Contacts (R1), you have a number of casual friends in a particular field (academics, politics, or business); Equipment (R2), a friend allows you to use her personal airplane any weekend you’d like; Fame (R1), you are well-known for your well-researched tracts.
+
+Disadvantages: Advantage Flaw: Contacts (R1), your contacts insist you exchange details on your activities for their expertise; Employed (R1), you have to periodically publish articles in order to keep your Fame; Devotion (R1), you feel a great need to make sure that the truth comes out; Quirk (R2), you are almost compulsively honest.
+
+Special Abilities: Good Luck (R1).
+
+Equipment: Radio; flashlight; backpack; spare clothes; personal kit; camera; journal and pens (or PDA, as appropriate for the setting).
+
+Description: You look for the hot spots in the world, whether it be in business, politics, or academics. Through pictures and words, you inform the public about events, current issues, and ground-breaking theories.
+
+=== Occupation: Doctor
+
+Species: Human
+
+Reflexes 2D+1
+
+Coordination 2D
+
+Physique 2D+2
+
+Presence 3D+1
+
+Strength Damage 1D
+
+Knowledge 4D
+
+Perception 3D+2
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 4D
+
+Move 10
+
+Body Points 28
+
+Advantages: Contacts (R1), you have some low-level contacts in the black market medicine business; Wealth (R2) , +4 to Funds totals/ US$10,000 in cash.
+
+Disadvantages: Advantage Flaw (R1), although you use them only to get medicines for your patients, revelation of your contacts would ruin you in society; Devotion (R2), you believe very strongly in the principles of your Hippocratic Oath and will take risks to heal others.
+
+Special Abilities: None
+
+Equipment: Handgun (damage 4D+2, ammo 6, range 10/25/50); jungle adventurer’s pack; one-man tent; medical kit (+1D to medicine rolls).
+
+Description: You employ your medical knowledge and wealth to bring healing and comfort to others. This often puts you in dangerous situations in remote places, but your comfort is of less concern to you than the well-being of others.
+
+=== Occupation: Field Scientist
+
+Species: Human
+
+Reflexes 2D+2
+
+Coordination 3D
+
+Physique 2D+2
+
+Presence 2D
+
+Strength Damage 1D
+
+Knowledge 3D+2
+
+Perception 4D
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Move 10
+
+Body Points 30
+
+Advantages: Contacts (R1), you have a knack for finding the right person who can get you the information, and sometimes equipment, you need; Patron (R2), your expeditions are funded by a large university or business.
+
+Disadvantages: Advantage Flaw: Skills (R1), you get flustered and lose Critical Success rerolls when you fail a charm, persuasion, or languages roll; Employed (R1), in order to continue getting funding, you need to make regular and thorough reports to your Patron; Quirk (R1), you often forget that people aren’t quite as enthusiastic about your beloved area of study as you are.
+
+Special Abilities: None
+
+Equipment: Leather jacket (Armor Value +1D); handgun (damage 4D+1, ammo 6, range 5/15/40); binoculars; jungle adventurer’s pack; journal; pens; testing and sampling kit.
+
+Description: You take the theories of the lab into the real world. Generally, you’ve worked long-term assignments in one area, but you’ve also enjoyed a few short-term projects involving finding sites and setting them up for others. Your expertise could be in biology, geology, paleontology, archeology, or any of the disciplines studying animals, plants, and other parts of nature.
+
+=== Occupation: Investigator
+
+Species: Human
+
+Reflexes 2D+1
+
+Coordination 3D+1
+
+Physique 2D+2
+
+Presence 3D+1
+
+Strength Damage 1D
+
+Knowledge 2D+2
+
+Perception 3D+2
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Move 10
+
+Body Points 29
+
+Advantages: Authority: Law (R1), private investigator’s license; Contacts (R1), you know people on both sides of the law in one major city; Equipment (R1), large car.
+
+Disadvantages: Employed (R1), you often take cases only for the money; Enemy (R1), an important person that you were investigating makes your life miserable whenever possible, which is fortunately not often; Quirk (R1), fear makes you hungry.
+
+Special Abilities: None
+
+Equipment: Handgun (damage 4D, ammo 6, range 10/25/40); small flashlight; camera; lockpicking tools (+1D to lockpicking with the skill), large car (Move 62 (44 kph), Toughness 5D, Maneuverability +1D).
+
+Description: You track down people, spy on their activities, and solve mysteries. You get to meet all kinds of interesting people in your work, and you have a reason to try out some fancy gadgets.
+
+=== Occupation: Magician
+
+Species: Human
+
+Reflexes 2D+1
+
+Coordination 3D+1
+
+Physique 2D
+
+Presence 4D
+
+Strength Damage 1D
+
+Knowledge 2D+1
+
+Perception 3D
+
+Magic 2D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 4D
+
+Move 10
+
+Body Points 25
+
+Advantages: Fame (R1), you worked the comedian/magician circuit for a few years as an opening act; Youthful Appearance (R1).
+
+Disadvantages: Advantage Flaw (R1), if you don’t hold your charm whenever you attempt any Magic skill, you can’t reroll Critical Successes either until the end of the scene or until you succeed at the skill check; Quirk (R1), you read books on paranormal abilities voraciously.
+
+Special Abilities: None
+
+Equipment: Leather jacket (Armor Value +1D); a lucky charm; several portable magic tricks.
+
+Description: As a stage magician performing at clubs and colleges, you perform most of your tricks with simple prestidigitation and distracting banter. But occasionally, you like to enhance your tricks with real spells and really impress the audience.
+
+=== Occupation: Paranormal Expert
+
+Species: Human
+
+Reflexes 2D
+
+Coordination 2D
+
+Physique 2D
+
+Presence 4D
+
+Body Points 27
+
+Knowledge 4D
+
+Perception 4D
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 5D
+
+Move 10
+
+Strength Damage 1D
+
+Advantages: Contacts (R2), you are friends with a journalist who specializes in stories about the strange and bizarre; Wealth (R2), +4 to Funds totals/US$10,000 in cash.
+
+Disadvantages: Burn-out (R3), your reporter friend has powerful enemies of his own who would like to see him dead; Enemy (R1), there is a journalist who is constantly trying to expose you as a fraud; Enemy (R2), a medium you once debunked has vowed revenge, and he has some powerful friends who were embarrassed by your exposing him; Infamy (R1), some people regard your work as “mumbo-jumbo” and treat you with hostility.
+
+Special Abilities: Skill Bonus: Advanced Education Bonus (R1), +3 to scholar: paranormal, investigation: paranormal, and artist: writing totals.
+
+Equipment: Knife (damage +1D); handgun (damage 4D, ammo 6, range 10/25/40); flashlight. Note: This character starts with two additional dice to split among skills.
+
+Description: As an expert in the paranormal, you love the arcane and the bizarre. You have dedicated yourself to exposing fake mediums and other frauds, while documenting that which can’t be so easily explained away.
+
+=== Occupation: Reformed Thief
+
+Species: Human
+
+Reflexes 3D+2
+
+Coordination 3D+2
+
+Physique 2D+1
+
+Presence 2D+1
+
+Strength Damage 1D
+
+Knowledge 2D+1
+
+Perception 3D+2
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Move 10
+
+Body Points 32
+
+Advantages: Patron (R1), a secret government agency provides you with living expenses.
+
+Disadvantages: Infamy (R1), those who know about your past thieving deeds sometimes treat you with some disdain, and you get +3 to the difficulty of all such interactions; Employed (R1), the agency requires you to do jobs for them.
+
+Special Abilities: Skill Bonus: Supple (R1), +1 to acrobatics, contortion, and dodge totals.
+
+Equipment: Lockpicking tools (+1D to lock-picking for simple mechanical locks), climbing tools (+1D to climbing).
+
+Description: Growing up with a lot of bad influences, you figured the fastest way to get out was to take from others. But something happened along the way, and though you were good at what you did, you got out. Now you have a respectable job, and the only time you use your former skills is to decorate friends’ houses while they’re gone and help out some contacts in a government agency.
+
+=== Occupation: Supernatural Hunter
+
+Species: Human
+
+Reflexes 3D
+
+Coordination 3D
+
+Physique 3D
+
+Presence 3D
+
+Body Points 35
+
+Knowledge 2D+2
+
+Perception 3D
+
+Psionics 1D+1
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Move 10
+
+Strength Damage 2D
+
+Advantages: Cultures (R2), you know a lot about different kinds of supernatural and extranormal beings; Equipment (R2), you have a variety of equipment reputed or proven to harm supernatural and extranormal beings; Wealth (R1), +2 to Funds totals/US$5,000 in cash.
+
+Disadvantages: Enemy (R3), the evil beings are as much after you as you are after them; Price (R1), your trust fund manager requires you to explain what you’re doing with the money whenever you want any; Price (R1), to continue to access your Psionics abilities, you must pay 3 Character Points per adventure; Quirk (R1), you are very cold, as you fear getting too attached to anyone; Devotion (R3), you are willing to risk your life in the pursuit of eradicating evil.
+
+Special Abilities: None
+
+Equipment: Gloves; handgun (damage 4D, ammo 6, range 10/25/40); dagger (damage +1D); small flashlight; other special weapons and equipment.
+
+Description: You strive to destroy demons, undead, and other non-Human fiends who threaten to eradicate life. You’re always looking for new methods of eliminating this evil and closing their means of invading this world, including using your psychic abilities.
+
+=== Occupation: Weapons Master
+
+Species: Human
+
+Reflexes 4D
+
+Coordination 4D
+
+Physique 3D
+
+Presence 2D
+
+Strength Damage 2D
+
+Knowledge 2D
+
+Perception 3D
+
+Extranormal 0D
+
+Fate Points 1
+
+Character Points 5
+
+Funds 3D
+
+Move 10
+
+Body Points 38
+
+Advantages: Trademark Specialization (R1), you are very good at using one of your weapons, and gain +2D when using it plus you may be recognized by those watching; Wealth (R1), +2 to Funds totals/US$5,000 in cash.
+
+Disadvantages: Enemy (R1), occasionally, fighters seek you to test their skills against yours; Price (R2), you must spend 30 minutes each day in meditation and practice or you are at -1 to all combat skill totals for the rest of the day.
+
+Special Abilities: Skill Bonus: Athletics (variant) (R1), +1 skill total bonus to acrobatics, lifting, and running.
+
+Equipment: Katana (damage +3D); dagger (damage +1D); 7 throwing stars (damage +1D; range 5/10/15).
+
+Description: You’ve devoted your life to learning the secret of steel, wood, and flesh, discovering their latent energies and harnessing them with the goal of becoming virtually invincible in combat. You consider diversity to be the road to victory.

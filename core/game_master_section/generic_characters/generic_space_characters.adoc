@@ -1,0 +1,29 @@
+= Generic Space Characters
+
+==== People
+
+Bounty Hunter: Agility 3D, brawling 3D+2, dodge 3D+1, firearms 3D+2, melee combat 3D+1, Strength 3D, Knowledge 3D, survival 3D+1, Perception 3D, investigation 3D, sneak 3D, Mechanical 3D, Technical. 3D Move: 10. Strength Damage: 2D. Fate Points: 0. Character Points: 2. Body Points: 14/Wound levels: 2. Equipment: knife (damage +1D); blaster pistol (damage 5D); protective vest (Armor Value +2).
+
+Law Enforcement Officer: Agility 3D+2, firearms 4D+2, dodge 4D+1, melee combat 4D, Strength 3D, Knowledge 3D, bureaucracy 3D+1, security regulations 4D, Perception 3D, investigation 3D+1, search 3D+1, Mechanical 2D+2, Technical 2D+2, security 3D. Move: 10. Strength Damage: 2D. Fate Points: 0. Character Points: 2. Body Points: 13/Wound levels: 2. Equipment: blaster pistol (damage 5D); body armor (Armor Value +1D).
+
+Merchant: Agility 3D, Strength 2D+2, Knowledge 3D+1, bureaucracy 3D+2, business 3D+2, cultures 3D+2, languages 3D+2, Perception 3D+1, bargain 4D, con 3D+2, Mechanical 2D+2, vehicle operation 3D, Technical 3D. Move: 10. Strength Damage: 1D. Fate Points: 0. Character Points: 2. Body Points: 12/Wound levels: 2. Equipment: fine clothing; hand comp; various currency; goods for sale.
+
+Soldier: Agility 3D+2, brawling 4D, dodge 4D, firearms 5D+2, Strength 3D+1, Knowledge 2D+2, security regulations 3D, Perception 3D, search 3D+1, Mechanical 2D+2, Technical 2D+2, demolitions 3D+2. Move: 10. Strength Damage: 2D. Fate Points: 0. Character Points: 2. Body Points: 14/Wound levels: 2. Equipment: blaster pistol (damage 5D); grenades (damage 6D; 2 units); protective vest (Armor Value +2).
+
+Thug: Agility 3D, brawling 4D, firearms 3D+1, dodge 3D+2, melee combat 3D, Strength 3D, lift 4D, stamina 3D+2, Knowledge 3D, intimidation 3D+2, streetwise 3D+2, Perception 3D, Mechanical 1D, Technical 1D. Move: 10. Strength Damage: 2D. Fate Points: 0. Character Points: 2. Body Points: 13/Wound levels: 2. Equipment: energy knife (damage +1D); protective vest (Armor Value +2).
+
+==== Aliens and Human Offshoots
+
+You can find generic aliens and sample characteristic sets in the Non-Human Races chapter. You can also use the character packages in those chapters and combine them with the generic people listed here to create alien versions of each profession.
+
+==== Animals
+
+Characters may also interact with animals from time to time. Remember that, although clever, most animals are not as intelligent as Humans are. They don’t actively use skills, though they may have some to represent their unconscious use of them, such as willpower to resist being told what to do. They may have Technical attribute of 0D. A Mechanical attribute of 1D indicates that the animal has the capacity to be trained to push buttons. Animals usually decide on the best course of action that will lead to their own survival, unless they are trained otherwise.
+
+Cat, Domestic: Agility 3D, brawling 4D, dodge 4D, running 3D, Strength 1D, climb/jump 4D, Knowledge 1D, willpower 3D, Perception 2D, search 3D, sneak 4D, Mechanical 1D, Technical 0D. Move: 20. Strength Damage 1D. Body Points: 10/Wound levels: 1. Natural Abilities: claws (damage +2), teeth (damage +2); small size (scale modifier 6).
+
+Cat, Large (Lion, Tiger, Puma): Agility 4D, brawling 5D, dodge 5D, running 5D, Strength 4D, climb/jump 5D, Knowledge 1D, intimidation 5D, willpower 3D, Perception 2D, search 3D, sneak 5D, Mechanical 1D, Technical 0D. Move: 30. Body Points: 18/Wound levels: 2. Strength Damage: 2D. Natural Abilities: thick fur (armor value +2), claws (damage +1D), teeth (damage +1D). Note: Large cats can leap up to 30 feet horizontally or six feet vertically; small size (scale modifier 2).
+
+Dog, Domestic: Agility 3D, brawling 4D, dodge 4D, running 4D, Strength 3D, Knowledge 1D, intimidation 3D, willpower 2D+1, Perception 2D, search 4D, Mechanical 1D, Technical 0D. Move: 25. Strength Damage: 2D. Body Points: 14/Wound levels: 1. Natural Abilities: teeth (damage +1D); small size (scale modifier 5). Dog, Guard: Agility 3D, brawling 5D, dodge 6D, running 4D, Strength 4D, Knowledge 1D, intimidation 5D, willpower 4D, Perception 2D, search 4D, Mechanical 1D, Technical 0D. Move: 25. Strength Damage: 2D. Body Points: 18/Wound levels: 2. Natural Abilities: teeth (damage +1D); small size (scale modifier 4).
+
+Rats: Agility 3D, acrobatics 3D+1, brawling 4D, dodge 3D, running 3D+2, Strength 1D, climb/jump 3D, swim 1D+2, Knowledge 1D, willpower 2D, Perception 2D, hide: self only 4D, search 3D, Mechanical 1D, Technical 0D. Move: 3. Strength Damage: 1D. Body Points: 6/Wound levels: 1. Natural Abilities: teeth (Strength Damage only); swarm attack (roll a single brawling total for entire group of rats, adding +5 to the total for every 10 creatures involved; if using the optional damage bonus, add the bonus for this roll to the Strength Damage of a single rat); small size (scale modifier 9 for single rat).

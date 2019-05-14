@@ -1,5 +1,7 @@
 = Character section
 
+Three methods of character creation and an overview of the attributes and skills available to characters.
+
 :leveloffset: +1
 
 include::character_basics/main.adoc[]

@@ -1,1 +1,191 @@
-= Fantasy races
+= Fantasy Races
+
+=== Dwarves
+
+Stocky and short, Dwarves come from the mountains. They build great halls and winding tunnels. They are considered some of the finest workers of metals and gems. Though they do grow plants for food, they have a general dislike for spaces open to the sky.
+
+*Typical*
+
+Agility 3D: fighting 3D+2, melee combat 4D
+
+Coordination 2D
+
+Physique 3D+2: lifting 4D, running 4D, stamina 4D
+
+Intellect 2D: devices 3D, trading 2D+1, traps 2D+2
+
+Acumen 3D: artist 3D+2, crafting 4D, gambling 3D+1
+
+Charisma 2D+1: intimidation 2D+2
+
+Advantages: Size: Small (R1), scale value of 3
+
+Disadvantages: Hindrance: Gruffness (R2), +2 to bluff, charm, and persuasion difficulties; Hindrance: Shorter Stride (R1), 2-meter reduction to running, swimming, and jumping Move
+
+Special Abilities: Hardiness (R2), +2 to damage resistance totals; Longevity (R1); Ultravision (R1) +2 to sight-based totals while in dim or dark conditions
+
+Strength Damage: 2D
+
+Move: 8
+
+Fate Points: 0
+
+Character Points: 2
+
+Body Points: 19
+
+Wound levels: 3
+
+*Package*
+
+Total creation point cost: 4
+
+Total defined limit cost: 1 attribute die or 4 skill dice
+
+Advantages: Size: Small (R1), scale value of 3
+
+Disadvantages: Hindrance: Gruffness (R2), +2 to bluff, charm, and persuasion difficulties; Hindrance: Shorter Stride (R1), 2-meter reduction to running, swimming, and jumping Move
+
+Special Abilities: Hardiness (R2, cost 2), +2 to damage resistance totals; Longevity (R1, cost 3); Ultravision (R1, cost 1) +2 to sight-based totals while in dim or dark conditions
+
+=== Elves
+
+The Elves’ very slenderness tends to make them seem taller than Humans, though their actual size varies depending on where they call home. The most common variety hail from forests, but ones living in mountains or seas are not unknown. Wherever they come from, they all share an afinity for nature and a sense of duty toward the animals and things of their native environment.
+
+*Typical*
+
+Agility 3D: dodge 3D+2, melee combat 3D+2, stealth 3D+2
+
+Coordination 3D: marksmanship 4D
+
+Physique 2D: running 2D+2
+
+Intellect 3D: reading/writing 3D+1, scholar 3D+1, speaking 3D+1 Acumen 3D: artist 3D+1, hide 3D+2, search 3D+2, survival 3D+2, tracking 3D+2
+
+Charisma 3D: animal handling 3D+2, charm 3D+2
+
+Magic 1D: alteration 1D+1
+
+Advantages: None
+
+Disadvantages: Devotion: Nature (R2), feel a deep devotion and kinship with trees and plants; Hindrance: Arrogance (R2), +2 to bluff, charm, and persuasion difficulties; Hindrance: Delicate (R2), -2 to damage resistance total
+
+Special Abilities: Enhanced Sense: Sight (R1), +1 to sight-based totals; Longevity (R1); Skill Bonus: Stealth (R1), +1 to hide, stealth, and tracking totals
+
+Strength Damage: 1D
+
+Move: 10 Fate Points: 0
+
+Character Points: 2
+
+Body Points: 17
+
+Wound levels: 3
+
+*Package*
+
+Total creation point cost: 1
+
+Total defined limit cost: 1 skill die
+
+Advantages: None
+
+Disadvantages: Devotion: Nature (R2), feel a deep devotion and kinship with trees and plants; Hindrance: Arrogance (R2), +2 to bluff, charm, and persuasion difficulties; Hindrance: Delicate (R2), -2 to damage resistance total
+
+Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to sight-based totals; Longevity (R1, cost 3); Skill Bonus: Stealth (R1, cost 1), +1 to hide, stealth, and tracking totals
+
+=== Gnomes
+
+Renowned tinkers, Gnomes enjoy building their homes in hillsides, much as Dwarves do. Somewhat taller and broader than Dwarves, the Dwarves outmass Gnomes. Gnomes commonly use magic to enhance their inventions.
+
+*Typical*
+
+Agility 3D: fighting 3D+1
+
+Coordination 2D+1: lockpicking 2D+2
+
+Physique 3D: lifting 3D+1
+
+Intellect 3D: devices 4D, speaking 3D+1, trading 3D+1, traps 3D+2
+
+Acumen 3D: artist 3D+2, crafting 4D, know-how 3D+1
+
+Charisma 2D+2: persuasion 3D
+
+Magic 1D: alteration 1D+1
+
+Advantages: Size: Small (R1), scale value of 3
+
+Disadvantages: Hindrance: Shorter Stride (R1), 2-meter reduction to running, swimming, and jumping Move
+
+Special Abilities: Skill Bonus: Mechanical Aptitude (R1), +1 to crafting, devices, and traps totals
+
+Strength Damage: 2D
+
+Move: 8
+
+Fate Points: 0
+
+Character Points: 2
+
+Body Points: 18
+
+Wound levels: 3
+
+*Package*
+
+Total creation point cost: 1
+
+Total defined limit cost: 1 skill die
+
+Advantages: Size: Small (R1), scale value of 3
+
+Disadvantages: Hindrance: Shorter Stride (R1), 2-meter reduction to running, swimming, and jumping Move
+
+Special Abilities: Skill Bonus: Mechanical Aptitude (R1, cost 1), +1 to crafting, devices, and traps totals
+
+=== Reptile Folk
+
+Slightly taller than Humans, Reptile Folk prefer scrubland on the edges of deserts. Their nomadic lifestyle and natural armor has made them terrific hunters and trackers. This innate protection also supports their belief that they are superior to all other life in the world.
+
+*Typical*
+
+Agility 3D+2: fighting 4D+1, dodge 4D, melee combat 4D Coordination 2D: throwing 3D
+
+Physique 4D: lifting 4D+1, running 4D+1, stamina 4D+1
+
+Intellect 3D: navigation 3D+2, trading 3D+1
+
+Acumen 3D+1: survival 3D+2, tracking 3D+2
+
+Charisma 2D: intimidation 3D, mettle 3D
+
+Advantages: None
+
+Disadvantages: Achilles’ Heel: Cold (R3), take 1D in damage per round in temperatures below 15 C; Hindrance: Arrogance (R2), +2 to bluff, charm, and persuasion difficulties
+
+Special Abilities: Extra Body Part: Tail (R1); Natural Armor: Scales (R1), +1D to damage resistance total against physical damage; Natural Hand-to-Hand Weapon: Claws (R1), +1D damage
+
+Strength Damage: 2D
+
+Move: 10
+
+Fate Points: 0
+
+Character Points: 2
+
+Body Points: 22
+
+Wound levels: 3
+
+*Package*
+
+Total creation point cost: 0
+
+Total defined limit cost: 0
+
+Advantages: None
+
+Disadvantages: Achilles’ Heel: Environmental Incompatibility (R3), +1 modifier to difficulties per round exposed to temperatures below 15 degrees C; Hindrance: Arrogance (R2), +2 to bluff, charm, and persuasion difficulties
+
+Special Abilities: Extra Body Part: Tail (R1, cost 0); Natural Armor: Skin (R1, cost 3), +1D to damage resistance total; Natural Hand-to-Hand Weapon: Claws (R1, cost 2), +1D damage

@@ -1,1 +1,277 @@
-= Sci-fi races
+= Sci-Fi Races
+
+=== Caninoid (Dog/Wolf People)
+
+*Typical*
+
+Agility 3D+1: brawling 4D, dodge 3D+2, firearms 3D+2, running 3D+2
+
+Strength 4D: lift 4D+1, swim 4D+1
+
+Knowledge 2D+2: bureaucracy 3D+1, intimidation 3D, willpower 3D+1
+
+Perception 3D+2: command 4D, search 4D+1, sneak 4D
+
+Mechanical 2D: exoskeleton operation 2D+1, gunnery 2D+1
+
+Technical 2D+1: demolitions 2D+2, security 2D+2
+
+Advantages: Contacts (R1), other members of family pack
+
+Disadvantages: Devotion (R1), to family pack; Quirk: Tenacious (R1), make a Moderate willpower roll to stop a project once starts it
+
+Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to sight-based skill totals; Enhanced Sense: Hearing (R1, cost 3), +2 to hearing-based skill totals; Extra Body Part: Tail (R1, cost 0)
+
+Move: 10
+
+Strength Damage: 1D
+
+Fate Points: 0
+
+Character Points: 2
+
+Body Points: 16
+
+Wound levels: 3
+
+*Package*
+
+Total creation point cost: 5
+
+Total defined limit cost: 5 skill dice, or 1 attribute die plus 1 skill die
+
+Advantages: Contacts (R1), other members of family pack
+
+Disadvantages: Devotion (R1), to family pack; Quirk: Tenacious (R1), make a Moderate willpower roll to stop a project once starts it
+
+Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to sight-based skill totals; Enhanced Sense: Hearing (R1, cost 3), +2 to hearing-based skill totals; Extra Body Part: Tail (R1, cost 0)
+
+=== Felinoid (Cat People)
+
+*Typical*
+
+Agility 4D: acrobatics 4D+2, brawling 4D+1, dodge 4D+1, firearms 4D+1
+
+Strength 2D: climb/jump 2D+2
+
+Knowledge 3D: astrography 3D+1, bureaucracy 3D+1, intimidation 3D+1, willpower 3D+1
+
+Perception 4D: search 4D+1, sneak 4D+1
+
+Mechanical 2D: piloting 2D+1, sensors 2D+2
+
+Technical 2D: flight systems repair 2D+1, medicine 2D+1
+
+Advantages: None
+
+Disadvantages: Hindrance: Arrogance (R2), +3 to con and persuasion difficulties; Hindrance: Reduced Hardiness (R2), -2 to damage resistance totals; Quirk: Hates Water (R2), make a Difficult willpower roll to be wet or will do nothing until dry
+
+Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to sight-based skill totals; Enhanced Sense: Hearing (R1, cost 3), +2 to hearing-based skill totals; Extra Body Part: Tail (R1, cost 0); Skill Bonus: Agility (R1, cost 1), +1 to acrobatics, climb/jump, and running totals; Natural Hand-to-Hand Weapon: Claws (R1, cost 2), +1D damage
+
+Move: 10
+
+Strength Damage: 1D
+
+Fate Points: 0
+
+Character Points: 2
+
+Body Points: 16
+
+Wound levels: 3
+
+*Package*
+
+Total creation point cost: 3
+
+Total defined limit cost: 3 skill dice
+
+Advantages: None
+
+Disadvantages: Hindrance: Arrogance (R2), +3 to con and persuasion difficulties; Hindrance: Reduced Hardiness (R2), -1 to damage resistance totals; Quirk: Hates Water (R2), make a Difficult willpower roll to be wet or will do nothing until dry
+
+Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to sight-based skill totals; Enhanced Sense: Hearing (R1, cost 3), +1 to hearing-based skill totals; Extra Body Part: Tail (R1, cost 0); Skill Bonus: Agility (R1, cost 1), +1 to acrobatics, climb/jump, and running totals; Natural Hand-to-Hand Weapon: Claws (R1, cost 2), +1D damage
+
+=== Floran (Plant People)
+
+*Typical*
+
+Agility 2D: brawling 3D, firearms 2D+2, melee combat 2D+2
+
+Strength 4D: lift 4D+1, stamina 4D+1
+
+Knowledge 3D+2: business 4D, scholar 4D, tactics 4D, willpower 4D
+
+Perception 3D+1: artist 3D+2, bargain 3D+2, persuasion 3D+2
+
+Mechanical 2D: comm 2D+1, sensors 2D+1
+
+Technical 3D: personal equipment repair 3D+1
+
+Advantages: None
+
+Disadvantages: Hindrance: Slow (R2), +4 to climb/jump and running difficulties; Achilles’ Heel: Vulnerability (R3), damage from fire increased by +3D
+
+Special Abilities: Extra Body Part: Vine (R1, cost 0) with Enhancement Additional Effect (R3, cost 3), can grasp with vine; Natural Armor: Bark (R1, cost 3), +1D to damage resistance total against physical damage
+
+Move: 10
+
+Strength Damage: 2D
+
+Fate Points: 0
+
+Character Points: 2
+
+Body Points: 20
+
+Wound levels: 3
+
+*Package*
+
+Total creation point cost: 1
+
+Total defined limit cost: 1 skill die
+
+Advantages: None
+
+Disadvantages: Hindrance: Slow (R2), +4 to climb/jump and running difficulties; Achilles’ Heel: Vulnerability (R3), damage from fire increased by +3D
+
+Special Abilities: Extra Body Part: Vine (R1, cost 0) with Enhancement Additional Effect (R3), can grasp with vine; Natural Armor: Bark (R1, cost 3), +1D to damage resistance total against physical damage
+
+=== Heavy Worlder (Human Offshoot)
+
+*Typical*
+
+Agility 2D: brawling 3D, firearms 3D
+
+Strength 4D: lift 4D+1, stamina 4D+1
+
+Knowledge 3D+1: astrography 3D+2, intimidation 3D+2, tactics 3D+2
+
+Perception 3D+2: command 4D, investigation 4D, search 4D
+
+Mechanical 3D: gunnery 3D+1, piloting 3D+1, sensors 3D+1, shields 3D+1
+
+Technical 3D
+
+Advantages: None
+
+Disadvantages: Achilles’ Heel: Low Gravity (R3), +1 to all Agility difficulties in a gravities of 1 g or less
+
+Special Abilities: Hardiness (R4, cost 4), +4 to damage resistance totals
+
+Move: 10
+
+Strength Damage: 2D
+
+Fate Points: 0
+
+Character Points: 2
+
+Body Points: 21
+
+Wound levels: 3
+
+*Package*
+
+Total creation point cost: 1
+
+Total defined limit cost: 1 skill die
+
+Advantages: None
+
+Disadvantages: Achilles’ Heel: Low Gravity (R3), +1 to all Agility difficulties in a gravities of 1 g or less
+
+Special Abilities: Hardiness (R4, cost 4), +4 to damage resistance totals
+
+=== Insectoid (Insect People)
+
+*Typical*
+
+Agility 3D+1: brawling 4D, melee combat 4D, running 3D+2
+
+Strength 3D+2: climb/jump 4D, lift 4D+1, stamina 4D
+
+Knowledge 3D: astrography 3D+1, intimidation 4D, tactics 3D+2
+
+Perception 3D+2: search 4D
+
+Mechanical 2D+1: gunnery 3D, navigation 2D+2, piloting 2D+2, sensors 2D+2
+
+Technical 2D
+
+Advantages: None
+
+Disadvantages: Devotion (R3), dedicated to hive and will support it above all else; Hindrance: Swimming (R2), +8 to swim difficulties
+
+Special Abilities: Natural Armor: Chiton (R1, cost 3), +1D to damage resistance total against physical damage; Natural Hand-to-Hand Weapon: Claws (R1, cost 2), +1D damage
+
+Move: 10
+
+Strength Damage: 2D
+
+Fate Points: 0
+
+Character Points: 2
+
+Body Points: 20
+
+Wound levels: 3
+
+*Package*
+
+Total creation point cost: 0
+
+Total defined limit cost: 0
+
+Advantages: None
+
+Disadvantages: Devotion (R3), dedicated to hive and will support it above all else; Hindrance: Swimming (R2), +8 to swim difficulties
+
+Special Abilities: Natural Armor: Chiton (R1, cost 3), +1D to damage resistance total against physical damage; Natural Hand-to-Hand Weapon: Claws (R1, cost 2), +1D damage
+
+=== Reptiloid (Reptile People)
+
+*Typical*
+
+Agility 3D+2: brawling 4D+1, dodge 4D, firearms 4D, melee weapons 4D, running 4D
+
+Strength 4D: lift 4D+1, stamina 4D+1
+
+Knowledge 3D: bureaucracy 3D+1, tactics 3D+2
+
+Perception 3D+1: bargain 3D+2, command 3D+2, con 3D+2
+
+Mechanical 2D: gunnery 2D+2, piloting 2D+1, vehicle operation 2D+1
+
+Technical 2D: flight systems repair 2D+1, security 2D+1, vehicle repair 2D+1
+
+Advantages: None
+
+Disadvantages: Hindrance: Arrogance (R2), +3 to con and persuasion difficulties; Achilles’ Heel: Cold (R3), take 1D in damage per round in temperatures below 15ª C
+
+Special Abilities: Extra Body Part: Tail (R1, cost 0); Natural Armor: Scales (R1, cost 3), +1D to damage resistance total against physical damage; Natural Hand-to-Hand Weapon: Claws (R1, cost 2), +1D damage
+
+Move: 10
+
+Strength Damage: 2D
+
+Fate Points: 0
+
+Character Points: 2
+
+Body Points: 22
+
+Wound levels: 3
+
+*Package*
+
+Total creation point cost: 0
+
+Total defined limit cost: 0
+
+Advantages: None
+
+Disadvantages: Hindrance: Arrogance (R2), +3 to con and persuasion difficulties; Achilles’ Heel: Environmental Incompatibility (R3), +1 modifier to difficulties per round exposed to temperatures below 15ª C
+
+Special Abilities: Extra Body Part: Tail (R1, cost 0); Natural Armor: Skin (R1, cost 3), +1D to damage resistance total; Natural Hand-to-Hand Weapon: Claws (R1, cost 2), +1D damage

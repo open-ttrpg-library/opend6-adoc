@@ -1,1 +1,47 @@
-= Generic adventure characters
+= Generic Adventure Characters
+
+=== People
+
+Henchman: Reflexes 2D, brawling 4D, Coordination 2D, lock- picking 3D, marksmanship 4D, piloting 3D, Physique 2D, running 3D, Knowledge 2D, Perception 2D, hide 3D, security 3D, streetwise 3D, tracking 3D, Presence 2D. Move: 10. Strength Damage: 1D. Fate Points: 0. Character Points: 2. Body Points: 18/Wound levels: 2. Equipment: handgun (damage 4D), lockpicking tools (+1D to lockpicking rolls), cell phone.
+
+Police Officer: Reflexes 2D, brawling 3D, dodge 3D, melee weapons 3D, Coordination 2D, marksmanship 4D, piloting 3D, Physique 2D, running 3D, Knowledge 2D, medicine 3D, Perception 2D, streetwise 4D, Presence 2D. Move: 10. Strength Damage: 1D. Fate Points: 0. Char- acter Points: 2. Body Points: 22/Wound levels: 2. Equipment: bulletproof vest (armor value +3D), handcuffs, handgun (damage 4D), nightstick (damage 3D), ammunition.
+
+Reporter: Reflexes 2D, sneak 3D, Coordination 2D, Physique 2D, running 3D, Knowledge 2D, investigation 3D, scholar 3D, tech 3D, Perception 2D, hide 3D, search 3D, tracking 3D, Presence 2D, con 3D, persuasion 3D. Move: 10. Strength Damage: 1D. Fate Points: 0. Character Points: 2. Body Points: 14/Wound levels: 2. Modern equipment: PDA with micro-recorder, digital camera, cell phone. Equipment for any genre: pad of paper, pens, press pass.
+
+Scientist: Reflexes 2D, Coordination 1D, Physique 1D, Knowledge 3D, investigation 5D, scholar 4D, tech 4D, Perception 3D, repair 4D, Presence 2D. Move: 10. Strength Damage: 1D. Fate Points: 0. Character Points: 2. Body Points: 15/Wound levels: 2. Equipment: access to lab facilities, PDA.
+
+Security Guard: Reflexes 2D, brawling 3D, dodge 4D, melee weap- ons 3D, Coordination 2D, Physique 2D, running 3D, Knowledge 2D, medicine 3D, security 3D, Perception 2D, Presence 2D. Move: 10. Strength Damage: 1D. Fate Points: 0. Character Points: 2. Body Points: 18/Wound levels: 2. Equipment: nightstick (damage +1D+2), walkie-talkie.
+
+Soldier: Reflexes 2D, brawling 3D, dodge 3D, melee weapons 3D, sneak 3D, Coordination 2D, marksmanship 3D, Physique 2D, lifting 3D, running 3D, Knowledge 2D, medicine 3D, scholar 3D, Perception 2D, Presence 2D, willpower 3D. Move: 10. Strength Dam- age: 2D. Fate Points: 0. Character Points: 2. Body Points: 19/Wound levels: 2. Equipment: handgun (damage 4D), knife (damage +1D), rifle (damage 5D+1), ammunition.
+
+Thug: Reflexes 2D, brawling 3D, melee weapons 3D, Coordination 2D, lockpicking 3D, marksmanship 3D, Physique 3D, Knowledge 2D, security 3D, Perception 2D, streetwise 3D, Presence 1D, intimidation 3D. Move: 10. Strength Damage: 2D. Fate Points: 0. Character Points: 2. Body Points: 19/Wound levels: 2. Equipment: handgun (damage 4D), switchblade (Strength Damage only).
+
+=== Animals
+
+Characters may also interact with animals from time to time. Remember that, although clever, most animals are not as intelligent as Humans are. They don’t actively use skills, though they may have some to represent their unconscious use of them, such as willpower to resist being told what to do. Animals usually decide on the best course of action that will lead to their own survival, unless they are trained otherwise.
+
+Bat (Brown, Red): Reflexes 3D, brawling 4D, flying 4D, Coordi- nation 1D, Physique 1D, Knowledge 1D, Perception 1D, search 2D: hearing +1D, tracking 2D: sonar +1D, Presence 1D, willpower 3D. Move: 15. Strength Damage: 1D. Body Points: 6/Wound levels: 1. Natural Abilities: wings allow the bat to fly for a few hundred miles; swarm attack (roll a single brawling total for entire group of bats, adding +5 to the total for every 10 creatures involved; if using the optional damage bonus, add the bonus for this roll to the Strength Damage of a single bat); claws (Strength Damage only).
+
+Bird of Prey (Falcon, Hawk): Reflexes 4D, brawling 5D, flying 5D, Coordination 1D, Physique 2D, Knowledge 1D, Perception 2D, search 3D, tracking 3D, Presence 2D, willpower 3D. Move: 32 (fly- ing)/15 (gliding). Strength Damage: 1D. Body Points: 12/Wound levels: 1. Natural Abilities: wings allow the bird to fly or glide for several hundred miles or as long as there are thermals to keep them aloft; beak (damage +2), talons (damage +1D).
+
+Cat, Domestic: Reflexes 3D, brawling 4D, climbing 4D, dodge 4D, jumping 4D, sneak 4D, Coordination 1D, Physique 1D, running 3D, Knowledge 1D, Perception 2D, search 3D, tracking 3D, Presence 2D, willpower 3D. Move: 20. Strength Damage :1D. Body Points: 10/Wound levels: 1. Natural Abilities: claws (damage +2), teeth (damage +2).
+
+Cat, Large (Lion, Puma, Tiger): Reflexes 4D, brawling 5D, climbing 5D, dodge 5D, jumping 5D, sneak 5D, Coordination 2D, Physique 4D, running 5D, Knowledge 1D, Perception 2D, search 3D, tracking 3D, Presence 2D, intimidation 5D, willpower 3D. Move: 30. Body Points: 18/Wound levels: 2. Strength Damage: 2D. Natural Abilities: thick fur (armor value +2), claws (damage +1D), teeth (damage +1D). Note: Large cats can leap up to 30 feet horizontally or six feet vertically.
+
+Dog, Domestic: Reflexes 3D, brawling 4D, dodge 4D, Coordina- tion 1D, Physique 3D, running 4D, Knowledge 1D, Perception 2D, search 3D, tracking 4D, Presence 2D, intimidation 3D, willpower 4D. Move: 25. Strength Damage: 2D. Body Points: 14/Wound levels: 1. Natural Abilities: teeth (damage +1D).
+
+Dog, Guard: Reflexes 3D, brawling 5D, dodge 6D, Coordination 1D, Physique 4D, running 4D, Knowledge 1D, Perception 2D, search 3D, tracking 4D, Presence 2D, intimidation 5D, willpower 4D. Move: 25. Strength Damage: 2D. Body Points: 18/Wound levels: 2. Natural Abilities: teeth (damage +1D).
+
+Horse: Reflexes 3D, brawling 4D, jumping 4D, Coordination 1D, Physique 4D, running 5D, Knowledge 1D, Perception 3D, Presence 2D, intimidation 3D, willpower 3D. Move: 25. Strength Damage 2D. Body Points: 22/Wound levels: 2. Natural Abilities: hoof (damage +2), teeth (damage +2). Note: Horses can attack the same target twice in one round with their hooves (two front or two back) at no penalty, or they can bite once.
+
+Shark: Reflexes 3D, brawling 4D, Coordination 1D, Physique 3D, swimming 5D, Knowledge 1D, Perception 2D, search 3D, tracking 3D, Presence 2D, intimidation 6D, willpower 7D. Move: 16. Strength Damage: 2D. Body Points: 24/Wound levels: 2. Natural Abilities: thick hide (armor value +2), teeth (damage +1D).
+
+=== Monsters
+
+As there are so many different kinds of each monster in existence, use this information when you need quick game characteristics.
+
+Walking Dead (Mummy, Skeleton, Zombie): Reflexes 2D, brawl- ing 3D, Coordination 1D, Physique 2D, lifting 3D, Knowledge 1D, Perception 1D, search 3D, tracking 3D, Presence 1D, intimidation 6D. Move: 10. Strength Damage: 2D. Body Points: 13/Wound levels: 2. Disadvantages: Employed (R3), slave to the one who raised them. Special Abilities: Hardiness (R2), +2 to damage resistance totals; Immortality (R1), cease functioning when smashed to pieces or head is cut off.
+
+Demon, Minor Destructive: Reflexes 3D, brawling 4D, sneak 4D, Coordination 2D, throwing 4D, Physique 5D, lifting 5D+1, running 6D, Knowledge 2D, Perception 2D, Presence 2D, intimidation 6D, willpower 4D. Move: 10. Strength Damage: 2D. Body Points: 19/Wound levels: 3. Disadvantages: Employed (R1), anyone who knows its true name can command it completely; Devotion (R3), totally committed to wreaking havoc. Special Abilities: Attack Resistance (R1), +1D to damage resistance total against weapons not blessed or enchanted; Immortality (R1), a holy symbol and proper ritual returns it to its realm.
+
+Vampire, Young: Reflexes 3D, brawling 4D, flying 3D+1, sneak 4D, Coordination 2D, throwing 4D, Physique 5D, infection 7D, lift- ing 5D+1, running 5D+2, Knowledge 3D, business 4D, scholar 4D, Perception 2D, hide 3D, Presence 4D, charm 5D, intimidation 6D, persuasion 5D, willpower 7D. Move: 10. Strength Damage: 3D. Body Points: 21/Wound levels: 4. Disadvantages: Achilles’ Heel: Metabolic Difference (R3), fresh blood; Achilles’ Heel (R4), unable to make any actions except running away while in the presence of a holy symbol or garlic; Achilles’ Heel: Environmental Incompatibility (R5), 2D damage per round of exposure to sunlight; Advantage Flaw: Infection (R3), transfers all Disadvantages and Special Abilities to victim. Special Abilities: Attack Resistance (R1), +1D to damage resistance total against weapons not blessed or enchanted; Immortality (R1), a stake through the heart causes permanent death.

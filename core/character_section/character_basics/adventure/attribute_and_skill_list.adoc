@@ -1,1 +1,163 @@
-= Attribute and skill list
+= Adventure Attribute and Skill List
+
+=== Attributes
+
+The following six attributes are Normal attributes for an adventure setting with a focus on action and adventure.
+
+*Reflexes:* Measure of balance, limberness, quickness, and full-body motor abilities.
+
+*Coordination:* Measure of hand-eye coordination and fine motor abilities.
+
+*Physique:* Measure of physical power and ability to resist damage.
+
+*Knowledge:* Measure of strength of memory and ability to learn.
+
+*Perception:* Measure of mental quickness and attention to detail.
+
+*Presence:* Measure of emotional strength, physical attractiveness, and personality.
+
+=== Skills
+
+*Reflexes*
+
+*acrobatics:* Performing feats of gymnastics, extraordinary balance, and dance (and related performance arts), as well as break falls. Useful for running obstacle courses or doing water ballet.
+
+*brawling:* Competence in unarmed combat.
+
+*climbing:* Scaling various surfaces.
+
+*contortion:* Escaping from otherwise secure physical bonds by twisting, writhing, and contorting the body.
+
+*dodge*: Slipping out of danger’s way, whether avoiding an attack or a sprung booby trap.
+
+*flying:* Maneuvering under one’s own power (such as with wings) or in null gravity.
+
+*jumping:* Leaping over obstacles.
+
+*melee* *combat:* Wielding hand-to-hand weapons.
+
+*riding:* Controlling and riding domesticated mounts.
+
+*sneak:* Moving silently and avoiding detection, whether through shadows or crowds.
+
+*Coordination*
+
+*lockpicking:* Opening a mechanical (not electronic) lock or safe without possessing the key or combination, as well as disarming small mechanical traps.
+
+*marksmanship:* Shooting guns of any type. Covers everything from small slugthrowers to vehicle-mounted rockets.
+
+*missile* *weapons:* Firing unpowered ranged weapons.
+
+*piloting:* Operating any kind of vehicle or powered armor traveling on or through the ground, a liquid medium, the air, or space.
+
+*sleight* *of* *hand:* Nimbleness with the fingers and misdirection, including picking pockets, palming items, and stage magic.
+
+*throwing:* Hitting a target accurately with a thrown item, including grenades, stones, and knives. Also used for catching thrown items. (Using or modifying grenades as explosives for special destructive effects requires the demolitions skill.)
+
+*Physique*
+
+*lifting:* Moving or lifting heavy objects, as well as representing the ability to inflict additional damage with strength-powered weapons.
+
+*running:* Moving quickly on the ground while avoiding obstacles and keeping from stumbling.
+
+*stamina:* Physical endurance and resistance to pain, disease, and poison.
+
+*swimming:* Moving and surviving in a liquid medium.
+
+*Knowledge*
+
+*business:* Comprehension of business practices and the monetary value of goods and opportunities, including the ability to determine how to make money with another skill the character has. Business can complement charm, con, and persuasion when haggling over prices for goods and services being bought or sold.
+
+*demolitions:* Using corrosives and explosives to achieve particular destructive effects.
+
+*forgery:* Creating and noticing false or altered documentation in various media (paper, electronic, plastic card, etc.), including counterfeiting, though tasks may require other skills to help detect or make the forgery.
+
+*languages:* Familiarity with and ability to use various forms of communication, including written, spoken, and nonverbal. Characters may choose one “native” language in which they have written and spoken fluency. Additional languages in which a character has proficiency can be represented by specializations of this skill.
+
+*medicine:* Using first aid techniques to treat injuries, as well as an understanding and application of medical procedures, including diagnosing illnesses and performing surgery.
+
+*navigation:* Determining the correct course using external reference points, such as stars, maps, or landmarks, as well as creating maps.
+
+*scholar:* This skill represents knowledge and/or education in areas not covered under any other skill (such as chemistry, mathematics, archeology, interior design, etc.). This may be restricted to a specific field (represented by specializations) or a general knowledge of a wide range of subjects. It is used to remember details, rumors, tales, legends, theories, important people, and the like, as appropriate for the subject in question. However, the broader the category, the fewer the details that can be recalled. It covers what the character himself can recall. Having another skill as a specialization of the scholar skill means that the character knows the theories and history behind the skill but can’t actually use it. It can be useful with investigation to narrow a search for information.
+
+*security:* Installing, altering, and bypassing electronic security and surveillance systems.
+
+*tech:* Using and designing (not making) complex mechanical or electronic equipment, such as programming and operating computers and manipulating communication devices.
+
+*Perception*
+
+*artist:* Making works of art, like paintings, photographs, and music or literary compositions.
+
+*gambling:* Playing and cheating at games of strategy and luck.
+
+*hide:* Concealing objects, both on oneself and using camouflage.
+
+*investigation:* Gathering information, researching topics, analyzing data, and piecing together clues.
+
+*know-how:* Ability to figure out how to perform an action in which the character does not have experience, as well as a catch-all skill encompassing areas not covered by other skills (such as basic, not fancy, sewing or cooking).
+
+*repair:* Creating, fixing, or modifying gadgets, weapons, armor, and vehicles.
+
+*search:* Spotting hidden objects or people, reconnoitering, lipreading, or eavesdropping on or watching another person.streetwise: Finding information, goods, and contacts in an urban environment, particularly through criminal organizations, black markets, and other illicit operations. Also useful for determining possible motives and methods of criminals.
+
+*survival:* Surviving in wilderness environments.
+
+*tracking*: Following the trail of another person, animal, or creature, or keeping after a moving target without being noticed.
+
+*Presence*
+
+*animal* *handling:* Controlling animals and making them perform tricks and follow commands.
+
+*charm:* Using friendliness, flattery, or seduction to influence someone else. Also useful in business transactions, putting on performances (such as singing, acting, or storytelling), and situations involving etiquette.
+
+*command*: Effectively ordering and coordinating others in team situations.
+
+*con:* Bluffing, lying, tricking, or deceiving others, as well as verbal evasiveness, misdirection, and blustering. Also useful in putting on acting performances.
+
+*disguise:* Altering features or clothing to be unrecognizable or to look like someone else. Also useful in acting performances.
+
+*intimidation:* Using physical presence, verbal threats, taunts, torture, or fear to influence others or get information out of them.
+
+*persuasion:* Influencing others or getting information out of them through bribery, honest discussion, debate, diplomacy, or speeches. Also useful in negotiations, business transactions, and put-ting on performances (such as singing, acting, or storytelling).
+
+*willpower:* Ability to withstand stress, temptation, other people’s interaction attempts, mental attacks, and pain. The Game Master may allow a specialization in a specific faith tradition or belief system to enhance many, though not all, applications of willpower.
+
+=== Extranormal
+
+The following two attributes are Extranormal attributes for an adventure setting with a focus on action and adventure.
+
+*Magic*
+
+Magic is the ability to manipulate the paranormal forces of the universe for extraordinary effects.
+
+*alteration:* Casting spells involving change.
+
+*apportation:* Casting spells involving movement.
+
+*conjuration:* Casting spells involving creation.
+
+*divination:* Casting spells involving knowledge.
+
+*Psionics*
+
+Psionics is the ability to manipulate the forces of the mind for extraordinary effects.
+
+*astral* *projection:* The ability to leave one’s body.
+
+*empathy:* The ability to sense emotions.
+
+far-*sensing*: The ability to use one’s senses at a distance.
+
+*healing:* The ability to heal injuries with the mind.
+
+*medium*: The ability to speak with the spirits of the dead.
+
+*protection:* The ability to psychically defend against injury.
+
+*psychometry*: The ability to sense information about a person, place, or event by looking at an object connected to it.
+
+*strike:* The ability to psychically cause injury.
+
+*telekinesis*: The ability to move things with the mind.
+
+*telepathy:* The ability to read thoughts.

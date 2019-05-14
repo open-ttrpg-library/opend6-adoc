@@ -1,7 +1,8 @@
 = OpenD6
 :plugins: ./plugins
 :core: ./core
-:toc:
+:toc: right
+:toclevels: 4
 :include-adventure:
 :include-fantasy:
 :include-space:
