@@ -1,6 +1,4 @@
-# Style guide
-
-
+= Style guide
 
 The following stylistic rules are to be applied to all material on this site.
 
@@ -12,7 +10,8 @@ The correct name is “OpenD6”, not “OpenD6 System”.
 
 Die codes are always abbreviated by leaving off the “6” after the “D”. 1D instead of 1D6.
 
-Die codes are always written with a capital. 1D not 1d.
+Die codes are always written with a capital.
+1D not 1d.
 
 “Game Master” is a title.
 It is always capitalized when referring to a specific person or a titular role in the game.

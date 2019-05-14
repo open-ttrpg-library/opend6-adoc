@@ -1,64 +1,105 @@
 = Metaphysics
 
-This chapter covers the ability to mentally control the energy of the universe to bend the laws of the world around a character. Unlike its cousin Psionics, which has a broad range of focused skills, Metaphysics requires only a few skills in order to creature a broad range of effects, though at a greater difficulty. The Metaphysics skills are available only to characters with the Metaphysics Extranormal attribute.
+This chapter covers the ability to mentally control the energy of the universe to bend the laws of the world around a character.
+Unlike its cousin Psionics, which has a broad range of focused skills, Metaphysics requires only a few skills in order to creature a broad range of effects, though at a greater difficulty.
+The Metaphysics skills are available only to characters with the Metaphysics Extranormal attribute.
 
 === Obtaining Access to Metaphysics
 
-There are only two ways for players’ characters to get metaphysical abilities. The first is to put dice in the Metaphysics attribute and skills at character creation, which costs the same as obtaining other attributes.
+There are only two ways for players’ characters to get metaphysical abilities.
+The first is to put dice in the Metaphysics attribute and skills at character creation, which costs the same as obtaining other attributes.
 
-The second is to obtain the Game Master’s permission after play has begun. If the player can come up with a reason for the character to learn or gain metaphysical abilities (such as they were latent or they appear at a certain age because of the character’s species) and the Game Master agrees, then the player may purchase them for the character. The cost to get the initial 1D in Metaphysics is 20 Character Points. After that, it is 10 times the number in front of the “D” to improve this attribute by one pip. The player must still purchase Metaphysics skill pips separately, though a player may buy one pip in one Metaphysics skill for the character at the same time as she initially gets the attribute.
+The second is to obtain the Game Master’s permission after play has begun.
+If the player can come up with a reason for the character to learn or gain metaphysical abilities (such as they were latent or they appear at a certain age because of the character’s species) and the Game Master agrees, then the player may purchase them for the character.
+The cost to get the initial 1D in Metaphysics is 20 Character Points.
+After that, it is 10 times the number in front of the “D” to improve this attribute by one pip.
+The player must still purchase Metaphysics skill pips separately, though a player may buy one pip in one Metaphysics skill for the character at the same time as she initially gets the attribute.
 
-Game Masters are discouraged from allowing characters to have access to multiple Extranormal abilities. However, it is possible, especially if the character has several Disadvantages that show up frequently in each session.
+Game Masters are discouraged from allowing characters to have access to multiple Extranormal abilities.
+However, it is possible, especially if the character has several Disadvantages that show up frequently in each session.
 
 === Learning and Improving Metaphysics Skills
 
-Metaphysics skills may be learned between adventures, like regular skills. No precise formulae exist for metaphysical manipulations. Teachers and their techniques help their students open their minds further and control their ability to alter reality better.
+Metaphysics skills may be learned between adventures, like regular skills.
+No precise formulae exist for metaphysical manipulations.
+Teachers and their techniques help their students open their minds further and control their ability to alter reality better.
 
-The cost for a Metaphysics skill, in Character Points, equals twice the normal cost for gaining or improving a normal skill. This cost is doubled again if a teacher — simply another manipulator of the metaphysical with the skill at a higher level — is not available to instruct the character. A character may learn or improve one Metaphysics skill after each adventure.
+The cost for a Metaphysics skill, in Character Points, equals twice the normal cost for gaining or improving a normal skill.
+This cost is doubled again if a teacher — simply another manipulator of the metaphysical with the skill at a higher level — is not available to instruct the character.
+A character may learn or improve one Metaphysics skill after each adventure.
 
 === Metaphysics Skills
 
-Attempts to change reality are called manipulations and require one of these skills in order to generate them. When using metaphysical forces, the character generates a Metaphysics skill total and tries to beat the manipulation’s difficulty. If the skill total equals or exceeds the difficulty, then the manipulation’s effect works (to a greater or lesser extent).
+Attempts to change reality are called manipulations and require one of these skills in order to generate them.
+When using metaphysical forces, the character generates a Metaphysics skill total and tries to beat the manipulation’s difficulty.
+If the skill total equals or exceeds the difficulty, then the manipulation’s effect works (to a greater or lesser extent).
 
 *Channel*
 
-With this skill, a character can focus energy within herself and her surroundings to harm others or protect herself and others from harm. The most common effects produced with this skill include modifying damage or Armor Value or generating a new damage or Armor Value.
+With this skill, a character can focus energy within herself and her surroundings to harm others or protect herself and others from harm.
+The most common effects produced with this skill include modifying damage or Armor Value or generating a new damage or Armor Value.
 
 *Sense*
 
-A character who has learned this skill can detect anything in existence, learn about her surroundings, and touch and influence minds. Some effects include: modifying Knowledge and general Perception attempts; modifying existing or including stand-alone bargain, command, con, investigation, persuasion, search, or Knowledge-related skills, especially to discern specific information.
+A character who has learned this skill can detect anything in existence, learn about her surroundings, and touch and influence minds.
+Some effects include: modifying Knowledge and general Perception attempts; modifying existing or including stand-alone bargain, command, con, investigation, persuasion, search, or Knowledge-related skills, especially to discern specific information.
 
 *Transform*
 
-This skill allows a character to alter temporarily people and things within the universe, including moving something from one location to another and changing a target’s natural capabilities. Some effects include: modifying a skill or attribute except general Perception uses, bargain, command, con, investigation, persuasion, search, Knowledge, or Knowledge-related skills; adding additional levels of a Special Ability the target already has; giving a target a new Special Ability, Disadvantage, or skill; placing new Limitations or Enhancements on an existing Special Ability; moving targets; and modifying a target’s Move value.
+This skill allows a character to alter temporarily people and things within the universe, including moving something from one location to another and changing a target’s natural capabilities.
+Some effects include: modifying a skill or attribute except general Perception uses, bargain, command, con, investigation, persuasion, search, Knowledge, or Knowledge-related skills; adding additional levels of a Special Ability the target already has; giving a target a new Special Ability, Disadvantage, or skill; placing new Limitations or Enhancements on an existing Special Ability; moving targets; and modifying a target’s Move value.
 
-To move a target, the skill total has to overcome the target’s weight value. (Look up the target’s mass on the “Lift Difficulties” table on page 91.) The target can resist by rolling her Strength or lift and adding it to her weight difficulty (theoretically, she tries to make herself harder for the manipulation to grasp; resisting does not count as an action for the target character). If the transform total is equal to or higher than the modified manipulation difficulty, the character is moved. This goes for self-teleportation as well (though the character is not likely to resist).
+To move a target, the skill total has to overcome the target’s weight value.
+(Look up the target’s mass on the “Lift Difficulties” table on page 91.) The target can resist by rolling her Strength or lift and adding it to her weight difficulty (theoretically, she tries to make herself harder for the manipulation to grasp; resisting does not count as an action for the target character). If the transform total is equal to or higher than the modified manipulation difficulty, the character is moved.
+This goes for self-teleportation as well (though the character is not likely to resist).
 
 === Designing the Manipulation
 
-At this point, write out what you want the effect to do — basically. What sort of effect are you trying to create? How long will it last? What range will you need? Consider all things along these lines. Having some general ideas up front will help you choose the values of the various aspects of your effects.
+At this point, write out what you want the effect to do — basically.
+What sort of effect are you trying to create? How long will it last? What range will you need? Consider all things along these lines.
+Having some general ideas up front will help you choose the values of the various aspects of your effects.
 
 === Aspects of a Manipulation
 
-There are four primary and necessary aspects of a manipulation that determine the difficulty to generate it: effect, target size, proximity, and duration. The value of the effect decides the base difficulty, while size, proximity, and duration modify this number.
+There are four primary and necessary aspects of a manipulation that determine the difficulty to generate it: effect, target size, proximity, and duration.
+The value of the effect decides the base difficulty, while size, proximity, and duration modify this number.
 
 ==== Effect and Skill Used
 
-The first step in creating a metaphysical manipulation is to decide what it can do. This also helps you generate the initial difficulty. Once you decide what the effect will do — damage, protection, skill bonus, and so on — determine its corresponding value using the “Die Codes” table. Here are some guidelines.
+The first step in creating a metaphysical manipulation is to decide what it can do.
+This also helps you generate the initial difficulty.
+Once you decide what the effect will do — damage, protection, skill bonus, and so on — determine its corresponding value using the “Die Codes” table.
+Here are some guidelines.
 
-Damage effects affect character health (that is, their Body Points or Wounds). To hurt someone, 6D (which you can determine, by using the “Die Code” table, has a value of 12) is a safe bet. To kill someone outright, 10D (which has a value of 20) is usually necessary.
+Damage effects affect character health (that is, their Body Points or Wounds). To hurt someone, 6D (which you can determine, by using the “Die Code” table, has a value of 12) is a safe bet.
+To kill someone outright, 10D (which has a value of 20) is usually necessary.
 
-Protection effects work similarly, though, obviously, they reduce the amount of damage taken. Checking out weapon damage die codes can help you determine the number of dice you need for your manipulation. Effects that increase, decrease, or otherwise alter attributes or skills are determined the same way. For example, taking over someone’s mind would give the metaphysicist a persuasion of 3D or more with a value of at least 6.
+Protection effects work similarly, though, obviously, they reduce the amount of damage taken.
+Checking out weapon damage die codes can help you determine the number of dice you need for your manipulation.
+Effects that increase, decrease, or otherwise alter attributes or skills are determined the same way.
+For example, taking over someone’s mind would give the metaphysicist a persuasion of 3D or more with a value of at least 6.
 
-Sometimes a Special Ability or a Disadvantage best reflects what an effect can do. With a Special Ability, the effect’s value equals 2 times the Special Ability cost times the number of ranks in that Special Ability, plus the cost of any Enhancements and their ranks, minus the cost of any Limitations and their ranks. With a Disadvantage, the effect’s value equals 2 times the cost of the Disadvantage. Effects generally do not provide a target with Advantages or affect the Funds attribute. Manipulation effects that don’t fall into any category should be given a difficulty and the circumstance in which the difficulty can be beat. The difficulty equals the effect’s value.
+Sometimes a Special Ability or a Disadvantage best reflects what an effect can do.
+With a Special Ability, the effect’s value equals 2 times the Special Ability cost times the number of ranks in that Special Ability, plus the cost of any Enhancements and their ranks, minus the cost of any Limitations and their ranks.
+With a Disadvantage, the effect’s value equals 2 times the cost of the Disadvantage.
+Effects generally do not provide a target with Advantages or affect the Funds attribute.
+Manipulation effects that don’t fall into any category should be given a difficulty and the circumstance in which the difficulty can be beat.
+The difficulty equals the effect’s value.
 
-A manipulation may contain more than one effect. Each effect is determined separately and added to the total. All of the effects must fall under the domain of the same skill. You should also list the skill used to create the manipulation at this time. See the skill descriptions for suggestions.
+A manipulation may contain more than one effect.
+Each effect is determined separately and added to the total.
+All of the effects must fall under the domain of the same skill.
+You should also list the skill used to create the manipulation at this time.
+See the skill descriptions for suggestions.
 
 ==== Perceptible Versus Imperceptible Effects
 
-For nearly all manipulations, the target or the people near the metaphysicist should sense the effect in some way, whether it be hearing the character’s voice as she attempts to use an augmented skill that requires vocalization, a glow indicating a blast has just gone off, or an aura showing that the character is enhanced. Having a perceivable effect neither adds to nor subtracts from the difficulty.
+For nearly all manipulations, the target or the people near the metaphysicist should sense the effect in some way, whether it be hearing the character’s voice as she attempts to use an augmented skill that requires vocalization, a glow indicating a blast has just gone off, or an aura showing that the character is enhanced.
+Having a perceivable effect neither adds to nor subtracts from the difficulty.
 
-Some effects cannot be detected through taste, physical sensations, hearing, sight, or scent. This includes instantaneous location-to-location movement and direct mind-to-mind communication. This adds 4 per die code or every five points of the effect’s value (round up). Thus, a manipulation’s imperceptible effect with a value of 11 has a +12 to the modifier.
+Some effects cannot be detected through taste, physical sensations, hearing, sight, or scent.
+This includes instantaneous location-to-location movement and direct mind-to-mind communication.
+This adds 4 per die code or every five points of the effect’s value (round up). Thus, a manipulation’s imperceptible effect with a value of 11 has a +12 to the modifier.
 
 The imperceptibility of the effect is in addition to any modifier that may further make the application of the manipulation obvious.
 
@@ -88,9 +129,12 @@ Extranormal attribute modifier 9
 
 ==== Target Size
 
-The size and number of targets is another essential element of a manipulation. Use the accompanying chart to decide on the desired number of targets or a single target’s size. Add it to the manipulation’s difficulty.
+The size and number of targets is another essential element of a manipulation.
+Use the accompanying chart to decide on the desired number of targets or a single target’s size.
+Add it to the manipulation’s difficulty.
 
-Should the metaphysicist wish to affect a group of people or items at once, all members of a targeted group must be within a meter of another member of that group and they must be of approximately the same size. Otherwise, use a smaller difficulty modifier and determine the effect on each smaller group separately.
+Should the metaphysicist wish to affect a group of people or items at once, all members of a targeted group must be within a meter of another member of that group and they must be of approximately the same size.
+Otherwise, use a smaller difficulty modifier and determine the effect on each smaller group separately.
 
 *Target Size Difficulty Modifier*
 
@@ -108,7 +152,10 @@ Horde, huge mass transport, large building +15
 
 ==== Range
 
-Next, determine how far away you want the metaphysicist to be able to affect things with the manipulation. Any manipulation effect reaches its target instantly, but if you want to move it, you also must include the range modifier for the distance you want the target to travel. (This is in addition to the modifier to get to the target.) Use the accompanying chart to pick a level that contains your desired range. Add it to the manipulation’s difficulty.
+Next, determine how far away you want the metaphysicist to be able to affect things with the manipulation.
+Any manipulation effect reaches its target instantly, but if you want to move it, you also must include the range modifier for the distance you want the target to travel.
+(This is in addition to the modifier to get to the target.) Use the accompanying chart to pick a level that contains your desired range.
+Add it to the manipulation’s difficulty.
 
 *Range to Target or Effect Difficulty Modifier*
 
@@ -132,7 +179,9 @@ Galactic (in the same galaxy but different star systems) +60
 
 ==== Duration
 
-Finally, decide how long the manipulation will last. Again, the accompanying chart can help you figure out the modifier to the difficulty. Unless otherwise specified by the manipulation (or the Game Master), a character may rely on a manipulation’s effect once per round.
+Finally, decide how long the manipulation will last.
+Again, the accompanying chart can help you figure out the modifier to the difficulty.
+Unless otherwise specified by the manipulation (or the Game Master), a character may rely on a manipulation’s effect once per round.
 
 *Duration Difficulty Modifier*
 
@@ -146,35 +195,68 @@ Each additional hour +1 (cumulative with other modifiers)
 
 === Manipulation Difficulty
 
-Once you have determined all of the aspects of the manipulation, add them together to get the difficulty for using it. The metaphysicist rolls the appropriate Metaphysics skill against this difficulty to determine success; see “Releasing the Manipulation” later in this chapter for details. The skill total can be modified by various circumstances; the “Situation Modifiers” section offers some suggestions.
+Once you have determined all of the aspects of the manipulation, add them together to get the difficulty for using it.
+The metaphysicist rolls the appropriate Metaphysics skill against this difficulty to determine success; see “Releasing the Manipulation” later in this chapter for details.
+The skill total can be modified by various circumstances; the “Situation Modifiers” section offers some suggestions.
 
 === Design Time
 
-Metaphysical manipulations never require the character to spend time designing a manipulation or going through preparations to use it. However, characters can improve their ability to create the manipulation by concentrating on their desired effect before releasing it. (See the concentration modifier later in this chapter for details.)
+Metaphysical manipulations never require the character to spend time designing a manipulation or going through preparations to use it.
+However, characters can improve their ability to create the manipulation by concentrating on their desired effect before releasing it.
+(See the concentration modifier later in this chapter for details.)
 
 === Situation Modifiers
 
-Various situations can change a character’s ability to make a manipulation happen. These generic and optional modifiers can further affect the difficulty, generally trading a negative effect on the character for a lower difficulty or a higher skill total. Note that none of these modifiers are required to use any Metaphysics skill, but they can help.
+Various situations can change a character’s ability to make a manipulation happen.
+These generic and optional modifiers can further affect the difficulty, generally trading a negative effect on the character for a lower difficulty or a higher skill total.
+Note that none of these modifiers are required to use any Metaphysics skill, but they can help.
 
-*Community:* Unless the Game Master rules otherwise, characters with metaphysical skills may help each other, using the game mechanics in the “Related Skills” section in the “Game Basics” chapter as guidelines. Metaphysicists also may gain aid from characters with certain other Extranormal attributes, such as Psionics, though only the Extranormal attribute is used and the bonus is one-half of normal (round up).
+*Community:* Unless the Game Master rules otherwise, characters with metaphysical skills may help each other, using the game mechanics in the “Related Skills” section in the “Game Basics” chapter as guidelines.
+Metaphysicists also may gain aid from characters with certain other Extranormal attributes, such as Psionics, though only the Extranormal attribute is used and the bonus is one-half of normal (round up).
 
-*Components, Incantations, and Gestures:* Metaphysical talents only require the power of the brain, although a person can have a psychological dependency on a certain sort of item to use his gift more effectively. A novice character just beginning his training might require a symbol of his order, for example. This is a psychological crutch, which can be reflected in the character concept as the Advantage Flaw (R3): Minor Stigma Disadvantage, but it has no bearing on the difficulty of the metaphysical attempt. Nonetheless, Game Masters may allow a modifier to the Metaphysics skill total modifier per type of additional part. There is a limit of one component, one incantation, and one gesture per skill attempt. See the accompanying charts on the next page for skill modifiers. This can be combined with a concentration modifier. Note that using the skill provided by a manipulation does not count as an incantation or gesture.
+*Components, Incantations, and Gestures:* Metaphysical talents only require the power of the brain, although a person can have a psychological dependency on a certain sort of item to use his gift more effectively.
+A novice character just beginning his training might require a symbol of his order, for example.
+This is a psychological crutch, which can be reflected in the character concept as the Advantage Flaw (R3): Minor Stigma Disadvantage, but it has no bearing on the difficulty of the metaphysical attempt.
+Nonetheless, Game Masters may allow a modifier to the Metaphysics skill total modifier per type of additional part.
+There is a limit of one component, one incantation, and one gesture per skill attempt.
+See the accompanying charts on the next page for skill modifiers.
+This can be combined with a concentration modifier.
+Note that using the skill provided by a manipulation does not count as an incantation or gesture.
 
-*Concentration:* The character spends time preparing herself before releasing her will on the world. For each round in which the character concentrates strictly on her upcoming action (with or without performing related incantations or gestures), the player may add a bonus of +1 to the skill total. Additionally, add the number of rounds in concentration to 6 to get the willpower difficulty, which the character rolls at the end of the concentration time. (The Game Master may adjust this based on the circumstances; see the chart on the next page for suggestions.) If the character fails the willpower roll, the metaphysical attempt fails. A Critical Failure on the willpower roll indicates that the character takes any feedback associated with the skill used, even though it didn’t work.
+*Concentration:* The character spends time preparing herself before releasing her will on the world.
+For each round in which the character concentrates strictly on her upcoming action (with or without performing related incantations or gestures), the player may add a bonus of +1 to the skill total.
+Additionally, add the number of rounds in concentration to 6 to get the willpower difficulty, which the character rolls at the end of the concentration time.
+(The Game Master may adjust this based on the circumstances; see the chart on the next page for suggestions.) If the character fails the willpower roll, the metaphysical attempt fails.
+A Critical Failure on the willpower roll indicates that the character takes any feedback associated with the skill used, even though it didn’t work.
 
 Example: Four rounds of concentration gives a +4 bonus with a willpower difficulty of 10.
 
-The player must specify, before having her character concentrate, which Metaphysics skill the bonus will affect and how it will affect that skill. The bonus cannot be transferred to another skill.
+The player must specify, before having her character concentrate, which Metaphysics skill the bonus will affect and how it will affect that skill.
+The bonus cannot be transferred to another skill.
 
-*Countenance:* Metaphysicists’ bodies can undergo changes due to side effects of their reality-altering talents. Some go pale or even blue with a lack of blood flow to their skin, the hair on some stands up as if by static electricity, others shake uncontrollably or foam at the mouth, while others get bulging eyes or swollen lolling tongues. Illusory changes are also possible, such as glowing eyes or a bright aura. The physical shell can react in unpredictable ways to the effects of extrasensory perception. The corresponding chart lists modifiers to the Metaphysics skill difficulty.
+*Countenance:* Metaphysicists’ bodies can undergo changes due to side effects of their reality-altering talents.
+Some go pale or even blue with a lack of blood flow to their skin, the hair on some stands up as if by static electricity, others shake uncontrollably or foam at the mouth, while others get bulging eyes or swollen lolling tongues.
+Illusory changes are also possible, such as glowing eyes or a bright aura.
+The physical shell can react in unpredictable ways to the effects of extrasensory perception.
+The corresponding chart lists modifiers to the Metaphysics skill difficulty.
 
-*Feedback:* For every -2 to her damage resistance total, the character receives a +1 to the Metaphysics skill total. Neither protective gear nor any type of Special Ability may defend against feedback. The damage resistance modifier drops at a rate of one-half of a roll of the character’s Metaphysics per day, with the decrease occurring at the beginning of a new day. Link to Target: When a metaphysicist wishes to seek out a specific person, the relationship to that person can affect how easy it is to get in touch with the person. Include the Link to Target skill total modifier when using the relevant skill (see accompanying table on the next page). Note that this is different than an astral anchor in that the character and her target need not have been in recent contact. The Game Master can also use these modifiers for honing in on specific items.
+*Feedback:* For every -2 to her damage resistance total, the character receives a +1 to the Metaphysics skill total.
+Neither protective gear nor any type of Special Ability may defend against feedback.
+The damage resistance modifier drops at a rate of one-half of a roll of the character’s Metaphysics per day, with the decrease occurring at the beginning of a new day.
+Link to Target: When a metaphysicist wishes to seek out a specific person, the relationship to that person can affect how easy it is to get in touch with the person.
+Include the Link to Target skill total modifier when using the relevant skill (see accompanying table on the next page). Note that this is different than an astral anchor in that the character and her target need not have been in recent contact.
+The Game Master can also use these modifiers for honing in on specific items.
 
-*Other:* The Game Master may allow other modifiers to the skill roll. Refer the “Generic Difficulty Modifiers” on page 61 to get an idea, though, of course, add to the skill total any modifiers for circumstances that make creating the manipulation easier, but subtract from the skill total any modifiers for situations that make manipulating reality harder.
+*Other:* The Game Master may allow other modifiers to the skill roll.
+Refer the “Generic Difficulty Modifiers” on page 61 to get an idea, though, of course, add to the skill total any modifiers for circumstances that make creating the manipulation easier, but subtract from the skill total any modifiers for situations that make manipulating reality harder.
 
-*Result* *Points:* The result points (the difference between the Metaphysics skill roll and the manipulation’s difficulty) can help in a future attempt with that skill or by improving some application of the current use. Add one-half of the result points as the bonus to the effect, range, duration, or other appropriate feature. (Round fractions up.) The Game Master might also use the result points to determine how effective the manipulation was.
+*Result* *Points:* The result points (the difference between the Metaphysics skill roll and the manipulation’s difficulty) can help in a future attempt with that skill or by improving some application of the current use.
+Add one-half of the result points as the bonus to the effect, range, duration, or other appropriate feature.
+(Round fractions up.) The Game Master might also use the result points to determine how effective the manipulation was.
 
-*Untrained:* Many Metaphysics skills may be used (or rather, “experienced”) even if the character has no dice in the particular skill. For those who have some training (that is, pips or dice in any Metaphysics skill), the difficulty increases by +5 to implement a manipulation using a skill in which they have no experience. For those who have no training (that is, no pips or dice in any Metaphysics skill but they do have dice in the Metaphysics attribute), the difficulty increases by +10.
+*Untrained:* Many Metaphysics skills may be used (or rather, “experienced”) even if the character has no dice in the particular skill.
+For those who have some training (that is, pips or dice in any Metaphysics skill), the difficulty increases by +5 to implement a manipulation using a skill in which they have no experience.
+For those who have no training (that is, no pips or dice in any Metaphysics skill but they do have dice in the Metaphysics attribute), the difficulty increases by +10.
 
 *Component is… Skill Modifier*
 
@@ -260,39 +342,55 @@ Complete strangers and not of the same species -12
 
 === Releasing the Manipulation
 
-Roll the Metaphysics skill for the manipulation in question to get a skill total, adding or subtracting any modifiers appropriate for the user’s situation. If the total equals or exceeds the difficulty number, the manipulation has succeeded and the metaphysicist may use the manipulation’s effect.
+Roll the Metaphysics skill for the manipulation in question to get a skill total, adding or subtracting any modifiers appropriate for the user’s situation.
+If the total equals or exceeds the difficulty number, the manipulation has succeeded and the metaphysicist may use the manipulation’s effect.
 
-Which skill the manipulation requires is either decided when the effect is developed or listed with a precalculated manipulation. Remember that players may spend Character and Fate Points to make sure they have sufficiently high skill totals to generate the manipulation in addition to relying on various situational modifiers.
+Which skill the manipulation requires is either decided when the effect is developed or listed with a precalculated manipulation.
+Remember that players may spend Character and Fate Points to make sure they have sufficiently high skill totals to generate the manipulation in addition to relying on various situational modifiers.
 
-The effect is applied differently depending on its purpose. There is no design time for creating a manipulation.
+The effect is applied differently depending on its purpose.
+There is no design time for creating a manipulation.
 
-*Skill Simulations:* Some manipulations provide the target with skills or bonuses to skills or attributes. For instance, a manipulation that heals would give a character a certain number of dice in medicine, and the result of using the manipulation’s skill gift would be compared to the normal difficulty for using medicine on a target. Any attribute bonuses affect the skills and specializations under them, and any skill bonuses add to the specializations under them (if the target has any). Targets use gifted skills and skill and attribute bonuses normally and as separate actions from the Metaphysics attempt.
+*Skill Simulations:* Some manipulations provide the target with skills or bonuses to skills or attributes.
+For instance, a manipulation that heals would give a character a certain number of dice in medicine, and the result of using the manipulation’s skill gift would be compared to the normal difficulty for using medicine on a target.
+Any attribute bonuses affect the skills and specializations under them, and any skill bonuses add to the specializations under them (if the target has any). Targets use gifted skills and skill and attribute bonuses normally and as separate actions from the Metaphysics attempt.
 
-*Protection:* Characters using protecting manipulations rely on their effect just as they would a piece of protective gear. General Effects: When the manipulation offers a “general” effect, and thus has no targeting or manipulative skill associated with it, the Game Master will have to make up levels of success for that manipulation. A minimal success, with the roll equal to the difficulty, means that the manipulation was slightly off or less than perfect. A solid success of one to five points over the difficulty usually gets the manipulation to do exactly what the user wants the manipulation to do. A superior success of six points over the difficulty reveals that the manipulation worked better than usual; at this level, the Game Master might even provide a bonus to its use.
+*Protection:* Characters using protecting manipulations rely on their effect just as they would a piece of protective gear.
+General Effects: When the manipulation offers a “general” effect, and thus has no targeting or manipulative skill associated with it, the Game Master will have to make up levels of success for that manipulation.
+A minimal success, with the roll equal to the difficulty, means that the manipulation was slightly off or less than perfect.
+A solid success of one to five points over the difficulty usually gets the manipulation to do exactly what the user wants the manipulation to do.
+A superior success of six points over the difficulty reveals that the manipulation worked better than usual; at this level, the Game Master might even provide a bonus to its use.
 
-*Damage and Targeted Manipulations:* If the manipulation focuses on a target (such as a blast or translocation manipulation), the player and Game Master must decide what skill (such as firearms, melee combat, or throwing) to use to hit, if it’s not already built into the manipulation or described with it, as well as the appropriate defense, if any. (Gamemasters who prefer to keep activation skills within the metaphysical arts could allow a separate channel roll as the targeting skill.) Attack manipulations, for example, would use standard combat difficulties and modifiers for their defense (regardless of the targeting skill). Common sense should be used to determine which skill and defense to use.
+*Damage and Targeted Manipulations:* If the manipulation focuses on a target (such as a blast or translocation manipulation), the player and Game Master must decide what skill (such as firearms, melee combat, or throwing) to use to hit, if it’s not already built into the manipulation or described with it, as well as the appropriate defense, if any.
+(Gamemasters who prefer to keep activation skills within the metaphysical arts could allow a separate channel roll as the targeting skill.) Attack manipulations, for example, would use standard combat difficulties and modifiers for their defense (regardless of the targeting skill). Common sense should be used to determine which skill and defense to use.
 
-Example: With a blast manipulation, the Game Master decides that the metaphysicist has to generate a firearms skill total to hit his target. Even though the energy will go where he wants it to, there still has to be some way to determine whether or not anybody is hit by it.
+Example: With a blast manipulation, the Game Master decides that the metaphysicist has to generate a firearms skill total to hit his target.
+Even though the energy will go where he wants it to, there still has to be some way to determine whether or not anybody is hit by it.
 
 This keeps effects from being automatic “killers.” Granted, most manipulation won’t need this — a manipulation that a character uses to take over a target’s mind needs no “to hit” total; it is instead the effect versus the target’s willpower or Knowledge.
 
-Releasing a manipulation at the same time as using its targeting or activation skill is not considered a multi-action. However, if the character wishes to release an attack manipulation, which requires a targeting skill roll, and fire a gun in the same round, then the multiaction modifier of -1D (for taking two actions in the same round) is applied to the manipulation activation roll, the manipulation targeting roll, and the weapon targeting roll.
+Releasing a manipulation at the same time as using its targeting or activation skill is not considered a multi-action.
+However, if the character wishes to release an attack manipulation, which requires a targeting skill roll, and fire a gun in the same round, then the multiaction modifier of -1D (for taking two actions in the same round) is applied to the manipulation activation roll, the manipulation targeting roll, and the weapon targeting roll.
 
 For manipulations targeting groups, the metaphysicist applies the targeting skill once and that number is compared to each target’s difficulty to hit it.
 
-In general, any manipulation that works like a weapon requires this kind of control, and a few others might. Game Masters in doubt may wish to assign a targeting skill check in addition to the manipulation skill difficulty.
+In general, any manipulation that works like a weapon requires this kind of control, and a few others might.
+Game Masters in doubt may wish to assign a targeting skill check in addition to the manipulation skill difficulty.
 
 === Reflux Option
 
-At the Game Master’s option, characters who roll a Critical Failure with an abysmally small skill total becoming disoriented and lose all of their actions in the next round. The universe rejected their manipulation and hit them back.
+At the Game Master’s option, characters who roll a Critical Failure with an abysmally small skill total becoming disoriented and lose all of their actions in the next round.
+The universe rejected their manipulation and hit them back.
 
 === Increasing Resistance Option
 
-As another option to control metaphysicists, for each additional time the character uses the same manipulation on the same target, the difficulty goes up by +5. It’s possible that the result point bonus will cancel this difficulty, but the universe continues to try to resist change.
+As another option to control metaphysicists, for each additional time the character uses the same manipulation on the same target, the difficulty goes up by +5.
+It’s possible that the result point bonus will cancel this difficulty, but the universe continues to try to resist change.
 
 === Sample Manipulations
 
-These sample manipulations provide a basic idea of what a character can do with the Metaphysics ability. They should be each taken as only one example of how such a manipulation of reality could be represented.
+These sample manipulations provide a basic idea of what a character can do with the Metaphysics ability.
+They should be each taken as only one example of how such a manipulation of reality could be represented.
 
 ==== Channel
 
@@ -310,7 +408,10 @@ Range: Close (+5)
 
 Duration: 2 rounds (0)
 
-Description: The metaphysicist draws energy from within herself or her surroundings and focuses it into a blast at a single target. Damage equals 4D. Add the result point bonus to the amount of damage done. She has access to the blast for two rounds, though she may only use it once per round.
+Description: The metaphysicist draws energy from within herself or her surroundings and focuses it into a blast at a single target.
+Damage equals 4D.
+Add the result point bonus to the amount of damage done.
+She has access to the blast for two rounds, though she may only use it once per round.
 
 *Mental* *Shield*
 
@@ -326,7 +427,9 @@ Range: Self (0)
 
 Duration: 5 rounds (+3)
 
-Description: By hiding his mind behind a curtain of confusing thoughts, the metaphysicists prevents mental harm with an Armor Value of 4D. The mental shield can also serve in place of willpower in interaction attempts or against detect life manipulations. Add the result point bonus to the amount of harm or level of interaction resisted.
+Description: By hiding his mind behind a curtain of confusing thoughts, the metaphysicists prevents mental harm with an Armor Value of 4D.
+The mental shield can also serve in place of willpower in interaction attempts or against detect life manipulations.
+Add the result point bonus to the amount of harm or level of interaction resisted.
 
 *Personal* *Physical* *Shield*
 
@@ -342,7 +445,8 @@ Range: Self (0)
 
 Duration: 5 rounds (+3)
 
-Description: The metaphysicist gathers energy into an aura that absorbs damage with an Armor Value of 4D. Add the result point bonus to the amount of damage resisted.
+Description: The metaphysicist gathers energy into an aura that absorbs damage with an Armor Value of 4D.
+Add the result point bonus to the amount of damage resisted.
 
 ==== Sense
 
@@ -360,7 +464,8 @@ Range: Self (for effect) (0); Long (to target location) (+7)
 
 Duration: 10 rounds (+8)
 
-Description: By casting her mind out, the metaphysicist can examine one location at a distance. Use the effect’s search skill of 4D to determine how much information the character gets each round.
+Description: By casting her mind out, the metaphysicist can examine one location at a distance.
+Use the effect’s search skill of 4D to determine how much information the character gets each round.
 
 *Detect* *Life*
 
@@ -376,7 +481,13 @@ Range: Close (+5)
 
 Duration: 5 rounds (+3)
 
-Description: Knowing that all living creatures radiate a kind of psychic energy field, the metaphysicist uses this manipulation to find those hiding near her. Each round, the character may look in a new direction without having to reactivate the manipulation. (She does need to roll the manipulation’s search skill for each new area.) The greater the roll with the effect, the more information she learns. Characters may attempt to hide themselves by rolling their willpower or Knowledge or by creating an appropriate manipulation. The results are then read as points above this difficulty, instead of points rolled with the search skill. With a Critical Failure result, add the total normally, including the one on the Wild Die, and use the results of one level less than that total. For totals that would have been minimal, the Critical Failure causes the metaphysicist to lose one round of using this manipulation due to confusion.
+Description: Knowing that all living creatures radiate a kind of psychic energy field, the metaphysicist uses this manipulation to find those hiding near her.
+Each round, the character may look in a new direction without having to reactivate the manipulation.
+(She does need to roll the manipulation’s search skill for each new area.) The greater the roll with the effect, the more information she learns.
+Characters may attempt to hide themselves by rolling their willpower or Knowledge or by creating an appropriate manipulation.
+The results are then read as points above this difficulty, instead of points rolled with the search skill.
+With a Critical Failure result, add the total normally, including the one on the Wild Die, and use the results of one level less than that total.
+For totals that would have been minimal, the Critical Failure causes the metaphysicist to lose one round of using this manipulation due to confusion.
 
 *Result Information Gained*
 
@@ -404,7 +515,8 @@ Range: Self (0)
 
 Duration: 5 rounds (+3)
 
-Description: The metaphysicist bends her will to commanding that of another. She relies on her new persuasion skill of 5D like a normal interaction skill.
+Description: The metaphysicist bends her will to commanding that of another.
+She relies on her new persuasion skill of 5D like a normal interaction skill.
 
 *Receive* *Thoughts*
 
@@ -422,7 +534,8 @@ Blank (to target) (0)
 
 Duration: 5 rounds (+3)
 
-Description: The metaphysicist can read the surface thoughts and feelings of one person. Each round, the metaphysicist makes an interaction attempt using the effect’s persuasion of 3D to determine how much of the target’s thoughts she detects.
+Description: The metaphysicist can read the surface thoughts and feelings of one person.
+Each round, the metaphysicist makes an interaction attempt using the effect’s persuasion of 3D to determine how much of the target’s thoughts she detects.
 
 *Send* *Thoughts*
 
@@ -438,7 +551,8 @@ Range: Self (for effect) (0); Close (to target) (+5)
 
 Duration: 5 rounds (+3)
 
-Description: For five rounds, the metaphysicist can plant thoughts in another character’s mind. Each round, the metaphysicist makes an interaction attempt using the effect’s persuasion of 3D to determine how receptive the target is to the thoughts.
+Description: For five rounds, the metaphysicist can plant thoughts in another character’s mind.
+Each round, the metaphysicist makes an interaction attempt using the effect’s persuasion of 3D to determine how receptive the target is to the thoughts.
 
 === Transform
 
@@ -456,7 +570,8 @@ Range: Touching (-2)
 
 Duration: 2 rounds (0)
 
-Description: Through the power of touch, the metaphysicist can heal another character as if he had 5D in medicine. She has access to this skill for two rounds, though she may only use it once per round.
+Description: Through the power of touch, the metaphysicist can heal another character as if he had 5D in medicine.
+She has access to this skill for two rounds, though she may only use it once per round.
 
 *Ignore* *Pain*
 
@@ -472,7 +587,9 @@ Range: Close (+5)
 
 Duration: 5 rounds (+3)
 
-Description: The metaphysicist bolsters another’s ability to fight the pain of injuries. For five rounds and as long as the target character remains within range, he receives the benefit of the stamina skill at 6D. Using the skill gained from this manipulation does not count as an action.
+Description: The metaphysicist bolsters another’s ability to fight the pain of injuries.
+For five rounds and as long as the target character remains within range, he receives the benefit of the stamina skill at 6D.
+Using the skill gained from this manipulation does not count as an action.
 
 *Physical* *Enhancement*
 
@@ -488,7 +605,8 @@ Range: Close (+5)
 
 Duration: 5 rounds (+3)
 
-Description: The metaphysicist improves another character’s physical or mental abilities. For five rounds and as long as the target character remains within range, she gets +1D to one attribute of the metaphysicist’s choosing.
+Description: The metaphysicist improves another character’s physical or mental abilities.
+For five rounds and as long as the target character remains within range, she gets +1D to one attribute of the metaphysicist’s choosing.
 
 *Telekinesis*
 
@@ -504,7 +622,9 @@ Range: Close (to target) (+5); Close (range of movement) (+5)
 
 Duration: 10 rounds (+8)
 
-Description: The metaphysicist reaches out with her mind and grasps a small object within 100 meters of her. She can bring it to her. (To also use the object at a distance, she would need to give herself the appropriate skill, as a separate manipulation attempt.)
+Description: The metaphysicist reaches out with her mind and grasps a small object within 100 meters of her.
+She can bring it to her.
+(To also use the object at a distance, she would need to give herself the appropriate skill, as a separate manipulation attempt.)
 
 *Translocation*
 
@@ -520,4 +640,7 @@ Range: Self (to target) (0); Close (to destination) (+5)
 
 Duration: 2 rounds (0)
 
-Description: The metaphysicist shifts herself out of time and space to another location within 100 meters of where she started. It takes one round to dematerialize and one round to rematerialize. Note: When adjusting this manipulation to work on another character, unwilling characters get a chance to resist, adding a roll of their lift or Strength to the base difficulty of the manipulation, making themselves harder to grasp. (Resisting does not count as an action for the target.)
+Description: The metaphysicist shifts herself out of time and space to another location within 100 meters of where she started.
+It takes one round to dematerialize and one round to rematerialize.
+Note: When adjusting this manipulation to work on another character, unwilling characters get a chance to resist, adding a roll of their lift or Strength to the base difficulty of the manipulation, making themselves harder to grasp.
+(Resisting does not count as an action for the target.)

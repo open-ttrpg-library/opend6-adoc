@@ -40,7 +40,8 @@ Special Abilities: Skill Bonus: Eidetic (R1), +1 bonus to speaking, scholar, and
 
 Equipment: Dagger (damage +1D); leather jerkin (Armor Value +2); paper; quill and ink; scroll tube.
 
-Description: Others get ideas for their tales second or third hand. You prefer to see the really exciting parts of history unfold for yourself.
+Description: Others get ideas for their tales second or third hand.
+You prefer to see the really exciting parts of history unfold for yourself.
 
 === Occupation: Cleric
 
@@ -82,7 +83,9 @@ Special Abilities: Skill Bonus: Miracles (R2). +2 to strife, divination, and fav
 
 Equipment: Mace (damage +1D+1); hard leather armor (Armor Value +1D+1); religious symbol; leather pouch; ceremonial cloth.
 
-Description: Being the youngest of a very large family, your family sent you away to a join a religious sect, one that promoted charity and knowledge. Your sect has now sent you out to practice what you have been taught and help others. Although you will defend yourself, you consider indiscriminate violence as stooping to the level of lesser beings.
+Description: Being the youngest of a very large family, your family sent you away to a join a religious sect, one that promoted charity and knowledge.
+Your sect has now sent you out to practice what you have been taught and help others.
+Although you will defend yourself, you consider indiscriminate violence as stooping to the level of lesser beings.
 
 === Occupation: Gladiator
 
@@ -124,7 +127,8 @@ Special Abilities: None
 
 Equipment: Short sword (damage +1D+2); hard leather armor (Armor Value +1D+1); small shield (Armor Value +2D).
 
-Description: You have so focused yourself on battle that you find it hard to resist a fight when you have the opportunity. From your time in the arena circuit, you’ve become famous for the use of a particular weapon.
+Description: You have so focused yourself on battle that you find it hard to resist a fight when you have the opportunity.
+From your time in the arena circuit, you’ve become famous for the use of a particular weapon.
 
 === Occupation: Healer
 
@@ -166,7 +170,8 @@ Special Abilities: Skill Bonus: Naturally Soothing (R1), +1 bonus to animal hand
 
 Equipment: Knife (damage +1D), 3 candles, tinderbox, pouch of herbs (+1 bonus to healing totals; six uses).
 
-Description: You’ve always had a predilection toward caring for others. Except when you get nervous and stutter, people like to be around you.
+Description: You’ve always had a predilection toward caring for others.
+Except when you get nervous and stutter, people like to be around you.
 
 === Occupation: Merchant
 
@@ -250,7 +255,8 @@ Special Abilities: Attack Resistance: Nonenchanted Weapons (R1), +1D to your dam
 
 Equipment: Battle axe (damage +3D); leather pants (Armor Value +2 to legs only).
 
-Description: After a band of monsters killed those you loved, you’ve been wandering the world, seeking to rid it of such diabolical creatures. A priest blessed your cause, giving you a resistance to certain kinds of physical harm.
+Description: After a band of monsters killed those you loved, you’ve been wandering the world, seeking to rid it of such diabolical creatures.
+A priest blessed your cause, giving you a resistance to certain kinds of physical harm.
 
 === Occupation: Ranger
 
@@ -292,7 +298,8 @@ Special Abilities: Skill Bonus: Keen Eye (R1), +1 bonus to marksmanship, search,
 
 Equipment: Cloak; long bow and quiver of arrows (damage +2D+2); leather jerkin (Armor Value +2).
 
-Description: You grew up in forests, and you’ve traveled through a lot of wilderness. You firstly seek to protect the land, plants, and animals, and secondly, any travelers.
+Description: You grew up in forests, and you’ve traveled through a lot of wilderness.
+You firstly seek to protect the land, plants, and animals, and secondly, any travelers.
 
 === Occupation: Thief
 
@@ -334,7 +341,9 @@ Special Abilities: Skill Bonus: Nimble Fingers (R1), +1 bonus to lockpicking, sl
 
 Equipment: Dagger (damage +1D), cloak, rope, sack, a few tools to spring traps.
 
-Description: Some people farm or fight professionally to earn a living. You prefer to test your wits against the awareness of a household. If you win, you get to keep something.
+Description: Some people farm or fight professionally to earn a living.
+You prefer to test your wits against the awareness of a household.
+If you win, you get to keep something.
 
 === Occupation: Wanderer
 
@@ -376,7 +385,8 @@ Special Abilities: None
 
 Equipment: Studded staff (damage +2D); cloak; sack; water skin.
 
-Description: You seek to learn about new cultures. When you’ve had your fill of one, you move on.
+Description: You seek to learn about new cultures.
+When you’ve had your fill of one, you move on.
 
 === Occupation: Wizard
 
@@ -418,4 +428,5 @@ Special Abilities: Good Luck (R1).
 
 Equipment: Small knife (damage +2); soft leather jerkin and pants (Armor Value +2); paper; quill and ink; a few small spell components; a few spells on scrolls.
 
-Description: Though the art of spell design fascinates you, the idea of staying locked in a stuffy library doesn’t. You’ve taken to adventuring to find inspiration for new spells, lost sources of mystical energy, and forgotten ancient artifacts.
+Description: Though the art of spell design fascinates you, the idea of staying locked in a stuffy library doesn’t.
+You’ve taken to adventuring to find inspiration for new spells, lost sources of mystical energy, and forgotten ancient artifacts.

@@ -2,73 +2,118 @@
 
 == Creating Non-Human Races
 
-Some, though certainly not all, fantasy settings feature humanoid races of equal or greater standing than the Humans themselves. This chapter generalizes a few of the more common ones. Game Masters can modify these generic characters to suit their setting or use them to design their own non-Human races.
+Some, though certainly not all, fantasy settings feature humanoid races of equal or greater standing than the Humans themselves.
+This chapter generalizes a few of the more common ones.
+Game Masters can modify these generic characters to suit their setting or use them to design their own non-Human races.
 
-Although it’s possible to run a science-fiction adventure without aliens, it’s not the norm. This chapter offers you suggestions on how to design believable aliens. You can use the same ideas to create off-shoots of Humanity, those mutated by colonization circumstances to be something not quite like their progenitors.
+Although it’s possible to run a science-fiction adventure without aliens, it’s not the norm.
+This chapter offers you suggestions on how to design believable aliens.
+You can use the same ideas to create off-shoots of Humanity, those mutated by colonization circumstances to be something not quite like their progenitors.
 
 === Designing Aliens and Human Offshoots
 
-When it comes to game characteristics, aliens and Human offshoots are made the same way as a standard Human character. If the character options list doesn’t give you any ideas, start either with the “Physical Appearance” or the “Society” sections. By the time you’re done answering the questions in those, you’ll have a better idea of how to form the package for a typical member of the species.
+When it comes to game characteristics, aliens and Human offshoots are made the same way as a standard Human character.
+If the character options list doesn’t give you any ideas, start either with the “Physical Appearance” or the “Society” sections.
+By the time you’re done answering the questions in those, you’ll have a better idea of how to form the package for a typical member of the species.
 
-When creating a new racial template, every character based on that species must have certain background Special Abilities, Disadvantages, and possibly Advantages. However, enough points should remain with which the player may customize the character. Usually, the character ends up with more options than normal for the average person in the game setting, but fewer than if the player had stuck with Human. (Experienced members of the race should have more skills and, perhaps, higher levels of the template’s Special Abilities and Disadvantages.)
+When creating a new racial template, every character based on that species must have certain background Special Abilities, Disadvantages, and possibly Advantages.
+However, enough points should remain with which the player may customize the character.
+Usually, the character ends up with more options than normal for the average person in the game setting, but fewer than if the player had stuck with Human.
+(Experienced members of the race should have more skills and, perhaps, higher levels of the template’s Special Abilities and Disadvantages.)
 
 When making new packages, to help them balance with what’s available to Humans, account for any potential alteration to attribute minimums and maximums through Special Abilities and Disadvantages.
 
 Regardless of the race, unless they take the Language Problems Disadvantage, characters can speak Trade Speech and their native language.
 
-Players may overlay the packages on any other character template. Disadvantages received from these packages do not count toward the maximum number of Disadvantages set by the Game Master. Body Points for “typical” characters were added to a Game Master’s character base of 10.
+Players may overlay the packages on any other character template.
+Disadvantages received from these packages do not count toward the maximum number of Disadvantages set by the Game Master.
+Body Points for “typical” characters were added to a Game Master’s character base of 10.
 
 === Physical Appearance
 
-Jot down a few words or sentences for each of these categories. The more detailed you can be, the more vividly you can describe a member of the species to others. Additionally, having an idea of physical appearance can help you decide on the society. If you already have figured out the society, then that information can help you decide on an appearance appropriate for that type of people.
+Jot down a few words or sentences for each of these categories.
+The more detailed you can be, the more vividly you can describe a member of the species to others.
+Additionally, having an idea of physical appearance can help you decide on the society.
+If you already have figured out the society, then that information can help you decide on an appearance appropriate for that type of people.
 
 *Height range:* You can either give a specific range in meters or be more vague (tall, short, medium, microscopic).
 
-*Build and weight range:* Build provides an accessible notion of a typical member’s physique rather than merely giving a weight range. Most members of a species could be stocky, bulky, lumpy, skinny, well proportioned, or any of a number of descriptive words.
+*Build and weight range:* Build provides an accessible notion of a typical member’s physique rather than merely giving a weight range.
+Most members of a species could be stocky, bulky, lumpy, skinny, well proportioned, or any of a number of descriptive words.
 
-*Heads:* The head is typically considered the part of the body where the most number of sensory organs and the brain are located. Some species might have their sensory organs split among a few locations, with the brain in another part, giving them the illusion of having no head. Sensory organs: Beings rely on sensory organs to gather information about their environment. How many does the alien have, and what do they sense? How well is each sense developed? Humans have five senses, but your alien species may have additional, specialized organs to detect other aspects of their environment, such as barometric pressure changes or seismic activity. You also need to decide where the sensory organs are located.
+*Heads:* The head is typically considered the part of the body where the most number of sensory organs and the brain are located.
+Some species might have their sensory organs split among a few locations, with the brain in another part, giving them the illusion of having no head.
+Sensory organs: Beings rely on sensory organs to gather information about their environment.
+How many does the alien have, and what do they sense? How well is each sense developed? Humans have five senses, but your alien species may have additional, specialized organs to detect other aspects of their environment, such as barometric pressure changes or seismic activity.
+You also need to decide where the sensory organs are located.
 
-*Mouth:* Consider the number of mouths, location of them, their size and shape, type of tongue, and teeth (if any). This often dictates the alien’s dietary needs and rituals. A mouth might even be separate from the part used to create sounds.
+*Mouth:* Consider the number of mouths, location of them, their size and shape, type of tongue, and teeth (if any). This often dictates the alien’s dietary needs and rituals.
+A mouth might even be separate from the part used to create sounds.
 
-*Facial features:* On Humans, this includes eyes, ears, nose, and mouth. Alien species may have these located elsewhere. Decide what features are on your alien’s face, and then specify number, location, size, shape, color, and other aspects of each.
+*Facial features:* On Humans, this includes eyes, ears, nose, and mouth.
+Alien species may have these located elsewhere.
+Decide what features are on your alien’s face, and then specify number, location, size, shape, color, and other aspects of each.
 
 *Respiration:* What does the species breathe, and how do they breathe it? Decide on the respiratory organ, which could be the same one used to eat (like a Human’s mouth), gills, or an organ designed solely for the purpose of respiration.
 
-*Skeletal structure:* Decide whether aliens carry their soft flesh over a skeleton, under a skeleton, neither, or they’ve managed a little of both. Movement: How does the alien get around? How many limbs does the alien require for locomotion? This is often dictated by where the species typically lives. In heavy-gravity environments, creatures tend to be closer to the ground, while water-dwellers develop fins and webbing to help them move through their environment.
+*Skeletal structure:* Decide whether aliens carry their soft flesh over a skeleton, under a skeleton, neither, or they’ve managed a little of both.
+Movement: How does the alien get around? How many limbs does the alien require for locomotion? This is often dictated by where the species typically lives.
+In heavy-gravity environments, creatures tend to be closer to the ground, while water-dwellers develop fins and webbing to help them move through their environment.
 
-*Limbs:* Consider type, number, length, and what purpose they have. Some aliens might have developed a separate limb or tentacle for eating, holding, and fighting.
+*Limbs:* Consider type, number, length, and what purpose they have.
+Some aliens might have developed a separate limb or tentacle for eating, holding, and fighting.
 
-*Manipulators:* Determine how the species manipulates objects. If the species has hands, how many fingers? They could also use pincers, tentacles, or telekinesis.
+*Manipulators:* Determine how the species manipulates objects.
+If the species has hands, how many fingers? They could also use pincers, tentacles, or telekinesis.
 
-*Tail:* Some species have a tail for balance. If that’s the case, how long is a typical one? Is it tipped with any natural weaponry? Can it be used like an additional arm?
+*Tail:* Some species have a tail for balance.
+If that’s the case, how long is a typical one? Is it tipped with any natural weaponry? Can it be used like an additional arm?
 
 *Skin:* Is the skin scaly, smooth, slimy, hairy, or something else? What color is it? Does it have any markings on it? Does it ooze anything?
 
-*Body temperature:* Some species can regulate their own body temperature, as do Humans and birds. The body of others could be more influenced by changes in the environment, like reptiles and fish. Having some control of body temperature, as well as the preferred temperature, can influence the kind of clothes and preferred climactic conditions.
+*Body temperature:* Some species can regulate their own body temperature, as do Humans and birds.
+The body of others could be more influenced by changes in the environment, like reptiles and fish.
+Having some control of body temperature, as well as the preferred temperature, can influence the kind of clothes and preferred climactic conditions.
 
 *Decorative features:* Decorative features include horns, hair, bone protrusions, cartilage bumps or ridges, skin flaps, frills, feathers, and other aspects that may not do more than be attractive to potential mates.
 
 === Society
 
-Establishing significant features of the alien species’ society gives them more depth by placing them in a larger context. This information can also help you decide on the physical appearance. Should you have already decided upon that, take into consideration what features you’ve given your alien so you can create a society that makes sense for that combination of physical characteristics.
+Establishing significant features of the alien species’ society gives them more depth by placing them in a larger context.
+This information can also help you decide on the physical appearance.
+Should you have already decided upon that, take into consideration what features you’ve given your alien so you can create a society that makes sense for that combination of physical characteristics.
 
-*Community and family:* How does the species raise children? Consider whether the groups formed are based on age, sex, life stage, relation, or something else. Decide how large the groups can get, and what happens if the group gets “too big.” If there isn’t much overlap between groups, describe why.
+*Community and family:* How does the species raise children? Consider whether the groups formed are based on age, sex, life stage, relation, or something else.
+Decide how large the groups can get, and what happens if the group gets “too big.” If there isn’t much overlap between groups, describe why.
 
 *Conflicts:* Does the species have particular rituals that it performs in order to solve conflicts? Do different groups have alternate ways of resolving conflicts? Are there any penalties for not following the rules?
 
-*Government:* The kind of governments that develop generally stem from the types of groups that are formed and how each resolves conflicts. A highly segregated society with many rituals might consider it natural to follow a military dictatorship, while one with loosely formed groups and a discussion-based resolution system might have a democracy.
+*Government:* The kind of governments that develop generally stem from the types of groups that are formed and how each resolves conflicts.
+A highly segregated society with many rituals might consider it natural to follow a military dictatorship, while one with loosely formed groups and a discussion-based resolution system might have a democracy.
 
-*Social* *graces:* Every society has many customs that each member takes for granted. Coming up with a few of these — which could include traditional means of performing actions, ritual greetings, table etiquette, or anything else that can be formalized — gives the society a distinctive flavor, as well as providing the opportunity for conflict among species who meet for the first time.
+*Social* *graces:* Every society has many customs that each member takes for granted.
+Coming up with a few of these — which could include traditional means of performing actions, ritual greetings, table etiquette, or anything else that can be formalized — gives the society a distinctive flavor, as well as providing the opportunity for conflict among species who meet for the first time.
 
-*Playtime*: Playing is a way of learning about one’s environment and other people in one’s social group, even if that’s not the most obvious result. Think about what kinds of games are played: intellectual, physical, or emotional? Are they played as a way of learning how to get along, or are they another means of showing off power?
+*Playtime*: Playing is a way of learning about one’s environment and other people in one’s social group, even if that’s not the most obvious result.
+Think about what kinds of games are played: intellectual, physical, or emotional? Are they played as a way of learning how to get along, or are they another means of showing off power?
 
-*Science, art, and religion:* Decide whether the species considers any of these more or less important than the others. Describe a few key aspects — how prevalent the technology is, whether art is limited to a single group, the number of religions present —that demonstrate the capabilities of the species in each area.
+*Science, art, and religion:* Decide whether the species considers any of these more or less important than the others.
+Describe a few key aspects — how prevalent the technology is, whether art is limited to a single group, the number of religions present —that demonstrate the capabilities of the species in each area.
 
 == Examples and Packages
 
-These sets of Advantages, Disadvantages, and Special Abilities define the physical and mental characteristics of stereotypical members of common science-fiction and fantasy species, as well as offer an idea of how to represent your own aliens and alien packages. Realize that, to keep the point total down, not every characteristics of each kind of alien was represented through Advantages, Disadvantages, and Special Abilities. Instead, the most significant features were chosen. Game Masters should customize these basic characters to fit their idea of each species more closely. Players may overlay the packages on any other character template. Disadvantages received from these packages do not count toward the maximum number of Disadvantages set by the Game Master. Body Points for typical characters were added to a Game Master’s character base of 10.
+These sets of Advantages, Disadvantages, and Special Abilities define the physical and mental characteristics of stereotypical members of common science-fiction and fantasy species, as well as offer an idea of how to represent your own aliens and alien packages.
+Realize that, to keep the point total down, not every characteristics of each kind of alien was represented through Advantages, Disadvantages, and Special Abilities.
+Instead, the most significant features were chosen.
+Game Masters should customize these basic characters to fit their idea of each species more closely.
+Players may overlay the packages on any other character template.
+Disadvantages received from these packages do not count toward the maximum number of Disadvantages set by the Game Master.
+Body Points for typical characters were added to a Game Master’s character base of 10.
 
-All species listed here are about two meters tall on average, and have roughly the same weight range as Humans. Player’s characters designed using the packages should follow the normal character creation guidelines with respect to Fate Points, Character Points, Body Points, Wounds, languages, and any other feature not listed in the package. The total creation point cost refers to the number of points from the creation point pool that the player must spend to include that package with her character. The total defined limit cost indicates the number of skill and attribute dice the player must deduct from the total number of dice she may spend when creating her character.
+All species listed here are about two meters tall on average, and have roughly the same weight range as Humans.
+Player’s characters designed using the packages should follow the normal character creation guidelines with respect to Fate Points, Character Points, Body Points, Wounds, languages, and any other feature not listed in the package.
+The total creation point cost refers to the number of points from the creation point pool that the player must spend to include that package with her character.
+The total defined limit cost indicates the number of skill and attribute dice the player must deduct from the total number of dice she may spend when creating her character.
 
 :leveloffset: +1
 

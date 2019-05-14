@@ -82,7 +82,8 @@ Special Abilities: None
 
 Equipment: Various decks of cards and manipulatable games of chances; Plastovar armor decorated to look like a flashy outfit (Armor Value +1D+1); personal blaster (damage 3D; range 4/8/12; ammo 6) with 1 spare energy cell (ammo 6); hidden holster; 1,000 credits in various types and denominations (not usable on all worlds); props for con games.
 
-Description: Life is an opportunity to be exploited to its fullest. You like to think of yourself as wandering the universe, revealing the wonders of the ages to the uniformed, hoping to move happiness from one corner of the galaxy to another.
+Description: Life is an opportunity to be exploited to its fullest.
+You like to think of yourself as wandering the universe, revealing the wonders of the ages to the uniformed, hoping to move happiness from one corner of the galaxy to another.
 
 === Occupation: Cyberchopper
 
@@ -124,7 +125,9 @@ Special Abilities: See cybernetics equipment.
 
 Equipment: SuperSight (Enhanced Sense: Sight (R1), +1 to sight-based rolls); cyberarm (Increased Attribute (R2), +2 to Strength with Limitation Ability Loss (R1), right arm only); blaster pistol (damage 5D; range 20/50/150; ammo 12) with 2 spare energy cells (ammo 12 each); med-kit with cybertools (+1D to medicine rolls and allows performance of Cybernetics surgery; includes spare supplies); cred-key.
 
-Description: You used to zipyank other steelskins and taking the goods back to the chopshop. Then the cutter got slagged, and they were gonna close you down. But you got new skills fast and now you’re the cutter.
+Description: You used to zipyank other steelskins and taking the goods back to the chopshop.
+Then the cutter got slagged, and they were gonna close you down.
+But you got new skills fast and now you’re the cutter.
 
 === Occupation: Demolitions Expert
 
@@ -166,7 +169,8 @@ Special Abilities: Fast Reactions (R1), +1D to Perception when determining initi
 
 Equipment: Malleable explosive with timing chips (damage 6D; 10 uses); syntheleather jacket (Armor Value +2 ); work laser tool (damage 1D); connecting wires; cred-key.
 
-Description: Something about your heritage makes you little different from other members of your species. Maybe it’s because you’re good at blowing things up, but others contend it’s because you talk too much.
+Description: Something about your heritage makes you little different from other members of your species.
+Maybe it’s because you’re good at blowing things up, but others contend it’s because you talk too much.
 
 === Occupation: Hard Warrior
 
@@ -208,7 +212,8 @@ Special Abilities: None
 
 Equipment: Serrated combat knife (damage +1D+2) with compass in handle; plasteel breastplate (Armor Value +1D+2); makeshift greaves on arms and legs (Armor Value +1); medium semi-automatic (damage 4D; range 8/13/35; ammo 17); med-kit (+1D to medicine rolls; includes spare supplies); cred-key; miscellaneous supplies and keepsakes.
 
-Description: From war zone to gang to battlefield, you know nothing but fighting. You take the money to keep yourself in ammo and medical supplies, but you give no one loyalty except yourself.
+Description: From war zone to gang to battlefield, you know nothing but fighting.
+You take the money to keep yourself in ammo and medical supplies, but you give no one loyalty except yourself.
 
 === Occupation: Medic
 
@@ -250,7 +255,8 @@ Special Abilities: Skill Bonus: Upbeat (R1), +1 bonus to bargain, con, and persu
 
 Equipment: Med-kit (+1D to medicine first-aid attempts; five uses); personal blaster (damage 3D; range 4/8/12; ammo 6) with 2 spare energy cells (ammo 6 each); medical reader (+1D to medicine diagnostic attempts); cred-key.
 
-Description: With an irresistible personality, most people find it hard not to give you your way. That’s often come in handy with reluctant patients, especially the macho types with serious injuries.
+Description: With an irresistible personality, most people find it hard not to give you your way.
+That’s often come in handy with reluctant patients, especially the macho types with serious injuries.
 
 === Occupation: Megacorp Contract Negotiator
 
@@ -292,7 +298,8 @@ Special Abilities: None
 
 Equipment: Slick-looking Plastovar suit (Armor Value +1D+1); medium semi-automatic (damage 4D; range 8/13/35; ammo 17) plus 2 extra clips (ammo 10 each); armored briefcase (damage resistance total 21) with blank contracts; cred-key; corporate contacts might help you get other items needed for the job at hand.
 
-Description: Working for a multi-planetary organization, your life is fast paced, complicated, and, aside from the steady pay, unpredictable. One day your negotiating a contract; the next you’re quelling a dispute.
+Description: Working for a multi-planetary organization, your life is fast paced, complicated, and, aside from the steady pay, unpredictable.
+One day your negotiating a contract; the next you’re quelling a dispute.
 
 === Occupation: Old Scout
 
@@ -334,7 +341,9 @@ Special Abilities: Iron Will (R1), +1D to willpower rolls and +2 to default inte
 
 Equipment: Military scout ship (owned by the military; less-than-mint condition; on any Critical Failure with ship system, the ship shuts down and requires a repair roll for that system against a difficulty of 16 to get it running again); worn Plastovar armor (Armor Value +1D+1); laser pistol (damage 4D; range 25/75/150; ammo 15); standard comlink; standard enviro-suit; cred-key.
 
-Description: It seems like you’ve been a scout for years, with no an end in sight. You’re heartily sick of regs and reports, but you know you’d be worse off at a desk job or in the brig. You do your job just enough to keep from getting kicked out (and losing the few perks), but you concentrate on your many different “sidelines.”
+Description: It seems like you’ve been a scout for years, with no an end in sight.
+You’re heartily sick of regs and reports, but you know you’d be worse off at a desk job or in the brig.
+You do your job just enough to keep from getting kicked out (and losing the few perks), but you concentrate on your many different “sidelines.”
 
 === Occupation: Security Expert
 
@@ -376,7 +385,8 @@ Special Abilities: Skill Minimum (R1), your skill totals for security, demolitio
 
 Equipment: Hand computer with communication link, various connectors as well as data wands containing common security protocols and cracking programs (+1D to security and security regulations attempts); personal blaster (damage 3D; range 4/8/12; ammo 6) with 2 spare energy cells (ammo 6 each); cred-key.
 
-Description: You’ve always had a knack for breaking and entering — and preventing others from doing the same. Unfortunately, ever since you stumbled across someone’s deep, dark secret, you always get nervous before attempting any security procedures.
+Description: You’ve always had a knack for breaking and entering — and preventing others from doing the same.
+Unfortunately, ever since you stumbled across someone’s deep, dark secret, you always get nervous before attempting any security procedures.
 
 === Occupation: Technical Wiz
 
@@ -418,4 +428,5 @@ Special Abilities: Skill Bonus: Observant (R1), +1 to investigation, search, and
 
 Equipment: Repair and diagnostic kit (+1D to repair attempts; one use per skill); blaster pistol (damage 5D; range 20/50/150; ammo 12) with 1 spare energy cell (ammo 12); syntheleather jacket (Armor Value +2); cred-key.
 
-Description: Quick to spot and diagnose a problem, you can fix anything. You’re always looking for new jobs that can help you keep up on the latest technology or improve older versions.
+Description: Quick to spot and diagnose a problem, you can fix anything.
+You’re always looking for new jobs that can help you keep up on the latest technology or improve older versions.

@@ -1,90 +1,151 @@
 = Cybernetics
 
-Cybernetic enhancements are widely available in the average space opera universe, both from legitimate dealers and from street surgeons. This section presents basic details on how to customize some of the more popular varieties, as well as a sampling of typically available cyberware.
+Cybernetic enhancements are widely available in the average space opera universe, both from legitimate dealers and from street surgeons.
+This section presents basic details on how to customize some of the more popular varieties, as well as a sampling of typically available cyberware.
 
 === Character Options and Cybernetic Implants
 
-Cybernetic implants can serve as a handy excuse for having certain Special Abilities and Disadvantages. These represent, in a convenient fashion, how each piece of equipment works (or doesn’t). In fact, when the player includes a Special Ability in his character’s cybernetic unit, he must also explain how that Special Ability manifests itself, whether it be through a gun that pops up, a drug that is released into the system, or a tool that’s revealed from a fingertip. Naturally, the Game Master has the right to request that the player alter his choice if the addition is unreasonable (such a high-powered machine gun installed in a toe). Game Masters may even reduce the number of upgrade slots available in each implant to reflect a (relatively) lower-tech setting.
+Cybernetic implants can serve as a handy excuse for having certain Special Abilities and Disadvantages.
+These represent, in a convenient fashion, how each piece of equipment works (or doesn’t). In fact, when the player includes a Special Ability in his character’s cybernetic unit, he must also explain how that Special Ability manifests itself, whether it be through a gun that pops up, a drug that is released into the system, or a tool that’s revealed from a fingertip.
+Naturally, the Game Master has the right to request that the player alter his choice if the addition is unreasonable (such a high-powered machine gun installed in a toe). Game Masters may even reduce the number of upgrade slots available in each implant to reflect a (relatively) lower-tech setting.
 
-There is no additional cost to include a Special Ability in cybernetic implants, beyond the normal charge for gaining that Special Ability. Special Abilities in cybernetic implants can have Enhancements and Limitations as per the rules in the “Character Options” chapter. Game Masters may require Special Abilities such as Skill Bonus to be restricted to specializations of the boosted skill that reflect what a character could do with just the limb or organ in question.
+There is no additional cost to include a Special Ability in cybernetic implants, beyond the normal charge for gaining that Special Ability.
+Special Abilities in cybernetic implants can have Enhancements and Limitations as per the rules in the “Character Options” chapter.
+Game Masters may require Special Abilities such as Skill Bonus to be restricted to specializations of the boosted skill that reflect what a character could do with just the limb or organ in question.
 
 Likewise, the cybernetic implants can exist as the focus for certain Disadvantages, including Price, Debt, and Quirk.
 
 === Getting Cybernetic Implants At Character Creation
 
-When designing a character, the player chooses the type of cybernetic implants she wants her character have. This should be limited to one full limb or a few organs, unless the character also has the Equipment Advantage. (A higher rank in Equipment means more cybernetic implants.) The player then selects (and pays the cost for) any Special Abilities and Disadvantages she wants associated with the cybernetic implants. Certain Advantages are also appropriate for cybernetic implants, including Fame, Trademark Specialization, or a high-ranking Contact or any rank of Patron (either of which could have arranged for the character to gain the cyberware).
+When designing a character, the player chooses the type of cybernetic implants she wants her character have.
+This should be limited to one full limb or a few organs, unless the character also has the Equipment Advantage.
+(A higher rank in Equipment means more cybernetic implants.) The player then selects (and pays the cost for) any Special Abilities and Disadvantages she wants associated with the cybernetic implants.
+Certain Advantages are also appropriate for cybernetic implants, including Fame, Trademark Specialization, or a high-ranking Contact or any rank of Patron (either of which could have arranged for the character to gain the cyberware).
 
 The character need not go through the surgery process or pay the monetary purchase cost.
 
 === After Character Creation
 
-After character creation, the character needs not only money (and Character Points) but time for surgery. The character pays the cybernetic implant cost with Funds or credits, including the cost of adding any Special Abilities, and goes through the surgery installation process (see the next section). Characters may lower the cost and the surgery difficulty by taking Disadvantages. Instead of getting bonus Character Points for opting for more restrictions, Disadvantages lower the surgery and price difficulty each by 3 times the rank in the Disadvantage, with a minimum difficulty of 10. If using credits, reduce the cost by 10% per rank, with a minimum cost of 10,000 credits.
+After character creation, the character needs not only money (and Character Points) but time for surgery.
+The character pays the cybernetic implant cost with Funds or credits, including the cost of adding any Special Abilities, and goes through the surgery installation process (see the next section). Characters may lower the cost and the surgery difficulty by taking Disadvantages.
+Instead of getting bonus Character Points for opting for more restrictions, Disadvantages lower the surgery and price difficulty each by 3 times the rank in the Disadvantage, with a minimum difficulty of 10.
+If using credits, reduce the cost by 10% per rank, with a minimum cost of 10,000 credits.
 
 The player also needs to pay the Character Point cost of the Special Ability plus a number of Character Points equal to the base surgery cost of the implant.
 
 === Installation Surgery
 
-Fitting the body with cybernetic implants involves surgery and can be an extremely painful process. A successful medicine skill check is required to install cybernetic implants in this manner. If the cybernetic implant has been “stripped” (taken off of another host) or has not been customized, skill totals in personal equipment repair also are required.
+Fitting the body with cybernetic implants involves surgery and can be an extremely painful process.
+A successful medicine skill check is required to install cybernetic implants in this manner.
+If the cybernetic implant has been “stripped” (taken off of another host) or has not been customized, skill totals in personal equipment repair also are required.
 
-The difficulty of the cyber surgery varies according to the system involved. Surgery difficulty and the damage done to the person as a result of a successful installation are listed with the equipment characteristics at the end of this chapter.
+The difficulty of the cyber surgery varies according to the system involved.
+Surgery difficulty and the damage done to the person as a result of a successful installation are listed with the equipment characteristics at the end of this chapter.
 
-Characters are always unconscious for 30 minutes after undergoing surgery, and are likely to be injured. This damage is healed at the same rate as normal wounds. Additionally, Character or Fate Points may not be spent to improve the cyber-character’s natural healing abilities or the skills of herself or others when trying to recover from wounds incurred during cyber surgery.
+Characters are always unconscious for 30 minutes after undergoing surgery, and are likely to be injured.
+This damage is healed at the same rate as normal wounds.
+Additionally, Character or Fate Points may not be spent to improve the cyber-character’s natural healing abilities or the skills of herself or others when trying to recover from wounds incurred during cyber surgery.
 
 The results of cyber surgery are determined by the level of success of the medicine check (the difference between the skill total and the difficulty). Use the following guidelines:
 
-Failure (skill total did not meet or beat difficulty): The cyber system is not installed. Worse, the surgeon has botched the job. The patient takes more damage than he normally would have — increase the damage to Incapacitated or 75% of the character’s base Body Points.
+Failure (skill total did not meet or beat difficulty): The cyber system is not installed.
+Worse, the surgeon has botched the job.
+The patient takes more damage than he normally would have — increase the damage to Incapacitated or 75% of the character’s base Body Points.
 
-Minimal (skill total equals difficulty): System is installed, but just barely. Damage is Severely Wounded or 50% of the character’s base Body Points, and the system malfunctions on a 1 or 2 on the Wild Die.
+Minimal (skill total equals difficulty): System is installed, but just barely.
+Damage is Severely Wounded or 50% of the character’s base Body Points, and the system malfunctions on a 1 or 2 on the Wild Die.
 
-Average (skill total beats difficulty by 1–5 points): The system is installed, but malfunctions on a Critical Failure. The character incurs normal damage (Severely Wounded or 50% of the character’s base Body Points).
+Average (skill total beats difficulty by 1–5 points): The system is installed, but malfunctions on a Critical Failure.
+The character incurs normal damage (Severely Wounded or 50% of the character’s base Body Points).
 
-Good (skill total beats difficulty by 6–9 points): Installation is successful. The character incurs normal damage (Severely Wounded or 50% of the character’s base Body Points).
+Good (skill total beats difficulty by 6–9 points): Installation is successful.
+The character incurs normal damage (Severely Wounded or 50% of the character’s base Body Points).
 
-Superior (skill total beats difficulty by 10 or more points): Installation is successful and the amount of time needed to recover from surgery damage is halved. The character incurs normal damage (Severely Wounded or 50% of the character’s base Body Points).
+Superior (skill total beats difficulty by 10 or more points): Installation is successful and the amount of time needed to recover from surgery damage is halved.
+The character incurs normal damage (Severely Wounded or 50% of the character’s base Body Points).
 
-When using stripped cybergear, make two separate skill totals — one medicine and one personal equipment repair at the same difficulty. One failure is enough to botch the surgery entirely. In any other instance, add together the amounts by which each skill beat the difficulty. Divide this total by 2, and compare the new number to the levels above to determine the effect on the character.
+When using stripped cybergear, make two separate skill totals — one medicine and one personal equipment repair at the same difficulty.
+One failure is enough to botch the surgery entirely.
+In any other instance, add together the amounts by which each skill beat the difficulty.
+Divide this total by 2, and compare the new number to the levels above to determine the effect on the character.
 
 === Upgrading Existing Cybernetic Implants
 
-Once a character has a cybernetic implant installed, he may upgrade it as long as he has upgrade slots left in the unit. Even then, by swapping out one upgrade for another, the character can put something new in.
+Once a character has a cybernetic implant installed, he may upgrade it as long as he has upgrade slots left in the unit.
+Even then, by swapping out one upgrade for another, the character can put something new in.
 
-To add an upgrade to an empty slot requires a single personal equipment repair roll at the difficulty. To swap out an existing upgrade needs a personal equipment repair roll for the removal and one for the installation. In both instances, the character pays the cost of adding a Special Ability, but does not pay any additional fee.
+To add an upgrade to an empty slot requires a single personal equipment repair roll at the difficulty.
+To swap out an existing upgrade needs a personal equipment repair roll for the removal and one for the installation.
+In both instances, the character pays the cost of adding a Special Ability, but does not pay any additional fee.
 
-In most cases, the Game Master should rule that improving an existing upgrade (such as adding an additional rank to a Natural Weapons Special Ability) demands a swapping-out procedure. A few, such as adding ranks to low levels of the Skill Bonus Special Ability, may only call for the installation of a new firmware, which can be done with a computer interface/repair attempt. Whether it’s a swapping or firmware procedure, the character only pays for the additional ranks, not for the total number of ranks. (Unless, of course, the character wants to keep the old upgrade as a spare; then the character would need to pay for the entire cost.)
+In most cases, the Game Master should rule that improving an existing upgrade (such as adding an additional rank to a Natural Weapons Special Ability) demands a swapping-out procedure.
+A few, such as adding ranks to low levels of the Skill Bonus Special Ability, may only call for the installation of a new firmware, which can be done with a computer interface/repair attempt.
+Whether it’s a swapping or firmware procedure, the character only pays for the additional ranks, not for the total number of ranks.
+(Unless, of course, the character wants to keep the old upgrade as a spare; then the character would need to pay for the entire cost.)
 
 Note that if the character wants to go from a small part of a larger unit to a larger unit (such as a hand to an arm), she must purchase a whole new implant and go through the procedure as if she were getting a new part (see the “After Character Creation” part of the “Getting Cybernetic Implants” section earlier in this chapter). Hopefully, the shop where she’s getting the new parts from will buy her old cybernetic implants from her.
 
 === Determining the Installation *Difficulty*
 
-Every type of cybernetic implant has a base surgery difficulty, which indicates how challenging it is to install a standard, no-frills unit. Of course, few characters will want to go through the trouble just to have a fake limb that works exactly the same as the original. Characters may choose to upgrade their cybernetic implants by taking Special Abilities, which represent a program or additional piece of equipment added to unit. To figure out how difficult it is to install an upgraded unit, the player determines the creation point cost of the Special Ability, including any additional ranks and any Enhancements and Limitations and their ranks. (The player determines the creation point cost of the Special Ability, regardless of whether it’s during or after character creation.) Then the player subtracts from that number any Disadvantages she wishes her character to gain by having the cybernetic implant. Finally, once everything is approved by the Game Master (that is, the Game Master decides whether that model is currently available), the player adds that number to the base surgery difficulty to figure out the installation difficulty of the item.
+Every type of cybernetic implant has a base surgery difficulty, which indicates how challenging it is to install a standard, no-frills unit.
+Of course, few characters will want to go through the trouble just to have a fake limb that works exactly the same as the original.
+Characters may choose to upgrade their cybernetic implants by taking Special Abilities, which represent a program or additional piece of equipment added to unit.
+To figure out how difficult it is to install an upgraded unit, the player determines the creation point cost of the Special Ability, including any additional ranks and any Enhancements and Limitations and their ranks.
+(The player determines the creation point cost of the Special Ability, regardless of whether it’s during or after character creation.) Then the player subtracts from that number any Disadvantages she wishes her character to gain by having the cybernetic implant.
+Finally, once everything is approved by the Game Master (that is, the Game Master decides whether that model is currently available), the player adds that number to the base surgery difficulty to figure out the installation difficulty of the item.
 
 Use this number regardless of whether the character is getting a new implant or upgrading an existing one.
 
 *Installation Example*
 
-A Game Master might have available the Equilibria cyber-ear. Fitted in place of the inner ear, the Equilibria improves balance. This is an ear unit with one upgrade, Skill Bonus: Balance (R3), +3 to brawling: block, melee combat: parry/block, acrobatics: beam walking, dodge, and riding totals. The Game Master decides that a low-grade Equilibria has the Limitation Allergy: Loud Sounds (R1), character loses all Critical Success rerolls when exposed very loud sounds (like hammering). The total point cost for the Special Ability is 1 (3 for the Special Ability and its ranks minus 3 for the Limitation, with a minimum cost of 1). The base surgery difficulty is 17 for an ear. With the upgrade, the installation difficulty becomes 18. The price difficulty is 18, while the credits cost is 18,000.
+A Game Master might have available the Equilibria cyber-ear.
+Fitted in place of the inner ear, the Equilibria improves balance.
+This is an ear unit with one upgrade, Skill Bonus: Balance (R3), +3 to brawling: block, melee combat: parry/block, acrobatics: beam walking, dodge, and riding totals.
+The Game Master decides that a low-grade Equilibria has the Limitation Allergy: Loud Sounds (R1), character loses all Critical Success rerolls when exposed very loud sounds (like hammering). The total point cost for the Special Ability is 1 (3 for the Special Ability and its ranks minus 3 for the Limitation, with a minimum cost of 1). The base surgery difficulty is 17 for an ear.
+With the upgrade, the installation difficulty becomes 18.
+The price difficulty is 18, while the credits cost is 18,000.
 
 === Determining the Cost
 
-The price difficulty for a new cybernetic implant equals the installation difficulty, modified as the Game Master deems necessary based on the circumstances of the installation. In credits, the cyberware costs 1,000 times the installation difficulty. Again, the Game Master may alter this based on the situation.
+The price difficulty for a new cybernetic implant equals the installation difficulty, modified as the Game Master deems necessary based on the circumstances of the installation.
+In credits, the cyberware costs 1,000 times the installation difficulty.
+Again, the Game Master may alter this based on the situation.
 
-For upgrading an existing unit, subtract 10 from the installation difficulty to get the upgrade price difficulty. In credits, the upgrade costs 100 times this price difficulty. Either number may be modified as the Game Master sees fit.
+For upgrading an existing unit, subtract 10 from the installation difficulty to get the upgrade price difficulty.
+In credits, the upgrade costs 100 times this price difficulty.
+Either number may be modified as the Game Master sees fit.
 
 === Cyberpsychosis
 
-Cyberpsychosis is a state of mind some “chipheads” and “cynchware chocks” achieve after too much cyber-strain has been placed on their nervous systems and cranial functions. “Cyber-psyches” are people who have gone too deep into the slicksteel universe and have truly become “one” with their cyberware.
+Cyberpsychosis is a state of mind some “chipheads” and “cynchware chocks” achieve after too much cyber-strain has been placed on their nervous systems and cranial functions.
+“Cyber-psyches” are people who have gone too deep into the slicksteel universe and have truly become “one” with their cyberware.
 
-Cyberpsychosis is like any other psychosis. The character becomes caught up in a world detached from reality. Cyberware, chiplife, and “jacking in and tuning out” have become the most important thing to this person. Organic flesh (and the needs of that flesh) are only distractions along the pure slicksteel path. A character with cyberpsychosis cannot relate well with the organic world but is intimately familiar with the nonorganic. Cyberpsyches seek to replace their organicness with the “new-and-improved” cybernetics available to them. Then, they seek to upgrade themselves by getting more powerful and better attachments. It is a never-ending cycle, an addiction that feeds on itself.
+Cyberpsychosis is like any other psychosis.
+The character becomes caught up in a world detached from reality.
+Cyberware, chiplife, and “jacking in and tuning out” have become the most important thing to this person.
+Organic flesh (and the needs of that flesh) are only distractions along the pure slicksteel path.
+A character with cyberpsychosis cannot relate well with the organic world but is intimately familiar with the nonorganic.
+Cyberpsyches seek to replace their organicness with the “new-and-improved” cybernetics available to them.
+Then, they seek to upgrade themselves by getting more powerful and better attachments.
+It is a never-ending cycle, an addiction that feeds on itself.
 
-Cyberpsychosis can be role played by players’ characters and Game Master characters alike (and represented through the Hindrance or Quirk Disadvantages). It is recommended that the Game Master (and the players, if a player’s character is involved) work out the severity and details of this psychosis, so that it can be effectively role played. It should be a role playing choice as well — it is very hard to play a psychosis effectively or realistically, and the person playing the cyberpsychotic character should decide if she is up to the challenge.
+Cyberpsychosis can be role played by players’ characters and Game Master characters alike (and represented through the Hindrance or Quirk Disadvantages). It is recommended that the Game Master (and the players, if a player’s character is involved) work out the severity and details of this psychosis, so that it can be effectively role played.
+It should be a role playing choice as well — it is very hard to play a psychosis effectively or realistically, and the person playing the cyberpsychotic character should decide if she is up to the challenge.
 
 === Types of Cybernetic Implants
 
-Characters can just about any body part replaced, except the brain, which can only be enhanced. The basic units provide no more functionality than the part a character came with, nor are they any sturdier than organic pieces. However, unlike natural body parts, they readily serve as a reason to gain new Special Abilities (and Disadvantages).
+Characters can just about any body part replaced, except the brain, which can only be enhanced.
+The basic units provide no more functionality than the part a character came with, nor are they any sturdier than organic pieces.
+However, unlike natural body parts, they readily serve as a reason to gain new Special Abilities (and Disadvantages).
 
-All units are assumed to come with nearly limitless energy sources that have no harmful side effects. All units are controlled by mental commands, in the same way that a person can control her limbs by thinking about it. The wiring can’t be shorted. The unit’s covering matches the texture and appearance of the character’s normal skin and fits virtually seamlessly with the rest of the character’s body. Disadvantages and Limitations can lower the cost of the unit at a risk or inconvenience to the character (such as having to recharge the power cell or being susceptible to electricity-based attacks).
+All units are assumed to come with nearly limitless energy sources that have no harmful side effects.
+All units are controlled by mental commands, in the same way that a person can control her limbs by thinking about it.
+The wiring can’t be shorted.
+The unit’s covering matches the texture and appearance of the character’s normal skin and fits virtually seamlessly with the rest of the character’s body.
+Disadvantages and Limitations can lower the cost of the unit at a risk or inconvenience to the character (such as having to recharge the power cell or being susceptible to electricity-based attacks).
 
-The description of each unit includes the number of upgrade slots for that part. Once the upgrade slots are maxed out, the character must replace one of the older upgrades to get a new feature.
+The description of each unit includes the number of upgrade slots for that part.
+Once the upgrade slots are maxed out, the character must replace one of the older upgrades to get a new feature.
 
 === Upper Body
 
@@ -92,21 +153,28 @@ The description of each unit includes the number of upgrade slots for that part.
 
 These restrictions apply to all hand, arm, and shoulder cybernetic implants.
 
-Skill Bonus, Skill Minimum, and Uncanny Aptitude may only be taken for skills the hand can use. Unless the character replaces both legs, the Fast Reactions ability only applies to skills that can be used with one hand.
+Skill Bonus, Skill Minimum, and Uncanny Aptitude may only be taken for skills the hand can use.
+Unless the character replaces both legs, the Fast Reactions ability only applies to skills that can be used with one hand.
 
-Ambidextrous may only be taken if both hands are replaced at the same time, though the Special Ability need only be purchased once per pair of hands. However, the Special Ability takes up one slot in each hand.
+Ambidextrous may only be taken if both hands are replaced at the same time, though the Special Ability need only be purchased once per pair of hands.
+However, the Special Ability takes up one slot in each hand.
 
-For items requiring one hand to lift, the character receives the full bonus. For items requiring two hands to lift, the character gets one-half of the bonus (rounded up), unless he has both hands replaced. If the bonuses given by the hands are different, than the character gets the average of the bonuses (rounded up) when attempting two-handed maneuvers.
+For items requiring one hand to lift, the character receives the full bonus.
+For items requiring two hands to lift, the character gets one-half of the bonus (rounded up), unless he has both hands replaced.
+If the bonuses given by the hands are different, than the character gets the average of the bonuses (rounded up) when attempting two-handed maneuvers.
 
 *Hand*
 
 This unit replaces the whole hand, including the wrist, palm, and digits.
 
-Upgrade Slots: One upgrade slot per digit plus one in the palm or wrist. Thus, a Human would have six upgrade slots in a basic hand unit.
+Upgrade Slots: One upgrade slot per digit plus one in the palm or wrist.
+Thus, a Human would have six upgrade slots in a basic hand unit.
 
 Special Abilities Allowed: Ambidextrous; Armor-Defeating Attack; Enhanced Sense: Touch; Extra Sense (any tactile type); Fast Reactions with Limitation Restricted (R1), may only be used with hand-using skills; Natural Hand-to-Hand Weapon; Natural Ranged Weapon; Skill Bonus; Skill Minimum; Uncanny Aptitude.
 
-Notes: The maximum bonus to climb/jump, lift, and swim equals the number in front of the “D” of the character’s current Strength die code. For additional restrictions, see the sidebar. Base Surgery Difficulty: 10
+Notes: The maximum bonus to climb/jump, lift, and swim equals the number in front of the “D” of the character’s current Strength die code.
+For additional restrictions, see the sidebar.
+Base Surgery Difficulty: 10
 
 *Arm*
 
@@ -116,7 +184,8 @@ Upgrade Slots: One upgrade slot per digit, one in the palm or wrist, one in the 
 
 Special Abilities Allowed: Ambidextrous; Armor-Defeating Attack; Enhanced Sense: Touch; Extra Sense (any tactile type); Fast Reactions with Limitation Restricted (R1), may only be used with hand-using skills; Natural Hand-to-Hand Weapon; Natural Ranged Weapon; Skill Bonus; Skill Minimum; Uncanny Aptitude.
 
-Notes: The maximum bonus to climb/jump, lift, and swim is 3 times the number in front of the “D” of the character’s current Strength die code. For additional restrictions, see the sidebar.
+Notes: The maximum bonus to climb/jump, lift, and swim is 3 times the number in front of the “D” of the character’s current Strength die code.
+For additional restrictions, see the sidebar.
 
 Base Surgery Difficulty: 12
 
@@ -128,7 +197,8 @@ Upgrade Slots: It has the same number of upgrade slots as the arm unit.
 
 Special Abilities Allowed: Ambidextrous; Armor-Defeating Attack; Enhanced Sense: Touch; Extra Sense (any tactile type); Fast Reactions with Limitation Restricted (R1), may only be used with hand-using skills; Natural Hand-to-Hand Weapon; Natural Ranged Weapon; Skill Bonus; Skill Minimum; Uncanny Aptitude.
 
-Notes: There is no maximum climb/ jump, lift, and swim bonus. For additional restrictions, see the sidebar.
+Notes: There is no maximum climb/ jump, lift, and swim bonus.
+For additional restrictions, see the sidebar.
 
 Base Surgery Difficulty: 15
 
@@ -138,9 +208,11 @@ Base Surgery Difficulty: 15
 
 These restrictions apply to all foot, lower leg, and complete leg cybernetic implants.
 
-Skill Bonus, Skill Minimum, and Uncanny Aptitude may only be taken for skills the foot can use. Unless the character replaces both legs, the Fast Reactions ability only applies to skills that can be used with one foot.
+Skill Bonus, Skill Minimum, and Uncanny Aptitude may only be taken for skills the foot can use.
+Unless the character replaces both legs, the Fast Reactions ability only applies to skills that can be used with one foot.
 
-Characters gain only half the bonus (rounded up) to climb/jump, running, or swim attempts and half of the Hypermovement adjustment unless the character has both feet replaced. If the bonuses given by the feet are different, than the character gets the average of the bonuses (rounded up) when attempting these maneuvers.
+Characters gain only half the bonus (rounded up) to climb/jump, running, or swim attempts and half of the Hypermovement adjustment unless the character has both feet replaced.
+If the bonuses given by the feet are different, than the character gets the average of the bonuses (rounded up) when attempting these maneuvers.
 
 *Foot*
 
@@ -148,7 +220,8 @@ This unit replaces the foot and ankle.
 
 Upgrade Slots: It generally has one non-weapon upgrade slot and one weapon upgrade slot, though Game Masters may allow certain species to include additional slots (at an increased cost, of course). Special Abilities Allowed: Armor-Defeating Attack; Fast Reactions with Limitation Restricted (R1), may only be used with foot-using skills; Natural Hand-to-Hand Weapon; Natural Ranged Weapon; Skill Bonus; Skill Minimum; Uncanny Aptitude.
 
-Notes: The maximum bonus to climb/jump, running, or swim equals the number in front of the “D” of the character’s current Strength die code. For additional restrictions, see the sidebar.
+Notes: The maximum bonus to climb/jump, running, or swim equals the number in front of the “D” of the character’s current Strength die code.
+For additional restrictions, see the sidebar.
 
 Base Surgery Difficulty: 10
 
@@ -160,7 +233,8 @@ Upgrade Slots: It has one upgrade slot for the leg plus the same number of upgra
 
 Special Abilities Allowed: Armor-Defeating Attack; Fast Reactions with Limitation Restricted (R1), may only be used with foot-using skills; Natural Hand-to-Hand Weapon; Natural Ranged Weapon; Skill Bonus; Skill Minimum; Uncanny Aptitude.
 
-Notes: The maximum bonus to climb/jump, running, or swim is 3 times the number in front of the “D” of the character’s current Strength die code. For additional restrictions, see the sidebar.
+Notes: The maximum bonus to climb/jump, running, or swim is 3 times the number in front of the “D” of the character’s current Strength die code.
+For additional restrictions, see the sidebar.
 
 Base Surgery Difficulty: 12
 
@@ -172,7 +246,8 @@ Upgrade Slots: It has one upgrade slot for the lower leg, one upgrade slot for t
 
 Special Abilities Allowed: Armor-Defeating Attack; Fast Reactions with Limitation Restricted (R1), may only be used with foot-using skills; Hypermovement; Natural Hand-to-Hand Weapon; Natural Ranged Weapon; Skill Bonus; Skill Minimum; Uncanny Aptitude.
 
-Notes: There is no maximum climb/jump, running, or swim bonus. For additional restrictions, see the sidebar.
+Notes: There is no maximum climb/jump, running, or swim bonus.
+For additional restrictions, see the sidebar.
 
 Base Surgery Difficulty: 15
 
@@ -186,7 +261,8 @@ Upgrade Slots: Two upgrade slots
 
 Special Abilities Allowed: Enhanced Sense: Hearing; Extra Sense (auditory type); Skill Bonus; Skill Minimum; Uncanny Aptitude.
 
-Notes: Skill Bonus, Skill Minimum, and Uncanny Aptitude are restricted to hearing-based or balance-related specializations. Cannot be fitted with weapons.
+Notes: Skill Bonus, Skill Minimum, and Uncanny Aptitude are restricted to hearing-based or balance-related specializations.
+Cannot be fitted with weapons.
 
 Base Surgery Difficulty: 17
 
@@ -194,21 +270,26 @@ Base Surgery Difficulty: 17
 
 One eye unit replaces one visual receptor.
 
-Upgrade Slots: Two upgrade slots, but see restriction. Special Abilities Allowed: Enhanced Sense: Sight; Extra Sense (visual type); Infravision/Ultravision; Natural Ranged Weapon; Skill Bonus; Skill Maximum; Uncanny Aptitude.
+Upgrade Slots: Two upgrade slots, but see restriction.
+Special Abilities Allowed: Enhanced Sense: Sight; Extra Sense (visual type); Infravision/Ultravision; Natural Ranged Weapon; Skill Bonus; Skill Maximum; Uncanny Aptitude.
 
-Notes: A weapon upgrade would take up both slots. Skill Bonus, Skill Maximum, and Uncanny Aptitude are restricted to sight-based specializations.
+Notes: A weapon upgrade would take up both slots.
+Skill Bonus, Skill Maximum, and Uncanny Aptitude are restricted to sight-based specializations.
 
 Base Surgery Difficulty: 17
 
 *Mouth*
 
-This unit replaces the jaw or chewing organ of the character. If the whole mouth is replaced, it can withstand the force of a cyberthroat’s blast.
+This unit replaces the jaw or chewing organ of the character.
+If the whole mouth is replaced, it can withstand the force of a cyberthroat’s blast.
 
-Upgrade Slots: The only upgrade a jaw can get is additional damage through Natural Hand-to-Hand Weapon: Teeth. By replacing the tongue, the character may also gain one non-weapon upgrade slot and one weapon upgrade unit.
+Upgrade Slots: The only upgrade a jaw can get is additional damage through Natural Hand-to-Hand Weapon: Teeth.
+By replacing the tongue, the character may also gain one non-weapon upgrade slot and one weapon upgrade unit.
 
 Special Abilities Allowed: Enhanced Sense: Taste; Extra Body Part: Tentacle-Tongue; Extra Sense (any tasting or tactile type); Skill Bonus; Natural Hand-to-Hand Weapon: Teeth; Natural Hand-toHand Weapon: Tentacle-Tongue; Natural Ranged Weapon; Skill Maximum; Uncanny Aptitude.
 
-Notes: Skill Bonus, Skill Maximum, and Uncanny Aptitude are restricted to taste-based specializations. The tongue can be fitted with a weapon on a tentacle.
+Notes: Skill Bonus, Skill Maximum, and Uncanny Aptitude are restricted to taste-based specializations.
+The tongue can be fitted with a weapon on a tentacle.
 
 Base Surgery Difficulty: 15
 
@@ -220,13 +301,16 @@ Upgrade Slots: One upgrade slot.
 
 Special Abilities Allowed: Enhanced Sense: Smell; Extra Sense (any olfactory type); Skill Bonus; Skill Maximum; Uncanny Aptitude.
 
-Notes: Skill Bonus, Skill Maximum, and Uncanny Aptitude are restricted to scent-based specializations. Cannot be fitted with weapons.
+Notes: Skill Bonus, Skill Maximum, and Uncanny Aptitude are restricted to scent-based specializations.
+Cannot be fitted with weapons.
 
 Base Surgery Difficulty: 17
 
 *Scholarchip Reader*
 
-The reader unit is implanted in the brain, with a slot for scholarchips accessible on the surface. Scholarchips allow characters to gain skills or bonuses to skills without have to go through the tedious task of learning them. Of course, a character may not rely on any skill bonus from a scholarchip that is not installed, even if he used that chip in the past.
+The reader unit is implanted in the brain, with a slot for scholarchips accessible on the surface.
+Scholarchips allow characters to gain skills or bonuses to skills without have to go through the tedious task of learning them.
+Of course, a character may not rely on any skill bonus from a scholarchip that is not installed, even if he used that chip in the past.
 
 Upgrade Slots: One slot in reader (takes one scholarchip).
 
@@ -290,7 +374,9 @@ Base Surgery Difficulty: 20
 
 *Dermal Plate*
 
-Dermal plate replaces the character’s skin. While the character gains protection from the new layers, the character can no longer feel with that part of her body unless she has a Special Ability installed in a cybernetic replacement for that part of the body. Dermal plate may be layered over cybernetic limbs.
+Dermal plate replaces the character’s skin.
+While the character gains protection from the new layers, the character can no longer feel with that part of her body unless she has a Special Ability installed in a cybernetic replacement for that part of the body.
+Dermal plate may be layered over cybernetic limbs.
 
 Upgrade Slots: Two slots.
 
@@ -308,13 +394,18 @@ Upgrade Slots: One slot.
 
 Special Abilities Allowed: Accelerated Healing, Animal Control, Atmospheric Tolerance, Attack Resistance, Blur, Combat Sense, Confusion, Endurance, Enhanced Sense, Environmental Resistance, Fast Reactions, Fear, Quick Study, Hardiness, Hypermovement, Immunity, Increased Attribute, Infravision/Ultravision, Invisibility, Iron Will, Omnivorous, Paralyzing Touch, Sense of Direction, Silence, Skill Bonus, Skill Minimum, Uncanny Aptitude, Ventriloquism, Water Breathing, Youthful Appearance.
 
-Notes: All Special Abilities must have the Limitation Burn-out (R1), disappears after one hour. Additional ranks of Burn-out can be added; one additional rank equals five less minutes of time. Game Masters may allow characters to pay only the price and not the Character Point cost for a one-time use of a drug. Likewise, characters who wish to permanently rely on the drugs to get their Special Abilities should instead take the Limitation Price (R2), must recharge drug dispenser with a new dose after one hour.
+Notes: All Special Abilities must have the Limitation Burn-out (R1), disappears after one hour.
+Additional ranks of Burn-out can be added; one additional rank equals five less minutes of time.
+Game Masters may allow characters to pay only the price and not the Character Point cost for a one-time use of a drug.
+Likewise, characters who wish to permanently rely on the drugs to get their Special Abilities should instead take the Limitation Price (R2), must recharge drug dispenser with a new dose after one hour.
 
 Base Surgery Difficulty: 10 (when installed alone in flesh); 5 (when installed in a cybernetic upgrade slot)
 
 *Neural Jack*
 
-This device resembles a socket, used for interface with cyberdecks and computers with matching ports. A cable connects the user’s jack with the machine, allowing for easy access. Generally, neural jacks are installed on the neck or behind the ear, but since the character receives the bonus only once per jack, some characters add jacks to other parts of the body.
+This device resembles a socket, used for interface with cyberdecks and computers with matching ports.
+A cable connects the user’s jack with the machine, allowing for easy access.
+Generally, neural jacks are installed on the neck or behind the ear, but since the character receives the bonus only once per jack, some characters add jacks to other parts of the body.
 
 Upgrade Slots: One slot.
 
@@ -322,15 +413,19 @@ Special Abilities Allowed: Skill
 
 Bonus: computer interface/repair.
 
-Notes: A character may use the neural jack to improve her ability to work on the computer. With a computer that allows her access automatically (such as a ship she’s authorized to be on), she may add her neural jack bonus to any one bonus that the computer provides. A neural jack with no upgrade merely allows a character to interface with a computer that has a neural port and no other means of input.
+Notes: A character may use the neural jack to improve her ability to work on the computer.
+With a computer that allows her access automatically (such as a ship she’s authorized to be on), she may add her neural jack bonus to any one bonus that the computer provides.
+A neural jack with no upgrade merely allows a character to interface with a computer that has a neural port and no other means of input.
 
 Base Surgery Difficulty: 20
 
 *Syntheskin*
 
-Syntheskin is a manufactured covering that looks and feels like natural skin (or scales or whatever the species in question has). It provides no protection and comes by default with all limbs and dermal armor. Characters who took a Disadvantage that eliminated the syntheskin from the base package must purchase it separately when they get rid of that Disadvantage.
+Syntheskin is a manufactured covering that looks and feels like natural skin (or scales or whatever the species in question has). It provides no protection and comes by default with all limbs and dermal armor.
+Characters who took a Disadvantage that eliminated the syntheskin from the base package must purchase it separately when they get rid of that Disadvantage.
 
-Upgrade Slots: Not applicable. Special Abilities Allowed: Not applicable.
+Upgrade Slots: Not applicable.
+Special Abilities Allowed: Not applicable.
 
 Notes: None.
 
@@ -350,28 +445,52 @@ Base Surgery Difficulty: 10
 
 === Extra Cybernetic Parts
 
-Characters may include certain additional pieces on themselves. Such cybernetic equipment includes shoulder, complete leg, tail, tentacle, eye, ear, nose, heart, scholarchip reader, neural jack, and drug dispenser. The character automatically gains the Extra Body Part Special Ability. Except for the scholarchip reader, neural jack, and drug dispenser, each additional unit adds 10 to the surgery difficulty. Furthermore, the character is disoriented for a few days after recovering from the surgery (+5 to all difficulties), as she adjusts to having the new body part.
+Characters may include certain additional pieces on themselves.
+Such cybernetic equipment includes shoulder, complete leg, tail, tentacle, eye, ear, nose, heart, scholarchip reader, neural jack, and drug dispenser.
+The character automatically gains the Extra Body Part Special Ability.
+Except for the scholarchip reader, neural jack, and drug dispenser, each additional unit adds 10 to the surgery difficulty.
+Furthermore, the character is disoriented for a few days after recovering from the surgery (+5 to all difficulties), as she adjusts to having the new body part.
 
 === Examples
 
-*AdrenoCharger Dispenser:* A small injector fitted into a cybernetic implant or onto the adrenal glands, the AdrenoCharger shoots adrenaline directly into the bloodstream. Increased Attribute: Strength (R4), +4 to Strength-related skill, and Increased Attribute: Agility (R4), +4 to Agility-related totals, both with Cybernetics: Drug (R1) and Burn-out (R7), disappears after 30 minutes; installation difficulty 11; cost 11 (11,000 credits).
+*AdrenoCharger Dispenser:* A small injector fitted into a cybernetic implant or onto the adrenal glands, the AdrenoCharger shoots adrenaline directly into the bloodstream.
+Increased Attribute: Strength (R4), +4 to Strength-related skill, and Increased Attribute: Agility (R4), +4 to Agility-related totals, both with Cybernetics: Drug (R1) and Burn-out (R7), disappears after 30 minutes; installation difficulty 11; cost 11 (11,000 credits).
 
-*Claws:* Long, lethal blades, these claws are stored in the forearm and spring from the top of the wrist. Relies on melee combat. Requires one upgrade slot in an arm. Natural Hand-to-Hand Weapon: Claws (R1), Strength Damage +1D, with Cybernetics: Arm (R1); installation difficulty +2 to base; cost +2 to base (+2,000 credits).
+*Claws:* Long, lethal blades, these claws are stored in the forearm and spring from the top of the wrist.
+Relies on melee combat.
+Requires one upgrade slot in an arm.
+Natural Hand-to-Hand Weapon: Claws (R1), Strength Damage +1D, with Cybernetics: Arm (R1); installation difficulty +2 to base; cost +2 to base (+2,000 credits).
 
-*Dermal Plate:* The character has thick, rubbery plates installed over major areas. Dermal plate is normally installed on the chest and arms. Natural Armor: Dermal Plate (R1), +1D to damage resistance totals, with Cybernetics: Plate (R1); installation difficulty 20; cost 20 (20,000 credits).
+*Dermal Plate:* The character has thick, rubbery plates installed over major areas.
+Dermal plate is normally installed on the chest and arms.
+Natural Armor: Dermal Plate (R1), +1D to damage resistance totals, with Cybernetics: Plate (R1); installation difficulty 20; cost 20 (20,000 credits).
 
-*Electric Claws:* Similar to basic claws, these carry a powerful charge with them that allows them to do more damage. When drained, they do the same damage as normal claws. Relies on melee combat. Requires one upgrade slot in an arm. Natural Hand-to-Hand Weapon: Electrified Claws (R2), Strength Damage +2D, with Cybernetics: Arm (R1) and Price (R1), lose all but +1D of damage bonus after 10 uses and recharges in 30 minutes; installation difficulty +1 to base; cost +1 to base (+1,000 credits).
+*Electric Claws:* Similar to basic claws, these carry a powerful charge with them that allows them to do more damage.
+When drained, they do the same damage as normal claws.
+Relies on melee combat.
+Requires one upgrade slot in an arm.
+Natural Hand-to-Hand Weapon: Electrified Claws (R2), Strength Damage +2D, with Cybernetics: Arm (R1) and Price (R1), lose all but +1D of damage bonus after 10 uses and recharges in 30 minutes; installation difficulty +1 to base; cost +1 to base (+1,000 credits).
 
 *Enhanced Cyberarm:* Joined to the character at the shoulder, a full replacement arm can offer a greater boost to a character’s abilities than just replacing the hand (see next entry). Skill Bonus: Strength (R4), +4 to climb/jump, lift, and swim totals, with Cybernetics: Hand (R1) and Ability Loss (R1), only for single arm; installation difficulty 13; cost 13 (13,000 credits).
 
-*Enhanced Cyberhand:* Basic enhanced cyberhands can improve climbing attempts. Skill Bonus: Strength (R2), +2 to climb/jump, lift, and swim totals, with Cybernetics: Hand (R1) and Ability Loss (R1), only for single hand; installation difficulty 11; cost 11 (11,000 credits).
+*Enhanced Cyberhand:* Basic enhanced cyberhands can improve climbing attempts.
+Skill Bonus: Strength (R2), +2 to climb/jump, lift, and swim totals, with Cybernetics: Hand (R1) and Ability Loss (R1), only for single hand; installation difficulty 11; cost 11 (11,000 credits).
 
-*Enhanced Full Cyberleg:* Fully replacing the leg allows the character to boost his kicking power and, to one degree or another, his movement. Hypermovement (R2), +4 meters per round, Natural Hand-to-Hand Weapon: Increased Damage (R1), Strength Damage +1D to kick, with Cybernetics: Leg (R1) and Ability Loss (R1), only for single leg; installation difficulty 16; cost 16 (16,000 credits). Note: If both legs are replaced, the character may not take the Ability Loss Limitation.
+*Enhanced Full Cyberleg:* Fully replacing the leg allows the character to boost his kicking power and, to one degree or another, his movement.
+Hypermovement (R2), +4 meters per round, Natural Hand-to-Hand Weapon: Increased Damage (R1), Strength Damage +1D to kick, with Cybernetics: Leg (R1) and Ability Loss (R1), only for single leg; installation difficulty 16; cost 16 (16,000 credits). Note: If both legs are replaced, the character may not take the Ability Loss Limitation.
 
-*Equilibria:* Fitted in place of the inner ear, the Equilibria improves balance. Skill Bonus: Balance (R3), +3 to brawling: block, melee combat: parry/block, acrobatics: beam walking, dodge, and riding totals, with Cybernetics: Ear (R1); installation difficulty 20; cost 20 (20,000 credits).
+*Equilibria:* Fitted in place of the inner ear, the Equilibria improves balance.
+Skill Bonus: Balance (R3), +3 to brawling: block, melee combat: parry/block, acrobatics: beam walking, dodge, and riding totals, with Cybernetics: Ear (R1); installation difficulty 20; cost 20 (20,000 credits).
 
-*EVD*: The EVD (short for “eavesdropper”) allows characters to better hear sounds within the normal frequency range. Enhanced Sense: Hearing (R1), +1 to hearing-based skill totals, with Cybernetics: Ear (R1); installation difficulty 20; cost 20 (20,000 credits). Heat-Seeker: A visual unit designed to spot heat signatures of beings or objects. Enhanced Sense: Sight (R1), +1 to sight-based skill totals, with Ability Loss: Daylight (R1), only works in low or no light, and Cybernetics: Eye (R1); installation difficulty 18; cost 18 (18,000 credits).
+*EVD*: The EVD (short for “eavesdropper”) allows characters to better hear sounds within the normal frequency range.
+Enhanced Sense: Hearing (R1), +1 to hearing-based skill totals, with Cybernetics: Ear (R1); installation difficulty 20; cost 20 (20,000 credits). Heat-Seeker: A visual unit designed to spot heat signatures of beings or objects.
+Enhanced Sense: Sight (R1), +1 to sight-based skill totals, with Ability Loss: Daylight (R1), only works in low or no light, and Cybernetics: Eye (R1); installation difficulty 18; cost 18 (18,000 credits).
 
-*Serpent:* A small-caliber slug thrower that can be concealed in the wrist. It is a favorite among cyberweapons as it is easily concealed by syntheflesh and does not place the strain on the arm that larger weapons do. Relies on firearms. Requires one upgrade slot in an arm. Natural Ranged Weapon: Gun (R1), 3D damage, with Cybernetics: Arm (R1); installation difficulty +3 to base; cost +3 to base (+3,000 credits).
+*Serpent:* A small-caliber slug thrower that can be concealed in the wrist.
+It is a favorite among cyberweapons as it is easily concealed by syntheflesh and does not place the strain on the arm that larger weapons do.
+Relies on firearms.
+Requires one upgrade slot in an arm.
+Natural Ranged Weapon: Gun (R1), 3D damage, with Cybernetics: Arm (R1); installation difficulty +3 to base; cost +3 to base (+3,000 credits).
 
-*SuperSight:* A cybernetic eye fitted into the socket, the SuperSight improves the character’s ability to notice things. Enhanced Sense: Sight (R1), +1 to sight-based skill totals, with Cybernetics: Eye (R1); installation difficulty 20; cost 20 (20,000 credits).
+*SuperSight:* A cybernetic eye fitted into the socket, the SuperSight improves the character’s ability to notice things.
+Enhanced Sense: Sight (R1), +1 to sight-based skill totals, with Cybernetics: Eye (R1); installation difficulty 20; cost 20 (20,000 credits).

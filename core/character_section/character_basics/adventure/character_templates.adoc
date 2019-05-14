@@ -38,7 +38,8 @@ Special Abilities: Ambidextrous (R1), adept at working with either hand.
 
 Equipment: Pocket knife (+2); handgun (damage 4D+2, ammo 6, 10/25/40); hidden holster; long, dark overcoat.
 
-Description: Powerful businesspeople, high-ranking government officials, and wealthy entertainers have hired you to protect them from those who violently disagree with what they are doing. You’re especially good with small arms, unarmed fighting, and frightening others.
+Description: Powerful businesspeople, high-ranking government officials, and wealthy entertainers have hired you to protect them from those who violently disagree with what they are doing.
+You’re especially good with small arms, unarmed fighting, and frightening others.
 
 === Occupation: Correspondent
 
@@ -78,7 +79,8 @@ Special Abilities: Good Luck (R1).
 
 Equipment: Radio; flashlight; backpack; spare clothes; personal kit; camera; journal and pens (or PDA, as appropriate for the setting).
 
-Description: You look for the hot spots in the world, whether it be in business, politics, or academics. Through pictures and words, you inform the public about events, current issues, and ground-breaking theories.
+Description: You look for the hot spots in the world, whether it be in business, politics, or academics.
+Through pictures and words, you inform the public about events, current issues, and ground-breaking theories.
 
 === Occupation: Doctor
 
@@ -118,7 +120,8 @@ Special Abilities: None
 
 Equipment: Handgun (damage 4D+2, ammo 6, range 10/25/50); jungle adventurer’s pack; one-man tent; medical kit (+1D to medicine rolls).
 
-Description: You employ your medical knowledge and wealth to bring healing and comfort to others. This often puts you in dangerous situations in remote places, but your comfort is of less concern to you than the well-being of others.
+Description: You employ your medical knowledge and wealth to bring healing and comfort to others.
+This often puts you in dangerous situations in remote places, but your comfort is of less concern to you than the well-being of others.
 
 === Occupation: Field Scientist
 
@@ -158,7 +161,9 @@ Special Abilities: None
 
 Equipment: Leather jacket (Armor Value +1D); handgun (damage 4D+1, ammo 6, range 5/15/40); binoculars; jungle adventurer’s pack; journal; pens; testing and sampling kit.
 
-Description: You take the theories of the lab into the real world. Generally, you’ve worked long-term assignments in one area, but you’ve also enjoyed a few short-term projects involving finding sites and setting them up for others. Your expertise could be in biology, geology, paleontology, archeology, or any of the disciplines studying animals, plants, and other parts of nature.
+Description: You take the theories of the lab into the real world.
+Generally, you’ve worked long-term assignments in one area, but you’ve also enjoyed a few short-term projects involving finding sites and setting them up for others.
+Your expertise could be in biology, geology, paleontology, archeology, or any of the disciplines studying animals, plants, and other parts of nature.
 
 === Occupation: Investigator
 
@@ -198,7 +203,8 @@ Special Abilities: None
 
 Equipment: Handgun (damage 4D, ammo 6, range 10/25/40); small flashlight; camera; lockpicking tools (+1D to lockpicking with the skill), large car (Move 62 (44 kph), Toughness 5D, Maneuverability +1D).
 
-Description: You track down people, spy on their activities, and solve mysteries. You get to meet all kinds of interesting people in your work, and you have a reason to try out some fancy gadgets.
+Description: You track down people, spy on their activities, and solve mysteries.
+You get to meet all kinds of interesting people in your work, and you have a reason to try out some fancy gadgets.
 
 === Occupation: Magician
 
@@ -238,7 +244,8 @@ Special Abilities: None
 
 Equipment: Leather jacket (Armor Value +1D); a lucky charm; several portable magic tricks.
 
-Description: As a stage magician performing at clubs and colleges, you perform most of your tricks with simple prestidigitation and distracting banter. But occasionally, you like to enhance your tricks with real spells and really impress the audience.
+Description: As a stage magician performing at clubs and colleges, you perform most of your tricks with simple prestidigitation and distracting banter.
+But occasionally, you like to enhance your tricks with real spells and really impress the audience.
 
 === Occupation: Paranormal Expert
 
@@ -276,9 +283,11 @@ Disadvantages: Burn-out (R3), your reporter friend has powerful enemies of his o
 
 Special Abilities: Skill Bonus: Advanced Education Bonus (R1), +3 to scholar: paranormal, investigation: paranormal, and artist: writing totals.
 
-Equipment: Knife (damage +1D); handgun (damage 4D, ammo 6, range 10/25/40); flashlight. Note: This character starts with two additional dice to split among skills.
+Equipment: Knife (damage +1D); handgun (damage 4D, ammo 6, range 10/25/40); flashlight.
+Note: This character starts with two additional dice to split among skills.
 
-Description: As an expert in the paranormal, you love the arcane and the bizarre. You have dedicated yourself to exposing fake mediums and other frauds, while documenting that which can’t be so easily explained away.
+Description: As an expert in the paranormal, you love the arcane and the bizarre.
+You have dedicated yourself to exposing fake mediums and other frauds, while documenting that which can’t be so easily explained away.
 
 === Occupation: Reformed Thief
 
@@ -318,7 +327,9 @@ Special Abilities: Skill Bonus: Supple (R1), +1 to acrobatics, contortion, and d
 
 Equipment: Lockpicking tools (+1D to lock-picking for simple mechanical locks), climbing tools (+1D to climbing).
 
-Description: Growing up with a lot of bad influences, you figured the fastest way to get out was to take from others. But something happened along the way, and though you were good at what you did, you got out. Now you have a respectable job, and the only time you use your former skills is to decorate friends’ houses while they’re gone and help out some contacts in a government agency.
+Description: Growing up with a lot of bad influences, you figured the fastest way to get out was to take from others.
+But something happened along the way, and though you were good at what you did, you got out.
+Now you have a respectable job, and the only time you use your former skills is to decorate friends’ houses while they’re gone and help out some contacts in a government agency.
 
 === Occupation: Supernatural Hunter
 
@@ -358,7 +369,8 @@ Special Abilities: None
 
 Equipment: Gloves; handgun (damage 4D, ammo 6, range 10/25/40); dagger (damage +1D); small flashlight; other special weapons and equipment.
 
-Description: You strive to destroy demons, undead, and other non-Human fiends who threaten to eradicate life. You’re always looking for new methods of eliminating this evil and closing their means of invading this world, including using your psychic abilities.
+Description: You strive to destroy demons, undead, and other non-Human fiends who threaten to eradicate life.
+You’re always looking for new methods of eliminating this evil and closing their means of invading this world, including using your psychic abilities.
 
 === Occupation: Weapons Master
 
@@ -398,4 +410,5 @@ Special Abilities: Skill Bonus: Athletics (variant) (R1), +1 skill total bonus t
 
 Equipment: Katana (damage +3D); dagger (damage +1D); 7 throwing stars (damage +1D; range 5/10/15).
 
-Description: You’ve devoted your life to learning the secret of steel, wood, and flesh, discovering their latent energies and harnessing them with the goal of becoming virtually invincible in combat. You consider diversity to be the road to victory.
+Description: You’ve devoted your life to learning the secret of steel, wood, and flesh, discovering their latent energies and harnessing them with the goal of becoming virtually invincible in combat.
+You consider diversity to be the road to victory.

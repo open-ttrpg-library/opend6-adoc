@@ -1,7 +1,5 @@
 = Armor, Weapons, and Vehicles
 
- 
-
 [cols=",,",]
 |===
 |*Modern Armor* | |
@@ -889,9 +887,12 @@ Needler rifle
 
 M (E)
 
-*May not fire single fire as multi. **Requires eight rounds to reload or a marksmanship roll of 8 to reload in one round.
+*May not fire single fire as multi.
+**Requires eight rounds to reload or a marksmanship roll of 8 to reload in one round.
 
-Notes: Range values given in meters. Ammo prices are for 50 rounds of ammunition or one energy cell. See firearm type descriptions for details on firing settings.
+Notes: Range values given in meters.
+Ammo prices are for 50 rounds of ammunition or one energy cell.
+See firearm type descriptions for details on firing settings.
 
 *Explosives*
 
@@ -987,7 +988,9 @@ STR+3 †
 
 E
 
-† Range equals the total in meters. Modifier is added or subtracted from the total generated. ‡Smoke grenades and tear gas give all within burst area a -1D penalty to all Agility, Mechanical, and sight-based Perception rolls.
+† Range equals the total in meters.
+Modifier is added or subtracted from the total generated.
+‡Smoke grenades and tear gas give all within burst area a -1D penalty to all Agility, Mechanical, and sight-based Perception rolls.
 
 *Missile Weapons*
 
@@ -1185,7 +1188,14 @@ PHYS-1
 
 VE
 
-{empty}1. Price is for firing part of weapon; arrows, bolts, or darts priced separately. 2. Blowguns commonly shoot poison darts; poison damage is in addition to damage listed. 3. Requires one full round to reload. 4. Longer than 60 centimeters, so may incur the unwieldy weapon modifier.
+{empty}1.
+Price is for firing part of weapon; arrows, bolts, or darts priced separately.
+2.
+Blowguns commonly shoot poison darts; poison damage is in addition to damage listed.
+3.
+Requires one full round to reload.
+4.
+Longer than 60 centimeters, so may incur the unwieldy weapon modifier.
 
  
 
@@ -1949,7 +1959,14 @@ Small jet
 
 L
 
-{empty}1. First entry is meters per round, followed by kilometers per hour. For entries indicating a roll, roll the skill and use that as the number of meters moved in that round. 2. Includes one crew member (unless otherwise specified). 3. Move equals character’s Move plus Physique or lifting roll. 4. Use animal handling to maneuver the vehicle.
+{empty}1.
+First entry is meters per round, followed by kilometers per hour.
+For entries indicating a roll, roll the skill and use that as the number of meters moved in that round.
+2.
+Includes one crew member (unless otherwise specified). 3.
+Move equals character’s Move plus Physique or lifting roll.
+4.
+Use animal handling to maneuver the vehicle.
 
  
 
@@ -2141,6 +2158,11 @@ Wind + 25% of pilotry total
 
 VD (20 G)
 
-{empty}1. First entry is meters per round, followed by kilometers per hour. For entries indicating a roll, roll the skill and use that as the number of meters moved in that round. 2. Includes one crew member (unless otherwise specified). 3. Prices do not include the cost of hiring and feeding the crew (about 2 silver per day per crew member; total the number of crew to get the per-day price difficulty).
+{empty}1.
+First entry is meters per round, followed by kilometers per hour.
+For entries indicating a roll, roll the skill and use that as the number of meters moved in that round.
+2.
+Includes one crew member (unless otherwise specified). 3.
+Prices do not include the cost of hiring and feeding the crew (about 2 silver per day per crew member; total the number of crew to get the per-day price difficulty).
 
  

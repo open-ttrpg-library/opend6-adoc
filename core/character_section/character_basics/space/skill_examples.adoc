@@ -1,10 +1,13 @@
 = Space Skill Examples
 
-The “Character Basics” chapter provided brief descriptions of each skill (and you will need to return to that chapter if you need a refresher). When the generic difficulties aren’t enough, look up various skills in this chapter to get even more ideas on the challenge level for using those skills in common situations. Of course, not every possibility has been covered, but this provides a terrific foundation.
+The “Character Basics” chapter provided brief descriptions of each skill (and you will need to return to that chapter if you need a refresher). When the generic difficulties aren’t enough, look up various skills in this chapter to get even more ideas on the challenge level for using those skills in common situations.
+Of course, not every possibility has been covered, but this provides a terrific foundation.
 
 === Using the Difficulties and Modifiers
 
-Unless otherwise stated, all listed modifiers are to the difficulty. Modifiers may be cumulative, depending on the situation — the tenser they are, the more important the minutia become. The associated attributed is listed after the skill name.
+Unless otherwise stated, all listed modifiers are to the difficulty.
+Modifiers may be cumulative, depending on the situation — the tenser they are, the more important the minutia become.
+The associated attributed is listed after the skill name.
 
 === Metaphysics Skills
 
@@ -14,17 +17,21 @@ Descriptions and difficulties for Metaphysics skills are found in its own chapte
 
 Skills covered: brawling, dodge, firearms, melee combat, missile weapons, gunnery, throwing
 
-See the “Combat” chapter for the difficulty to use combat skills. For throwing, see also that skill’s entry in this chapter.
+See the “Combat” chapter for the difficulty to use combat skills.
+For throwing, see also that skill’s entry in this chapter.
 
 === Information Skills (Knowledge)
 
 Skills covered: aliens, astrography, bureaucracy, business, cultures, scholar, security regulations
 
-The Knowledge attribute assists characters in finding out how much they know about a certain field, modified depending on the situation. For this reason, one chart of general difficulties can serve most uses of Knowledge, several Knowledge-based skills (see the list), and investigation attempts involving researching a topic.
+The Knowledge attribute assists characters in finding out how much they know about a certain field, modified depending on the situation.
+For this reason, one chart of general difficulties can serve most uses of Knowledge, several Knowledge-based skills (see the list), and investigation attempts involving researching a topic.
 
 Game Masters can employ the “Information Difficulties” chart in one of two ways: by picking a difficulty based on what the character seeks or wants to recall, or by comparing the skill total rolled to the difficulties (whichever level the character meets or beats is the amount and type of information collected or recollected). Realize that the less well-defined the skill is, the less information the character knows or finds.
 
-One high roll in any of these skills does not necessarily make the character an expert in that field. The roll represents only what the character recalls at the time. A high roll could reveal a specific detail of the information sought, as well as some hints for discovering more of what the character seeks.
+One high roll in any of these skills does not necessarily make the character an expert in that field.
+The roll represents only what the character recalls at the time.
+A high roll could reveal a specific detail of the information sought, as well as some hints for discovering more of what the character seeks.
 
 Characters may be assumed to have a general knowledge of their home country, culture, and era, including basic geography, famous people, and common etiquette.
 
@@ -52,25 +59,40 @@ Closely guarded secret +15
 
 Skills covered: con, intimidation, persuasion
 
-Characters use con, intimidation, or persuasion skills to influence other people that they meet. The typical difficulty is 10, modified based on the dispositions of the characters involved, but a Game Master may base it on a skill roll. See the “Mental Defenses” sidebar for more information on this; suggested difficulty modifiers are listed in their own sidebar.
+Characters use con, intimidation, or persuasion skills to influence other people that they meet.
+The typical difficulty is 10, modified based on the dispositions of the characters involved, but a Game Master may base it on a skill roll.
+See the “Mental Defenses” sidebar for more information on this; suggested difficulty modifiers are listed in their own sidebar.
 
-Die rolls alone should not determine interactions between players’ and Game Master’s characters. Game Masters should have their players detail what their characters say and do to before rolling the dice. The better the player acts the role of his character, the greater his chance of success should be, which Game Masters can reflect by allowing up to a +1D modifier to the skill roll.
+Die rolls alone should not determine interactions between players’ and Game Master’s characters.
+Game Masters should have their players detail what their characters say and do to before rolling the dice.
+The better the player acts the role of his character, the greater his chance of success should be, which Game Masters can reflect by allowing up to a +1D modifier to the skill roll.
 
 See also the individual entry in this chapter for con.
 
 *Using in Combat*
 
-Con, persuasion, and intimidation can enhance a character’s attacks and defenses. The player adds one-half of the difference (positive or negative) between the difficulty and the con, intimidation, or persuasion roll to any one attack or defense attempt (not both) made at Point Blank or Short range. The character must use the benefit from scaring (intimidation), tricking (con), or seducing (persuasion) the target on the same turn as or on the round after the interaction endeavor.
+Con, persuasion, and intimidation can enhance a character’s attacks and defenses.
+The player adds one-half of the difference (positive or negative) between the difficulty and the con, intimidation, or persuasion roll to any one attack or defense attempt (not both) made at Point Blank or Short range.
+The character must use the benefit from scaring (intimidation), tricking (con), or seducing (persuasion) the target on the same turn as or on the round after the interaction endeavor.
 
-The user’s appearance and demeanor can also affect persuasion, con, or intimidation attempts. The more threatening the character looks or seems, the less effective con and persuasion actions are, while intimidation attempts are more effective. Use the “Generic Modifiers” table in the “Game Basics” chapter to decide how much the appearance and demeanor affect the target, if a Disadvantage or Special Ability doesn’t already provide one.
+The user’s appearance and demeanor can also affect persuasion, con, or intimidation attempts.
+The more threatening the character looks or seems, the less effective con and persuasion actions are, while intimidation attempts are more effective.
+Use the “Generic Modifiers” table in the “Game Basics” chapter to decide how much the appearance and demeanor affect the target, if a Disadvantage or Special Ability doesn’t already provide one.
 
 *Interrogation Attempts*
 
-Characters may use intimidation or persuasion to get information out of someone. Use the rules for mental defenses to determine the difficulty and base interaction modifiers. Further modify the number by how important the information is to the target. (See the accompanying chart for suggestions.) A separate intimidation roll to scare the target can complement an interrogation session.
+Characters may use intimidation or persuasion to get information out of someone.
+Use the rules for mental defenses to determine the difficulty and base interaction modifiers.
+Further modify the number by how important the information is to the target.
+(See the accompanying chart for suggestions.) A separate intimidation roll to scare the target can complement an interrogation session.
 
 *Mental Defenses*
 
-In general, the resistance difficulty for many Metaphysics or any interaction skill equals 10. The target cannot actively resist unless he knows that a psychic or interaction skill is being used on him by another character. If the Game Master decides that the target suspects but does not know for certain that someone is attempting to influence him, the Game Master may allow the character to take an action earlier than his turn in the round and roll his willpower or Knowledge to generate a new resistance difficulty. Should the character decide to actively defend against mental intrusion or personal interaction, he may devote all of his actions for the round to that task and roll his willpower or Knowledge, adding +10 to the score to get the new resistance difficulty. However the interaction resistance difficulty is determined, Game Masters may further modify the number as the situation warrants (such as stress, surprise, or character relationship).
+In general, the resistance difficulty for many Metaphysics or any interaction skill equals 10.
+The target cannot actively resist unless he knows that a psychic or interaction skill is being used on him by another character.
+If the Game Master decides that the target suspects but does not know for certain that someone is attempting to influence him, the Game Master may allow the character to take an action earlier than his turn in the round and roll his willpower or Knowledge to generate a new resistance difficulty.
+Should the character decide to actively defend against mental intrusion or personal interaction, he may devote all of his actions for the round to that task and roll his willpower or Knowledge, adding +10 to the score to get the new resistance difficulty.
+However the interaction resistance difficulty is determined, Game Masters may further modify the number as the situation warrants (such as stress, surprise, or character relationship).
 
 *Interaction Modifiers*
 
@@ -112,9 +134,13 @@ Observation Skills (Perception, Mechanical)
 
 Skills covered: search, comm, sensors
 
-Game Masters can rely on the “Observation Difficulties” chart on the next page for situations involving the gathering of information. They can be used as difficulties to beat or as a means of reading the results of a dice toss.
+Game Masters can rely on the “Observation Difficulties” chart on the next page for situations involving the gathering of information.
+They can be used as difficulties to beat or as a means of reading the results of a dice toss.
 
-To see if a character notices details of a scene or situation, the Game Master may have the player make a Perception roll. Unless the characters are actively eavesdropping, searching, tracking, or performing a similar activity (and thus using the search skill), this passive observance of a scene does not count as an action. Use the “Observation Difficulties” chart as a guideline for how much the character notices. If the skill total meets or beats the difficulty, the character gains that much information.
+To see if a character notices details of a scene or situation, the Game Master may have the player make a Perception roll.
+Unless the characters are actively eavesdropping, searching, tracking, or performing a similar activity (and thus using the search skill), this passive observance of a scene does not count as an action.
+Use the “Observation Difficulties” chart as a guideline for how much the character notices.
+If the skill total meets or beats the difficulty, the character gains that much information.
 
 *Observation Difficulties*
 
@@ -122,19 +148,28 @@ To see if a character notices details of a scene or situation, the Game Master m
 
 Noticing obvious, generic facts; casual glance 5
 
-Noticing obvious details (ex. number of people) 10
+Noticing obvious details (ex.
+number of people) 10
 
-Noticing a few less obvious details (ex. gist of conversation) 15
+Noticing a few less obvious details (ex.
+gist of conversation) 15
 
-Spotting a few specific details (ex. identities of individuals) 20
+Spotting a few specific details (ex.
+identities of individuals) 20
 
-Spotting a few obscure details (ex. specifics of conversation) 25
+Spotting a few obscure details (ex.
+specifics of conversation) 25
 
 Noticing many obscure details 30 or more
 
 === Repair Skills (Technical)
 
-Skills covered: armor repair, computer interface/repair, exoskeleton repair, firearms repair, flight systems repair, gunnery repair, personal equipment repair, robot interface/repair, vehicle repair Though there are many different kinds of repair skills, they all follow the same principles. The base difficulty to fix or modify anything is 10. The amount of damage sustained, the character’s familiarity with the item, availability of parts, and complexity of the task can modify the difficulty. The Game Master may require a separate roll to determine whether the character can figure out how to repair an unknown item. Destroyed parts must be replaced, which raises the difficulty. Additionally, if a hero rushes the job, not only is there an increased chance of failure, but the item could also break again soon after its next use.
+Skills covered: armor repair, computer interface/repair, exoskeleton repair, firearms repair, flight systems repair, gunnery repair, personal equipment repair, robot interface/repair, vehicle repair Though there are many different kinds of repair skills, they all follow the same principles.
+The base difficulty to fix or modify anything is 10.
+The amount of damage sustained, the character’s familiarity with the item, availability of parts, and complexity of the task can modify the difficulty.
+The Game Master may require a separate roll to determine whether the character can figure out how to repair an unknown item.
+Destroyed parts must be replaced, which raises the difficulty.
+Additionally, if a hero rushes the job, not only is there an increased chance of failure, but the item could also break again soon after its next use.
 
 See also the computer interface/repair and robot interface/repair entries in this chapter and the “Cybernetics” chapter for details on installing cybernetics with personal equipment repair.
 
@@ -188,7 +223,8 @@ The difficulty for a hide or sneak attempt is usually the opponent’s Perceptio
 
 Heavy rain or snow -3
 
-Dawn, dusk, fog, many trees, large crowd, etc. -2
+Dawn, dusk, fog, many trees, large crowd, etc.
+-2
 
 Night -5
 
@@ -208,11 +244,21 @@ Several observers +9
 
 === Acrobatics (Agility)
 
-Using acrobatics can also improve many of a character’s climb/jump and running attempts. The Game Master determines the difficulty of the acrobatics stunt. One-half of the difference (rounded up) between the difficulty and the acrobatics roll is added to the complementary skill. The acrobatics attempt and the climb/jump or running try must be done on the same turn, incurring a multi-action penalty.
+Using acrobatics can also improve many of a character’s climb/jump and running attempts.
+The Game Master determines the difficulty of the acrobatics stunt.
+One-half of the difference (rounded up) between the difficulty and the acrobatics roll is added to the complementary skill.
+The acrobatics attempt and the climb/jump or running try must be done on the same turn, incurring a multi-action penalty.
 
-Instead of adding a modifier to the running or swim difficulty for particularly challenging obstacle courses, the Game Master may have the hero make an acrobatics roll in addition to a running or swim roll. Acrobatics can make a character appear more intimidating. The player may add one-half of the difference (rounded up) between the difficulty and the successful acrobatics roll to her intimidation attempt. The intimidating attempt may be made on the same turn as the acrobatics roll or on the next round.
+Instead of adding a modifier to the running or swim difficulty for particularly challenging obstacle courses, the Game Master may have the hero make an acrobatics roll in addition to a running or swim roll.
+Acrobatics can make a character appear more intimidating.
+The player may add one-half of the difference (rounded up) between the difficulty and the successful acrobatics roll to her intimidation attempt.
+The intimidating attempt may be made on the same turn as the acrobatics roll or on the next round.
 
-During a fall, acrobatics may be used to reduce bodily harm. If the character has not already used his turn for the round, he may rely on acrobatics in an attempt to land properly. The character generates an acrobatics total. For every five points over the base difficulty number of 10, the hero reduces the damage total by one point, in addition to a base reduction of one point. The damage total, however, cannot be lower than zero.
+During a fall, acrobatics may be used to reduce bodily harm.
+If the character has not already used his turn for the round, he may rely on acrobatics in an attempt to land properly.
+The character generates an acrobatics total.
+For every five points over the base difficulty number of 10, the hero reduces the damage total by one point, in addition to a base reduction of one point.
+The damage total, however, cannot be lower than zero.
 
 *Maneuver Difficulty*
 
@@ -260,11 +306,18 @@ Performing the maneuver in the air (such as on a trapeze or bars) +9
 
 Performing the maneuver on a narrow surface +6
 
-Note: Characters may combine one or more maneuvers in the same action. In this case, use the difficulty of the most challenging maneuver, add 3 for each additional maneuver (up to five additional maneuvers), and include modifiers as if the complex stunt was one maneuver.
+Note: Characters may combine one or more maneuvers in the same action.
+In this case, use the difficulty of the most challenging maneuver, add 3 for each additional maneuver (up to five additional maneuvers), and include modifiers as if the complex stunt was one maneuver.
 
-Acrobatics can also aid a character in escaping from bonds. The chart below contains sample difficulty numbers for escaping from various kinds of restraints. Modify the difficulty based on the circumstances of the escape, such as the conditions the character works under or specially designed restraints. The character may not use this skill if completely immobilized. If in multiple restraints, the character must make a separate roll for each one. A Critical Failure indicates that the character has pulled a muscle (and he does his Strength Damage to himself).
+Acrobatics can also aid a character in escaping from bonds.
+The chart below contains sample difficulty numbers for escaping from various kinds of restraints.
+Modify the difficulty based on the circumstances of the escape, such as the conditions the character works under or specially designed restraints.
+The character may not use this skill if completely immobilized.
+If in multiple restraints, the character must make a separate roll for each one.
+A Critical Failure indicates that the character has pulled a muscle (and he does his Strength Damage to himself).
 
-Note that this skill does not substitute for the sleight of hand skill. The character may be able to pull his arms over his head to use his hands, but he may not be able to slip out of the handcuffs unless they are improperly secured.
+Note that this skill does not substitute for the sleight of hand skill.
+The character may be able to pull his arms over his head to use his hands, but he may not be able to slip out of the handcuffs unless they are improperly secured.
 
 *Sample Restraints Difficulty*
 
@@ -278,7 +331,10 @@ Straitjacket 18
 
 === Artist (Perception)
 
-The time needed to perform the artist skill varies, depending on the quality and complexity of a piece. A simple amateur piece may only take a few minutes, while a complex, prize-winning endeavor could require weeks or months. Characters may also use this skill to judge works of art created by others and possibly as a complementary skill to forgery to detect fake artistic pieces. The higher the total is above the creation total for the piece, the more information the judge knows about it (such as flaws, alterations, its creator, and the like).
+The time needed to perform the artist skill varies, depending on the quality and complexity of a piece.
+A simple amateur piece may only take a few minutes, while a complex, prize-winning endeavor could require weeks or months.
+Characters may also use this skill to judge works of art created by others and possibly as a complementary skill to forgery to detect fake artistic pieces.
+The higher the total is above the creation total for the piece, the more information the judge knows about it (such as flaws, alterations, its creator, and the like).
 
 *Quality of Piece Difficulty*
 
@@ -300,9 +356,16 @@ Complex; has many parts +10
 
 === Bargain (Perception)
 
-Characters use this skill to haggle over prices. The Game Master should use a mixture of roleplaying and die rolls to determine how the character is doing at acquiring selling the desired goods or services. The player always has the choice to refuse a deal. Similarly, if the Game Master feels that the character’s roll represents an unfair deal, without the player embellishing by roleplaying the situation, he should allow the Game Master’s character to refuse the deal as well.
+Characters use this skill to haggle over prices.
+The Game Master should use a mixture of roleplaying and die rolls to determine how the character is doing at acquiring selling the desired goods or services.
+The player always has the choice to refuse a deal.
+Similarly, if the Game Master feels that the character’s roll represents an unfair deal, without the player embellishing by roleplaying the situation, he should allow the Game Master’s character to refuse the deal as well.
 
-To resolve the haggling, either make an opposed skill roll using any modifiers appropriate or select an appropriate standard difficulty number. Subtract the seller’s total from the buyer’s total and look up the number on the chart below. Multiply the price of the item (as credits or a number) by the percentage given to get its final cost. Be certain to include any price modifiers (as suggested in the “Equipment” chapter) before making the adjustment. If using Funds, this becomes the new number the Funds roll must meet or exceed.
+To resolve the haggling, either make an opposed skill roll using any modifiers appropriate or select an appropriate standard difficulty number.
+Subtract the seller’s total from the buyer’s total and look up the number on the chart below.
+Multiply the price of the item (as credits or a number) by the percentage given to get its final cost.
+Be certain to include any price modifiers (as suggested in the “Equipment” chapter) before making the adjustment.
+If using Funds, this becomes the new number the Funds roll must meet or exceed.
 
 *Difference Price Adjustment*
 
@@ -328,7 +391,10 @@ To resolve the haggling, either make an opposed skill roll using any modifiers a
 
 +21 or more 50% of local market value
 
-Characters can also employ bargain to “pay” another person to behave dishonorably, such as through ignoring duty, looking the other way, or divulging secret information. Success depends greatly on the target. A target who is loyal or wealthy or fears being caught is less likely to accept bribes. Use the difficulties listed under “Interaction Skills” and further modified by such factors as the value of the money, goods, or information offered, the extent of favors given and received, and the target’s attitude toward the bribe.
+Characters can also employ bargain to “pay” another person to behave dishonorably, such as through ignoring duty, looking the other way, or divulging secret information.
+Success depends greatly on the target.
+A target who is loyal or wealthy or fears being caught is less likely to accept bribes.
+Use the difficulties listed under “Interaction Skills” and further modified by such factors as the value of the money, goods, or information offered, the extent of favors given and received, and the target’s attitude toward the bribe.
 
 *Value of Bribe Modifier*
 
@@ -342,7 +408,8 @@ Significantly larger than expected -10
 
 === Climb/Jump (Strength)
 
-Base difficulties for uses of this skill are included in the “Movement” chapter. Note that taking care in climbing and carrying 50% or more of the character’s body weight slows the character down by two meters or more per round.
+Base difficulties for uses of this skill are included in the “Movement” chapter.
+Note that taking care in climbing and carrying 50% or more of the character’s body weight slows the character down by two meters or more per round.
 
 *Climb Condition Modifier*
 
@@ -386,9 +453,14 @@ Carrying 100% of own weight +12
 
 === Command (Perception)
 
-Command governs the act of convincing individuals to comply with specific directions, as well as maintaining morale during group undertakings (such as combat or building large pieces of equipment). This skill is typically used only with the Game Master’s characters, though sometimes it may be attempted with players’ characters (such situations should be roleplayed first, with a bonus or penalty to the command roll based on how well the group participated in the activity together). A high command roll can complement individual participants’ rolls in a group activity, while a low command roll can impose negative modifiers. It generally requires at least one round of planning to perform effectively.
+Command governs the act of convincing individuals to comply with specific directions, as well as maintaining morale during group undertakings (such as combat or building large pieces of equipment). This skill is typically used only with the Game Master’s characters, though sometimes it may be attempted with players’ characters (such situations should be roleplayed first, with a bonus or penalty to the command roll based on how well the group participated in the activity together). A high command roll can complement individual participants’ rolls in a group activity, while a low command roll can impose negative modifiers.
+It generally requires at least one round of planning to perform effectively.
 
-Characters can use this skill to combine their attacks. One person is designated the leader and makes the command roll. If successful, everyone goes on the leader’s initiative. Participants make their attacks with the hit location modifier (to reflect that they’re aiming for a designated location), but the target resists the combined total of all damage done it. If the command roll fails, determine initiative and actions individually.
+Characters can use this skill to combine their attacks.
+One person is designated the leader and makes the command roll.
+If successful, everyone goes on the leader’s initiative.
+Participants make their attacks with the hit location modifier (to reflect that they’re aiming for a designated location), but the target resists the combined total of all damage done it.
+If the command roll fails, determine initiative and actions individually.
 
 *Complexity Difficulty*
 
@@ -466,7 +538,11 @@ Character experienced with the program’s language -3
 
 === Con (Perception)
 
-In addition to tricking people verbally, a character can use con to change his appearance. The character’s skill total in creating the disguise serves two related purposes. First, the higher the roll, the less likely an observer will question the disguise. Second, the total becomes the difficulty number for Perception or investigation efforts to see through it. If the investigation check is higher than the con total, the disguise has been penetrated.
+In addition to tricking people verbally, a character can use con to change his appearance.
+The character’s skill total in creating the disguise serves two related purposes.
+First, the higher the roll, the less likely an observer will question the disguise.
+Second, the total becomes the difficulty number for Perception or investigation efforts to see through it.
+If the investigation check is higher than the con total, the disguise has been penetrated.
 
 If at any time while the character is disguised he performs an action inconsistent with the disguise, any observer has a chance to see through it.
 
@@ -494,9 +570,15 @@ Using skill unaided +3
 
 === Demolitions (Technical)
 
-The base difficulty is 5. For extra damage and special effects, the character must spend one round per difficulty number setting up the explosives. The character also needs to indicate how much explosive she’s using. If the attempt is successful, compare the skill total with the object’s damage resistance total (its Toughness modified by size, thickness, flaws, supports, etc.). Items that take at least 10 points above their damage resistance total are severely damaged, if not destroyed. Items taking less than that are weakened, and another attempt may be made (with the object having a reduced damage resistance total and possibly other problems).
+The base difficulty is 5.
+For extra damage and special effects, the character must spend one round per difficulty number setting up the explosives.
+The character also needs to indicate how much explosive she’s using.
+If the attempt is successful, compare the skill total with the object’s damage resistance total (its Toughness modified by size, thickness, flaws, supports, etc.). Items that take at least 10 points above their damage resistance total are severely damaged, if not destroyed.
+Items taking less than that are weakened, and another attempt may be made (with the object having a reduced damage resistance total and possibly other problems).
 
-Remember that, while a character may think an object is constructed of one type of material, it may not be. Though this does not alter the difficulty of setting the explosive, it may change the results of special effects. For instance, an explosive set for thin wood won’t do much good if that’s only veneer for reinforced steel.
+Remember that, while a character may think an object is constructed of one type of material, it may not be.
+Though this does not alter the difficulty of setting the explosive, it may change the results of special effects.
+For instance, an explosive set for thin wood won’t do much good if that’s only veneer for reinforced steel.
 
 *Example Result Modifier*
 
@@ -534,7 +616,8 @@ Reinforced (numerous layers of steel) 6D
 
 === Forgery (Perception)
 
-The artist skill may complement this skill, or the Game Master may require it to be used instead, with the appropriate forgery modifiers applied. Reduce the amount of time spent on creating a forgery if the character has repeatedly succeeded at making similar items in the past.
+The artist skill may complement this skill, or the Game Master may require it to be used instead, with the appropriate forgery modifiers applied.
+Reduce the amount of time spent on creating a forgery if the character has repeatedly succeeded at making similar items in the past.
 
 *Forger*
 
@@ -596,7 +679,10 @@ Item superiorly forged* +10
 
 === Gambling (Perception)
 
-Gambling doesn’t affect games that are purely random, but does influence games with an element of strategy, like poker. All characters make opposed gambling rolls, without spending Character or Fate Points, and the highest roll wins. A character may cheat by using Character or Fate Points on the roll, and the Game Master may give bonuses to rolls for people looking for a cheater or helping the cheater. The Game Master should consider as many “angles” as possible when using the gambling skill, and add these as modifiers to one or more participants’ rolls.
+Gambling doesn’t affect games that are purely random, but does influence games with an element of strategy, like poker.
+All characters make opposed gambling rolls, without spending Character or Fate Points, and the highest roll wins.
+A character may cheat by using Character or Fate Points on the roll, and the Game Master may give bonuses to rolls for people looking for a cheater or helping the cheater.
+The Game Master should consider as many “angles” as possible when using the gambling skill, and add these as modifiers to one or more participants’ rolls.
 
 === Investigation (Perception)
 
@@ -620,7 +706,8 @@ Character unsure of information sought +5
 
 Character knows exactly what information is sought -5
 
-When used to figure out clues from a scene, the base difficulty is 10. The character must use search first to find the clues or evidence (or have them pointed out); investigation helps the character figure out what they mean.
+When used to figure out clues from a scene, the base difficulty is 10.
+The character must use search first to find the clues or evidence (or have them pointed out); investigation helps the character figure out what they mean.
 
 *Situation Modifier*
 
@@ -656,11 +743,17 @@ Time between crimes (per 6 months*) +3
 
 === Know-how (Perception)
 
-To use this skill to help with an activity covered by another skill (which the character does not have), the character spends the round before examining the situation, performing no other actions, and making a roll of this skill versus the difficulty set for the action. The character gets neither the unskilled modifier nor the preparing modifier. Within the next 30 seconds (six rounds), the character may add the difference between the difficulty and the know-how skill roll to total roll for the attribute dictated by the actual skill required. The character may not use this skill in place of a skill she already has. The Game Master may limit the number of times per hour this skill may be used on the same action.
+To use this skill to help with an activity covered by another skill (which the character does not have), the character spends the round before examining the situation, performing no other actions, and making a roll of this skill versus the difficulty set for the action.
+The character gets neither the unskilled modifier nor the preparing modifier.
+Within the next 30 seconds (six rounds), the character may add the difference between the difficulty and the know-how skill roll to total roll for the attribute dictated by the actual skill required.
+The character may not use this skill in place of a skill she already has.
+The Game Master may limit the number of times per hour this skill may be used on the same action.
 
 === Languages (Knowledge)
 
-First, determine what the character wants to express or understand and how closely the language in which she wants to express it is to her native tongue. Then, compare the difference between the skill roll and the difficulty to decide how close she came. Characters with a specialization in the language they are using who succeed at the skill roll receive a +3 bonus to determining the comprehension level.
+First, determine what the character wants to express or understand and how closely the language in which she wants to express it is to her native tongue.
+Then, compare the difference between the skill roll and the difficulty to decide how close she came.
+Characters with a specialization in the language they are using who succeed at the skill roll receive a +3 bonus to determining the comprehension level.
 
 *Situation Difficulty*
 
@@ -704,9 +797,12 @@ Language includes many concepts nearly beyond the character’s understanding or
 
 === Lift (Strength)
 
-At the Game Master’s discretion, a player may make a lift check when his character first picks up an object. (Generally, if the object’s weight would give it a difficulty equal to or greater than one-half of the character’s lift, rounded up, or the object is being lifted hastily or under stress, the Game Master should require a lift roll.)
+At the Game Master’s discretion, a player may make a lift check when his character first picks up an object.
+(Generally, if the object’s weight would give it a difficulty equal to or greater than one-half of the character’s lift, rounded up, or the object is being lifted hastily or under stress, the Game Master should require a lift roll.)
 
-For each round the object is carried, the character makes another check to see if she can continue to carry the object. If the player fails the roll, her character is too exhausted and must put the object down. If the character is doing anything else at the time (other than walking slowly or talking), continuing to carry the object counts as a multiaction.
+For each round the object is carried, the character makes another check to see if she can continue to carry the object.
+If the player fails the roll, her character is too exhausted and must put the object down.
+If the character is doing anything else at the time (other than walking slowly or talking), continuing to carry the object counts as a multiaction.
 
 *Abridged Lift Table*
 
@@ -754,7 +850,8 @@ The Game Master may further subdivide the lift chart if desired to include the w
 
 30–60 minutes -20
 
-Note: After the first hour, the character must make a check once per hour at the same difficulty as one hour. If the character fails the roll, then she must rest for twice as long as she was lifting the weight.
+Note: After the first hour, the character must make a check once per hour at the same difficulty as one hour.
+If the character fails the roll, then she must rest for twice as long as she was lifting the weight.
 
 === Medicine (Technical)
 
@@ -776,7 +873,8 @@ Determine cause 24 Time required: 1 day to 1 week
 
 === Navigation (Mechanical)
 
-The base difficulty for a character to find his way around a planet is 10. See the “Space Travel” chapter for information on how to get around the universe without getting lost (or too lost).
+The base difficulty for a character to find his way around a planet is 10.
+See the “Space Travel” chapter for information on how to get around the universe without getting lost (or too lost).
 
 *Planetary Situation Modifier*
 
@@ -816,7 +914,12 @@ See the “Movement” (specifically the “Vehicles and Aerial Characters” se
 
 === Riding (Agility)
 
-When a character first mounts a ridable animal, she must make a riding roll against the creature’s willpower roll (the Game Master generates this). The character’s riding total may be modified by the attitude of the animal toward the character. The character stays in control if she ties or beats the beast’s roll. If she fails, consult the table below for what occurs. When attempting to get the beast to perform a special maneuver or during events that might frighten it, the character must also roll against the animal’s Knowledge or willpower. Examples of special maneuvers include jumping a fence, crossing a raging river, moving faster, or slowing down quickly. (The success of special maneuvers are determined with the animal’s attributes or skills.)
+When a character first mounts a ridable animal, she must make a riding roll against the creature’s willpower roll (the Game Master generates this). The character’s riding total may be modified by the attitude of the animal toward the character.
+The character stays in control if she ties or beats the beast’s roll.
+If she fails, consult the table below for what occurs.
+When attempting to get the beast to perform a special maneuver or during events that might frighten it, the character must also roll against the animal’s Knowledge or willpower.
+Examples of special maneuvers include jumping a fence, crossing a raging river, moving faster, or slowing down quickly.
+(The success of special maneuvers are determined with the animal’s attributes or skills.)
 
 A character attacking from the back of a beast takes a multi-action penalty for having to both control the mount and use a weapon.
 
@@ -840,7 +943,11 @@ Hostile or wounded -5
 
 === Robot Interface/Repair (Technical)
 
-Most robots do not have attributes, though sophisticated ones might. Instead, skills and their specializations represent the tasks a robot can perform. The programmer must have a means of inputting information into the robot, such as a computer terminal or hand computer. The time taken depends upon the complexity of the task — a Very Easy (5) program might take only half an hour to program, but a Very Difficult (25) one might take days or weeks to program. Once the robot has the basic skill, skill cartridges, scholarchips, or additional programming can upgrade it.
+Most robots do not have attributes, though sophisticated ones might.
+Instead, skills and their specializations represent the tasks a robot can perform.
+The programmer must have a means of inputting information into the robot, such as a computer terminal or hand computer.
+The time taken depends upon the complexity of the task — a Very Easy (5) program might take only half an hour to program, but a Very Difficult (25) one might take days or weeks to program.
+Once the robot has the basic skill, skill cartridges, scholarchips, or additional programming can upgrade it.
 
 *Program Difficulty*
 
@@ -882,9 +989,12 @@ Robot has large memory capacity -5 or more
 
 === Search (Perception)
 
-When used to eavesdrop on or secretly watch an event or another character, the skill total indicates the amount of information gained from the surveillance. Use the “Observation Difficulties” table found at the beginning of this chapter. A Critical Failure could mean anything from no information obtained to being immediately spotted by the character being observed, depending on the situation.
+When used to eavesdrop on or secretly watch an event or another character, the skill total indicates the amount of information gained from the surveillance.
+Use the “Observation Difficulties” table found at the beginning of this chapter.
+A Critical Failure could mean anything from no information obtained to being immediately spotted by the character being observed, depending on the situation.
 
-When searching for a hidden object or person, the difficulty is generally the hide roll used to conceal the target. Otherwise, the base difficulty is 5, modified by the table below.
+When searching for a hidden object or person, the difficulty is generally the hide roll used to conceal the target.
+Otherwise, the base difficulty is 5, modified by the table below.
 
 See also “Observation Skills” in this chapter for more difficulties and modifiers for this skill.
 
@@ -936,7 +1046,9 @@ Per additional vehicle -3
 
 === Security (Technical)
 
-Opening locks that don’t require deftness of hand fall under this skill, as does setting up a defensive perimeter and installing a security system. Security always requires special tools, which might give their own bonus. This skill can complement investigation when trying to survey the security of a building.
+Opening locks that don’t require deftness of hand fall under this skill, as does setting up a defensive perimeter and installing a security system.
+Security always requires special tools, which might give their own bonus.
+This skill can complement investigation when trying to survey the security of a building.
 
 *Type of System Difficulty*
 
@@ -1000,17 +1112,29 @@ Lock blueprints and diagrams -4
 
 === Stamina (Strength)
 
-Game Masters may allow a character to make a multiaction stamina roll to complement a strenuous activity, such as lifting or running. The difficulty equals 5 times the current fatigue modifier. The character may add one-half (rounded up) of the difference between the successful stamina roll and the difficulty. The strenuous activity still receives the fatigue modifier.
+Game Masters may allow a character to make a multiaction stamina roll to complement a strenuous activity, such as lifting or running.
+The difficulty equals 5 times the current fatigue modifier.
+The character may add one-half (rounded up) of the difference between the successful stamina roll and the difficulty.
+The strenuous activity still receives the fatigue modifier.
 
 Whenever a character fails a stamina roll, she is fatigued; all actions are at -1D for every stamina check failed until the character rests for as long as she exerted herself.
 
-Characters can still continue if they are fatigued, until they fail a third stamina check. At this point, the character is completely exhausted and must rest for twice the amount of time that she exerted herself to remove the penalty. To avoid the effects of a toxin (inhaled, ingested, or absorbed) or disease (encountered in any manner), a character makes a stamina roll. Several factors figure into the difficulty of the attempt, including the deadliness and dosage of the poison in question. For example, a fatal bout of botulism has a difficulty of 9, while a killing dose of cyanide has a difficulty of 42. Characters may attempt to counter toxins once per day.
+Characters can still continue if they are fatigued, until they fail a third stamina check.
+At this point, the character is completely exhausted and must rest for twice the amount of time that she exerted herself to remove the penalty.
+To avoid the effects of a toxin (inhaled, ingested, or absorbed) or disease (encountered in any manner), a character makes a stamina roll.
+Several factors figure into the difficulty of the attempt, including the deadliness and dosage of the poison in question.
+For example, a fatal bout of botulism has a difficulty of 9, while a killing dose of cyanide has a difficulty of 42.
+Characters may attempt to counter toxins once per day.
 
-Game Masters might also call for stamina rolls against falling asleep or unconscious. Resisting sleep is a difficulty of 5 per hour beyond the normal awake time, modified by environmental factors (too warm or too cold, noise level, etc.). For unconsciousness caused by wounds, see the “Wound Levels” table in the “Damage” chapter.
+Game Masters might also call for stamina rolls against falling asleep or unconscious.
+Resisting sleep is a difficulty of 5 per hour beyond the normal awake time, modified by environmental factors (too warm or too cold, noise level, etc.). For unconsciousness caused by wounds, see the “Wound Levels” table in the “Damage” chapter.
 
 === Streetwise (Knowledge)
 
-Streetwise helps characters get around urban environments. Some situations call for seeking out those living outside the local law, while others can be handled through upstanding citizens. Generally, the modifiers are the same for each situation, but the Game Master should adjust them depending on the circumstances. It is possible, though generally unlikely, that a character would be well-liked by both upstanding residents and local criminals.
+Streetwise helps characters get around urban environments.
+Some situations call for seeking out those living outside the local law, while others can be handled through upstanding citizens.
+Generally, the modifiers are the same for each situation, but the Game Master should adjust them depending on the circumstances.
+It is possible, though generally unlikely, that a character would be well-liked by both upstanding residents and local criminals.
 
 Example: In a village, a character would find it easier to gather information about a particular person (and thus the city-size modifier would be -15 instead of +15), but he might have a harder time getting someone to trust him enough to tell him about it (making the tolerance modifier +15).
 
@@ -1062,7 +1186,8 @@ Well-known and liked by underworld or residents -10 or more
 
 === Survival (Knowledge)
 
-Character can rely on survival to figure out what to eat, where to sleep, how best to deal with native dangers, and other information needed to get out of wilderness situation alive. (Use streetwise for help in urban situations.)
+Character can rely on survival to figure out what to eat, where to sleep, how best to deal with native dangers, and other information needed to get out of wilderness situation alive.
+(Use streetwise for help in urban situations.)
 
 *Situation Difficulty*
 
@@ -1088,18 +1213,31 @@ Has never been to this location -1D
 
 === Tactics (Knowledge)
 
-Tactics represents a character’s skill in deploying military forces and maneuvering them for the best advantage. Characters can rely on it for general knowledge of how best to stage a military operation or the best response to an opponent’s move in battle. Tactics attempts can complement command and combat rolls for the group the character advises. The better the result, the more details a Game Master should give to help the character win the battle. Hints can take the form of reminders about different moves the enemy can make, suggestions on how to maneuver the character’s forces, or (for especially good rolls) risky and unanticipated moves that could throw the enemy off guard. Nonetheless, characters should keep in mind that tactics might suggest a theoretically optimum solution, but the execution might not come off as well as planned.
+Tactics represents a character’s skill in deploying military forces and maneuvering them for the best advantage.
+Characters can rely on it for general knowledge of how best to stage a military operation or the best response to an opponent’s move in battle.
+Tactics attempts can complement command and combat rolls for the group the character advises.
+The better the result, the more details a Game Master should give to help the character win the battle.
+Hints can take the form of reminders about different moves the enemy can make, suggestions on how to maneuver the character’s forces, or (for especially good rolls) risky and unanticipated moves that could throw the enemy off guard.
+Nonetheless, characters should keep in mind that tactics might suggest a theoretically optimum solution, but the execution might not come off as well as planned.
 
 Tactics difficulties should be based on various factors of complexity within a battle: how many units are involved, the setting (empty space, asteroid field, planetary terrain), and the difference in training and equipment between units (battleships versus in-system defenders; trained mercenaries versus primitive natives; space military versus experienced rebels).
 
 === Throwing (Agility)
 
-A character’s ability to grab projectiles out of the air is enhanced by the throwing skill. The difficulty of catching an object is typically the thrower’s throwing roll. If the thrower wants the catcher to get the object, and thus takes care to throw well, reduce the thrower’s skill total by 9.
+A character’s ability to grab projectiles out of the air is enhanced by the throwing skill.
+The difficulty of catching an object is typically the thrower’s throwing roll.
+If the thrower wants the catcher to get the object, and thus takes care to throw well, reduce the thrower’s skill total by 9.
 
 The “Combat” chapter specifies combat difficulties for this skill.
 
 === Willpower (Knowledge)
 
-Willpower is generally used to resist interaction attempts and mentally damaging attacks. See the “Mental Defense” sidebar at the beginning of this chapter for details. Characters with this skill may generally use it instead of stamina to resist fatigue, sleep, and unconsciousness, though there may be some situations the Game Master restricts its substitution. See the stamina entry in this chapter for information on difficulties.
+Willpower is generally used to resist interaction attempts and mentally damaging attacks.
+See the “Mental Defense” sidebar at the beginning of this chapter for details.
+Characters with this skill may generally use it instead of stamina to resist fatigue, sleep, and unconsciousness, though there may be some situations the Game Master restricts its substitution.
+See the stamina entry in this chapter for information on difficulties.
 
-Game Master can also use willpower (or Knowledge) to determine the reactions of players’ and Game Master’s characters to each other and to their surroundings. The more the Game Master believes that the character should be at ease or frightened, the greater the difficulty. Use the descriptions of standard difficulties to determine the level. This passive application of willpower is not an action.
+Game Master can also use willpower (or Knowledge) to determine the reactions of players’ and Game Master’s characters to each other and to their surroundings.
+The more the Game Master believes that the character should be at ease or frightened, the greater the difficulty.
+Use the descriptions of standard difficulties to determine the level.
+This passive application of willpower is not an action.

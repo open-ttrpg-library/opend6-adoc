@@ -2,17 +2,25 @@
 
 == What’s in this Chapter
 
-This chapter defines how to play the game, from rolling the dice to using skills. The basic unit of game time, order of play, and what players can have their characters do on a turn are explained. Suggestions for determining the difficulty of actions are offered, including some examples.
+This chapter defines how to play the game, from rolling the dice to using skills.
+The basic unit of game time, order of play, and what players can have their characters do on a turn are explained.
+Suggestions for determining the difficulty of actions are offered, including some examples.
 
-The introduction offered an overview of how the game works, so some of this may look familiar. However, this chapter clarifies a lot of special situations that will undoubtedly come up during play.
+The introduction offered an overview of how the game works, so some of this may look familiar.
+However, this chapter clarifies a lot of special situations that will undoubtedly come up during play.
 
 == Rolling Dice
 
-A die code shows how good a character is in a particular area, how harmful a weapon is, how useful a special ability or tool is, and so on. Each die code (also known as a value) indicates the number of six-sided dice you roll (1D, 2D, 3D, 4D, 5D, etc.), and sometimes an added bonus of “+1” or “+2” — referred to as pips — you add to the total result you roll on the dice.
+A die code shows how good a character is in a particular area, how harmful a weapon is, how useful a special ability or tool is, and so on.
+Each die code (also known as a value) indicates the number of six-sided dice you roll (1D, 2D, 3D, 4D, 5D, etc.), and sometimes an added bonus of “+1” or “+2” — referred to as pips — you add to the total result you roll on the dice.
 
-An advantage, special ability, or piece of equipment may provide a bonus to the roll. If the bonus is in the form of a die code (such as +1D), then you add the listed number of regular dice to the amount you would roll. If the bonus is in the form of a number (such as +2), then you add the amount to the total that you rolled on the dice.
+An advantage, special ability, or piece of equipment may provide a bonus to the roll.
+If the bonus is in the form of a die code (such as +1D), then you add the listed number of regular dice to the amount you would roll.
+If the bonus is in the form of a number (such as +2), then you add the amount to the total that you rolled on the dice.
 
-Example: A shovel adds 1D to digging attempts. A character who decides to dig a hole uses her lifting skill. If your character has a lifting skill of 4D, you would roll ﬁve dice to determine how well your character dug the hole with the shovel.
+Example: A shovel adds 1D to digging attempts.
+A character who decides to dig a hole uses her lifting skill.
+If your character has a lifting skill of 4D, you would roll ﬁve dice to determine how well your character dug the hole with the shovel.
 
 === Wild Die
 
@@ -22,170 +30,281 @@ Example: Your character’s Reﬂexes attribute is 3D+1, so if your character tr
 
 If the player has only 1D to roll, then that one die is always the Wild Die.
 
-If the player rolls a 6 on the Wild Die, this is called a Critical Success and she may add the 6 to her total and roll the Wild Die again. As long as she turns up Critical Successes on that die, she may continue to add them to her total and continue to roll. If she rolls anything other than a 6, she adds that number to the total and stops rolling. If the player rolls a 1 on the initial toss of the Wild Die, this is called a Critical Failure, and the Game Master may chose one of two options for the result, depending on the gravity of the situation.
+If the player rolls a 6 on the Wild Die, this is called a Critical Success and she may add the 6 to her total and roll the Wild Die again.
+As long as she turns up Critical Successes on that die, she may continue to add them to her total and continue to roll.
+If she rolls anything other than a 6, she adds that number to the total and stops rolling.
+If the player rolls a 1 on the initial toss of the Wild Die, this is called a Critical Failure, and the Game Master may chose one of two options for the result, depending on the gravity of the situation.
 
-. The Critical Failure cancels out the highest roll. Then the player adds the remaining values, and the roll is determined normally.
-. Add the dice results normally, but a complication occurs. The Game Master gauges the signiﬁcance of the complication by the total generated — from a funny, “nearly didn’t do it” result for a high total to a serious, “we have a problem” obstacle for a low total.
+. The Critical Failure cancels out the highest roll.
+Then the player adds the remaining values, and the roll is determined normally.
+. Add the dice results normally, but a complication occurs.
+The Game Master gauges the signiﬁcance of the complication by the total generated — from a funny, “nearly didn’t do it” result for a high total to a serious, “we have a problem” obstacle for a low total.
 
-When using the second option, make certain the complication chosen relates to the task attempted. It should serve as an extra, minor obstacle the characters must now deal with or, more often, as a place to insert a bit of comic relief. Only on rare occasions (such as numerous poor decisions by the players) should a complication be without solutions or even deadly. The complications can also serve as opportunities to bring nearly invincible characters down to a more reasonable level.
+When using the second option, make certain the complication chosen relates to the task attempted.
+It should serve as an extra, minor obstacle the characters must now deal with or, more often, as a place to insert a bit of comic relief.
+Only on rare occasions (such as numerous poor decisions by the players) should a complication be without solutions or even deadly.
+The complications can also serve as opportunities to bring nearly invincible characters down to a more reasonable level.
 
 Note: Unlike rolling a Critical Failure initially on the Wild Die, no complications occur when a 1 shows up on later tosses of the Wild Die in the same roll.
 
 === Improving a Roll
 
-The average person fails at average activities nearly half of the time. Characters aren’t average people, so they need ways to beat those odds. Thus, they have Character and Fate Points, which represent those surges of adrenaline, sudden insights, and other unexplained helpful acts of chance.
+The average person fails at average activities nearly half of the time.
+Characters aren’t average people, so they need ways to beat those odds.
+Thus, they have Character and Fate Points, which represent those surges of adrenaline, sudden insights, and other unexplained helpful acts of chance.
 
-Players may not trade Character Points for Fate Points, nor may they trade Fate Points for Character Points. A player may only spend her Character and Fate Points on her character’s rolls. She may not spend more Character or Fate Points than the character has listed on her sheet. Except when allowed by the Game Master for exceptionally cinematic situations, players may not use Character Points and Fate Points on the same roll.
+Players may not trade Character Points for Fate Points, nor may they trade Fate Points for Character Points.
+A player may only spend her Character and Fate Points on her character’s rolls.
+She may not spend more Character or Fate Points than the character has listed on her sheet.
+Except when allowed by the Game Master for exceptionally cinematic situations, players may not use Character Points and Fate Points on the same roll.
 
 === Character Points
 
-Whenever a player makes any roll (attribute, skill, damage, special ability, and so on), he has the option to spend Character Points to increase the total rolled. He may spend one Character Point for each extra Wild Die rolled, to a maximum decided upon by the Game Master and based on the challenge level of the adventure. (For adventures with easy challenges, the maximum is two; for more cinematic adventures, the maximum is ﬁve; for universe-shaking ones, the maximum is unlimited.)
+Whenever a player makes any roll (attribute, skill, damage, special ability, and so on), he has the option to spend Character Points to increase the total rolled.
+He may spend one Character Point for each extra Wild Die rolled, to a maximum decided upon by the Game Master and based on the challenge level of the adventure.
+(For adventures with easy challenges, the maximum is two; for more cinematic adventures, the maximum is ﬁve; for universe-shaking ones, the maximum is unlimited.)
 
-A player may choose to spend Character Points before or after he makes a roll — or both — but always before the Game Master determines the result. The Game Master need not tell the player whether he should spend more points to improve a roll.
+A player may choose to spend Character Points before or after he makes a roll — or both — but always before the Game Master determines the result.
+The Game Master need not tell the player whether he should spend more points to improve a roll.
 
-Extra Wild Dice gained from spending Character Points each work like a normal Wild Die except that a Critical Failure counts as a 1; it does not adversely affect the roll. Because of the special nature of Character Point Wild Dice, the player may wish to roll these dice separately from his normal Wild Die.
+Extra Wild Dice gained from spending Character Points each work like a normal Wild Die except that a Critical Failure counts as a 1; it does not adversely affect the roll.
+Because of the special nature of Character Point Wild Dice, the player may wish to roll these dice separately from his normal Wild Die.
 
-Once used, the character loses the point. Players get Character Points for their characters by overcoming obstacles, role playing well, and having fun. They can also use Character Points to improve skills (see the “Improving Characters” chapter for details).
+Once used, the character loses the point.
+Players get Character Points for their characters by overcoming obstacles, role playing well, and having fun.
+They can also use Character Points to improve skills (see the “Improving Characters” chapter for details).
 
 === Fate Points
 
-Each players’ character has a personal moral code, generally involving a sense of honor and justice. The devotion to this code is represented by Fate Points. Violating that code takes a little bit away from that nature, which is represented by a loss of Fate Points.
+Each players’ character has a personal moral code, generally involving a sense of honor and justice.
+The devotion to this code is represented by Fate Points.
+Violating that code takes a little bit away from that nature, which is represented by a loss of Fate Points.
 
 Example: Heroic characters receive Fate Points for doing good, such as protecting innocents, bringing an evil character to justice (regardless of the justice system’s ﬁnal decision), preventing damage, and saving a life (except the character’s own). Heroic characters lose Fate Points for performing evil actions, such as stealing, maliciously destroying property, taking a life, and other terrible acts, especially if they use Fate Points to accomplish that harm.
 
 Individual ethical codes may differ from the heroic code, but the more well-deﬁned the code is, the easier it is for the Game Master to determine when to reward Fate Points — and when to take them away.
 
-When a player feels she needs even greater help for her roll, she may spend a Fate Point to double the number of dice she normally gets for that roll. However, the player only rolls one Wild Die. Furthermore, anything that’s not part of the character — weapon damage die codes, equipment bonuses, and so on — is not doubled.
+When a player feels she needs even greater help for her roll, she may spend a Fate Point to double the number of dice she normally gets for that roll.
+However, the player only rolls one Wild Die.
+Furthermore, anything that’s not part of the character — weapon damage die codes, equipment bonuses, and so on — is not doubled.
 
-Example: Your character has a demolitions skill with a die code of 4D+2. Normally, you would roll three regular dice and one Wild Die and add two pips to the total. But this time, you want to make sure the villain’s car doesn’t ever move, so you spend a Fate Point. This allows you to roll seven regular dice and one Wild Die and add four pips to the total (for a total of 8D+4, or twice what you’d normally roll).
+Example: Your character has a demolitions skill with a die code of 4D+2.
+Normally, you would roll three regular dice and one Wild Die and add two pips to the total.
+But this time, you want to make sure the villain’s car doesn’t ever move, so you spend a Fate Point.
+This allows you to roll seven regular dice and one Wild Die and add four pips to the total (for a total of 8D+4, or twice what you’d normally roll).
 
-Usually, a player may use only one Fate Point per roll per round, though a character may improve several different actions in a round with Fate Points. Particularly beneficial or malicious deeds presented and role played well by the player or Game Master may warrant additional Fate Point expenditures. In the general course of play, a Fate Point is useful for one roll only. However, once per game session, a player may choose to spend a Fate Point climactically, which doubles all of the character’s rolls for that round. The Game Master also may allow players to spend Fate Point climactically several times during the highest point of the adventure (the climax), even if it takes place over multiple game sessions.
+Usually, a player may use only one Fate Point per roll per round, though a character may improve several different actions in a round with Fate Points.
+Particularly beneficial or malicious deeds presented and role played well by the player or Game Master may warrant additional Fate Point expenditures.
+In the general course of play, a Fate Point is useful for one roll only.
+However, once per game session, a player may choose to spend a Fate Point climactically, which doubles all of the character’s rolls for that round.
+The Game Master also may allow players to spend Fate Point climactically several times during the highest point of the adventure (the climax), even if it takes place over multiple game sessions.
 
-Players may only spend Fate Points before making a roll. Further-more, double the initial number before applying any die code penalties and bonuses.
+Players may only spend Fate Points before making a roll.
+Further-more, double the initial number before applying any die code penalties and bonuses.
 
-Once used, the character loses the Fate Point — but she may earn it back at the end of the game if it was used for a deed that supported her moral code. However, if the character used a Fate Point to go against her moral code, the Game Master may decide that it costs an additional Fate Point.
+Once used, the character loses the Fate Point — but she may earn it back at the end of the game if it was used for a deed that supported her moral code.
+However, if the character used a Fate Point to go against her moral code, the Game Master may decide that it costs an additional Fate Point.
 
-As characters become more experienced, the Game Master may include further restrictions on Fate Point use. Game Masters might allow moderately experienced characters (those with at least 6D in several skills) to spend Fate Points only on actions that promote the story line, while highly experienced characters (those with at least 9D in several skills) might be permitted to use Fate Points only during climactic moments in the campaign.
+As characters become more experienced, the Game Master may include further restrictions on Fate Point use.
+Game Masters might allow moderately experienced characters (those with at least 6D in several skills) to spend Fate Points only on actions that promote the story line, while highly experienced characters (those with at least 9D in several skills) might be permitted to use Fate Points only during climactic moments in the campaign.
 
 == Game Time
 
-Generally, time in a role playing game doesn’t matter too much. A character may spend several hours searching a library, though only a minute passes as far as the players and Game Master are concerned. To keep the story line moving, sometimes it’s necessary to skip the tedious parts.
+Generally, time in a role playing game doesn’t matter too much.
+A character may spend several hours searching a library, though only a minute passes as far as the players and Game Master are concerned.
+To keep the story line moving, sometimes it’s necessary to skip the tedious parts.
 
-More intense scenes require more detail. In these cases, time slows to units of ﬁve seconds called rounds. Each character may take one action in the round with no penalty. Unless the character has special skills or abilities, additional actions increase the difficulty of performing each task; this concept is dealt with later, in the “Multi-action Penalty” section. Once a round ends, the next one begins, continuing until the scene ends (with the task completed, the opponent subdued, and so on).
+More intense scenes require more detail.
+In these cases, time slows to units of ﬁve seconds called rounds.
+Each character may take one action in the round with no penalty.
+Unless the character has special skills or abilities, additional actions increase the difficulty of performing each task; this concept is dealt with later, in the “Multi-action Penalty” section.
+Once a round ends, the next one begins, continuing until the scene ends (with the task completed, the opponent subdued, and so on).
 
-Since all characters in a scene are making actions in the same ﬁve-second round, the actual length of game time taken up by an action is usually less than ﬁve seconds. This is obviously the case when a single character is performing multiple actions, but it is also true when one character reacts to what another character is doing. Actions in rounds are not simultaneous (actions out of rounds sometimes are).
+Since all characters in a scene are making actions in the same ﬁve-second round, the actual length of game time taken up by an action is usually less than ﬁve seconds.
+This is obviously the case when a single character is performing multiple actions, but it is also true when one character reacts to what another character is doing.
+Actions in rounds are not simultaneous (actions out of rounds sometimes are).
 
 === Initiative
 
-Once rounds have been declared and depending on the situation, the Game Master applies one of three methods to determine in what order everyone goes. Determining initiative does not count as an action.
+Once rounds have been declared and depending on the situation, the Game Master applies one of three methods to determine in what order everyone goes.
+Determining initiative does not count as an action.
 
 ==== Method 1
 
-The ﬁrst method is to allow whoever makes the ﬁrst signiﬁcant action (such as those surprising other characters in an ambush) to act ﬁrst in the rounds. The characters retain the same order until the scene ends.
+The ﬁrst method is to allow whoever makes the ﬁrst signiﬁcant action (such as those surprising other characters in an ambush) to act ﬁrst in the rounds.
+The characters retain the same order until the scene ends.
 
 ==== Methods 2 and 3
 
-The other two ways start out the same, by requiring the characters involved to make Perception rolls to generate initiative totals. The Game Master makes one Perception roll for each character or group of characters he controls, depending on the number and how important each character is to the adventure. The character with the highest roll takes her action ﬁrst. The character with the second highest roll then takes his action, and so on. After the last character performs her action, the round ends and a new one begins. Note that a character rendered unconscious, immobile, or otherwise unable to act loses his action for that round if he hasn’t taken it already.
+The other two ways start out the same, by requiring the characters involved to make Perception rolls to generate initiative totals.
+The Game Master makes one Perception roll for each character or group of characters he controls, depending on the number and how important each character is to the adventure.
+The character with the highest roll takes her action ﬁrst.
+The character with the second highest roll then takes his action, and so on.
+After the last character performs her action, the round ends and a new one begins.
+Note that a character rendered unconscious, immobile, or otherwise unable to act loses his action for that round if he hasn’t taken it already.
 
 The Game Master may chose then to have everyone roll initiative once for the entire scene (the faster method) or roll at the beginning of each round (the more realistic yet slower way).
 
-The Game Master and players may use Character Points, but not Fate Points, to increase their initiative rolls if they want. Spending one Character Point, for example, allows the player or Game Master to add the result of one extra Wild Die roll to the initiative roll.
+The Game Master and players may use Character Points, but not Fate Points, to increase their initiative rolls if they want.
+Spending one Character Point, for example, allows the player or Game Master to add the result of one extra Wild Die roll to the initiative roll.
 
 ==== Ties/No Rolls
 
 In the event of ties, or if the Game Master chooses not to have the players roll to determine initiative, comparing attribute and skill die
 
-codes can decide the order of actions. The character with the highest value in the characteristic goes ﬁrst, and so on. Once a character has a spot in the order, it doesn’t change, regardless of how other characteristics compare. Ties are broken by moving to the next factor and looking at those values. The order: (1) ability or talent that allows the character to go ﬁrst, (2) Perception, (3) search, (4) Reﬂexes, (5) dodge, (6) special equipment or situation that allows the character to go before another character.
+codes can decide the order of actions.
+The character with the highest value in the characteristic goes ﬁrst, and so on.
+Once a character has a spot in the order, it doesn’t change, regardless of how other characteristics compare.
+Ties are broken by moving to the next factor and looking at those values.
+The order: (1) ability or talent that allows the character to go ﬁrst, (2) Perception, (3) search, (4) Reﬂexes, (5) dodge, (6) special equipment or situation that allows the character to go before another character.
 
 ==== Optional Initiative Bonus
 
-For every 2D over the base attribute in search (round down) or 4D in Reﬂexes (round down), a character receives +1 to his initiative roll. Every six ranks in a Skill Bonus or Increased Attribute special ability that affects Reﬂexes or search provides a +1 bonus.
+For every 2D over the base attribute in search (round down) or 4D in Reﬂexes (round down), a character receives +1 to his initiative roll.
+Every six ranks in a Skill Bonus or Increased Attribute special ability that affects Reﬂexes or search provides a +1 bonus.
 
 === Performing Actions in Rounds
 
-A character does not need to declare what she intends to do until her turn comes up in the round. Once the character decides to take her turn, she may use as many actions as she wants, but her player must decide on the total number of actions that the character wishes to take in that round, which is used to ﬁgure the multi-action penalty (see the next section for details). The character does not need to declare when determining the number of actions what she intends to do with all of them.
+A character does not need to declare what she intends to do until her turn comes up in the round.
+Once the character decides to take her turn, she may use as many actions as she wants, but her player must decide on the total number of actions that the character wishes to take in that round, which is used to ﬁgure the multi-action penalty (see the next section for details). The character does not need to declare when determining the number of actions what she intends to do with all of them.
 
-Note that waiting counts as an action (once per each time the character wishes to wait). The character may take no additional actions once the multi-action penalty is ﬁgured. Any actions calculated into the multi-action penalty but that the character did not use by the end of the round are lost.
+Note that waiting counts as an action (once per each time the character wishes to wait). The character may take no additional actions once the multi-action penalty is ﬁgured.
+Any actions calculated into the multi-action penalty but that the character did not use by the end of the round are lost.
 
 A character may take a few actions, wait, take a few more, wait again, and so on, as long as the player has declared a sufficient number of actions in which to do everything she wants her character to do (including waiting).
 
 A character may only interrupt another character’s action if she has waited and after that character has made the skill roll and spent any points but before the Game Master declares the result.
 
-Example: A character surprises a thug. Because she got the jump on him, the Game Master decides the character may act ﬁrst in this round. The character decides to wait and see what the thug will do, choosing to take one other action this turn. The thug takes a swing at her, so the character decides to dodge. If the character has no ability that gives her extra actions, she may take only one action without penalty. She used that one action on waiting. When she makes her dodge roll, it’s at -1D, because it’s the second action she’s taking this round.
+Example: A character surprises a thug.
+Because she got the jump on him, the Game Master decides the character may act ﬁrst in this round.
+The character decides to wait and see what the thug will do, choosing to take one other action this turn.
+The thug takes a swing at her, so the character decides to dodge.
+If the character has no ability that gives her extra actions, she may take only one action without penalty.
+She used that one action on waiting.
+When she makes her dodge roll, it’s at -1D, because it’s the second action she’s taking this round.
 
-Only a few instances exist in which the Game Master may permit a character to “move up” her turn and react to another character’s actions. These include catching a thrown object, resisting certain mental attempts, and other situations that the Game Master deems appropriate. These do take the character’s action, though the player can declare that her character will perform multiple actions in the round. For the most part, having a turn later in the round than another’s simply means that another character could take advantage of the situation faster.
+Only a few instances exist in which the Game Master may permit a character to “move up” her turn and react to another character’s actions.
+These include catching a thrown object, resisting certain mental attempts, and other situations that the Game Master deems appropriate.
+These do take the character’s action, though the player can declare that her character will perform multiple actions in the round.
+For the most part, having a turn later in the round than another’s simply means that another character could take advantage of the situation faster.
 
 ==== Multi-action Penalty
 
-Characters may attempt to perform several tasks in a single round, or, if the action takes longer than one round to complete, in the same minimum time period. The more they try to do, however, the less care and concentration they can apply to each action. It becomes more difficult to succeed at all of the tasks. Thus, for most characters, for each action taken beyond the ﬁrst, the player must subtract 1D from all skill or attribute rolls (but not damage, damage resistance, or initiative rolls). Thus, trying to do four actions in one round gives the character a -3D modiﬁer to each roll. For characters with an ability that increases their base number of actions, the multi-action penalty doesn’t take effect until the character uses up his allotment of actions. For example, if a character with an action allotment of eight per round wants to do nine actions, each of the nine actions is at -1D.
+Characters may attempt to perform several tasks in a single round, or, if the action takes longer than one round to complete, in the same minimum time period.
+The more they try to do, however, the less care and concentration they can apply to each action.
+It becomes more difficult to succeed at all of the tasks.
+Thus, for most characters, for each action taken beyond the ﬁrst, the player must subtract 1D from all skill or attribute rolls (but not damage, damage resistance, or initiative rolls). Thus, trying to do four actions in one round gives the character a -3D modiﬁer to each roll.
+For characters with an ability that increases their base number of actions, the multi-action penalty doesn’t take effect until the character uses up his allotment of actions.
+For example, if a character with an action allotment of eight per round wants to do nine actions, each of the nine actions is at -1D.
 
-Only equipment and weapons suited for quick multiple actions may be used several times (up to the limit of their capabilities) in a round. Some examples include semi-automatic guns or items with little or no reload time, like hands or small melee weapons.
+Only equipment and weapons suited for quick multiple actions may be used several times (up to the limit of their capabilities) in a round.
+Some examples include semi-automatic guns or items with little or no reload time, like hands or small melee weapons.
 
 A character may not rely on any skill or attribute reduced to zero.
 
 === Actions that Take Time
 
-Each entry on this nonexhaustive list counts as one action taking no more than ﬁve seconds to perform. The Game Master may decide that certain types of actions offer a bonus or special effect and, thus, have requirements to perform. The suggested skill to use with each action is included at the end of the task’s description.
+Each entry on this nonexhaustive list counts as one action taking no more than ﬁve seconds to perform.
+The Game Master may decide that certain types of actions offer a bonus or special effect and, thus, have requirements to perform.
+The suggested skill to use with each action is included at the end of the task’s description.
 
-*Bash*: Hit an opponent with a blunt weapon. (melee combat)
+*Bash*: Hit an opponent with a blunt weapon.
+(melee combat)
 
-*Catch:* Stop the movement of a thrown or dropped object or person. (The catcher must act later in the round than the person doing the throwing or dropping. This is one of the few cases where a character may “move up” his turn.) (throwing)
+*Catch:* Stop the movement of a thrown or dropped object or person.
+(The catcher must act later in the round than the person doing the throwing or dropping.
+This is one of the few cases where a character may “move up” his turn.) (throwing)
 
-*Choke:* Grab a person’s neck and gripping tightly. (brawling)
+*Choke:* Grab a person’s neck and gripping tightly.
+(brawling)
 
 *Communicate:* Relay plans or exchange complex ideas and information with other characters (more than a few words or one sentence). (an interaction skill or only roleplaying)
 
-*Disarm:* Remove an object from an opponent’s hand. This action is treated as a called shot. (brawling, marksmanship, melee combat, missile weapons, throwing)
+*Disarm:* Remove an object from an opponent’s hand.
+This action is treated as a called shot.
+(brawling, marksmanship, melee combat, missile weapons, throwing)
 
-*Dodge:* Actively evade an attack. (dodge)
+*Dodge:* Actively evade an attack.
+(dodge)
 
-*Entangle:* Throw an entangling weapon at an opponent. (throw-ing)
+*Entangle:* Throw an entangling weapon at an opponent.
+(throw-ing)
 
-*Escape:* Break a hold. (lifting)
+*Escape:* Break a hold.
+(lifting)
 
-*Grab:* Latch onto an opponent. Depending on where the opponent was grabbed, he can take other actions. (brawling)
+*Grab:* Latch onto an opponent.
+Depending on where the opponent was grabbed, he can take other actions.
+(brawling)
 
-*Kick:* Strike out at an opponent with a foot. (brawling)
+*Kick:* Strike out at an opponent with a foot.
+(brawling)
 
-*Leap*: Jump over an opponent or onto a table or any other such maneuver. (jumping)
+*Leap*: Jump over an opponent or onto a table or any other such maneuver.
+(jumping)
 
-*Lunge*: Stab forward with a pointed weapon, such as a sword or a knife. (melee combat)
+*Lunge*: Stab forward with a pointed weapon, such as a sword or a knife.
+(melee combat)
 
-*Move:* Maneuver 51% of the character’s Move or more around the area. The Game Master should call only for a roll if the terrain is challenging or the maneuvering complex. During some rounds, the Game Master may decide that existing factors dictate all movement, regardless of length, require an action. (running, swimming)
+*Move:* Maneuver 51% of the character’s Move or more around the area.
+The Game Master should call only for a roll if the terrain is challenging or the maneuvering complex.
+During some rounds, the Game Master may decide that existing factors dictate all movement, regardless of length, require an action.
+(running, swimming)
 
-*Parry:* Block an opponent’s blow. (brawling, melee combat)
+*Parry:* Block an opponent’s blow.
+(brawling, melee combat)
 
-*Pin:* Trap an opponent by either holding him to the ground or tacking a piece of his clothing to a wall or other nearby object. When pinning the whole opponent, this is the same concept as tackling. Pinning prevents the victim from using the fastened part. (brawling, melee combat, missile weapons, throwing)
+*Pin:* Trap an opponent by either holding him to the ground or tacking a piece of his clothing to a wall or other nearby object.
+When pinning the whole opponent, this is the same concept as tackling.
+Pinning prevents the victim from using the fastened part.
+(brawling, melee combat, missile weapons, throwing)
 
-*Punch:* Strike out at an opponent with a ﬁst. (brawling)
+*Punch:* Strike out at an opponent with a ﬁst.
+(brawling)
 
-*Push:* Forcibly move an opponent. (brawling)
+*Push:* Forcibly move an opponent.
+(brawling)
 
-*Ready a* *Weapon:* Draw or reload a gun or bow, unsheathe a knife, and similar actions. This generally does not require a skill roll, but the Game Master may chose to require one related to the weapon in question for particularly stressful situations.
+*Ready a* *Weapon:* Draw or reload a gun or bow, unsheathe a knife, and similar actions.
+This generally does not require a skill roll, but the Game Master may chose to require one related to the weapon in question for particularly stressful situations.
 
-*Run* *Away:* Flee from the scene. (running)
+*Run* *Away:* Flee from the scene.
+(running)
 
-*Shoot:* Fire a missile or projectile weapon. (marksmanship, missile weapons)
+*Shoot:* Fire a missile or projectile weapon.
+(marksmanship, missile weapons)
 
-*Slash:* Swing an edged weapon. (melee combat)
+*Slash:* Swing an edged weapon.
+(melee combat)
 
-*Switch a Weapon or Equipment’s Setting:* Although rare, some weapons and equipment have more than one damage or effect setting. It takes an action to change the setting. This generally does not require a skill roll, but the Game Master may chose to require one related to the item in question for particularly stressful situations.
+*Switch a Weapon or Equipment’s Setting:* Although rare, some weapons and equipment have more than one damage or effect setting.
+It takes an action to change the setting.
+This generally does not require a skill roll, but the Game Master may chose to require one related to the item in question for particularly stressful situations.
 
-*Tackle:* Bodily overcome an opponent. Once tackled, the opponent can do no other physical actions other than speak or attempt to break the attacker’s grip. (brawling)
+*Tackle:* Bodily overcome an opponent.
+Once tackled, the opponent can do no other physical actions other than speak or attempt to break the attacker’s grip.
+(brawling)
 
-*Throw a Weapon or Object:* Toss something at an opponent. (throwing)
+*Throw a Weapon or Object:* Toss something at an opponent.
+(throwing)
 
-*Trip:* Quickly force one or both of an opponent’s legs upward. (brawling)
+*Trip:* Quickly force one or both of an opponent’s legs upward.
+(brawling)
 
-*Use a Skill or Ability:* Perform a quick action related to a special ability the character possesses or a skill he wants to use. A character may not use a special ability he does not have, though he may use a skill he has no experience in (possibly at a penalty). Note that some skills and special abilities take longer than one action or one round to perform, so trying to do them in ﬁve seconds incurs penalties.
+*Use a Skill or Ability:* Perform a quick action related to a special ability the character possesses or a skill he wants to use.
+A character may not use a special ability he does not have, though he may use a skill he has no experience in (possibly at a penalty). Note that some skills and special abilities take longer than one action or one round to perform, so trying to do them in ﬁve seconds incurs penalties.
 
-*Vehicle* *Maneuver:* Perform a stunt in a moving vehicle. (piloting)
+*Vehicle* *Maneuver:* Perform a stunt in a moving vehicle.
+(piloting)
 
-*Waiting:* Watch for a better opportunity to perform an action. This does not require a skill roll, but it does take concentration.
+*Waiting:* Watch for a better opportunity to perform an action.
+This does not require a skill roll, but it does take concentration.
 
 === Free Actions
 
-Free actions are anything a character can automatically perform except under the most extreme conditions. They don’t require a skill roll or much effort. If the Game Master thinks a task requires concentration (and has a possibility of failure, thus requiring a skill roll), it’s not a free action.
+Free actions are anything a character can automatically perform except under the most extreme conditions.
+They don’t require a skill roll or much effort.
+If the Game Master thinks a task requires concentration (and has a possibility of failure, thus requiring a skill roll), it’s not a free action.
 
 A few examples of free actions include:
 
@@ -203,4 +322,7 @@ Additionally, the following player actions do not count as character actions:
 
 === Groups
 
-To save time, Game Masters may chose to roll one action for a group of characters he controls. Any number can belong to the group. Each member of the group does not have to perform exactly the same maneuver, but they do need to take similar actions. A Game Master could make one roll for a pack of wolves who attack different characters, but he would have to separate the pack into those attacking and those circling if the Game Master wanted to have them perform those distinctly different activities.
+To save time, Game Masters may chose to roll one action for a group of characters he controls.
+Any number can belong to the group.
+Each member of the group does not have to perform exactly the same maneuver, but they do need to take similar actions.
+A Game Master could make one roll for a pack of wolves who attack different characters, but he would have to separate the pack into those attacking and those circling if the Game Master wanted to have them perform those distinctly different activities.

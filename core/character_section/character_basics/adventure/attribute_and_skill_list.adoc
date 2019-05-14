@@ -20,7 +20,8 @@ The following six attributes are Normal attributes for an adventure setting with
 
 *Reflexes*
 
-*acrobatics:* Performing feats of gymnastics, extraordinary balance, and dance (and related performance arts), as well as break falls. Useful for running obstacle courses or doing water ballet.
+*acrobatics:* Performing feats of gymnastics, extraordinary balance, and dance (and related performance arts), as well as break falls.
+Useful for running obstacle courses or doing water ballet.
 
 *brawling:* Competence in unarmed combat.
 
@@ -44,7 +45,8 @@ The following six attributes are Normal attributes for an adventure setting with
 
 *lockpicking:* Opening a mechanical (not electronic) lock or safe without possessing the key or combination, as well as disarming small mechanical traps.
 
-*marksmanship:* Shooting guns of any type. Covers everything from small slugthrowers to vehicle-mounted rockets.
+*marksmanship:* Shooting guns of any type.
+Covers everything from small slugthrowers to vehicle-mounted rockets.
 
 *missile* *weapons:* Firing unpowered ranged weapons.
 
@@ -52,7 +54,9 @@ The following six attributes are Normal attributes for an adventure setting with
 
 *sleight* *of* *hand:* Nimbleness with the fingers and misdirection, including picking pockets, palming items, and stage magic.
 
-*throwing:* Hitting a target accurately with a thrown item, including grenades, stones, and knives. Also used for catching thrown items. (Using or modifying grenades as explosives for special destructive effects requires the demolitions skill.)
+*throwing:* Hitting a target accurately with a thrown item, including grenades, stones, and knives.
+Also used for catching thrown items.
+(Using or modifying grenades as explosives for special destructive effects requires the demolitions skill.)
 
 *Physique*
 
@@ -66,19 +70,27 @@ The following six attributes are Normal attributes for an adventure setting with
 
 *Knowledge*
 
-*business:* Comprehension of business practices and the monetary value of goods and opportunities, including the ability to determine how to make money with another skill the character has. Business can complement charm, con, and persuasion when haggling over prices for goods and services being bought or sold.
+*business:* Comprehension of business practices and the monetary value of goods and opportunities, including the ability to determine how to make money with another skill the character has.
+Business can complement charm, con, and persuasion when haggling over prices for goods and services being bought or sold.
 
 *demolitions:* Using corrosives and explosives to achieve particular destructive effects.
 
 *forgery:* Creating and noticing false or altered documentation in various media (paper, electronic, plastic card, etc.), including counterfeiting, though tasks may require other skills to help detect or make the forgery.
 
-*languages:* Familiarity with and ability to use various forms of communication, including written, spoken, and nonverbal. Characters may choose one “native” language in which they have written and spoken fluency. Additional languages in which a character has proficiency can be represented by specializations of this skill.
+*languages:* Familiarity with and ability to use various forms of communication, including written, spoken, and nonverbal.
+Characters may choose one “native” language in which they have written and spoken fluency.
+Additional languages in which a character has proficiency can be represented by specializations of this skill.
 
 *medicine:* Using first aid techniques to treat injuries, as well as an understanding and application of medical procedures, including diagnosing illnesses and performing surgery.
 
 *navigation:* Determining the correct course using external reference points, such as stars, maps, or landmarks, as well as creating maps.
 
-*scholar:* This skill represents knowledge and/or education in areas not covered under any other skill (such as chemistry, mathematics, archeology, interior design, etc.). This may be restricted to a specific field (represented by specializations) or a general knowledge of a wide range of subjects. It is used to remember details, rumors, tales, legends, theories, important people, and the like, as appropriate for the subject in question. However, the broader the category, the fewer the details that can be recalled. It covers what the character himself can recall. Having another skill as a specialization of the scholar skill means that the character knows the theories and history behind the skill but can’t actually use it. It can be useful with investigation to narrow a search for information.
+*scholar:* This skill represents knowledge and/or education in areas not covered under any other skill (such as chemistry, mathematics, archeology, interior design, etc.). This may be restricted to a specific field (represented by specializations) or a general knowledge of a wide range of subjects.
+It is used to remember details, rumors, tales, legends, theories, important people, and the like, as appropriate for the subject in question.
+However, the broader the category, the fewer the details that can be recalled.
+It covers what the character himself can recall.
+Having another skill as a specialization of the scholar skill means that the character knows the theories and history behind the skill but can’t actually use it.
+It can be useful with investigation to narrow a search for information.
 
 *security:* Installing, altering, and bypassing electronic security and surveillance systems.
 
@@ -98,7 +110,8 @@ The following six attributes are Normal attributes for an adventure setting with
 
 *repair:* Creating, fixing, or modifying gadgets, weapons, armor, and vehicles.
 
-*search:* Spotting hidden objects or people, reconnoitering, lipreading, or eavesdropping on or watching another person.streetwise: Finding information, goods, and contacts in an urban environment, particularly through criminal organizations, black markets, and other illicit operations. Also useful for determining possible motives and methods of criminals.
+*search:* Spotting hidden objects or people, reconnoitering, lipreading, or eavesdropping on or watching another person.streetwise: Finding information, goods, and contacts in an urban environment, particularly through criminal organizations, black markets, and other illicit operations.
+Also useful for determining possible motives and methods of criminals.
 
 *survival:* Surviving in wilderness environments.
 
@@ -108,19 +121,24 @@ The following six attributes are Normal attributes for an adventure setting with
 
 *animal* *handling:* Controlling animals and making them perform tricks and follow commands.
 
-*charm:* Using friendliness, flattery, or seduction to influence someone else. Also useful in business transactions, putting on performances (such as singing, acting, or storytelling), and situations involving etiquette.
+*charm:* Using friendliness, flattery, or seduction to influence someone else.
+Also useful in business transactions, putting on performances (such as singing, acting, or storytelling), and situations involving etiquette.
 
 *command*: Effectively ordering and coordinating others in team situations.
 
-*con:* Bluffing, lying, tricking, or deceiving others, as well as verbal evasiveness, misdirection, and blustering. Also useful in putting on acting performances.
+*con:* Bluffing, lying, tricking, or deceiving others, as well as verbal evasiveness, misdirection, and blustering.
+Also useful in putting on acting performances.
 
-*disguise:* Altering features or clothing to be unrecognizable or to look like someone else. Also useful in acting performances.
+*disguise:* Altering features or clothing to be unrecognizable or to look like someone else.
+Also useful in acting performances.
 
 *intimidation:* Using physical presence, verbal threats, taunts, torture, or fear to influence others or get information out of them.
 
-*persuasion:* Influencing others or getting information out of them through bribery, honest discussion, debate, diplomacy, or speeches. Also useful in negotiations, business transactions, and put-ting on performances (such as singing, acting, or storytelling).
+*persuasion:* Influencing others or getting information out of them through bribery, honest discussion, debate, diplomacy, or speeches.
+Also useful in negotiations, business transactions, and put-ting on performances (such as singing, acting, or storytelling).
 
-*willpower:* Ability to withstand stress, temptation, other people’s interaction attempts, mental attacks, and pain. The Game Master may allow a specialization in a specific faith tradition or belief system to enhance many, though not all, applications of willpower.
+*willpower:* Ability to withstand stress, temptation, other people’s interaction attempts, mental attacks, and pain.
+The Game Master may allow a specialization in a specific faith tradition or belief system to enhance many, though not all, applications of willpower.
 
 === Extranormal
 

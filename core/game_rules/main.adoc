@@ -2,25 +2,44 @@
 
 === What’s in this Section
 
-This section defines how to play the game, from rolling the dice to using skills. The basic unit of game time, order of play, and what players can have their characters do on a turn are explained. Suggestions for determining the difficulty of actions are offered, including some examples.
+This section defines how to play the game, from rolling the dice to using skills.
+The basic unit of game time, order of play, and what players can have their characters do on a turn are explained.
+Suggestions for determining the difficulty of actions are offered, including some examples.
 
-The introduction offered an overview of how the game works, so some of this may look familiar. However, this chapter clarifies a lot of special situations that will undoubtedly come up during play.
+The introduction offered an overview of how the game works, so some of this may look familiar.
+However, this chapter clarifies a lot of special situations that will undoubtedly come up during play.
 
 === Making Actions
 
-Each player has a character with attributes and skills that describe how well that character can perform various actions. Attributes represent a character’s innate abilities, while skills are specific applications of those abilities.
+Each player has a character with attributes and skills that describe how well that character can perform various actions.
+Attributes represent a character’s innate abilities, while skills are specific applications of those abilities.
 
-Most game mechanics in _OpenD6_ involve rolling some six-sided dice. A die code associated with each attribute and skill represents how good the character is in that area. A die code associated with a weapon shows how much harm it can cause. The larger the number, the more experienced, trained, or naturally adept your character is, or the more deadly the weapon, or the more useful the equipment.
+Most game mechanics in _OpenD6_ involve rolling some six-sided dice.
+A die code associated with each attribute and skill represents how good the character is in that area.
+A die code associated with a weapon shows how much harm it can cause.
+The larger the number, the more experienced, trained, or naturally adept your character is, or the more deadly the weapon, or the more useful the equipment.
 
 Each die code indicates the number of six-sided dice you roll when you want your character to do something (1D, 2D, 3D, 4D, 5D, etc.), and sometimes an added bonus (called pips) of “+1” or “+2” you add to the total result you roll on the dice.
 
 _Example:_ If your character’s _Physique_ attribute is 3D+1, when you have her try to lift a cargo container, you would roll three dice and add 1 to the total to get her result.
 
-To represent the randomness of life (and the tons of little modifiers that go along with it), every time you roll dice, make sure that one of them is of a different color than the others. This special die is the Wild Die, and it can have some interesting effects on your dice total. (If you only have one die to roll, then that die is the Wild Die.)
+To represent the randomness of life (and the tons of little modifiers that go along with it), every time you roll dice, make sure that one of them is of a different color than the others.
+This special die is the Wild Die, and it can have some interesting effects on your dice total.
+(If you only have one die to roll, then that die is the Wild Die.)
 
-If the Wild Die comes up as a 2, 3, 4, or 5, add the result to the other dice normally. If the Wild Die comes up as a 6, this is a Critical Success. Add the 6 to your other dice results and roll the Wild Die again. As long as you roll a 6, you keep adding the 6 and you keep rolling. If you roll anything else, you add that number to the total and stop rolling. If the Wild Die comes up as a 1 on the first roll, this is a Critical Failure. Tell the Game Master, who will let you know whether or not to add it to your total.
+If the Wild Die comes up as a 2, 3, 4, or 5, add the result to the other dice normally.
+If the Wild Die comes up as a 6, this is a Critical Success.
+Add the 6 to your other dice results and roll the Wild Die again.
+As long as you roll a 6, you keep adding the 6 and you keep rolling.
+If you roll anything else, you add that number to the total and stop rolling.
+If the Wild Die comes up as a 1 on the first roll, this is a Critical Failure.
+Tell the Game Master, who will let you know whether or not to add it to your total.
 
-The higher you roll, the better your character accomplishes the task at hand. When your character tries doing something, the Game Master decides on the required skill and a difficulty based on the task’s complexity. The Game Master doesn’t usually tell you the difficulty number you need to equal or beat to succeed. He often won’t inform you which tasks are easier and which are harder, though he might give you hints. (“Hmmm, catching your grappling hook around that small outcropping is going to be pretty hard.…”) The Game Master then uses the rules to interpret the die roll and determine the results of the action.
+The higher you roll, the better your character accomplishes the task at hand.
+When your character tries doing something, the Game Master decides on the required skill and a difficulty based on the task’s complexity.
+The Game Master doesn’t usually tell you the difficulty number you need to equal or beat to succeed.
+He often won’t inform you which tasks are easier and which are harder, though he might give you hints.
+(“Hmmm, catching your grappling hook around that small outcropping is going to be pretty hard.…”) The Game Master then uses the rules to interpret the die roll and determine the results of the action.
 
 === Taking Damage
 
@@ -28,17 +47,26 @@ To describe how much injury a character can sustain, the Game Master decides on 
 
 With the Body Points system, each character has a certain number of Body Points (which are figured out when you create your character). You subtract the amount of damage the attacker rolls for his weapon from the total number of Body Points your character has.
 
-With the Wounds system, each character has a certain number of Wounds. You roll your character’s Physique while the attacker rolls damage. Compare the difference between the damage and the Physique roll on the Wounds level chart; the chart lets you know how many Wounds your character gets from the attack.
+With the Wounds system, each character has a certain number of Wounds.
+You roll your character’s Physique while the attacker rolls damage.
+Compare the difference between the damage and the Physique roll on the Wounds level chart; the chart lets you know how many Wounds your character gets from the attack.
 
 In either system, when your character has no more Body Points or Wounds left, she’s toast.
 
 === *Improving Rolls*
 
-In addition to scores for a character’s attributes and skills, she has Fate Points and Character Points. You can spend these points in particularly difficult and heroic situations.
+In addition to scores for a character’s attributes and skills, she has Fate Points and Character Points.
+You can spend these points in particularly difficult and heroic situations.
 
-When you spend a Character Point, you get to roll one extra die when you character tries to complete a task. You may choose to spend a Character Point after you’ve made a roll (in case you want to improve your result). When you spend a Fate Point, that means your character is using all of her concentration to try to succeed. You may spend a Fate Point only before any die rolls are made. Doing so doubles the number of dice you’d normally roll, usually for one round and one action only, though the Game Master may allow players to spend more Fate Points in particularly challenging moments. This allows the character to do one action really well.
+When you spend a Character Point, you get to roll one extra die when you character tries to complete a task.
+You may choose to spend a Character Point after you’ve made a roll (in case you want to improve your result). When you spend a Fate Point, that means your character is using all of her concentration to try to succeed.
+You may spend a Fate Point only before any die rolls are made.
+Doing so doubles the number of dice you’d normally roll, usually for one round and one action only, though the Game Master may allow players to spend more Fate Points in particularly challenging moments.
+This allows the character to do one action really well.
 
-Once a Character Point or Fate Point is used, it’s gone. You gain more Character Points at the end of a game for completing goals and playing well. You may get back Fate Points at the end of the game if they were used at a brave, heroic, or climactic moment.
+Once a Character Point or Fate Point is used, it’s gone.
+You gain more Character Points at the end of a game for completing goals and playing well.
+You may get back Fate Points at the end of the game if they were used at a brave, heroic, or climactic moment.
 
 
 :leveloffset: +1

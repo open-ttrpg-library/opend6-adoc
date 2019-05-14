@@ -1,6 +1,8 @@
 = Spells
 
-This chapter offers a sampling of spells created with the spelldesign system in the previous chapter. Use them as is, or be inspired by them in making new spells. See “Characteristics of a Spell” for details on how to read the spell listings.
+This chapter offers a sampling of spells created with the spelldesign system in the previous chapter.
+Use them as is, or be inspired by them in making new spells.
+See “Characteristics of a Spell” for details on how to read the spell listings.
 
 All spells were designed with a starting Spell Total of zero, so basic and additional aspects were added to the effect’s value.
 
@@ -52,7 +54,8 @@ Unreal Effect (-9): Difficulty to disbelieve is 13
 
 Other Conditions (-2): May only be used on humanoids who understand the caster’s language and can hear the caster
 
-With a smile and a friendly gesture, the caster improves his charm skill by for one minute. (If he no charm skill, add the bonus to the character’s Charisma attribute.) As this is an illusory spell, if the intended target of the charm disbelieves it, any effect the charm attempt had wears off immediately.
+With a smile and a friendly gesture, the caster improves his charm skill by for one minute.
+(If he no charm skill, add the bonus to the character’s Charisma attribute.) As this is an illusory spell, if the intended target of the charm disbelieves it, any effect the charm attempt had wears off immediately.
 
 ==== Heighten Attribute (Template)
 
@@ -76,7 +79,8 @@ Gesture (-3): Mime an activity using a skill that falls under the attribute to b
 
 This cantrip gives the target a bonus of +1D to one of his attributes for 25 seconds, or five rounds — as long as he doesn’t move more than a meter from the spot on which he received the bonus.
 
-Note that this is only a template for a spell and not an actual spell, because it does not indicate in the description which attribute is affected. The caster must specify which attribute and skill to mime before learning the spell (which takes one round).
+Note that this is only a template for a spell and not an actual spell, because it does not indicate in the description which attribute is affected.
+The caster must specify which attribute and skill to mime before learning the spell (which takes one round).
 
 ==== Meal
 
@@ -130,7 +134,10 @@ Incantation (-2): “Open, Lock, and reveal your secrets.” (sentence)
 
 Other Conditions (-1): Physical contact with lock
 
-To cast this cantrip, the mage touches the lock with one hand while, with the key held in it, miming opening the lock with the other hand. After reciting the incantation, he touches the lock with the key and turns the key. If the spell effect’s value is equal to or greater than the difficulty of the lock, it opens. If there are any traps or wards on the lock, they are not circumvented by this spell! Note that this spell works on any kind of mechanical lock.
+To cast this cantrip, the mage touches the lock with one hand while, with the key held in it, miming opening the lock with the other hand.
+After reciting the incantation, he touches the lock with the key and turns the key.
+If the spell effect’s value is equal to or greater than the difficulty of the lock, it opens.
+If there are any traps or wards on the lock, they are not circumvented by this spell! Note that this spell works on any kind of mechanical lock.
 
 === Alteration Spells
 
@@ -160,7 +167,9 @@ Incantation (-3): “Your hold is broken!” (sentence, said loudly)
 
 Other Conditions (-4): One spell, which the caster must specify when casting this spell
 
-The caster concentrates on the spell he wishes to counter, waving his hand and shouting the required incantation. The effect’s value plus the result points bonus are compared to the skill total used to create the targeted spell. If the countermagic number is equal to or higher than the target spell’s skill total, the spell is broken.
+The caster concentrates on the spell he wishes to counter, waving his hand and shouting the required incantation.
+The effect’s value plus the result points bonus are compared to the skill total used to create the targeted spell.
+If the countermagic number is equal to or higher than the target spell’s skill total, the spell is broken.
 
 ==== Countermagic Ward
 
@@ -190,7 +199,12 @@ Gesture (-1): Wave hand through air as if wiping away something (simple)
 
 Incantation (-3): “Let no spell touch me!” (sentence, said loudly)
 
-Similar to the countermagic spell, this spell gives the target a general protection against spells. It is triggered by a spell “hitting” the target. Up to six spells can be countered in this fashion. The effect’s value plus result points bonus are compared to the skill total used to create the targeted spell. If the countermagic ward number is equal to or higher than the target spell’s skill total, the spell is broken. Regardless of the success of the ward, one charge is lost.
+Similar to the countermagic spell, this spell gives the target a general protection against spells.
+It is triggered by a spell “hitting” the target.
+Up to six spells can be countered in this fashion.
+The effect’s value plus result points bonus are compared to the skill total used to create the targeted spell.
+If the countermagic ward number is equal to or higher than the target spell’s skill total, the spell is broken.
+Regardless of the success of the ward, one charge is lost.
 
 ==== Deadly Bullet
 
@@ -222,9 +236,15 @@ Incantation (-1): “Darkness of death.” (a few words)
 
 Variable Movement (+4): +2 accuracy bonus
 
-This spell uses a piece of black obsidian to increase the deadliness of a bullet. The mage utters a short, dark phrase while gently stroking the tip of the bullet across the stone. The darkness travels into the bullet, draining the stone of its pigment.
+This spell uses a piece of black obsidian to increase the deadliness of a bullet.
+The mage utters a short, dark phrase while gently stroking the tip of the bullet across the stone.
+The darkness travels into the bullet, draining the stone of its pigment.
 
-To release the spell, the caster inserts it into an appropriate gun within five rounds of casting the spell. The gun’s user must generate an marksmanship total, adding a +2 bonus for the increased accuracy of the spell, against the combat difficulty for the target. The target must be within range of the spell, or the bullet merely does its normal effect. The target takes an additional 4D in damage in the round the bullet hits and for the next four rounds. The spell ends if the target moves beyond the spell’s range.
+To release the spell, the caster inserts it into an appropriate gun within five rounds of casting the spell.
+The gun’s user must generate an marksmanship total, adding a +2 bonus for the increased accuracy of the spell, against the combat difficulty for the target.
+The target must be within range of the spell, or the bullet merely does its normal effect.
+The target takes an additional 4D in damage in the round the bullet hits and for the next four rounds.
+The spell ends if the target moves beyond the spell’s range.
 
 ==== Deadly Dart
 
@@ -258,9 +278,15 @@ Incantation (-1): “Darkness of death.” (a few words)
 
 Variable Movement (+4): +2 accuracy bonus
 
-This spell uses a piece of black obsidian to increase the deadliness of a dart. The mage utters a short, dark phrase while gently stroking the tip of the dart across the stone. The darkness travels into the dart, draining the stone of its pigment.
+This spell uses a piece of black obsidian to increase the deadliness of a dart.
+The mage utters a short, dark phrase while gently stroking the tip of the dart across the stone.
+The darkness travels into the dart, draining the stone of its pigment.
 
-To release the spell, the caster throws the dart within five rounds of casting the spell. He generate an marksmanship total, adding a +2 bonus for the increased accuracy of the spell, against the combat difficulty for the target. The target must be within range of the spell, or the dart merely does its normal effect. The target takes an additional 4D in damage in the round the dart hits and for the next four rounds. The spell ends if the target moves beyond the spell’s range.
+To release the spell, the caster throws the dart within five rounds of casting the spell.
+He generate an marksmanship total, adding a +2 bonus for the increased accuracy of the spell, against the combat difficulty for the target.
+The target must be within range of the spell, or the dart merely does its normal effect.
+The target takes an additional 4D in damage in the round the dart hits and for the next four rounds.
+The spell ends if the target moves beyond the spell’s range.
 
 ==== Drain Toughness
 
@@ -286,11 +312,19 @@ Gesture (-1): Pick up an item and pull it closer (simple)
 
 Incantation (-2): “Weaken and perish before my hand.” (sentence)
 
-Caster focuses magical energies into a funnel, with the large end facing the target. When activated, the funnel pulls energy from the target, and sends it to the source of the spell. The spell itself is not visible, but it can be felt. It requires a marksmanship roll to focus on a target.
+Caster focuses magical energies into a funnel, with the large end facing the target.
+When activated, the funnel pulls energy from the target, and sends it to the source of the spell.
+The spell itself is not visible, but it can be felt.
+It requires a marksmanship roll to focus on a target.
 
-Compare the spell effect’s value to a roll of the target’s Physique. Multiply the difference by 3. This is the target’s negative damage resistance total modifier. If this number is greater than 3 times the die code in the target’s Physique (ignore the pips), the target is unconscious for eight hours. The negative modifier vanishes after one minute.
+Compare the spell effect’s value to a roll of the target’s Physique.
+Multiply the difference by 3.
+This is the target’s negative damage resistance total modifier.
+If this number is greater than 3 times the die code in the target’s Physique (ignore the pips), the target is unconscious for eight hours.
+The negative modifier vanishes after one minute.
 
-The caster receives one-half (rounded up) of the negative damage resistance total modifier as a positive modifier to her damage resistance. When the spell wears off after one minute, the resistance total bonus goes with it.
+The caster receives one-half (rounded up) of the negative damage resistance total modifier as a positive modifier to her damage resistance.
+When the spell wears off after one minute, the resistance total bonus goes with it.
 
 ==== Fear
 
@@ -318,7 +352,10 @@ Incantation (-1): Frightening words (a few words)
 
 Unreal Effect (-8): Difficulty to disbelieve is 13
 
-To cast the spell, the mage first needs something belonging to her target — his comb, his watch, a lock of his hair. Mutter a few words of power, point the item at the target, and watch the fun. This spell gives the caster an intimidation skill bonus of +6D+2, but only towards that target. The target may disbelieve it with a Charisma or mettle roll of 13.
+To cast the spell, the mage first needs something belonging to her target — his comb, his watch, a lock of his hair.
+Mutter a few words of power, point the item at the target, and watch the fun.
+This spell gives the caster an intimidation skill bonus of +6D+2, but only towards that target.
+The target may disbelieve it with a Charisma or mettle roll of 13.
 
 ==== Water Spray
 
@@ -340,7 +377,12 @@ Other Aspects:
 
 Components (-6): Liter of water (ordinary, destroyed), squeezable container (uncommon)
 
-The mage needs a liter of water in a container that she can squeeze to produce a spray. As she casts the spell, the mage squirts the water onto her hand, letting it run off in the direction of her target. The volume and force behind the water spray increases dramatically. The spray lasts for three rounds of combat. The spell does 4D in damage per round and requires a marksmanship roll each round to hit the target. The caster may only select one target per spell duration.
+The mage needs a liter of water in a container that she can squeeze to produce a spray.
+As she casts the spell, the mage squirts the water onto her hand, letting it run off in the direction of her target.
+The volume and force behind the water spray increases dramatically.
+The spray lasts for three rounds of combat.
+The spell does 4D in damage per round and requires a marksmanship roll each round to hit the target.
+The caster may only select one target per spell duration.
 
 === Apportation Spells
 
@@ -372,9 +414,11 @@ Variable Effect (+5): Caster may increase effect’s value by up to 5 points on 
 
 Other Alterant (+1): At time of casting, mage may choose to speed up or slow down target (small)
 
-The caster makes her target either hurry up or slow down, depending on how she words her command. The target’s movement is altered by the measure of the spell effect’s value plus any result points bonus (as read on the “Spell Measures” chart).
+The caster makes her target either hurry up or slow down, depending on how she words her command.
+The target’s movement is altered by the measure of the spell effect’s value plus any result points bonus (as read on the “Spell Measures” chart).
 
-Example: A magic user casts the alter movement spell to slow down a charging bull. At casting time, he decided to use the spell effect’s value plus the full variable amount, for a minimum change value of 9, or 60 meters per second (12 meters per round). If his skill total was one point over the difficulty, the new change value would be 10, or 100 meters per second (10 meters per round). This rate would then be subtracted from the bull’s current movement rate, causing the raging animal to come to a complete and shockingly sudden stop.
+Example: A magic user casts the alter movement spell to slow down a charging bull.
+At casting time, he decided to use the spell effect’s value plus the full variable amount, for a minimum change value of 9, or 60 meters per second (12 meters per round). If his skill total was one point over the difficulty, the new change value would be 10, or 100 meters per second (10 meters per round). This rate would then be subtracted from the bull’s current movement rate, causing the raging animal to come to a complete and shockingly sudden stop.
 
 ==== Carrying Wind
 
@@ -408,9 +452,13 @@ Incantation (-2): “I subdue you and I command you, O wind!” (sentence)
 
 Variable Movement (+7): 25 meters per second
 
-This is a charged spell. To cast it, the mage goes outside and starts running, jumping, and mimicking flight. The mage should be wearing something loose that can catch the wind. One cast garners the mage six charges of the spell.
+This is a charged spell.
+To cast it, the mage goes outside and starts running, jumping, and mimicking flight.
+The mage should be wearing something loose that can catch the wind.
+One cast garners the mage six charges of the spell.
 
-When released, the spell causes a wind to rise and lifts the mage into the air. The mage can control the direction of the wind and its speed (up to 25 meters a round). The spell can carry as if it had a lifting of 5D.
+When released, the spell causes a wind to rise and lifts the mage into the air.
+The mage can control the direction of the wind and its speed (up to 25 meters a round). The spell can carry as if it had a lifting of 5D.
 
 The wind forms a three-meter sphere around the mage’s body, and nothing can be carried that won’t fit in that sphere.
 
@@ -440,7 +488,10 @@ Concentration (-6): 40 minutes with willpower difficulty of 12 Incantations (-2)
 
 Gestures (-3): Pantomime building a doorway (complex; artist roll with difficulty of 11)
 
-After the mage casts the spell, she has firmly fixed in her mind three uses of it. When she releases the spell, she opens a doorway in front of her through which she may step through and instantly be transported somewhere else. The points the skill total is above the difficulty may be added to the effect’s value (thus increasing the amount that can travel through the doorway). An unbreakable barrier over the doorway resists weight of a greater amount than what the spell can handle to go through the doorway. The doorway remains open for two rounds, allowing up to two passages of material weighing no more than 150 kilograms.
+After the mage casts the spell, she has firmly fixed in her mind three uses of it.
+When she releases the spell, she opens a doorway in front of her through which she may step through and instantly be transported somewhere else.
+The points the skill total is above the difficulty may be added to the effect’s value (thus increasing the amount that can travel through the doorway). An unbreakable barrier over the doorway resists weight of a greater amount than what the spell can handle to go through the doorway.
+The doorway remains open for two rounds, allowing up to two passages of material weighing no more than 150 kilograms.
 
 ==== Relocate Person
 
@@ -466,7 +517,12 @@ Gesture (-2): Point to target then point in direction of new location (fairly si
 
 Incantation (-1): “Go there.” (one or two words)
 
-After the mage casts the spell, she has firmly fixed in her mind three uses of it. When she releases the spell, she points at her intended target, which will be instantly teleported to the range of the spell. The result points bonus may be added either to the value of the weight transported or the distance traveled; read the new value on the “Spell Measures” chart. The spell will not allow anything to appear inside a solid object. Remember that a target who is aware of the potential relocation may roll her Physique or lifting and add it to her weight. The caster’s spell roll must then beat that difficulty as well as the spell’s difficulty.
+After the mage casts the spell, she has firmly fixed in her mind three uses of it.
+When she releases the spell, she points at her intended target, which will be instantly teleported to the range of the spell.
+The result points bonus may be added either to the value of the weight transported or the distance traveled; read the new value on the “Spell Measures” chart.
+The spell will not allow anything to appear inside a solid object.
+Remember that a target who is aware of the potential relocation may roll her Physique or lifting and add it to her weight.
+The caster’s spell roll must then beat that difficulty as well as the spell’s difficulty.
 
 Note: A similar spell, relocate item, is identical in every way except that the effect is to carry an item weighing no more than 10 kilograms, with a value of 5, and thus the difficulty is 11.
 
@@ -488,9 +544,11 @@ Casting Time: 1 round (-4)
 
 Other Aspects:
 
-Gesture (-2): Stand on tiptoes, point out to imaginary objects and then reach to pick them up. (fairly simple)
+Gesture (-2): Stand on tiptoes, point out to imaginary objects and then reach to pick them up.
+(fairly simple)
 
-Incantation (-2): “I want to reach out beyond the boundaries of the time and space. I want that object to return with me.” (sentence)
+Incantation (-2): “I want to reach out beyond the boundaries of the time and space.
+I want that object to return with me.” (sentence)
 
 Other Conditions (-5): May only be cast in conjunction with view (spell described herein)
 
@@ -550,9 +608,14 @@ Gesture (-3): Mime escaping from a cell, then point to target (complex; acrobati
 
 Unreal Effect (-7): Disbelief difficulty of 13
 
-Cage traps a target in a prison of magical energy. To cast it, the wizard mimics trying to escape from a cell, then points at her target. If a marksmanship total beats the combat difficulty for the target, the quarry is trapped. The cage is a sphere with a radius of three meters. Creatures larger than that can’t be confined by this spell.
+Cage traps a target in a prison of magical energy.
+To cast it, the wizard mimics trying to escape from a cell, then points at her target.
+If a marksmanship total beats the combat difficulty for the target, the quarry is trapped.
+The cage is a sphere with a radius of three meters.
+Creatures larger than that can’t be confined by this spell.
 
-The effect’s value plus the result points bonus serves as the damage resistance total of the bars. The target can disbelieve and thus free himself by generating a Acumen or investigation total of 13.
+The effect’s value plus the result points bonus serves as the damage resistance total of the bars.
+The target can disbelieve and thus free himself by generating a Acumen or investigation total of 13.
 
 ==== Communicate with Animals
 
@@ -576,7 +639,10 @@ Components (-2): Something from the type of animal with which she wants to commu
 
 Gesture (-2): Draw a line on the ground (fairly simple)
 
-To communicate with an animal, the caster places on the ground the bit of something from that type of animal (lock of horse’s hair, bird’s feather, several strands of dog’s hair). Then she draws a line from it to her and from it in the direction of the animal or animals she wishes to speak to. For about six minutes, she receives the ability to communicate with any of that kind of animal as if she had a specialization in its language at 5D. She may add the result points bonus to her speaking roll total. The caster may not move more than one meter from the casting location.
+To communicate with an animal, the caster places on the ground the bit of something from that type of animal (lock of horse’s hair, bird’s feather, several strands of dog’s hair). Then she draws a line from it to her and from it in the direction of the animal or animals she wishes to speak to.
+For about six minutes, she receives the ability to communicate with any of that kind of animal as if she had a specialization in its language at 5D.
+She may add the result points bonus to her speaking roll total.
+The caster may not move more than one meter from the casting location.
 
 ==== Displacement
 
@@ -600,9 +666,14 @@ Gesture (-3): Turn around and then start hopping from one location to another, w
 
 Incantation (-2): “Hide my true location from sight.” (sentence)
 
-By bending the light around the target, an image of the person or thing is transferred up to 2.5 meters away from his actual location. He becomes invisible to normal sight at his true location, and his image appears and copies all of his movements and actions until the end of the duration. A character must beat a difficulty of 20 with a Perception or search roll or a location spell to find the displaced target.
+By bending the light around the target, an image of the person or thing is transferred up to 2.5 meters away from his actual location.
+He becomes invisible to normal sight at his true location, and his image appears and copies all of his movements and actions until the end of the duration.
+A character must beat a difficulty of 20 with a Perception or search roll or a location spell to find the displaced target.
 
-Anyone touching the image recognizes it for what it really is. This does not give them the ability to see where the target is standing. Any area effect attacks and spells will hit the target should he be in the radius. Otherwise, only using items or other spells discloses the true location of the target.
+Anyone touching the image recognizes it for what it really is.
+This does not give them the ability to see where the target is standing.
+Any area effect attacks and spells will hit the target should he be in the radius.
+Otherwise, only using items or other spells discloses the true location of the target.
 
 ==== Evil Eye Curse
 
@@ -658,7 +729,9 @@ Gesture (-2): Wave hand several times over napkin and cup (fairly simple)
 
 Other Alterants (+3), clean water and hearty food
 
-With this cantrip, the mage creates a meal for two of pure, clean water; flavorful, hearty bread; fresh vegetables and fruits; and, if desired, cheese wedges and smoked meat slices. The food must be consumed within 10 minutes of its appearance, so that it has a chance to stay in the body long enough to be digested and actually provide nourishment. The result points bonus increases the amount of food appearing or (at the gamemaster’s discretion) the quality of food.
+With this cantrip, the mage creates a meal for two of pure, clean water; flavorful, hearty bread; fresh vegetables and fruits; and, if desired, cheese wedges and smoked meat slices.
+The food must be consumed within 10 minutes of its appearance, so that it has a chance to stay in the body long enough to be digested and actually provide nourishment.
+The result points bonus increases the amount of food appearing or (at the gamemaster’s discretion) the quality of food.
 
 ==== Flight
 
@@ -688,7 +761,9 @@ Gesture (-1): Point at target (simple)
 
 Incantation (-1): “Fly!” (a few words)
 
-This spell provides the target, who must be within one meter of the caster, the ability to fly and the knowledge to use it for 10 minutes. There is no visible means of convenience; the target can simply move through the air by force of will. The rate equals twice the target’s normal movement rate.
+This spell provides the target, who must be within one meter of the caster, the ability to fly and the knowledge to use it for 10 minutes.
+There is no visible means of convenience; the target can simply move through the air by force of will.
+The rate equals twice the target’s normal movement rate.
 
 ==== Glow Stone
 
@@ -718,7 +793,9 @@ Gesture (-1): Hold pebble between thumb and forefinger (simple)
 
 Incantation (-2): “Stone of white, give us light.” (sentence)
 
-The magic user casts this spell on a small, white stone, making it glow with a fierce radiance that extends for one meter in all directions around the pebble. The effect lasts for 10 minutes. Once the duration wears off, the pebble turns to dust.
+The magic user casts this spell on a small, white stone, making it glow with a fierce radiance that extends for one meter in all directions around the pebble.
+The effect lasts for 10 minutes.
+Once the duration wears off, the pebble turns to dust.
 
 ==== Helping Hand
 
@@ -740,7 +817,8 @@ Other Aspects:
 
 Focused (+4): On the caster
 
-The caster can move items without touching them, as if he had the Psionics telekinesis skill at 4D+1. See the description of the telekinesis skill in the “Psionics” chapter for difficulties and ranges.
+The caster can move items without touching them, as if he had the Psionics telekinesis skill at 4D+1.
+See the description of the telekinesis skill in the “Psionics” chapter for difficulties and ranges.
 
 ==== Light
 
@@ -770,7 +848,9 @@ Gestures (-1): Hold pebble between thumb and forefinger (simple)
 
 Incantations (-2): “Stone of white, give us light.” (sentence)
 
-The magic user casts this spell on a small, white stone, making it glow with a fierce radiance that extends for one meter in all directions around the pebble. The effect lasts for 10 minutes. Once the duration wears off, the pebble turns to dust.
+The magic user casts this spell on a small, white stone, making it glow with a fierce radiance that extends for one meter in all directions around the pebble.
+The effect lasts for 10 minutes.
+Once the duration wears off, the pebble turns to dust.
 
 ==== Mystic Bolt
 
@@ -794,7 +874,10 @@ Gesture (-2): Swirl hand in air as if gathering energy, then throw it at target 
 
 Incantation (-2): “Ah!” (word, said loudly)
 
-The mage gathers energy from his surroundings and throws the ball at a target. It does 4D in damage at a range of up to 10 meters. He must make a marksmanship roll to hit the target. The bolt must be fired in the same round that the mage casts the spell.
+The mage gathers energy from his surroundings and throws the ball at a target.
+It does 4D in damage at a range of up to 10 meters.
+He must make a marksmanship roll to hit the target.
+The bolt must be fired in the same round that the mage casts the spell.
 
 ==== Mystical Shield
 
@@ -824,7 +907,10 @@ Gesture (-2): Using colored sand, scribe an oval shape in the air (fairly simple
 
 Incantation (-1): “Protection!” (word)
 
-By tossing some sand in a circle in front of her, the caster creates a semi-transparent oval shield of the same color as the sand. The shield, about two meters in diameter, appears up to 1.5 meters away. It is focused on the ring, which the mage must wear. It offers an Armor Value of 6D against all types of physical (not mental) attacks.
+By tossing some sand in a circle in front of her, the caster creates a semi-transparent oval shield of the same color as the sand.
+The shield, about two meters in diameter, appears up to 1.5 meters away.
+It is focused on the ring, which the mage must wear.
+It offers an Armor Value of 6D against all types of physical (not mental) attacks.
 
 ==== Stunned Senseless
 
@@ -848,7 +934,8 @@ Gesture (-2): Point finger and then palm at intended target (fairly simple)
 
 Incantation (-1): “Stop!” (word)
 
-With a gesture and a word, the magic user sends a bolt of mystical energy toward his intended target. However, the bolt isn’t intended to harm the target, instead only doing stun damage.
+With a gesture and a word, the magic user sends a bolt of mystical energy toward his intended target.
+However, the bolt isn’t intended to harm the target, instead only doing stun damage.
 
 ==== Voodoo Curse
 
@@ -878,7 +965,10 @@ Incantation (-2): Description of what caster wants the target to feel (complete 
 
 Focused (+4): On target
 
-With a few simple items and a spell inspired by the rites of the vodun religion, the caster can cause great pain to his target. First the caster attaches the scrap of clothing or the lock of hair to the doll. Then, while placing pins in appropriate places, the caster describes the kind of pain he desires his target to feel. For 10 minutes after the completion of the spell, the target receives a +2 difficulty modifier to the caster’s choice of any three skills.
+With a few simple items and a spell inspired by the rites of the vodun religion, the caster can cause great pain to his target.
+First the caster attaches the scrap of clothing or the lock of hair to the doll.
+Then, while placing pins in appropriate places, the caster describes the kind of pain he desires his target to feel.
+For 10 minutes after the completion of the spell, the target receives a +2 difficulty modifier to the caster’s choice of any three skills.
 
 === Divination Spells
 
@@ -912,7 +1002,9 @@ Variable Movement (+4): Bending (can’t see target)
 
 Before throwing the spell, the caster should decide what sort of being she’s looking for, because she’ll need a piece of it for the spell to work (a lock of hair from a Human, fur or fangs from an animal, etc.).
 
-The caster sets the object on fire and inhales the smoke while concentrating. Once the casting is done, the mage can detect the presence of any such being within a 10-meter radius for two rounds. The higher the search skill total is above the difficulty, the more information the caster knows about the beings she seeks (such as location, number, gender, etc.). The difficulty starts at 10 for a Human-sized creature, and goes down for larger creatures, up for smaller ones, and up for the number of other types of creatures in the area.
+The caster sets the object on fire and inhales the smoke while concentrating.
+Once the casting is done, the mage can detect the presence of any such being within a 10-meter radius for two rounds.
+The higher the search skill total is above the difficulty, the more information the caster knows about the beings she seeks (such as location, number, gender, etc.). The difficulty starts at 10 for a Human-sized creature, and goes down for larger creatures, up for smaller ones, and up for the number of other types of creatures in the area.
 
 ==== Scrying
 
@@ -932,13 +1024,21 @@ Casting Time: 2 rounds (-5)
 
 Other Aspects:
 
-Components (-9): Scrying tool with images or symbols (tarot cards, playing cards, runes, etc. ) (uncommon); item the person owned for at least a month or the person herself (very rare)
+Components (-9): Scrying tool with images or symbols (tarot cards, playing cards, runes, etc.
+) (uncommon); item the person owned for at least a month or the person herself (very rare)
 
 Gesture (-6): Randomize the tool and place parts of the tool in a set pattern (fairly simple); interpret the symbols (very complex, scholar difficulty of 15)
 
 Other Conditions (-1): Physical contact with tool
 
-By interpreting cards or runes, the diviner gains a sense of what the future holds for the person who the reading is about. The mage may choose to look for a condition that could occur up to two and a half months into the future. She can see one minute’s worth of the future. Use the result points of the divination roll to determine how much information she receives: Zero points reveals confusing images. One to four points allows one useful fact to be gleaned from the reading. Five to eight points tells the mage a few useful facts, including the time of the occurrence. Nine to 12 points allows the mage to note more details, including time and location. Thirteen or more points lets the mage see the scene as if she were present, though in shades of gray.
+By interpreting cards or runes, the diviner gains a sense of what the future holds for the person who the reading is about.
+The mage may choose to look for a condition that could occur up to two and a half months into the future.
+She can see one minute’s worth of the future.
+Use the result points of the divination roll to determine how much information she receives: Zero points reveals confusing images.
+One to four points allows one useful fact to be gleaned from the reading.
+Five to eight points tells the mage a few useful facts, including the time of the occurrence.
+Nine to 12 points allows the mage to note more details, including time and location.
+Thirteen or more points lets the mage see the scene as if she were present, though in shades of gray.
 
 ==== Sense Past
 
@@ -968,7 +1068,10 @@ Countenance (-1): Skin turns sickly gray color for duration of spell
 
 Other Conditions (-1): Physical contact with object
 
-The mage can learn about the past of a single object he touches. He’ll see visions of events that occurred in a five-meter radius around the object in the past. The mage can view events that took place in a past period of time whose value (as read on the “Spell Measures” table) is less than or equal to the effect’s value plus the result points bonus. The mage can scan back to that period at a rate of one week’s worth of images per minute of the spell.
+The mage can learn about the past of a single object he touches.
+He’ll see visions of events that occurred in a five-meter radius around the object in the past.
+The mage can view events that took place in a past period of time whose value (as read on the “Spell Measures” table) is less than or equal to the effect’s value plus the result points bonus.
+The mage can scan back to that period at a rate of one week’s worth of images per minute of the spell.
 
 ==== View
 
@@ -994,6 +1097,13 @@ Gesture (-2): Make swimming gestures with hands (fairly simple)
 
 Incantation (-2): “Let me see beyond what I know to be.” (sentence)
 
-The caster opens a tunnel of sorts in space. Nothing may pass through it, but the caster may look through it to the other end. The tunnel starts with a range of one kilometer. This range is determined by the range value of the spell, and can be much longer, depending on the success the caster has throwing the spell. Any bonus from casting goes to both range and speed, being split evenly between them. (To determine the bonus, subtract the skill total from the spell difficulty. Divide by 2, and round up. Add this number to the range and look up the new value on the “Spell Measures” table.)
+The caster opens a tunnel of sorts in space.
+Nothing may pass through it, but the caster may look through it to the other end.
+The tunnel starts with a range of one kilometer.
+This range is determined by the range value of the spell, and can be much longer, depending on the success the caster has throwing the spell.
+Any bonus from casting goes to both range and speed, being split evenly between them.
+(To determine the bonus, subtract the skill total from the spell difficulty.
+Divide by 2, and round up.
+Add this number to the range and look up the new value on the “Spell Measures” table.)
 
 The effect of the spell takes the place of the character’s search while using the spell, as it is hard to make out minute details.

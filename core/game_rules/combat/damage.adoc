@@ -2,15 +2,21 @@
 
 == What’s in this Chapter
 
-Injury can come from all sides. This chapter describes two methods of figuring out how hurt a character is, plus a few sources of damage other than weapons.
+Injury can come from all sides.
+This chapter describes two methods of figuring out how hurt a character is, plus a few sources of damage other than weapons.
 
 == Body Points versus Wound Levels
 
-The Body Points system has the advantage of a gradual fall into death and a more noticeable healing process. It also does not require a chart, though it can be used with Wound levels. The Wound levels system brings the end on faster and is slower to heal. Which the Game Master chooses to use depends on how deadly he wants the game. Furthermore, Game Masters should feel free further adjust the deadliness of their games.
+The Body Points system has the advantage of a gradual fall into death and a more noticeable healing process.
+It also does not require a chart, though it can be used with Wound levels.
+The Wound levels system brings the end on faster and is slower to heal.
+Which the Game Master chooses to use depends on how deadly he wants the game.
+Furthermore, Game Masters should feel free further adjust the deadliness of their games.
 
 == Damage and Body Points
 
-Once the player or Game Master has her character’s damage resistance total (see the next section), subtract the attacker’s damage total from the target’s damage resistance total and subtract that number from the total Body Points the character has remaining. If the Game Master chooses, she may compare the number of Body Points the character has remaining to the “Wound Level” table to determine what level of injury the defender sustained and what its effects on the character are.
+Once the player or Game Master has her character’s damage resistance total (see the next section), subtract the attacker’s damage total from the target’s damage resistance total and subtract that number from the total Body Points the character has remaining.
+If the Game Master chooses, she may compare the number of Body Points the character has remaining to the “Wound Level” table to determine what level of injury the defender sustained and what its effects on the character are.
 
 If the damage resistance total is greater than or equal to the damage total, the defender incurs no injuries (beyond an annoying bruise, a shallow scrape, a light burn, or dinged protective gear).
 
@@ -18,27 +24,37 @@ If the damage resistance total is greater than or equal to the damage total, the
 
 The damage resistance total equals a roll of the target character’s die codes from armor or special abilities (such as Increased Attribute: Physique) minus any modifiers from disease, ingested poisons, or other debilitating circumstances (such as Reduced Attribute: Physique or an appropriate Hindrance). A player may improve his character’s resistance total by spending Character Points or a Fate Point on this roll.
 
-If the character has no armor or special abilities, then the character has a damage resistance total of zero, and the player makes no roll. However, they can still spend Character Points, using them as a base damage resistance total. Spending a Fate Point allows the player to roll his character’s Physique. Totals determined from spending points are adjusted as normal, including negative and positive damage resistance modifiers.
+If the character has no armor or special abilities, then the character has a damage resistance total of zero, and the player makes no roll.
+However, they can still spend Character Points, using them as a base damage resistance total.
+Spending a Fate Point allows the player to roll his character’s Physique.
+Totals determined from spending points are adjusted as normal, including negative and positive damage resistance modifiers.
 
 === Damage and NPCs
 
-To reflect the average non-player character’s relative unimportance to the universe, Game Masters may wish to lower the NPC’s Body Points or Wounds. For pure cannon fodder any damage over a roll of their Physique might cause them to keel over, while the main villain and her most important henchwomen should get the full complement.
+To reflect the average non-player character’s relative unimportance to the universe, Game Masters may wish to lower the NPC’s Body Points or Wounds.
+For pure cannon fodder any damage over a roll of their Physique might cause them to keel over, while the main villain and her most important henchwomen should get the full complement.
 
 === Killing Blow
 
-A killing blow by massive damage entails a damage total equal to 91% of the character’s maximum Body Points in one blow or 100% of the character’s maximum Body Points in a single round. Use the damage total after subtracting the damage resistance total to determine whether the attack delivered a killing blow.
+A killing blow by massive damage entails a damage total equal to 91% of the character’s maximum Body Points in one blow or 100% of the character’s maximum Body Points in a single round.
+Use the damage total after subtracting the damage resistance total to determine whether the attack delivered a killing blow.
 
 === Stun Damage
 
-For weapons that do stun damage, after the damage total is determined but before applying it, subtract a roll of the target’s Physique or stamina from the damage total. If the victim suffers at least one point of damage, that character goes unconscious for a number of minutes equal to the difference between the resistance total and the original damage total.
+For weapons that do stun damage, after the damage total is determined but before applying it, subtract a roll of the target’s Physique or stamina from the damage total.
+If the victim suffers at least one point of damage, that character goes unconscious for a number of minutes equal to the difference between the resistance total and the original damage total.
 
 Equipment that does stun damage only has no effect on inanimate, nonelectrical objects, though it does tend to disrupt electrical components.
 
 === Miscellaneous Damage
 
-Here is a small selection of various other harmful things that players may encounter during their adventures. Generally, no attack roll is necessary for any of these to affect a character, though a such roll would be required if a person could somehow attack with it. The Game Master determines what, if any, benefit armor and similar protection provides. Some equipment may even increase the damage! Damage is otherwise determined as per the combat rules.
+Here is a small selection of various other harmful things that players may encounter during their adventures.
+Generally, no attack roll is necessary for any of these to affect a character, though a such roll would be required if a person could somehow attack with it.
+The Game Master determines what, if any, benefit armor and similar protection provides.
+Some equipment may even increase the damage! Damage is otherwise determined as per the combat rules.
 
-Except falling, all damage is done per round of close contact. The Game Master may decide that certain types in certain situations also affect characters at a distance.
+Except falling, all damage is done per round of close contact.
+The Game Master may decide that certain types in certain situations also affect characters at a distance.
 
 Botulism (severe case) 4D
 
@@ -66,15 +82,18 @@ If the damage resistance total is greater than or equal to the damage total, the
 
 === Damage Resistance Total
 
-The resistance total equals the target character’s Physique plus any bonuses from armor or special abilities (such as Increased Attribute: Physique) minus any modifiers from disease, ingested poisons, or other debilitating circumstances (such as Reduced Attribute: Physique or an appropriate Hindrance). Do not include any Wound level modifier when attempting to resist damage. A character also may improve her resistance by spending Character Points or a Fate Point on this roll.
+The resistance total equals the target character’s Physique plus any bonuses from armor or special abilities (such as Increased Attribute: Physique) minus any modifiers from disease, ingested poisons, or other debilitating circumstances (such as Reduced Attribute: Physique or an appropriate Hindrance). Do not include any Wound level modifier when attempting to resist damage.
+A character also may improve her resistance by spending Character Points or a Fate Point on this roll.
 
 === Killing Blow
 
-A killing blow by massive damage entails a Mortally Wounded result with one blow or gaining the Dead level in a single round. Use the damage total after subtracting the damage resistance total to determine whether the attack delivered a killing blow.
+A killing blow by massive damage entails a Mortally Wounded result with one blow or gaining the Dead level in a single round.
+Use the damage total after subtracting the damage resistance total to determine whether the attack delivered a killing blow.
 
 === Stun Damage
 
-For weapons that do stun damage, after the number of Wounds have been determined but before applying the level modifiers, reduce the weapon’s damage by two Wound levels, with a minimum level of Stunned. The character also goes unconscious for a number of minutes equal to the difference between the resistance total and the damage total.
+For weapons that do stun damage, after the number of Wounds have been determined but before applying the level modifiers, reduce the weapon’s damage by two Wound levels, with a minimum level of Stunned.
+The character also goes unconscious for a number of minutes equal to the difference between the resistance total and the damage total.
 
 Equipment that does stun damage only has no effect on inanimate, nonelectrical objects, though it does tend to disrupt electrical components.
 
@@ -96,7 +115,10 @@ Dead; Damage Total ≥ Resistance Total By: 16 or more; Body Points Left: 0
 
 **A character moves to the Severely Wounded level if the difference is between 4 and 8 and she already has the Wounded level.
 
-†*Note:* This is an optional chart for use with Body Points. The “Body Points Left” column is based on the character’s maximum Body Points. Round so no overlap exists between levels. Penalties imposed by each level are not cumulative; do not include them when determining the stun or damage resistance total or any total not involving a skill or attribute.
+†*Note:* This is an optional chart for use with Body Points.
+The “Body Points Left” column is based on the character’s maximum Body Points.
+Round so no overlap exists between levels.
+Penalties imposed by each level are not cumulative; do not include them when determining the stun or damage resistance total or any total not involving a skill or attribute.
 
 *Stunned*: -1D for all remaining actions this round and next round or may only defend or retreat in the next round.
 
@@ -104,19 +126,31 @@ Dead; Damage Total ≥ Resistance Total By: 16 or more; Body Points Left: 0
 
 *Severely* *Wounded:* -2D on all actions until healed.
 
-*Incapacitated:* The character is severely injured. As a free action before losing consciousness, he may try to stay up with a Moderate (15) stamina or willpower roll. If the character succeeds, he may continue to act, but all actions have a -3D penalty. If he fails, he is knocked out for 10D minutes.
+*Incapacitated:* The character is severely injured.
+As a free action before losing consciousness, he may try to stay up with a Moderate (15) stamina or willpower roll.
+If the character succeeds, he may continue to act, but all actions have a -3D penalty.
+If he fails, he is knocked out for 10D minutes.
 
-*Mortally* *Wounded:* The character is near death and knocked unconscious with no chance to keep up. Roll the character’s Physique each round, the character finally dying if the roll is less than the number of minutes a character’s been Mortally Wounded.
+*Mortally* *Wounded:* The character is near death and knocked unconscious with no chance to keep up.
+Roll the character’s Physique each round, the character finally dying if the roll is less than the number of minutes a character’s been Mortally Wounded.
 
-*Dead:* The character is toast. Sorry.
+*Dead:* The character is toast.
+Sorry.
 
 *Fast Combat Option:* Game Masters who wish to give the players’ characters and their major opponents an edge in battles, make the game more realistic, or simply save themselves trouble should apply the modifiers in the first round of combat and then reassess the levels after combat is complete.
 
 == Unconsciousness and Death
 
-If the character’s Body Points reach a few points or he has attained the Mortally Wounded level but the character wasn’t struck with a killing blow, he is still gravely injured and falls unconscious. For every minute he is at this level, his player makes a Physique roll against a difficulty equal to the number of minutes the character has been Mortally Wounded.
+If the character’s Body Points reach a few points or he has attained the Mortally Wounded level but the character wasn’t struck with a killing blow, he is still gravely injured and falls unconscious.
+For every minute he is at this level, his player makes a Physique roll against a difficulty equal to the number of minutes the character has been Mortally Wounded.
 
-Sufficient medical aid to bring the character to at least 10% of his maximum Body Points can possibly rescue the imperiled character. If suitable medical aid is administered within four minutes, the character recovers without undue harm. If the medical aid is given within four to 10 minutes, the player rolls his character’s Physique or stamina against a difficulty equal to the number of minutes he was Mortally Wounded. If the roll succeeds, the character revives but he loses 1D from all of his skills, though the skill cannot go below the attribute’s die code. If the medical aid is given within 10 to 15 minutes, the player rolls his character’s Physique or stamina against a difficulty equal to the number of minutes he was Mortally Wounded. If the roll succeeds, the character revives but he loses 2D from all of his skills, though no skill can be reduced below the attribute’s die code. In any case, should the roll fail, the character dies.
+Sufficient medical aid to bring the character to at least 10% of his maximum Body Points can possibly rescue the imperiled character.
+If suitable medical aid is administered within four minutes, the character recovers without undue harm.
+If the medical aid is given within four to 10 minutes, the player rolls his character’s Physique or stamina against a difficulty equal to the number of minutes he was Mortally Wounded.
+If the roll succeeds, the character revives but he loses 1D from all of his skills, though the skill cannot go below the attribute’s die code.
+If the medical aid is given within 10 to 15 minutes, the player rolls his character’s Physique or stamina against a difficulty equal to the number of minutes he was Mortally Wounded.
+If the roll succeeds, the character revives but he loses 2D from all of his skills, though no skill can be reduced below the attribute’s die code.
+In any case, should the roll fail, the character dies.
 
 Characters who receive their total Body Points in additional damage after reaching zero Body Points cannot be revived (by normal means, anyway).
 
@@ -124,15 +158,27 @@ Game Masters who prefer a more rapid exit out of the mortal coil may ignore thes
 
 === Negative Damage Resistance Total
 
-It is possible for the damage resistance total to be a negative number. Spell feedback, poisons, and sickness can all contribute negative modifiers that might take the damage resistance total below zero. In this case, the character’s body is working against him, compounding the additional damage done. Game Masters have three options for handling this: (1) They may use the negative damage resistance total as a positive bonus to all difficulties until the character is healed. (2) They may have the negative damage resistance total add positively to the amount of injury caused. This is a good method for simulating gritty adventures, as well as a way of getting low-level Game Master’s characters out of the way. (3) Have the damage resistance total equal zero. This last way works best for adventures of the comic book or action flick types.
+It is possible for the damage resistance total to be a negative number.
+Spell feedback, poisons, and sickness can all contribute negative modifiers that might take the damage resistance total below zero.
+In this case, the character’s body is working against him, compounding the additional damage done.
+Game Masters have three options for handling this: (1) They may use the negative damage resistance total as a positive bonus to all difficulties until the character is healed.
+(2) They may have the negative damage resistance total add positively to the amount of injury caused.
+This is a good method for simulating gritty adventures, as well as a way of getting low-level Game Master’s characters out of the way.
+(3) Have the damage resistance total equal zero.
+This last way works best for adventures of the comic book or action flick types.
 
 === Massive Damage Option
 
-If a character incurs two Wound levels or the Body Points equivalent within a single round, not only do the normal modifiers for the greatest level apply, the character also can do nothing but defend or run away on the next two rounds. In either of these rounds, the character may make an Easy stamina or willpower attempt, as an action, to try to recover from the blow and shake off the penalty. If this is declared as a multi-action for the round, then the character takes the multi-action penalty. If not, and the stamina or willpower roll is successful, the character may act as normal in the next round.
+If a character incurs two Wound levels or the Body Points equivalent within a single round, not only do the normal modifiers for the greatest level apply, the character also can do nothing but defend or run away on the next two rounds.
+In either of these rounds, the character may make an Easy stamina or willpower attempt, as an action, to try to recover from the blow and shake off the penalty.
+If this is declared as a multi-action for the round, then the character takes the multi-action penalty.
+If not, and the stamina or willpower roll is successful, the character may act as normal in the next round.
 
 === Descriptive Damage
 
-So a character is down by a few Body Points or has a couple of Wound levels — so what? What does that mean in descriptive terms? It depends on what caused the harm. The following list supplies some general guidelines for describing what might have happened to the character’s body when he was hurt. Use the “Wound Levels” chart to decide on the character’s current Wound level.
+So a character is down by a few Body Points or has a couple of Wound levels — so what? What does that mean in descriptive terms? It depends on what caused the harm.
+The following list supplies some general guidelines for describing what might have happened to the character’s body when he was hurt.
+Use the “Wound Levels” chart to decide on the character’s current Wound level.
 
 *Stunned:* Moderate bruise or minor sprain; laceration; muscle tear; minor dislocation of joint.
 
@@ -146,12 +192,17 @@ So a character is down by a few Body Points or has a couple of Wound levels — 
 
 *Dead:* Broken neck; punctured lung; eviscerated.
 
-These are just a few examples. Really interested Game Masters can come up with charts, tables, or detailed descriptions of damage for those players who absolutely must know. The Game Master may also assign different modifiers than the general ones listed in the “Wound Levels” sidebar that more appropriately indicate the type of injury that was suffered.
+These are just a few examples.
+Really interested Game Masters can come up with charts, tables, or detailed descriptions of damage for those players who absolutely must know.
+The Game Master may also assign different modifiers than the general ones listed in the “Wound Levels” sidebar that more appropriately indicate the type of injury that was suffered.
 
 === Adjusting the Deadliness
 
-Changing the Body Points system is fairly obvious: More Body Points lead to longer character life spans, while fewer points bring about the end quicker. Altering the Wound level system is a little more involved and can be handled in a few different ways.
+Changing the Body Points system is fairly obvious: More Body Points lead to longer character life spans, while fewer points bring about the end quicker.
+Altering the Wound level system is a little more involved and can be handled in a few different ways.
 
-Game Masters who want to add Wound levels may include additional versions of the same level, similar to the way Wounded and Severely Wounded are handled currently. Alternatively, they may add additional levels between each one by spreading out the points currently needed to reach each level, or even add further point levels between Mortally Wounded and Dead.
+Game Masters who want to add Wound levels may include additional versions of the same level, similar to the way Wounded and Severely Wounded are handled currently.
+Alternatively, they may add additional levels between each one by spreading out the points currently needed to reach each level, or even add further point levels between Mortally Wounded and Dead.
 
-Game Masters who wish to remove Wound levels may include the lower limit of a deleted level in the next level up or the upper limit in the next level down. Or they may simply take levels out of the bottom or middle and shift all remaining levels down.
+Game Masters who wish to remove Wound levels may include the lower limit of a deleted level in the next level up or the upper limit in the next level down.
+Or they may simply take levels out of the bottom or middle and shift all remaining levels down.

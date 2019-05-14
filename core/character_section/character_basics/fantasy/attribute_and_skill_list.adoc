@@ -20,7 +20,8 @@ The following six attributes are Normal attributes for a fantasy setting with a 
 
 *Agility*
 
-*acrobatics:* Performing feats of gymnastics, extraordinary balance, and dance (and related performance arts), as well as breaking falls. Useful for running obstacle courses or doing courtly promenade.
+*acrobatics:* Performing feats of gymnastics, extraordinary balance, and dance (and related performance arts), as well as breaking falls.
+Useful for running obstacle courses or doing courtly promenade.
 
 *fighting:* Competence in unarmed combat.
 
@@ -52,7 +53,8 @@ The following six attributes are Normal attributes for a fantasy setting with a 
 
 *sleight* *of* *hand:* Nimbleness with the fingers and misdirection, including picking pockets, palming items, and stage magic.
 
-*throwing:* Hitting a target accurately with a thrown item, including stones, javelins, bottles, and knives. Also used for catching thrown items.
+*throwing:* Hitting a target accurately with a thrown item, including stones, javelins, bottles, and knives.
+Also used for catching thrown items.
 
 *Physique*
 
@@ -68,19 +70,29 @@ The following six attributes are Normal attributes for a fantasy setting with a 
 
 *cultures:* Comprehension of customs, traditions, art, history, politics, and views on outsiders of various regions or groups, as well as the ability to generalize about common cultural forms.
 
-*devices:* Using and designing complex mechanical equipment. Actually building items requires crafting.
+*devices:* Using and designing complex mechanical equipment.
+Actually building items requires crafting.
 
 *healing:* Dressing wounds, applying splints, and disinfecting injuries, plus an understanding and application of medical procedures, such as diagnosing illnesses and performing surgery.
 
 *navigation:* Determining the correct course using external reference points, such as stars, maps, or landmarks, as well as creating maps.
 
-*reading/writing:* Familiarity with and ability to understand various forms of written communication, as well as the ability to create literary compositions, including forging papers and identifying such forgeries. Characters do not begin with the ability to read or write.
+*reading/writing:* Familiarity with and ability to understand various forms of written communication, as well as the ability to create literary compositions, including forging papers and identifying such forgeries.
+Characters do not begin with the ability to read or write.
 
-*scholar:* This skill represents knowledge and/or education in areas not covered under any other skill (such as alchemy, cooking, arcane lore, etc.). This may be restricted to a specific field (represented by specializations) or a general knowledge of a wide range of subjects. It is used to remember details, rumors, tales, legends, theories, important people, and the like, as appropriate for the subject in question. However, the broader the category, the fewer the details that can be recalled. It covers what the character himself can recall. Having another skill as a specialization of the scholar skill means that the character knows the theories and history behind the skill but can’t actually use it. Scholar can be useful with investigation to narrow a search for information.
+*scholar:* This skill represents knowledge and/or education in areas not covered under any other skill (such as alchemy, cooking, arcane lore, etc.). This may be restricted to a specific field (represented by specializations) or a general knowledge of a wide range of subjects.
+It is used to remember details, rumors, tales, legends, theories, important people, and the like, as appropriate for the subject in question.
+However, the broader the category, the fewer the details that can be recalled.
+It covers what the character himself can recall.
+Having another skill as a specialization of the scholar skill means that the character knows the theories and history behind the skill but can’t actually use it.
+Scholar can be useful with investigation to narrow a search for information.
 
-*speaking:* Familiarity with and ability to understand various forms of verbal communication. Characters know the Trade Speech (assuming the setting has one) and one “native” language in which they have spoken fluency. Additional languages in which a character has proficiency can be represented by specializations of this skill.
+*speaking:* Familiarity with and ability to understand various forms of verbal communication.
+Characters know the Trade Speech (assuming the setting has one) and one “native” language in which they have spoken fluency.
+Additional languages in which a character has proficiency can be represented by specializations of this skill.
 
-*trading:* Knowledge of business practices, exchange rates, the monetary value of goods and opportunities, and other information regarding barter and sales, including the ability to determine how to make money with another skill the character has. Trading can complement bluff, charm, and persuasion when haggling over prices for goods and services being bought or sold.
+*trading:* Knowledge of business practices, exchange rates, the monetary value of goods and opportunities, and other information regarding barter and sales, including the ability to determine how to make money with another skill the character has.
+Trading can complement bluff, charm, and persuasion when haggling over prices for goods and services being bought or sold.
 
 *traps:* Installing, altering, and bypassing security devices, as well as identifying various kinds of traps (gas, pit, wire-triggered, etc.).
 
@@ -90,7 +102,8 @@ The following six attributes are Normal attributes for a fantasy setting with a 
 
 *crafting:* Creating, fixing, or modifying equipment, weapons, armor, and vehicles, as well as woodworking, metalworking, constructing buildings, and the like.
 
-*disguise:* Altering features or clothing to be unrecognizable or to look like someone else. Also useful in acting performances.
+*disguise:* Altering features or clothing to be unrecognizable or to look like someone else.
+Also useful in acting performances.
 
 *gambling:* Playing and cheating at games of strategy and luck.
 
@@ -102,7 +115,8 @@ The following six attributes are Normal attributes for a fantasy setting with a 
 
 *search:* Spotting hidden objects or people, reconnoitering, lipreading, or eavesdropping on or watching another person.
 
-*streetwise:* Finding information, goods, and contacts in an urban environment, particularly through thieves’ guilds and similar criminal organizations, black markets, and other illicit operations. Also useful for determining possible motives and methods of criminals.
+*streetwise:* Finding information, goods, and contacts in an urban environment, particularly through thieves’ guilds and similar criminal organizations, black markets, and other illicit operations.
+Also useful for determining possible motives and methods of criminals.
 
 *survival:* Surviving in wilderness environments, including the ability to identify plants, animals, and their nutritional and medicinal uses.
 
@@ -112,17 +126,22 @@ The following six attributes are Normal attributes for a fantasy setting with a 
 
 *animal* *handling:* Controlling animals and making them perform tricks and follow commands.
 
-*bluff:* Lying, tricking, or deceiving others, as well as verbal evasion, misdirection, and blustering. Disguise can complement uses of this skill. Also useful in putting on acting performances.
+*bluff:* Lying, tricking, or deceiving others, as well as verbal evasion, misdirection, and blustering.
+Disguise can complement uses of this skill.
+Also useful in putting on acting performances.
 
-*charm:* Using friendliness, flattery, or seduction to influence someone else. Also useful in sales and bartering transactions, putting on performances (such as singing, acting, or storytelling), and situations involving etiquette.
+*charm:* Using friendliness, flattery, or seduction to influence someone else.
+Also useful in sales and bartering transactions, putting on performances (such as singing, acting, or storytelling), and situations involving etiquette.
 
 *command:* Effectively ordering and coordinating others in team situations.
 
 *intimidation:* Using physical presence, verbal threats, taunts, torture, or fear to influence others or get information out of them.
 
-*mettle:* Ability to withstand stress, temptation, other people’s interaction attempts, mental attacks, and pain. The Game Master may allow a specialization in a specific faith tradition or belief system to enhance many, though not all, applications of mettle.
+*mettle:* Ability to withstand stress, temptation, other people’s interaction attempts, mental attacks, and pain.
+The Game Master may allow a specialization in a specific faith tradition or belief system to enhance many, though not all, applications of mettle.
 
-*persuasion:* Influencing others or getting information out of them through bribery, honest discussion, debate, diplomacy, or speeches. Also useful in negotiations, business transactions, storytelling, and oration.
+*persuasion:* Influencing others or getting information out of them through bribery, honest discussion, debate, diplomacy, or speeches.
+Also useful in negotiations, business transactions, storytelling, and oration.
 
 === *Extranormal*
 

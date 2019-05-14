@@ -13,7 +13,8 @@ This role playing game, however, doesn’t need any expensive equipment, special
 .What Do I Need to Play?
 To play this game, you need this document, some paper, something to write with, some six-sided dice, a lot of imagination, and a group of people, one of whom is willing to act as the guiding force in the game.
 This person is called many things, but “Game Master” serves well as short- hand for someone who presents information about the game setting, creates obstacles for the other players to overcome, takes the part of the people the players encounter, and adjudicates the rules.
-The rest of the group, simply called “the players,” take on roles of major characters in the story that they and the Game Master create together. +
+The rest of the group, simply called “the players,” take on roles of major characters in the story that they and the Game Master create together.
++
 The stories are called “adventures,” or “scenarios.” Very short adventures, usually encompassing only one or two obstacles to a simple goal, are referred to as “encounters.” A series of encounters can become an adventure, while a series of adventures can turn into a campaign.
 This document contains a section (called “Adventure Tips”) on how to come up with adventures.
 

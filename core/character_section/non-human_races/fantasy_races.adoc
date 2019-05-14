@@ -2,7 +2,10 @@
 
 === Dwarves
 
-Stocky and short, Dwarves come from the mountains. They build great halls and winding tunnels. They are considered some of the finest workers of metals and gems. Though they do grow plants for food, they have a general dislike for spaces open to the sky.
+Stocky and short, Dwarves come from the mountains.
+They build great halls and winding tunnels.
+They are considered some of the finest workers of metals and gems.
+Though they do grow plants for food, they have a general dislike for spaces open to the sky.
 
 *Typical*
 
@@ -50,7 +53,9 @@ Special Abilities: Hardiness (R2, cost 2), +2 to damage resistance totals; Longe
 
 === Elves
 
-The Elves’ very slenderness tends to make them seem taller than Humans, though their actual size varies depending on where they call home. The most common variety hail from forests, but ones living in mountains or seas are not unknown. Wherever they come from, they all share an afinity for nature and a sense of duty toward the animals and things of their native environment.
+The Elves’ very slenderness tends to make them seem taller than Humans, though their actual size varies depending on where they call home.
+The most common variety hail from forests, but ones living in mountains or seas are not unknown.
+Wherever they come from, they all share an afinity for nature and a sense of duty toward the animals and things of their native environment.
 
 *Typical*
 
@@ -96,7 +101,9 @@ Special Abilities: Enhanced Sense: Sight (R1, cost 3), +1 to sight-based totals;
 
 === Gnomes
 
-Renowned tinkers, Gnomes enjoy building their homes in hillsides, much as Dwarves do. Somewhat taller and broader than Dwarves, the Dwarves outmass Gnomes. Gnomes commonly use magic to enhance their inventions.
+Renowned tinkers, Gnomes enjoy building their homes in hillsides, much as Dwarves do.
+Somewhat taller and broader than Dwarves, the Dwarves outmass Gnomes.
+Gnomes commonly use magic to enhance their inventions.
 
 *Typical*
 
@@ -146,7 +153,9 @@ Special Abilities: Skill Bonus: Mechanical Aptitude (R1, cost 1), +1 to crafting
 
 === Reptile Folk
 
-Slightly taller than Humans, Reptile Folk prefer scrubland on the edges of deserts. Their nomadic lifestyle and natural armor has made them terrific hunters and trackers. This innate protection also supports their belief that they are superior to all other life in the world.
+Slightly taller than Humans, Reptile Folk prefer scrubland on the edges of deserts.
+Their nomadic lifestyle and natural armor has made them terrific hunters and trackers.
+This innate protection also supports their belief that they are superior to all other life in the world.
 
 *Typical*
 

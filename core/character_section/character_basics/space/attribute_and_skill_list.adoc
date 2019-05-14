@@ -26,7 +26,8 @@ The following six attributes are Normal attributes for a space setting with a fo
 
 *dodge:* Slipping out of danger’s way, whether avoiding an attack or a sprung booby trap.
 
-*firearms*: Shooting any gun a person can carry, even if it requires a tripod setup to fire. Covers everything from small slug throwers to shoulder-launched rockets.
+*firearms*: Shooting any gun a person can carry, even if it requires a tripod setup to fire.
+Covers everything from small slug throwers to shoulder-launched rockets.
 
 *flying/0-G:* Maneuvering under on one’s own power (such as with wings) or in zero-gravity environments (such as drifting through space in an environmental suit).
 
@@ -42,7 +43,9 @@ from stumbling.
 
 *sleight* *of* *hand:* Nimbleness with the fingers, including picking pockets, palming items, and opening mechanical locks.
 
-*throwing:* Hitting a target accurately with a thrown item, including grenades, stones, and knives. Also used for catching thrown items. (Using or modifying grenades as explosives for special destructive effects requires the demolitions skill.)
+*throwing:* Hitting a target accurately with a thrown item, including grenades, stones, and knives.
+Also used for catching thrown items.
+(Using or modifying grenades as explosives for special destructive effects requires the demolitions skill.)
 
 ==== Strength
 
@@ -58,7 +61,8 @@ from stumbling.
 
 *comm:* Effectively using communication devices and arrays.
 
-*exoskeleton* *operation:* Using single-person conveyances with skills and abilities that substitute for (not augment) the character’s own skills and abilities. This skill substitutes for the character’s Agility and Strength skills when using the “suit.”
+*exoskeleton* *operation:* Using single-person conveyances with skills and abilities that substitute for (not augment) the character’s own skills and abilities.
+This skill substitutes for the character’s Agility and Strength skills when using the “suit.”
 
 *gunnery:* Accurately firing weapons mounted on powered armor, vehicles, and spaceships, or within fortresses.
 
@@ -80,25 +84,35 @@ from stumbling.
 
 *bureaucracy:* Knowledge of and ability to use a bureaucracy’s intricate procedures to gain information, and favors, or attain other goals.
 
-*business:* Comprehension of business practices and the monetary value of goods and opportunities, including the ability to determine how to make money with another skill the character has. Business can complement bargain when haggling over prices for goods and services being bought or sold.
+*business:* Comprehension of business practices and the monetary value of goods and opportunities, including the ability to determine how to make money with another skill the character has.
+Business can complement bargain when haggling over prices for goods and services being bought or sold.
 
 *cultures:* Understanding of the manners, customs, and social expectations of different cultures, including one’s own.
 
 *intimidation:* Using physical presence, verbal threats, taunts, or fear to influence others or get information out of them.
 
-*languages*: Familiarity with and ability to use various forms of communication, including written, spoken, and nonverbal. Characters may choose one “native” language in which they have written and spoken fluency. Additional languages in which a character has proficiency can be represented by specializations of this skill.
+*languages*: Familiarity with and ability to use various forms of communication, including written, spoken, and nonverbal.
+Characters may choose one “native” language in which they have written and spoken fluency.
+Additional languages in which a character has proficiency can be represented by specializations of this skill.
 
-*scholar:* This skill represents knowledge and/or education in areas not covered under any other skill (such as chemistry, mathematics, archeology, cooking, art, etc.). This may be restricted to a specific field (represented by specializations) or a general knowledge of a wide range of subjects. It is used to remember details, rumors, tales, legends, theories, important people, and the like, as appropriate for the subject in question. However, the broader the category, the fewer the details that can be recalled. It covers what the character himself can recall. Having another skill as a specialization of the scholar skill means that the character knows the theories and history behind the skill but can’t actually use it. Scholar can be useful with investigation to narrow a search for information.
+*scholar:* This skill represents knowledge and/or education in areas not covered under any other skill (such as chemistry, mathematics, archeology, cooking, art, etc.). This may be restricted to a specific field (represented by specializations) or a general knowledge of a wide range of subjects.
+It is used to remember details, rumors, tales, legends, theories, important people, and the like, as appropriate for the subject in question.
+However, the broader the category, the fewer the details that can be recalled.
+It covers what the character himself can recall.
+Having another skill as a specialization of the scholar skill means that the character knows the theories and history behind the skill but can’t actually use it.
+Scholar can be useful with investigation to narrow a search for information.
 
 *security* *regulations:* Understanding of how law enforcement organizations, regulations, and personnel operate.
 
-*streetwise:* Finding information, goods, and contacts in an urban environment, particularly through criminal organizations, black markets, and other illicit operations. Also useful for determining possible motives and methods of criminals.
+*streetwise:* Finding information, goods, and contacts in an urban environment, particularly through criminal organizations, black markets, and other illicit operations.
+Also useful for determining possible motives and methods of criminals.
 
 *survival:* Knowledge of techniques for surviving in hostile, wilderness environments, as well as the ability to handle animals.
 
 *tactics:* Familiarity with deploying military forces and maneuvering them to the best advantage.
 
-*willpower:* Ability to withstand stress, temptation, other people’s interaction attempts, mental attacks, and pain. The Game Master may allow a specialization in a specific faith tradition or belief system to enhance many, though not all, applications of willpower.
+*willpower:* Ability to withstand stress, temptation, other people’s interaction attempts, mental attacks, and pain.
+The Game Master may allow a specialization in a specific faith tradition or belief system to enhance many, though not all, applications of willpower.
 
 ==== Perception
 
@@ -108,7 +122,8 @@ from stumbling.
 
 *command:* Effectively ordering and coordinating others in team situations (such as commanding a battleship crew).
 
-*con:* Bluﬃng, lying, tricking, or deceiving others, as well as verbal evasiveness, misdirection, blustering, and altering features or clothing to be unrecognizable or to look like someone else. Also useful in putting on acting performances.
+*con:* Bluﬃng, lying, tricking, or deceiving others, as well as verbal evasiveness, misdirection, blustering, and altering features or clothing to be unrecognizable or to look like someone else.
+Also useful in putting on acting performances.
 
 *forgery:* Creating and noticing false or altered documentation in various media (paper, electronic, plastic card, etc.), including counterfeiting, though tasks may require other skills to help detect or make the forgery.
 
@@ -120,7 +135,8 @@ from stumbling.
 
 *know-how:* Figuring out how to perform an action in which the character does not have experience, as well as a catch-all skill encompassing areas not covered by other skills (such as utilitarian sewing or cooking).
 
-*persuasion:* Influencing others or getting information out of them through bribery, honest discussion, debate, diplomacy, speeches, friendliness, flattery, or seduction. Also useful in negotiations, business transactions, and putting on performances (such as singing, acting, or storytelling).
+*persuasion:* Influencing others or getting information out of them through bribery, honest discussion, debate, diplomacy, speeches, friendliness, flattery, or seduction.
+Also useful in negotiations, business transactions, and putting on performances (such as singing, acting, or storytelling).
 
 *search:* Spotting hidden objects or people, reconnoitering, lipreading, eavesdropping on or watching other people, or tracking the trails they’ve left behind.
 

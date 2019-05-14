@@ -24,7 +24,8 @@ When using Fate Points on a roll, double the original die code and use that to d
 
 For bonus numbers beyond the 50D level for the “5D” column, subtract 5 from the die code and multiply the number by 3.5.
 Round up.
-To get bonus numbers beyond the 50D level for the “Wild Die” column, subtract 1 from the die code and multiply the number by 3.5. Round up.
+To get bonus numbers beyond the 50D level for the “Wild Die” column, subtract 1 from the die code and multiply the number by 3.5.
+Round up.
 
 [%header,format=csv]
 |===

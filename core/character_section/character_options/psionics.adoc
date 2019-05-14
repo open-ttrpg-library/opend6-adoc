@@ -1,30 +1,45 @@
 = Psionics
 
-This chapter covers the ability to manipulate the forces of the mind for extraordinary effects. The Psionics skills are available only to characters with the Psionics Extranormal attribute.
+This chapter covers the ability to manipulate the forces of the mind for extraordinary effects.
+The Psionics skills are available only to characters with the Psionics Extranormal attribute.
 
-An extensive, though finite, list of individual psychic skills is provided herein. While many psychics have only one strong psychic talent, and most will have no more than a few such talents, characters may select and develop as many of these skills as they desire and the gamemaster will allow. Remember that the list herein is not all-inclusive. Game Masters should feel free to develop other psychic skills for use in their campaigns.
+An extensive, though finite, list of individual psychic skills is provided herein.
+While many psychics have only one strong psychic talent, and most will have no more than a few such talents, characters may select and develop as many of these skills as they desire and the gamemaster will allow.
+Remember that the list herein is not all-inclusive.
+Game Masters should feel free to develop other psychic skills for use in their campaigns.
 
 === Obtaining Access to Psionics
 
-There are only two ways for a player’s character to get psionic abilities. The first is to put dice in the Psionics attribute and skills at character creation, which costs the same as obtaining other attributes.
+There are only two ways for a player’s character to get psionic abilities.
+The first is to put dice in the Psionics attribute and skills at character creation, which costs the same as obtaining other attributes.
 
-The other way is to obtain the Game Master’s permission after play has begun. If the player can come up with a “reason” for the character to learn or gain psionic abilities (such as they were latent or were acquired through a strange accident) and the Game Master agrees, then the player’s character may get them. The cost to get the initial 1D in Psionics is 20 Character Points. After that, it is 10 times the number in front of the “D” to improve this attribute by one pip. Players must still purchase Psionics skill pips separately. If appropriate for the reason that the character got the ability (such as having a teacher open latent talents), a character may learn one pip in one skill (or more, with the Game Master’s permission) when the character first purchases Psionics after character creation.
+The other way is to obtain the Game Master’s permission after play has begun.
+If the player can come up with a “reason” for the character to learn or gain psionic abilities (such as they were latent or were acquired through a strange accident) and the Game Master agrees, then the player’s character may get them.
+The cost to get the initial 1D in Psionics is 20 Character Points.
+After that, it is 10 times the number in front of the “D” to improve this attribute by one pip.
+Players must still purchase Psionics skill pips separately.
+If appropriate for the reason that the character got the ability (such as having a teacher open latent talents), a character may learn one pip in one skill (or more, with the Game Master’s permission) when the character first purchases Psionics after character creation.
 
 Game Masters are discouraged from allowing characters to have multiple Extranormal abilities, but it is possible, especially if the character has several Disadvantages that show up frequently in each session.
 
 === Learning and Improving Psionics Skills
 
-Psionics skills may be learned between adventures, like regular skills. It is even possible to specialize in a certain area of an Psionics skill, if the concept is well-explained and the Game Master approves.
+Psionics skills may be learned between adventures, like regular skills.
+It is even possible to specialize in a certain area of an Psionics skill, if the concept is well-explained and the Game Master approves.
 
-The cost for a Psionics skill, in Character Points, equals twice the normal cost for gaining or improving a normal skill. This cost is doubled again if a teacher — simply another psionic with the skill at a higher level — is not available to instruct the character. A character may learn or improve one Psionics skill after each adventure.
+The cost for a Psionics skill, in Character Points, equals twice the normal cost for gaining or improving a normal skill.
+This cost is doubled again if a teacher — simply another psionic with the skill at a higher level — is not available to instruct the character.
+A character may learn or improve one Psionics skill after each adventure.
 
 === Using and Resisting Psionics
 
-The character rolls a skill attempt (the activation roll) and if she beats the difficulty set by the Game Master, she succeeds with all the concomitant benefits. To continue using the skill, some skills allow a maintenance roll, at a lower difficulty than the activation roll, while others require that the psychic to re-activate the ability.
+The character rolls a skill attempt (the activation roll) and if she beats the difficulty set by the Game Master, she succeeds with all the concomitant benefits.
+To continue using the skill, some skills allow a maintenance roll, at a lower difficulty than the activation roll, while others require that the psychic to re-activate the ability.
 
 Psionicists can push their Psionics attempts when times are rough, using Character Points and Fate Points; perform Psionics actions while multitasking (unless they have to go into a trance); and anything else one might expect for any standard skill.
 
-A target can actively resist a Psionics skill attempt, assuming the target is aware of it. See the “Mental Defenses” sidebar in the “Example Skill Difficulties” chapter for more details.
+A target can actively resist a Psionics skill attempt, assuming the target is aware of it.
+See the “Mental Defenses” sidebar in the “Example Skill Difficulties” chapter for more details.
 
 === Backlash Option
 
@@ -32,17 +47,30 @@ At the Game Master’s option, characters who roll a Critical Failure with an ab
 
 === Delay
 
-Few characters can use their psychic abilities repeatedly in a short period. Should the character fail an attempt, the difference between the difficulty and the skill roll becomes the time in minutes before the psionicist can use that skill again. Delay is always a minimum of one minute, and it’s measured from the moment a psionicist quits using his talent to the time he can try once more. If it involved a Critical Failure, that is the number of minutes before the character may employ that Psionics skill at all. This makes it difficult for a character to give someone the evil eye more than once during a combat, or to read the minds of everyone in a meeting over the course of a few minutes.
+Few characters can use their psychic abilities repeatedly in a short period.
+Should the character fail an attempt, the difference between the difficulty and the skill roll becomes the time in minutes before the psionicist can use that skill again.
+Delay is always a minimum of one minute, and it’s measured from the moment a psionicist quits using his talent to the time he can try once more.
+If it involved a Critical Failure, that is the number of minutes before the character may employ that Psionics skill at all.
+This makes it difficult for a character to give someone the evil eye more than once during a combat, or to read the minds of everyone in a meeting over the course of a few minutes.
 
 Game Masters may opt to ignore this rule, but there should be some penalty for overusing the psychic ability, such as automatic feedback or increasing difficulties.
 
 === Psionics Modifiers
 
-Difficulties and modifiers specific to each psychic skill are included in each description. These generic and optional modifiers can further affect the difficulty, generally trading a negative effect on the character for a lower difficulty or a higher skill total. Note that none of these modifiers are required to use any Psionics skill, but they can help.
+Difficulties and modifiers specific to each psychic skill are included in each description.
+These generic and optional modifiers can further affect the difficulty, generally trading a negative effect on the character for a lower difficulty or a higher skill total.
+Note that none of these modifiers are required to use any Psionics skill, but they can help.
 
 Community: Unless the Game Master rules otherwise, psychic characters may help each other, using the game mechanics in the “Related Skills” section in the “Game Basics” chapter as guidelines.
 
-Components, Incantations, and Gestures: Psychic talents only require the power of the brain, although a person can have a psychological dependency on a certain sort of item to use his gift more effectively. A dowser, for example, could require a dowsing rod to do his work. Someone else might feel a need to have a crystal ball or read tea leaves or rub a lucky rabbit’s foot. This is a psychological crutch, which can be reflected in the character concept as the Advantage Flaw (R3): Minor Stigma Disadvantage, but it has no bearing on the difficulty of the psychic attempt. Nonetheless, Game Masters may allow a modifier to the Psionics skill total modifier per type of additional part. There is a limit of one component, one incantation, and one gesture per skill attempt. See the accompanying charts for the skill modifiers. This can be combined with a concentration modifier.
+Components, Incantations, and Gestures: Psychic talents only require the power of the brain, although a person can have a psychological dependency on a certain sort of item to use his gift more effectively.
+A dowser, for example, could require a dowsing rod to do his work.
+Someone else might feel a need to have a crystal ball or read tea leaves or rub a lucky rabbit’s foot.
+This is a psychological crutch, which can be reflected in the character concept as the Advantage Flaw (R3): Minor Stigma Disadvantage, but it has no bearing on the difficulty of the psychic attempt.
+Nonetheless, Game Masters may allow a modifier to the Psionics skill total modifier per type of additional part.
+There is a limit of one component, one incantation, and one gesture per skill attempt.
+See the accompanying charts for the skill modifiers.
+This can be combined with a concentration modifier.
 
 *Components*
 
@@ -154,11 +182,15 @@ Also will offend most hearing it
 
 1
 
-Concentration: The character spends time preparing herself before releasing her psionic ability. For each round in which the character concentrates strictly on her upcoming action (with or without performing related incantations or gestures), the player may add a bonus of +1 to the activation total or the first maintenance total, or split between both (the bonus must be split as whole numbers). Additionally, add the number of rounds in concentration to 6 to get the willpower difficulty, modified by the distractions listed in the chart on the next page, which the character rolls at the end of the concentration time. If the character fails the willpower roll, the psychic attempt fails. A Critical Failure on the willpower roll indicates that the psionicist takes any feedback associated with the skill use, even though it didn’t work.
+Concentration: The character spends time preparing herself before releasing her psionic ability.
+For each round in which the character concentrates strictly on her upcoming action (with or without performing related incantations or gestures), the player may add a bonus of +1 to the activation total or the first maintenance total, or split between both (the bonus must be split as whole numbers). Additionally, add the number of rounds in concentration to 6 to get the willpower difficulty, modified by the distractions listed in the chart on the next page, which the character rolls at the end of the concentration time.
+If the character fails the willpower roll, the psychic attempt fails.
+A Critical Failure on the willpower roll indicates that the psionicist takes any feedback associated with the skill use, even though it didn’t work.
 
 Example: Four rounds of concentration gives a +4 bonus with a willpower difficulty of 10.
 
-The player must specify, before having her character concentrate, which Psionics skill the bonus will affect and how it will affect that skill. The bonus cannot be transferred to another skill.
+The player must specify, before having her character concentrate, which Psionics skill the bonus will affect and how it will affect that skill.
+The bonus cannot be transferred to another skill.
 
 *Concentration Distractions*
 
@@ -204,9 +236,14 @@ Packed ballroom
 
 *Modifier to willpower difficulty.
 
-Countenance: Psionicists’ bodies can undergo changes due to side effects of their psionic talents. Some go pale or even blue with a lack of blood flow to their skin, others shake uncontrollably or foam at the mouth, still others get bulging eyes or swollen lolling tongues. The physical shell can react in unpredictable ways to the effects of extrasensory perception. The corresponding chart lists modifiers to the Psionics skill difficulty.
+Countenance: Psionicists’ bodies can undergo changes due to side effects of their psionic talents.
+Some go pale or even blue with a lack of blood flow to their skin, others shake uncontrollably or foam at the mouth, still others get bulging eyes or swollen lolling tongues.
+The physical shell can react in unpredictable ways to the effects of extrasensory perception.
+The corresponding chart lists modifiers to the Psionics skill difficulty.
 
-Nothing unreal can happen here: eyes can’t glow red, or flames billow forth from someone’s nostrils, except as a psychic illusion that only the victim can see. The drawback to an illusion is that, no matter what the victim’s perceptions and predispositions were before the fact, after the image is seen, the victim is forever firmly convinced that the psychic is an inhuman monster. Only those already endowed with a psychic or magic ability can accept that image for what it truly is.
+Nothing unreal can happen here: eyes can’t glow red, or flames billow forth from someone’s nostrils, except as a psychic illusion that only the victim can see.
+The drawback to an illusion is that, no matter what the victim’s perceptions and predispositions were before the fact, after the image is seen, the victim is forever firmly convinced that the psychic is an inhuman monster.
+Only those already endowed with a psychic or magic ability can accept that image for what it truly is.
 
 *Countenance*
 
@@ -222,9 +259,13 @@ Extreme (convulsions, psychic image)
 
 -2
 
-Feedback: For every -2 to her damage resistance total, the character receives a +1 to the Psionics skill total. Neither protective gear nor any type of Special Ability may defend against feedback. The damage resistance modifier drops at a rate of one-half of a roll of the character’s Physique per day, with the decrease occurring at the beginning of a new day.
+Feedback: For every -2 to her damage resistance total, the character receives a +1 to the Psionics skill total.
+Neither protective gear nor any type of Special Ability may defend against feedback.
+The damage resistance modifier drops at a rate of one-half of a roll of the character’s Physique per day, with the decrease occurring at the beginning of a new day.
 
-Link to Target: When an astral form, empath, or telepath wishes to seek out a specific person, the relationship to that person can affect how easy it is to get in touch with the person. Include the Link to Target Psionics skill total modifier when using the relevant skill (see accompanying table). Note that this is different than an astral anchor in that the character and her target need not have been in recent contact. The Game Master can also use these modifiers for honing in on specific items (as with far-sensing) or extending the range of certain skills that otherwise have a limited range (such as strike or healing).
+Link to Target: When an astral form, empath, or telepath wishes to seek out a specific person, the relationship to that person can affect how easy it is to get in touch with the person.
+Include the Link to Target Psionics skill total modifier when using the relevant skill (see accompanying table). Note that this is different than an astral anchor in that the character and her target need not have been in recent contact.
+The Game Master can also use these modifiers for honing in on specific items (as with far-sensing) or extending the range of certain skills that otherwise have a limited range (such as strike or healing).
 
 *Link to Target*
 
@@ -272,9 +313,13 @@ Complete strangers and not of the same species
 
 -12
 
-Physical Contact: Close proximity to the target can enhance the Psionics use. Physical contact requires a successful grab attempt for an unwilling or moving target and no special action for a willing or inanimate target. Physical contact with living beings adds 2 to the Psionics skill total and +1 to the skill total for nonliving things.
+Physical Contact: Close proximity to the target can enhance the Psionics use.
+Physical contact requires a successful grab attempt for an unwilling or moving target and no special action for a willing or inanimate target.
+Physical contact with living beings adds 2 to the Psionics skill total and +1 to the skill total for nonliving things.
 
-Range: Unless otherwise noted in the skill’s description, use this chart to determine the maximum distance to which the ability can reach. Ranges are given in kilometers. For every +1 added to the skill difficulty, the range may be increased by one kilometer.
+Range: Unless otherwise noted in the skill’s description, use this chart to determine the maximum distance to which the ability can reach.
+Ranges are given in kilometers.
+For every +1 added to the skill difficulty, the range may be increased by one kilometer.
 
 *Skill Adds**
 
