@@ -4,18 +4,22 @@ Blocks of associated traits are used within OpenD6 to describe individual statis
 A statistical unit is defined as a given block of traits, and includes elements such as characters, vehicles, traps, buildings, equipment, and effects.
 Traits within OpenD6 are described as occupying one of several tiers.
 
+[[tier1]]
 Tier One traits tend to be broadly defined, and independent of other traits.
 Multiple Tier One traits may describe a given statistical unit, and may have non-exclusive or overlapping definitions.
 Attributes are Tier One traits.
 
+[[tier2]]
 Tier Two traits are always associated with a Tier One trait, and are defined within the scope of the Tier One trait’s definition.
 Multiple Tier Two traits exist within the scope of a Tier One trait, and should be defined as exclusive of other Tier Two traits within the same Tier One trait.
 Skills are Tier Two traits.
 
+[[tier3]]
 Tier Three traits are always associated with a Tier Two trait, and are defined within the scope of the Tier Two trait’s definition.
 Multiple Tier Three traits exist within the scope of a Tier Two trait, and should be defined as exclusive of other Tier Three traits within the same Tier Two trait.
 Specializations are Tier Three traits.
 
+[[tier4]]
 Tier Four traits are sometimes associated with a combination of Tier One, Two, or Three traits, and are sometimes independent of other traits.
 Tier Four traits are narrowly defined, and may have non-exclusive or overlapping definitions.
 Options, Move, Body Points, Strength Damage, Funds, Character Points, and Fate Points are all Tier Four traits.
