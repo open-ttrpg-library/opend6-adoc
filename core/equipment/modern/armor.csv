@@ -1,0 +1,20 @@
+Type,Armor Value,Price
+Woven metal fabric (light),+1,E
+Hides and fur,+2,—
+Bone and hide,+3,—
+"Soft leather, canvas, heavy khaki",+2,VE–E
+Syntheleather,+2,M
+"Padded leather, flying jacket",+1D,E
+Woven metal fabric (heavy),+1D,M
+Syntheleather mesh,+1D,M
+Hard leather,+1D+1,E
+Plastovar,+1D+1,D
+Plasteel,+1D+2,D
+Chain mail,+2D,E
+Light Kevlar,+2D+1,D
+Plate mail,+3D,M
+Bulletproof vest,+3D,M
+Reflec (against energy only),+3D,H
+Flak jacket,+3D+1,M
+Heavy Kevlar,+3D,D
+Ceramic armor,+3D+1,H
