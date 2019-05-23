@@ -117,7 +117,7 @@ include::special_abilities.adoc[]
 
 include::cybernetics.adoc[]
 
-include::magic.adoc[]
+include::magic/main.adoc[]
 
 include::metaphysics.adoc[]
 

@@ -1,0 +1,18 @@
+Dimension,Measure is in units of,Value Modifier
+Time,Seconds,0
+Time,Minutes,9
+Time,Hours,18
+Time,Days,25
+Time,Weeks,29
+Time,Months,32
+Time,Years,38
+Distance,Meters,0
+Distance,Feet,-3
+Distance,Kilometers,15
+Distance,Miles,16
+Speed,Meters per second,0
+Speed,Miles per hour,2
+Speed,Kilometers per hour,1
+Mass,Kilograms,0
+Mass,Pounds,-2
+Mass,Tons,15

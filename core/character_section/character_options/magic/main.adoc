@@ -276,777 +276,45 @@ Example: If you want a spell to last for one hour, you look up the number of hou
 This gives you an hour value of 0.
 To convert this to seconds, which is what is needed for the spell duration value, add 18 to the hour value (which, in this case, is 0). If you look up the corresponding measure for 18, you’ll see that it’s 4,000, which is close enough to the number of seconds in one hour (that is, 3,600 seconds).
 
-*Die Codes*
+.Magic die codes
+[%header,format=csv]
+|===
+include::die_codes.csv[]
+|===
 
 Values are cumulative, so, if the spell effect has a die code of 3D+1, the spell effect’s value is 10.
 The type of characteristic the spell affects also modifies the spell effect’s value.
 Round up fractions.
 
-*Die Code*
-
-*Value*
-
-1 pip
-
-1
-
-2 pips
-
-2
-
-1 die
-
-3 per whole die
-
-*Characteristic Type*
-
-*Value Multiplier*
-
-Stand-alone stun damage (physical only)
-
-0.75
-
-Stand-alone damage*
-
-1
-
-Stand-alone protection*
-
-1
-
-Protection or damage modifier*
-
-1.5
-
-Stand-alone die code or non-Extranormal skill
-
-1
-
-Non-Extranormal skill modifier
-
-1.5
-
-Stand-alone non-Extranormal attribute
-
-1.5
-
-Non-Extranormal attribute modifier
-
-2
-
-Stand-alone Extranormal skill
-
-2
-
-Extranormal skill modifier
-
-2.5
-
-Extranormal attribute modifier
-
-3
+.Magic characteristic types
+[%header,format=csv]
+|===
+include::characteristic_types.csv[]
+|===
 
 *To protect against or do damage as both mental and physical, each type, purchase each one separately.
 Note: To have damage ignore non-magical armor, add 0.5 to the value multiplier listed.
 To have protection against either magical or non-magical attacks (but not both), subtract 0.5 from the value multiplier listed.
 
-*Spell Measures*
-
-*Val.*
-
-*Measure*
-
-*Val.*
-
-*Measure*
-
-*Val.*
-
-*Measure*
-
-0
-
-1
-
-35
-
-10 million
-
-70
-
-100 trillion
-
-1
-
-1.5
-
-36
-
-15 million
-
-71
-
-150 trillion
-
-2
-
-2.5
-
-37
-
-25 million
-
-72
-
-250 trillion
-
-3
-
-3.5
-
-38
-
-40 million
-
-73
-
-400 trillion
-
-4
-
-5
-
-39
-
-60 million
-
-74
-
-600 trillion
-
-5
-
-10
-
-40
-
-100 million
-
-75
-
-1 quadrillion
-
-6
-
-15
-
-41
-
-150 million
-
-76
-
-1.5 quadrillion
-
-7
-
-25
-
-42
-
-250 million
-
-77
-
-2.5 quadrillion
-
-8
-
-40
-
-43
-
-400 million
-
-78
-
-4 quadrillion
-
-9
-
-60
-
-44
-
-600 million
-
-79
-
-6 quadrillion
-
-10
-
-100
-
-45
-
-1 billion
-
-80
-
-10 quadrillion
-
-11
-
-150
-
-46
-
-1.5 billion
-
-81
-
-15 quadrillion
-
-12
-
-250
-
-47
-
-2.5 billion
-
-82
-
-25 quadrillion
-
-13
-
-400
-
-48
-
-4 billion
-
-83
-
-40 quadrillion
-
-14
-
-600
-
-49
-
-6 billion
-
-84
-
-60 quadrillion
-
-15
-
-1000
-
-50
-
-10 billion
-
-85
-
-100 quadrillion
-
-16
-
-1500
-
-51
-
-15 billion
-
-86
-
-150 quadrillion
-
-17
-
-2500
-
-52
-
-25 billion
-
-87
-
-250 quadrillion
-
-18
-
-4000
-
-53
-
-40 billion
-
-88
-
-400 quadrillion
-
-19
-
-6000
-
-54
-
-60 billion
-
-89
-
-600 quadrillion
-
-20
-
-10000
-
-55
-
-100 billion
-
-90
-
-1 quintillion
-
-21
-
-15000
-
-56
-
-150 billion
-
-91
-
-1.5 quintillion
-
-22
-
-25000
-
-57
-
-250 billion
-
-92
-
-2.5 quintillion
-
-23
-
-40000
-
-58
-
-400 billion
-
-93
-
-4 quintillion
-
-24
-
-60000
-
-59
-
-600 billion
-
-94
-
-6 quintillion
-
-25
-
-100000
-
-60
-
-1 trillion
-
-95
-
-10 quintillion
-
-26
-
-150000
-
-61
-
-1.5 trillion
-
-96
-
-15 quintillion
-
-27
-
-250000
-
-62
-
-2.5 trillion
-
-97
-
-25 quintillion
-
-28
-
-400000
-
-63
-
-4 trillion
-
-98
-
-40 quintillion
-
-29
-
-600000
-
-64
-
-6 trillion
-
-99
-
-60 quintillion
-
-30
-
-1 million
-
-65
-
-10 trillion
-
-100
-
-100 quintillion
-
-31
-
-1.5 million
-
-66
-
-15 trillion
-
-32
-
-2.5 million
-
-67
-
-25 trillion
-
-33
-
-4 million
-
-68
-
-40 trillion
-
-34
-
-6 million
-
-69
-
-60 trillion
-
-*Benchmarks*
-
-*Value*
-
-*Time*
-
-*Weight*
-
-*Distance*
-
-0
-
-Second
-
-1 kilo
-
-1 meter
-
-1
-
-Great horned owl
-
-War horse height
-
-2
-
-Large goose
-
-Tallest Human
-
-3
-
-Human baby
-
-Large wagon
-
-4
-
-Round
-
-Small armadillo
-
-6
-
-Sea turtle
-
-Small sailing ship
-
-7
-
-Small tree
-
-Caravel sailing ship
-
-8
-
-Medium dog
-
-Galleon
-
-9
-
-Minute
-
-Deer
-
-Large longship
-
-10
-
-Human male
-
-Javelin throw
-
-11
-
-Lion
-
-Great Pyramid height
-
-12
-
-Brown bear
-
-Great Pyramid base
-
-13
-
-Alligator
-
-Long bow flight
-
-14
-
-War horse
-
-Trebuchet range
-
-15
-
-Small rhino
-
-Kilometer
-
-16
-
-Giraffe
-
-Mile
-
-17
-
-Medium squid
-
-18
-
-Hour
-
-Hippopotamus
-
-19
-
-Medium elephant
-
-Chariot race
-
-20
-
-Large orca
-
-22
-
-Medium dragon
-
-Day’s march
-
-23
-
-Caravel ship
-
-Marathon race
-
-25
-
-Day
-
-Blue whale
-
-Day’s travel for a dispatch rider
-
-26
-
-British naval cutter
-
-27
-
-Galleon cargo cap.
-
-Athens to Sparta
-
-28
-
-Galleon
-
-29
-
-Week
-
-Colossus of Rhodes
-
-30
-
-2-story building
-
-Length of Great Britain
-
-32
-
-Month
-
-10-meter boulder
-
-Paris to Constantinople
-
-38
-
-Year
-
-Medium cathedral
-
-Circumference of Earth
-
-43
-
-Orbit of Moon
-
-49
-
-Great Pyramid
-
-*Measure Conversions*
+.Spell measures
+[%header,format=csv]
+|===
+include::spell_measures.csv[]
+|===
+
+.Spell benchmarks
+[%header,format=csv]
+|===
+include::benchmarks.csv[]
+|===
+
+.Spell measure conversions
+[%header,format=csv]
+|===
+include::measure_conversions.csv[]
+|===
 
 Add the value modifier to the measure’s value to determine what it is in seconds, meters per second, meters, or kilograms, as appropriate to the conversion.
-
-*Measure is in units of*
-
-*Value Modifier*
-
-Seconds
-
-0
-
-Minutes
-
-9
-
-Hours
-
-18
-
-Days
-
-25
-
-Weeks
-
-29
-
-Months
-
-32
-
-Years
-
-38
-
-*Measure is in units of*
-
-*Value Modifier*
-
-Meters per second
-
-0
-
-Miles per hour
-
-2
-
-Kilometers per hour
-
-1
-
-Meters
-
-0
-
-Feet
-
--3
-
-Kilometers
-
-15
-
-Miles
-
-16
-
-Kilograms
-
-0
-
-Pounds
-
--2
-
-Tons
-
-15
 
 == Skills & Sample Effects
 
@@ -1254,59 +522,17 @@ The spell requires one or more items or needs to be done in a certain location i
 The items or location should be representative of the spell’s effect.
 Use the accompanying table to determine the amount to add to the Negative Spell Total Modifiers.
 
-*Components*
+.Spell components
+[%header,format=csv]
+|===
+include::components.csv[]
+|===
 
-*Component is …*
-
-*Modifier*
-
-Ordinary, easily obtained (rock, dirt, tree branch)
-
--1
-
-Very common, easily purchased or traded for (match, wooden board, candle)
-
--2
-
-Common, but must be purchased for reasonable cost (flint and steel, inexpensive clothing, oil, incense)
-
--3
-
-Uncommon (rare in some places, common in others) (certain types of food or cloth)
-
--4
-
-Very rare (rare in most places or expensive) (valuable gem, precious metal, rare spice, exotic herb)
-
--5
-
-Extremely rare (near-priceless gem, orichaleum, plutonium)
-
--6
-
-Unique (a particular king’s burial garments)
-
--7
-
-Destroyed in casting or at end of spell’s duration
-
-x2
-
-*Number of Components*
-
-*Multiplier**
-
-1–3
-
-1
-
-4–6
-
-0.75
-
-7 or more
-
-0.5
+.Spell component number
+[%header,format=csv]
+|===
+include::component_number.csv[]
+|===
 
 *Multiply the total component modifier by this value and round up.
 
@@ -1321,49 +547,13 @@ Add the concentration modifier to 6 to get the mettle difficulty, which the char
 If the character fails the mettle roll, the spell fails.
 A Critical Failure on the mettle roll indicates that the caster takes any feedback associated with the spell, even though it didn’t work.
 
-*Concentration Distractions*
+.Spell concentration distractions
+[%header, format=csv]
+|===
+include::concentration_distractions.csv[]
+|===
 
-*Level of Distraction*
-
-*Modifier**
-
-Completely isolated chamber
-
-0
-
-Isolated, but some distractions (trees, birds chirping, pictures)
-
-2
-
-On a fairly deserted street, with a few passers-by
-
-6
-
-In a room with a few other people who are being quiet
-
-8
-
-Alone in a booth at a sparsely filled tavern
-
-10
-
-Alone at a table in the middle of a sparsely filled tavern
-
-14
-
-Alone at a booth in a busy tavern
-
-16
-
-At a tavern booth with a few other people who are being quiet
-
-18
-
-Packed tavern
-
-20
-
-* Modifier to mettle difficulty.
+\* Modifier to mettle difficulty.
 
 == Countenance
 
@@ -1377,19 +567,11 @@ The drawback to an illusory change is that, no matter what the victim’s percep
 Only those already endowed with a psychic or magic ability are capable of accepting that image for what it truly is.
 Psychic illusions may be used only with living targets.
 
-*Countenance*
-
-*Change in Appearance*
-
-*Modifier*
-
-Noticeable (gray pallor, foaming)
-
--1
-
-Extreme (convulsions, psychic image)
-
--2
+.Spell countenance
+[%header,format=csv]
+|===
+include::countenance.csv[]
+|===
 
 == Feedback
 
@@ -1418,39 +600,11 @@ The caster, a charge, or a ward requires that a gesture be made so that the spel
 Use the accompanying tables to determine the modifier to the Spell Total.
 If there is a difficulty listed, the character must make an acrobatics or sleight of hand roll against that difficulty at the end of the casting time.
 
-*Gesture*
-
-*Complexity*
-
-*Modifier*
-
-Simple (point finger, toss herbs, flip switch)
-
--1
-
-Fairly simple (make circles with finger)
-
--2
-
-Complex (action difficulty 11)
-
--3
-
-Very complex (action difficulty 15)
-
--4
-
-Extremely complex (action difficulty 19)
-
--5
-
-Challenging and extremely complex (action difficulty 23)
-
--6
-
-Also will offend most seeing it
-
--1
+.Spell gestures
+[%header,format=csv]
+|===
+include::gesture.csv[]
+|===
 
 == Incantation
 
@@ -1458,47 +612,10 @@ The caster, a charge, or a ward requires that a word or phrase be said so that t
 Use the accompanying tables to determine the modifier to the Spell Total.
 If there is a difficulty listed, the character must make an artist or persuasion roll against that difficulty at the end of the casting time.
 
-*Incantation*
-
-*Complexity*
-
-*Modifier*
-
-A few words or sounds
-
--1
-
-A complete sentence or lengthy phrase
-
--2
-
-A complex incantation (action difficulty 11)
-
--3
-
-Litany (action difficulty 15)
-
--4
-
-Complex formula (action difficulty 19)
-
--5
-
-Extensive, complex elements (action difficulty 23)
-
--6
-
-Also in a foreign tongue and character must have one pip in that speaking specialization
-
--1
-
-Also must say it very loudly
-
--1
-
-Also will offend most hearing it
-
--1
+.Spell incantations
+|===
+include::incantation.csv[]
+|===
 
 == Multiple Targets
 
@@ -1531,29 +648,26 @@ You multiply 30 by the Modifier Multiple of 0.75 for a result of 22.5 (rounds up
 
 The guidelines for disbelief are as follows:
 
-• Any player’s character can disbelieve at any time he sees a spell’s effect occur but, if the effect was used during a conflict round, this counts as an action.
-
-• Game Master characters should only disbelieve when the gamemaster thinks it is appropriate, or when the character using the spell uses it quite often (and effectively).
-
-• When a character disbelieves, he generates a Acumen or investigation total.
+* Any player’s character can disbelieve at any time he sees a spell’s effect occur but, if the effect was used during a conflict round, this counts as an action.
+* Game Master characters should only disbelieve when the gamemaster thinks it is appropriate, or when the character using the spell uses it quite often (and effectively).
+* When a character disbelieves, he generates a Acumen or investigation total.
 If the total is equal to or higher than the disbelief difficulty, he is successful.
 The spell has no affect on him whatsoever — it does not disappear, but any effects it had do not apply to him.
+* If a character is encouraged to disbelieve by another character who has successfully disbelieved (and who he trusts or who can persuade him), he gains +4 to his Acumen or investigation total.
+* A character who has disbelieved a spell will not believe in the effect later if it comes from the same source in the same way (i.e., if the character disbelieves the effect of a particular wand of power, that wand of power will never be effective against him again, but he may or may not believe in other magical wands).
+* The character who uses or creates the spell knows it is an illusion and can never be influenced by its effect.
+* The Game Master can, and should, apply difficulty modifiers to the disbelief difficulty based on how believable (or ridiculous) the spell seems to be.
+* In the event a character takes damage or suffers some sort of debilitating effect from an illusion that would, logically, disappear after he disbelieves the illusion, it does.
 
-• If a character is encouraged to disbelieve by another character who has successfully disbelieved (and who he trusts or who can persuade him), he gains +4 to his Acumen or investigation total.
-
-• A character who has disbelieved a spell will not believe in the effect later if it comes from the same source in the same way (i.e., if the character disbelieves the effect of a particular wand of power, that wand of power will never be effective against him again, but he may or may not believe in other magical wands).
-
-• The character who uses or creates the spell knows it is an illusion and can never be influenced by its effect.
-
-• The Game Master can, and should, apply difficulty modifiers to the disbelief difficulty based on how believable (or ridiculous) the spell seems to be.
-
-• In the event a character takes damage or suffers some sort of debilitating effect from an illusion that would, logically, disappear after he disbelieves the illusion, it does.
-
-Example: If a character falls into a “trap” and takes damage from falling, and then finds out the whole pit was an illusion, he’ll be healthy.
+[NOTE]
+.Example
+====
+If a character falls into a “trap” and takes damage from falling, and then finds out the whole pit was an illusion, he’ll be healthy.
 But, a character who is “killed” by an illusion is dead unless another character, who does not believe the illusion can, first, perform a healing total equal to 21 and then, second, help him disbelieve the illusion.
 This has to be done within a number of hours equal to three times the character’s Acumen attribute — otherwise, he slips into an irreversible coma and dies.
+====
 
-Warning: Do not overuse this modifier.
+WARNING: Do not overuse this modifier.
 Once the players are clued into what the Game Master is doing, she’ll never get another illusionary spell through on them.
 The best way to use this is to have a nasty Game Master character mage research a number of spells two ways, as both “real” effect and “unreal.” He then casts the illusionary versions (with the lower difficulty number) until someone figures out they’re not real.
 Then, just for fun, he switches.
@@ -1569,23 +683,11 @@ They would unconsciously use any means at their disposal to cross the chasm with
 If they couldn’t locate a way, they would find some reason that they could not cross the bridge.
 An illusionary bridge doesn’t allow people to walk on air, nor can it cause people to jump off a cliff and die without realizing it.
 
-*Unreal Effect*
-
-*Disbelief Difficulty*
-
-*Modifier Multiplier*
-
-0
-
-0.75
-
-9
-
-0.5
-
-13
-
-0.25
+.Unreal spell effects
+[%header,format=csv]
+|===
+include::unreal_effect.csv[]
+|===
 
 == Variable Duration
 
@@ -1629,62 +731,22 @@ Determine the desired speed measure (in meters per second) and its corresponding
 A spell might involve an expansion of its effect not related to one of the other aspects presented herein.
 Use the accompanying table to decide how much the alterant changes the spell and add the related modifier to the Spell Total.
 
-*Other Alterants*
-
-*Amount of Improvement*
-
-*Modifier*
-
-Small (adding flavor or a scent)
-
-1
-
-Moderate (+1 to required activation skill, giving a golem features)
-
-2
-
-Significant (giving manipulative fingers to tendrils)
-
-3
-
-Incredible (conjuring a small animal)
-
-+4 or more
+.Other spell alterants
+[%header,format=csv]
+|===
+include::other_alterants.csv[]
+|===
 
 == Other Conditions
 
 There might be other circumstances the spell requires in order to work.
 Compare the condition concept to the accompanying table to determine the amount to add to the Negative Spell Total Modifiers.
 
-*Other Conditions*
-
-*Condition*
-
-*Modifier*
-
-The condition can be fulfilled most of the time or with simple preparations, or requires a skill roll of difficulty 9
-
--1
-
-The condition is not met normally, or at least without some preparation, or requires a skill roll of difficulty 10–11
-
--2
-
-The condition is out of the caster’s control, but is fairly frequent, or the condition requires a skill roll of difficulty 12–13, or the caster has to go to elaborate lengths to meet the condition
-
--3
-
-The condition occurs very infrequently, or is very hard for the caster to obtain, or requires a skill roll of difficulty 14–16
-
--4
-
-The condition will not occur without the caster taking elaborate measures, or requires a skill roll of difficulty 17–19
-
--5
-
-The condition is rare and almost totally (or totally) out of the caster’s control, or requires a skill roll of difficulty 20 or more
-
--6
+.Other spell conditions
+[%header,format=csv]
+|===
+include::other_conditions.csv[]
+|===
 
 == Final Spell Total & Spell Difficulty
 
@@ -1750,27 +812,18 @@ The scribe of the spell may not use a scrivened spell that he created.
 
 The following aspects for a scroll spell are added to any required by the spell:
 
-• Charge (+2): 1 charge with ward, spell released when the description is read
-
-• Components (-6): sheet of paper (common); ink (common)
-
-• Concentration (-3): 4 minutes with mettle difficulty of 9
-
-• Gestures (-2): Write a brief description of the spell on the paper
-
-Scroll spell modifier (total value of above new aspects): -9
+* Charge (+2): 1 charge with ward, spell released when the description is read
+* Components (-6): sheet of paper (common); ink (common)
+* Concentration (-3): 4 minutes with mettle difficulty of 9
+* Gestures (-2): Write a brief description of the spell on the paper
+* Scroll spell modifier (total value of above new aspects): -9
 
 The casting time might also need adjusting.
 
-[cols=",",]
+.Spell casting time
+[%header,format=csv]
 |===
-|*Current Casting Time Value* |*New Casting Time & Value*
-|0–5 |4 minutes 10 seconds (-12)
-|6–13 |10 minutes (-14)
-|14 |16 minutes (-15)
-|15 |25 minutes (-16)
-|16 |42 minutes (-17)
-|17 or more |No change (0)
+include::casting_time.csv[]
 |===
 
 Using the chart, determine the new time.
@@ -1855,163 +908,12 @@ Other Aspects: None
 
 Design Time: 4 minutes
 
-*Fire Missile Spell Difficulty Worksheet*
+.Fire missile spell difficulty worksheet
+[%header,format=csv]
+|===
+include::missile_spell.csv[]
+|===
 
 Total the values for each aspect and put the number in the correct box.
 If you do not use an aspect, put 0 on its line.
 NM = Negative Spell Total Modifiers.
-
-*Starting Spell Total*
-
-*0*
-
-{empty}1.
-Effect
-
-9
-
-{empty}2.
-Range
-
-6
-
-{empty}3.
-Speed
-
-6
-
-{empty}4.
-Duration
-
-3
-
-{empty}6.
-Area Effect
-
-0
-
-{empty}7.
-Change Target
-
-0
-
-{empty}8.
-Charges
-
-0
-
-{empty}14.
-Focused
-
-0
-
-{empty}17.
-Mult.
-Targets
-
-0
-
-{empty}19.
-Var.
-Duration
-
-0
-
-{empty}20.
-Var.
-Effect
-
-0
-
-{empty}21.
-Var.
-Move.
-
-0
-
-{empty}22.
-Alterants
-
-0
-
-_Spell Total_
-
-_= 24_
-
-*Starting NM*
-
-*0*
-
-{empty}5.
-Cast Time
-
-1
-
-{empty}9.
-Community
-
-0
-
-{empty}10.
-Components
-
-0
-
-{empty}11.
-Concentration
-
-0
-
-{empty}12.
-Countenance
-
-0
-
-{empty}13.
-Feedback
-
-0
-
-{empty}15.
-Gesture
-
-0
-
-{empty}16.
-Incantation
-
-0
-
-{empty}18.
-Unreal Effect
-
-0
-
-{empty}23.
-Conditions
-
-0
-
-_NM Total_
-
-_= 1_
-
-Spell Total
-
-24
-
-NM Total
-
-– 1
-
-Final Spell Total
-
- 23
-
-Difficulty
-
- 12
-
-(Final Spell Total/2)
-
- 

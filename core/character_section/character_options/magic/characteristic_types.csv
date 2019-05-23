@@ -1,0 +1,12 @@
+Characteristic Type,Value Multiplier
+Stand-alone stun damage (physical only),0.75
+Stand-alone damage*,1
+Stand-alone protection*,1
+Protection or damage modifier*,1.5
+Stand-alone die code or non-Extranormal skill,1
+Non-Extranormal skill modifier,1.5
+Stand-alone non-Extranormal attribute,1.5
+Non-Extranormal attribute modifier,2
+Stand-alone Extranormal skill,2
+Extranormal skill modifier,2.5
+Extranormal attribute modifier,3

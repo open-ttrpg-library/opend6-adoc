@@ -1,0 +1,32 @@
+Starting Spell Total,0
+1. Effect,9
+2. Range,6
+3. Speed,6
+4. Duration,3
+6. Area Effect,0
+7. Change Target,0
+8. Charges,0
+14. Focused,0
+17. Mult. Targets,0
+19. Var. Duration,0
+20. Var. Effect,0
+21. Var. Move.,0
+22. Alterants,0
+Spell Total,= 24
+Starting NM,0
+5. Cast Time,1
+9. Community,0
+10. Components,0
+11. Concentration,0
+12. Countenance,0
+13. Feedback,0
+15. Gesture,0
+16. Incantation,0
+18. Unreal Effect,0
+23. Conditions,0
+NM Total,= 1
+Spell Total,24
+NM Total,– 1
+Final Spell Total,= 23
+Difficulty,= 12
+(Final Spell Total/2),

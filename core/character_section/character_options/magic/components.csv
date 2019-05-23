@@ -1,0 +1,9 @@
+Component is …,Modifier
+"Ordinary, easily obtained (rock, dirt, tree branch)",-1
+"Very common, easily purchased or traded for (match, wooden board, candle)",-2
+"Common, but must be purchased for reasonable cost (flint and steel, inexpensive clothing, oil, incense)",-3
+"Uncommon (rare in some places, common in others) (certain types of food or cloth)",-4
+"Very rare (rare in most places or expensive) (valuable gem, precious metal, rare spice, exotic herb)",-5
+"Extremely rare (near-priceless gem, orichaleum, plutonium)",-6
+Unique (a particular king’s burial garments),-7
+Destroyed in casting or at end of spell’s duration,x2

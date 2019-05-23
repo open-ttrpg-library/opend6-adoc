@@ -1,0 +1,7 @@
+Condition,Modifier
+"The condition can be fulfilled most of the time or with simple preparations, or requires a skill roll of difficulty 9",-1
+"The condition is not met normally, or at least without some preparation, or requires a skill roll of difficulty 10–11",-2
+"The condition is out of the caster’s control, but is fairly frequent, or the condition requires a skill roll of difficulty 12–13, or the caster has to go to elaborate lengths to meet the condition",-3
+"The condition occurs very infrequently, or is very hard for the caster to obtain, or requires a skill roll of difficulty 14–16",-4
+"The condition will not occur without the caster taking elaborate measures, or requires a skill roll of difficulty 17–19",-5
+"The condition is rare and almost totally (or totally) out of the caster’s control, or requires a skill roll of difficulty 20 or more",-6
