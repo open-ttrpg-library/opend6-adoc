@@ -1,1 +1,3 @@
 = Creatures
+
+See the https://ogc.rpglibrary.org/images/e/eb/D6_Fantasy_Creatures_v1.1_weg51015eOGL.pdf[PDF on RPGlibrary]

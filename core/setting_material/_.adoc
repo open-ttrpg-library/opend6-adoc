@@ -1,6 +1,9 @@
 = Setting Material
 
-=== Designing the Adventure Setting
+This section refers to many in-depth additional source books, which can be found on https://ogc.rpglibrary.org/index.php?title=OpenD6[RPGlibrary].
+
+ifdef::include-adventure[]
+== Designing the Adventure Setting
 
 Adventure works well for a number of different genres.
 When deciding which one you want to play in, consider what other reference material, such as movies, television shows, and books, you have to draw on.
@@ -21,7 +24,12 @@ Special Abilities are common place, coming from scientific experiments, random m
 Espionage: Plot and character development — along with lots of ultra-high-tech equipment — dominate the espionage setting.
 Full of secrets, and double crosses, violence is generally more subtle than in other genres, though there’s still plenty of room for a car chase with big guns.
 
-=== Designing the Fantasy Setting
+include::adventure/_.adoc[leveloffset=+1]
+
+endif::[]
+
+ifdef::include-fantasy[]
+== Designing the Fantasy Setting
 
 The system and information in fantasy suits two types of fantasy subgenres: high and low.
 The primary difference between the two lies in the amount of magic available, which in turn affects the types of characters played and monsters encountered.
@@ -35,7 +43,12 @@ Low Fantasy: A low fantasy world is much more “gray” than high fantasy.
 Magic is mysterious, and spells are difficult to cast (represented by a higher base Spell Total). Monsters are dangerous and often few and far between.
 Not everyone in the world is either good or evil, and the players’ characters may be of mixed morality.
 
-=== Designing the Sci-Fi Setting
+include::fantasy/_.adoc[leveloffset=+1]
+
+endif::[]
+
+ifdef::include-space[]
+== Designing the Sci-Fi Setting
 
 This book offers several features common to many, but not all, science fiction settings.
 You, as the Game Master, need to decide what you want to include before you create your adventures.
@@ -66,18 +79,6 @@ Scope of the Galaxy.
 Space can be be big and teeming with life or it can be sparse and lonely.
 The more you allow access to easy interstellar travel, the more fun it is for the players to regularly encounter alien and Human offshoots, lost civilizations and treasure planets, and pirates and interstellar military forces.
 
-:leveloffset: +1
+include::space/_.adoc[leveloffset=+1]
 
-ifdef::include-adventure[]
-include::adventure/_.adoc[]
 endif::[]
-
-ifdef::include-fantasy[]
-include::fantasy/_.adoc[]
-endif::[]
-
-ifdef::include-space[]
-include::space/_.adoc[]
-endif::[]
-
-:leveloffset: -1

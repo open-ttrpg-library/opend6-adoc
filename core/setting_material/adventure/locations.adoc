@@ -1,1 +1,3 @@
 = Locations
+
+See the https://ogc.rpglibrary.org/images/a/a8/D6_Adventure_Locations_v1.1_weg51016eOGL.pdf[PDF on RPGlibrary].

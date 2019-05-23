@@ -1,1 +1,3 @@
 = Locations
+
+See the https://ogc.rpglibrary.org/images/9/92/D6_Fantasy_Locations_v1.1_weg51020OGL.pdf[PDF on RPGlibrary]

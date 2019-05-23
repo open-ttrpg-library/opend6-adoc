@@ -1,15 +1,17 @@
 = Space aliens
 
-:leveloffset: +1
+See the https://ogc.rpglibrary.org/images/6/61/D6_Space_Aliens_1_weg51022eOGL.pdf[PDF on RPGlibrary]. 
 
-include::alien_templates.adoc[]
+// :leveloffset: +1
 
-include::homosapient_species.adoc[]
+// include::alien_templates.adoc[]
 
-include::hypersapient_species.adoc[]
+// include::homosapient_species.adoc[]
 
-include::hyposapient_species.adoc[]
+// include::hypersapient_species.adoc[]
 
-include::random_alien_generation.adoc[]
+// include::hyposapient_species.adoc[]
 
-:leveloffset: -1
+// include::random_alien_generation.adoc[]
+
+// :leveloffset: -1
