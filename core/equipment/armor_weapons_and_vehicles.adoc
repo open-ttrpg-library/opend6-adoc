@@ -36,9 +36,79 @@ endif::[]
 include::modern/firearms.csv[]
 |===
 
-\* May not fire single fire as multi.
+\* May not fire single fire as multi. +
 \** Requires eight rounds to reload or a marksmanship roll of 8 to reload in one round.
 
+=== Explosives
+
+[%header,format=csv]
+|===
+include::modern/explosives.csv[]
+|===
+
+† Range equals the total in meters.
+Modifier is added or subtracted from the total generated. +
+‡ Smoke grenades and tear gas give all within burst area a -1D penalty to all Agility, Mechanical, and sight-based Perception rolls.
+
+=== Missiles
+
+[%header,format=csv]
+|===
+include::misc/missile.csv[]
+|===
+
+(1) Price is for firing part of weapon; arrows, bolts, or darts priced separately. +
+(2) Blowguns commonly shoot poison darts; poison damage is in addition to damage listed. +
+(3) Requires one full round to reload. +
+(4) Longer than 60 centimeters, so may incur the unwieldy weapon modifier.
+
+=== Melee
+
+.Modern melee weapons
+[%header,format=csv]
+|===
+include::modern/melee.csv[]
+|===
+
+\*Starred weapons or sets of weapons are longer than 60 centimeters and thus may incur an unwieldy weapon modifier. +
+† Allows user to attack at Point Blank or up to 2 meters away at Short range; incurs unwieldy weapon modifier of +5.
+
+ifdef::include-fantasy[]
+.Fantasy melee weapons
+[%header,format=csv]
+|===
+include::fantasy/melee.csv[]
+|===
+
+\* Starred weapons or sets of weapons are longer than 60 centimeters and thus may incur an unwieldy weapon modifier. +
+† Allows user to attack at Point Blank or up to 2 meters away at Short range; incurs unwieldy weapon modifier of +5.
+endif::[]
+
+=== Vehicles
+
+.Modern vehicles
+[%header,format=csv]
+|===
+include::modern/vehicles.csv[]
+|===
+
+(1) First entry is meters per round, followed by kilometers per hour.
+For entries indicating a roll, roll the skill and use that as the number of meters moved in that round. +
+(2) Includes one crew member (unless otherwise specified). +
+(3) Move equals character’s Move plus Physique or lifting roll. +
+(4) Use animal handling to maneuver the vehicle.
+
+ifdef::include-fantasy[]
+.Fantasy vehicles
+[%header,format=csv]
+|===
+include::fantasy/vehicles.csv[]
+|===
+
+(1) First entry is meters per round, followed by kilometers per hour. 
+For entries indicating a roll, roll the skill and use that as the number of meters moved in that round. +
+(2) Includes one crew member (unless otherwise specified). +
+(3) Prices do not include the cost of hiring and feeding the crew (about 2 silver per day per crew member; total the number of crew to get the per-day price difficulty).
+endif::[]
+
 // todo: footnotes as callouts?
-
-

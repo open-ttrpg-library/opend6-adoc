@@ -1,0 +1,27 @@
+Type,Damage,Price
+"Awl, ice pick, household scissors, pocket knife, screwdriver, stake",+2,VE
+"Arrow, crossbow bolt, dart",+1,VE
+Axe (large)*,+3D,E
+Ball and chain*,+2D,E
+"Baton, night stick, fire iron",+1D+1,VE–E
+Blackjack,+2,VE
+Brass knuckles,+1D+1,VE
+Bullwhip*,+1D,E
+"Club, baseball bat, large stick, walking stick*",+1D+1,VE
+Hatchet,+1D+1,VE
+"Hedge clippers, garden shears",+1D,VE
+Katana*,+3D,M
+"Knife (survival, large kitchen), dagger, bayonet",+1D,VE–E
+Mace*,+1D+1,E
+Machete*,+1D+2,E
+Manrikigusari*,+1D+2,E
+Nunchaku*,+1D+2,VE
+Quarterstaff †,+1D+2,E
+Rapier*,+2D,E
+Sai*,+1D+1,E
+"Sap, hammer (tool)",+1D,VE
+"Sword, broad*",+2D+2,E
+"Sword, short",+1D+2,E
+"Sword, two-handed*",+3D+1,E
+"Sword, energized*",+4D,D
+Tonfa,+1D+2,E

@@ -1,0 +1,8 @@
+Explosives,Damage,,Short Range,Medium Range,Long Range,Price (Ammo Price)
+81mm mortar,5D,,400,750,1K,M
+Concussion grenade,6D (stun),,STR-4,STR-3,STR+3 †,E
+Dynamite (per stick),5D,,STR-3,STR-2,STR+1 †,VE
+Fragmentation grenade,6D,,STR-4,STR-3,STR+3 †,E
+Plastic explosive,5D,,1,—,—,E
+"Smoke grenade, tear gas ‡",,,STR-4,STR-3,STR+3 †,E
+White phosphorus grenade,6D+2,,STR-4,STR-3,STR+3 †,E

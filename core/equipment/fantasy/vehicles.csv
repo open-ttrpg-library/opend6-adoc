@@ -1,0 +1,13 @@
+Mode,Vehicle Type,Scale Value,Move (1),Passengers (2),Toughness,Maneuverability,Price (3)
+Land,"Chariot, two-person carriage",3,animal’s Move x75%,2,4D,-2,D (30 G)
+Land,"Wagon (large, open)",5,animal’s Move x50%,8,4D+1,0,M (9 G)
+Land,Passenger carriage,6,animal’s Move x50%,5,4D+1,-1D,VD (75 G)
+Land,Mine cart,3,animal’s Move x25%,2,5D+1,-3D,M (7 G)
+Water,Canoe (paddles),0,Physique or lifting roll,4,2D,+1D,E (17 S)
+Water,Galleon (sails),14,7 (5 kph),220 (120 crew),7D+2,-2D,"L (95,000 G)"
+Water,"Galley, merchant (sails and oars)",15,10 (7 kph),50 (43 crew),5D+2,+2,"L (110,000 G)"
+Water,"Galley, small (sails and oars)",14,12 (9 kph),43 (40 crew),4D+2,+1D+2,"L (100,000 G)"
+Water,"Galley, war (sails and oars)",21,12 (9 kph),540 (420),7D+1,-2D,"L (200,000 G"
+Water,Longship (sails and oars),12,4 (3 kph),120 (30 crew),6D+2,0,"L (38,000 G)"
+Water,Rowboat (oars),2,Physique or lifting roll,6,3D+2,0,E (19 S)
+Water,"Sailboat, small (sails)",4,Wind + 25% of pilotry total,2,4D,+2D,VD (20 G)

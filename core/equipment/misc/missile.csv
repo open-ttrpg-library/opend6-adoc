@@ -1,0 +1,16 @@
+Type,Name,Damage,Short Range,Medium Range,Long Range,Price (Ammo Price)
+Bow,Composite and arrow,+3D+1,10,60,250,M
+Bow,Long & arrow,+2D+2,10,100,250,M (3 G) (1)
+Bow,Short & arrow,+1D+2,10,100,250,E (16 S) (1)
+Crossbow,Light & bolt,4D,10,100,200,E (16 S) (1)
+Crossbow,Heavy & bolt (3),4D+1,10,100,300,M (4 G) (1)
+Crossbow,Handheld & dart,4D,10,25,50,M (3 G) (1)
+Thrown,"Boomerang, heavy",+1D+1,5,40,100,M (3 G)
+Thrown,Dart,+1,PHYS,PHYS+1,PHYS+2,VE (7 C)
+Thrown,"Rock, fist-sized",+1,PHYS -2,PHYS -1,PHYS —,,
+Thrown,Javelin (4),+2D,5,25,40,E (16 S)
+Thrown,Throwing dagger,+1D,5,10,15,E (5 S)
+Thrown,Throwing star,+1D,5,10,15,VE (7 C)
+Thrown,Gasoline bomb,6D+2,PHYS-3,PHYS-2,PHYS-1,VE
+Misc.,Blowgun & dart,1D(2),10,40,100,VE (10 C) (1)
+Misc.,Sling & stone,+1D,5,10,15,E (3 S) (1)

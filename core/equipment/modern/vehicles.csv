@@ -1,0 +1,35 @@
+Mode,Vehicle Type,Move (1),Passengers (2),Toughness,Maneuverability,Price
+Land,Bicycle (3),See note,1–2,2D,+2D+2,E–M
+Land,"Wagon, stage coach (4)",animal’s Move x50%,5–8,4D+1,0,D
+Land,"Motorcycle, small street",84 (60 kph),1–2,3D+2,+3D,D
+Land,"Motorcycle, large",98 (70 kph),1–2,4D,+2D,D
+Land,"Car, small",49 (35 kph),3–4,4D+1,+2D,D
+Land,"Car, mid-size",70 (50 kph),5–6,4D+2,+1D+1,VD
+Land,"Car, large",70 (50 kph),6–8,5D,+1D,VD
+Land,"Car, sports",107 (75 kph),2–4,4D+1,+3D,VD
+Land,Minivan,63 (45 kph),7,5D+1,+1D,H
+Land,"Van, full-size (with seats)",63,(45 kph),15,5D+2,0
+Land,"Truck, pickup",63 (45 kph),3 (cab),5D+2,0,H
+Land,"Truck, delivery",63 (45 kph),2–3 (cab),6D,-1D,H
+Land,"Bus, in-city",49 (35 kph),81,5D+2,-4D,L
+Land,"Bus, between city",49 (35 kph),43,5D+2,-4D,L
+Land,Tractor trailer cab and trailer,49 (35 kph),2 (cab),6D+2,-6D,L
+Land,"Motorcycle, small street",84 (60 kph),1–2,3D+2,+3D+1,D
+Land,"Motorcycle, large",98 (70 kph),1–2,4D,+2D+1,D
+Land,"Personal ground vehicle, small",49 (35 kph),3–4,4D+1,+2D+2,D
+Land,"Personal ground vehicle, mid-size",70 (50 kph),5–6,4D+2,+1D+1,VD
+Land,"Personal ground vehicle, large",70 (50 kph),6–8,5D,+1D,VD
+Land,"Personal ground vehicle, sports",107 (75 kph),2–4,4D+1,+3D+2,VD
+Land,"Ground vehicle, small mass transport",63 (45 kph),15,5D+2,+1,H
+Land,"Ground vehicle, delivery",63 (45 kph),2–3 (cab),6D,-1D,H
+Land,SUV limo,70 (50 kph),8,5D+2,+1D,H
+Water,Canoe,Physique or lifting roll,4,2D,+1D,E–M
+Water,Rowboat,Physique or lifting roll,6,3D+2,0,E
+Water,"Sailboat, small",Wind + 25% of piloting total,2,4D,+2D,D
+Water,"Sailboat, large",Wind + 50% of piloting total,6–18 (2 crew),6D,+1D,VD
+Water,"Powerboat, medium",42 (30 kph),9,4D+2,+1D,H
+Air,"Helicopter, civilian",126 (90 kph),5,6D+1,+3D,L
+Air,"Hoverplane, personal",98 (70 kph),4–8 (1–2 crew),5D,+1D,L
+Air,"Prop plane, small",98 (70 kph),4–8 (1–2 crew),5D,+1D,L
+Air,"Prop plane, medium",133 (95 kph),6–20 (2 crew),6D+1,0,L
+Air,Small jet,308 (220 kph),8–20 (2 crew),6D+1,0,L
