@@ -12,10 +12,10 @@
 
 :leveloffset: +1
 
-include::core/main.adoc[]
+include::core/_.adoc[]
 
 ifdef::include-ext[]
-include::extensions/main.adoc[]
+include::extensions/_.adoc[]
 endif::[]
 
 :leveloffset: -1

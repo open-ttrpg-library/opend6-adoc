@@ -27,7 +27,7 @@ Build into docbook, PDF or HTML with https://asciidoctor.org[asciidoctor].
 
 * Follow the link:core/introduction/style_guide.adoc[OpenD6 style guide]
 * Grouped asciidoc files should be in a directory
-** The directory should have a `main.adoc` file
+** The directory should have a `_.adoc` file, which serves as the main or index page
 
 == About
 

@@ -6,51 +6,37 @@ Here are some ideas to help you with this.
 
 * Before beginning play, skim the rule book at least once.
 Refer to it during the slow parts; make up the difficulties you can’t remember during the exciting scenes.
-
 * You’re in charge of the rules, not your players.
 However, find that balance between being too strict and too lenient.
 Players need to feel both challenged and like they accomplish something.
 If the players contend you made an error in judgment or presentation, rectify the matter or make it up to them later.
-
 * You are permitted to place restrictions on character creation if you don’t think you can come up with obstacles challenging enough for the players to run wild.
-
 * Be descriptive.
 Keep in mind the old rule of “show, don’t tell.” Make your characters and scenes as interesting as you can.
 Try to work as many senses as possible into descriptions.
 Think about how novelists do it, and follow their example.
 (All right, it is possible to overdo it — you’ll figure that out when your players start nodding off.)
-
 * Players know only what you tell them, so don’t expect them to use a clue later that you don’t give them a chance to find now.
-
 * Have the players come up with a situation that you know is not in the book? Flip to the generic difficulties descriptions (if you’ve nowhere else to start) or the generic modifiers (if you already have a difficulty). Then pick a number based on the descriptions therein and go with it.
 You can also use this technique to reward player ingenuity.
-
 * Hide the adventure’s text or notes, so your players don’t know whether you’re changing something.
 It also increases the level of suspense and excitement, because they don’t know what’s going to happen next.
-
 * Adjust the dice totals to make sure that neither side trounces the other too fast (although sometimes, that just can’t be helped, so you have to add a few more henchmen, swarms of rats, or a sudden gas trap).
-
 * Keep a few appropriate filler obstacles handy, like game characteristics for mercenaries, rolling boulders, booby traps, critter swarms, military robots, or whatever, for those times when you need to slow the players down.
 Also, have a list of suitable helpers, such as a lost key in a niche, some convenient med-kits, a reformed thug, or a talkative child, just in case the players need a hand.
-
 * Don’t give your villains more firepower (or damage-dealing devices or abilities) than could kill a player’s character in a single blow.
-
 * Never let a player’s character die unless doing so is particularly dramatic or heroic.
 Your characters come and go, but players use only one or two, so they invest a lot more into their development.
-
 * Give new players leeway, but show players who persistently make bad choices for their characters that there are consequences to their actions.
-
 * When there’s tension between the players, call for a break.
 It might be as simple as getting a snack, or as challenging as reminding the players that they are not their characters and they’re supposed to have fun together.
-
 * If you need to encourage players to get into their characters, give them immediate, but small, rewards for doing so, such as a bonus to a skill roll or a reduction in difficulty.
-
 * Customize your scenarios to the skill levels, character options, backgrounds, and goals of the players’ characters, as well as the kinds of things that the players like (particular types of rewards, jokes, villains, and so on). The players will feel like they’re actually participating in creating the story, rather than being dragged along.
 
 :leveloffset: +1
 
 include::adventure_tips.adoc[]
 
-include::generic_characters/main.adoc[]
+include::generic_characters/_.adoc[]
 
 :leveloffset: -1

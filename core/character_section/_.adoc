@@ -4,11 +4,11 @@ Three methods of character creation and an overview of the attributes and skills
 
 :leveloffset: +1
 
-include::character_basics/main.adoc[]
+include::character_basics/_.adoc[]
 
-include::character_options/main.adoc[]
+include::character_options/_.adoc[]
 
-include::non-human_races/main.adoc[]
+include::non-human_races/_.adoc[]
 
 include::improving_characters.adoc[]
 

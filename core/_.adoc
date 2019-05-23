@@ -1,0 +1,13 @@
+include::introduction/_.adoc[]
+
+include::character_section/_.adoc[]
+
+include::game_rules/_.adoc[]
+
+include::equipment/_.adoc[]
+
+ifdef::include-gm[]
+include::game_master_section/_.adoc[]
+
+include::setting_material/_.adoc[]
+endif::[]

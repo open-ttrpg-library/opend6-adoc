@@ -289,15 +289,15 @@ If the size is a hindrance, then the character should have the Hindrance disadva
 :leveloffset: +1
 
 ifdef::include-adventure[]
-include::adventure/main.adoc[]
+include::adventure/_.adoc[]
 endif::[]
 
 ifdef::include-fantasy[]
-include::fantasy/main.adoc[]
+include::fantasy/_.adoc[]
 endif::[]
 
 ifdef::include-space[]
-include::space/main.adoc[]
+include::space/_.adoc[]
 endif::[]
 
 :leveloffset: -1
