@@ -6,14 +6,18 @@ Build into docbook, PDF or HTML with https://asciidoctor.org[asciidoctor].
 
 == To do
 
-* [x] magic tables
-* [x] miracles tables
-* [x] psionics tables
-* [x] armor weapons and vehicles tables
-* [x] basic ship design tables
-* [ ] equipment/main tables
-* [ ] space travel tables
-* [ ] skill example tables
+* [ ] Tables
+** [x] magic tables
+** [x] miracles tables
+** [x] psionics tables
+** [x] armor weapons and vehicles tables
+** [x] basic ship design tables
+** [ ] equipment/main tables
+** [ ] space travel tables
+** [ ] skill example tables
+** [ ] et al
+** [ ] See whether magic and psionic tables can be deduplicated
+* [ ] "Example:"s as admonitions
 * [ ] do cross-references
 * [ ] creatures and locations?
 ** Big job!
