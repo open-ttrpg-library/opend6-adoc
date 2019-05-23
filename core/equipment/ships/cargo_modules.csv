@@ -1,0 +1,7 @@
+Module,Area Units,Mass (tons),Cost
+Bulk Space,1,0.5,25
+Hangar (1 fighter),20,24,6000
+Launch Bay (1 fighter),85,103,25000
+Livestock Bay (10 animals),30,39,9100
+Pod Bay (1 pod),4,5,1200
+Vehicle Bay,8,5,600

@@ -1,0 +1,5 @@
+Type,Area Units,Mass,Energy,Cost,Ammo,Range (space units),Damage
+"Blaster cannon, small",1,2,13,10000,–,08/25/40,3D+2
+"Laser cannon, medium",2,6,13,15000,–,03/12/25,7D
+Torpedo launcher,2,3,2,5000,1,01/03/07,9D
+Tractor beam projector,7,15,10,8000,–,05/15/30,2D

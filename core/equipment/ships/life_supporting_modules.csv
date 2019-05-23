@@ -1,0 +1,12 @@
+Module,# of People,Area Units,Mass (tons),Cost
+Airlock,5,4,2,300
+Bridge,1,4,2,100
+"Bunks, communal",5,20,10,900
+Coldsleep module,1,1,0.5,200
+Infirmary,3,18,9,1500
+"Lounge, basic",5,30,15,1500
+"Lounge, deluxe",5,36,18,3000
+Passenger seating,4,6,3,300
+"Room, one-person",1,10,5,500
+"Room, two-person",2,14,7,700
+Workroom,5,10,5,3000

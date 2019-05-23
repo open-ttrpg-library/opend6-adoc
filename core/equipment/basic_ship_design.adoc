@@ -121,161 +121,19 @@ Workroom: This is a generic term for any sort of area dedicated to such things a
 Note that the number of people is the amount of persons that can reasonably work in this area, though it may service many, many more.
 Workrooms are sometimes equipped with food processors and sleeping areas (especially on independent ships), though this is not standard (the cost remains, however, virtually the same).
 
-*Life-Supporting Modules*
-
-*Module*
-
-*# of People*
-
-*Area Units*
-
-*Mass (tons)*
-
-*Cost*
-
-Airlock
-
-5
-
-4
-
-2
-
-300
-
-Bridge
-
-1
-
-4
-
-2
-
-100
-
-Bunks, communal
-
-5
-
-20
-
-10
-
-900
-
-Coldsleep module
-
-1
-
-1
-
-0.5
-
-200
-
-Infirmary
-
-3
-
-18
-
-9
-
-1500
-
-Lounge, basic
-
-5
-
-30
-
-15
-
-1500
-
-Lounge, deluxe
-
-5
-
-36
-
-18
-
-3000
-
-Passenger seating
-
-4
-
-6
-
-3
-
-300
-
-Room, one-person
-
-1
-
-10
-
-5
-
-500
-
-Room, two-person
-
-2
-
-14
-
-7
-
-700
-
-Workroom
-
-5
-
-10
-
-5
-
-3000
-
-*Life Support Equipment*
-
-*Equipment*
-
-*# of People*
-
-*Area Units**
-
-*Mass (tons)*
-
-*Cost*
-
-Breathable atmosphere (per month)
-
-1
-
-0.2
-
-0.1
-
-100
-
-Food processor (per month)
-
-1
-
-0.2
-
-0.1
-
-100
-
-*When determining area of life support equipment, multiply 0.2 by the number of units (any combination), rounding down.
+.Life-supporting modules
+[%header,format=csv]
+|===
+include::ships/life_supporting_modules.csv[]
+|===
+
+.Life support equipment
+[%header,format=csv]
+|===
+include::ships/life_support_equipment.csv[]
+|===
+
+\* When determining area of life support equipment, multiply 0.2 by the number of units (any combination), rounding down.
 It’s otherwise integrated into the life-supporting modules.
 
 == Cargo Modules
@@ -316,63 +174,11 @@ It has not controls.
 Vehicle Bay (specialized): This is a small (24 cubic meters) garage designed to house and secure a normal-sized land vehicle.
 The crew should buy additional tools and fuels as desired.
 
-*Cargo Modules*
-
-*Module*
-
-*Area Units*
-
-*Mass (tons)*
-
-*Cost*
-
-Bulk Space
-
-1
-
-0.5
-
-25
-
-Hangar (1 fighter)
-
-20
-
-24
-
-6000
-
-Launch Bay (1 fighter)
-
-85
-
-103
-
-25000
-
-Livestock Bay (10 animals)
-
-30
-
-39
-
-9100
-
-Pod Bay (1 pod)
-
-4
-
-5
-
-1200
-
-Vehicle Bay
-
-8
-
-5
-
-600
+.Cargo modules
+[%header,format=csv]
+|===
+include::ships/cargo_modules.csv[]
+|===
 
 == Energy Unit Requirements
 
@@ -396,7 +202,7 @@ The captain may restrict access to select users.
 Drives power the ship and move it through space, however the Game Master wants to describe the technology.
 Ships have two types of drives: in-system (or sublight) and interstellar.
 
-=== *In-System Drives*
+=== In-System Drives
 
 Though the bulk of the in-system drive is housed in a single section of the ship, a series of maneuvering jets and retros along the ship allow it to turn in frictionless space.
 A basic system provides 0D in Maneuverability.
@@ -422,75 +228,11 @@ Then use the table to translate that value to kilometers per hour.
 Find the closest atmosphere speed to get the corresponding number of kilometers per hour.
 Game Masters may decide that ships over a certain number of modules may never enter the atmosphere.
 
-*Atmosphere Movement Rate*
-
-*Atmosphere Move*
-
-*Kilometers per Hour*
-
-50
-
-130
-
-100
-
-260
-
-150
-
-430
-
-200
-
-560
-
-250
-
-750
-
-300
-
-850
-
-350
-
-1000
-
-400
-
-1150
-
-450
-
-1300
-
-500
-
-1450
-
-550
-
-1600
-
-600
-
-1750
-
-650
-
-1850
-
-700
-
-2000
-
-750
-
-2150
-
-800
-
-2300
+.Atmosphere movement rate
+[%header,format=csv]
+|===
+include::ships/atmosphere_movement_rate.csv[]
+|===
 
 === Interstellar Drives
 
@@ -521,95 +263,19 @@ A ship’s computer can aid with firing a weapon.
 See the “Modules Upgrade” section for details on improving the ship’s computer.
 Note that weapons cannot lock on anything less than one space unit away from the targeting vessel.
 
+.Weapons
+[%header,format=csv]
+|===
+include::ships/weapons.csv[]
+|===
+
+Note: Replacement torpedoes cost 1,000 credits; they have negligible mass.
+
 === Tractor Beam
 
 A tractor beam allows one ship to pull another one closer to it.
 (A small ship can pull itself closer to a large one, while a large one can pull a smaller one in.) It costs 8,000 credits to install the base module, which takes up seven area units, draws 10 energy units, and offers a tractor beam “damage” of 2D.
 For each additional +1D to the beam, add 4,000 credits, another seven area units, and another 10 energy units.
-
-*Weapons*
-
-*Type*
-
-*Area Units*
-
-*Mass*
-
-*Energy*
-
-*Cost*
-
-*Ammo*
-
-*Range (space units)*
-
-*Damage*
-
-Blaster cannon, small
-
-1
-
-2
-
-13
-
-10000
-
-–
-
-08/25/40
-
-3D+2
-
-Laser cannon, medium
-
-2
-
-6
-
-13
-
-15000
-
-–
-
-03/12/25
-
-7D
-
-Torpedo launcher
-
-2
-
-3
-
-2
-
-5000
-
-1
-
-01/03/07
-
-9D
-
-Tractor beam projector
-
-7
-
-15
-
-10
-
-8000
-
-–
-
-05/15/30
-
-2D
-
-Note: Replacement torpedoes cost 1,000 credits; they have negligible mass.
 
 == Hull
 
@@ -622,145 +288,11 @@ Then, use the bulkhead’s mass to determine its base Toughness by reading the f
 Round the number of kilograms down when figuring hull toughness.
 A ship with a hull mass of 105 tons has a hull Toughness of 2D+2, not 3D.
 
-*Hulls*
-
-*Mass (metric tons)*
-
-*Toughness*
-
-*Cost per Extra Armor Pip*
-
-10
-
-1D
-
-1000
-
-15
-
-1D+1
-
-1500
-
-25
-
-1D+2
-
-2500
-
-40
-
-2D
-
-4000
-
-60
-
-2D+1
-
-6000
-
-100
-
-2D+2
-
-10000
-
-150
-
-3D
-
-15000
-
-250
-
-3D+1
-
-25000
-
-400
-
-3D+2
-
-40000
-
-600
-
-4D
-
-60000
-
-1000
-
-4D+1
-
-100000
-
-1500
-
-4D+2
-
-150000
-
-2500
-
-5D
-
-250000
-
-4000
-
-5D+1
-
-400000
-
-6000
-
-5D+2
-
-600000
-
-10000
-
-6D
-
-1 million
-
-15000
-
-6D+1
-
-1.5 million
-
-25000
-
-6D+2
-
-2.5 million
-
-40000
-
-7D
-
-4 million
-
-100000
-
-7D+1
-
-10 million
-
-150000
-
-7D+2
-
-15 million
-
-250,000 or more
-
-8D
-
-30 million
+.Hulls
+[%header,format=csv]
+|===
+include::ships/hulls.csv[]
+|===
 
 == Armor
 

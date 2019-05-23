@@ -1241,6 +1241,7 @@ Game Masters might allow a smaller version of this weapon to be mounted on large
 
 include::armor_weapons_and_vehicles.adoc[]
 
+ifdef::include-space[]
 include::basic_ship_design.adoc[]
-
+endif::[]
 :leveloffset: -1
