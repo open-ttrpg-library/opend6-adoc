@@ -1,0 +1,8 @@
+Complexity,Skill Modifier
+"Simple (point finger, toss herbs, flip switch, etc.)",1
+"Fairly simple (make circles with finger, etc.)",2
+Complex (action difficulty 11),3
+Very complex (action difficulty 15),4
+Extremely complex (action difficulty 19),5
+Challenging and extremely complex (action difficulty 23),6
+Also will offend most seeing it,1

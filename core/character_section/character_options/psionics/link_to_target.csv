@@ -1,0 +1,11 @@
+Relationship Years Known,Skill Modifier
+"Constant influence (parents, grandparents, spouse, old friends) 10+ years",5
+"Recent influence (friends, roommates, old enemies) 5–10 years",3
+"Newer influence (friends, acquaintances) 1–5 years",2
+Sporadic influence (on-and-off relationships) variable,2
+New acquaintances 2–6 months,0
+"New faces/only just met, but have talked for a while (like at a party)",-2
+Personal sight and name recognition (have met in person briefly),-3
+Distant sight and name recognition (like celebrities never met in person),-5
+Only a name or only a face,-8
+Complete strangers and not of the same species,-12

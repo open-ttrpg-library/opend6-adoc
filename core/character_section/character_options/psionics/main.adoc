@@ -72,115 +72,23 @@ There is a limit of one component, one incantation, and one gesture per skill at
 See the accompanying charts for the skill modifiers.
 This can be combined with a concentration modifier.
 
-*Components*
+.Psionic components
+[%header,format=csv]
+|===
+include::components.csv[]
+|===
 
-*Component is…*
+.Psionic gestures
+[%header,format=csv]
+|===
+include::gestures.csv[]
+|===
 
-*Skill Modifier*
-
-Ordinary, easily obtained (rock, dirt, tree branch)
-
-1
-
-Very common, easily purchased or traded for (match, wooden board, candle)
-
-2
-
-Common, but must be purchased for reasonable cost (lighter, inexpensive clothing, oil, incense)
-
-3
-
-Uncommon (rare in some places, common in others) (gun, computer chip, prescription medicine)
-
-4
-
-Very rare (rare in most places or expensive) (valuable gem, precious metal, rare drug, exotic herb)
-
-5
-
-Extremely rare (near-priceless gem, uranium, plutonium)
-
-6
-
-Unique (King Tut’s burial mask, a prototype weapon)
-
-7
-
-*Gestures*
-
-*Complexity*
-
-*Skill Modifier*
-
-Simple (point finger, toss herbs, flip switch, etc.)
-
-1
-
-Fairly simple (make circles with finger, etc.)
-
-2
-
-Complex (action difficulty 11)
-
-3
-
-Very complex (action difficulty 15)
-
-4
-
-Extremely complex (action difficulty 19)
-
-5
-
-Challenging and extremely complex (action difficulty 23)
-
-6
-
-Also will offend most seeing it
-
-1
-
-*Incantations*
-
-*Complexity*
-
-*Skill Modifier*
-
-A few words or sounds
-
-1
-
-A complete sentence
-
-2
-
-A complex incantation (artist difficulty 11)
-
-3
-
-Litany (artist difficulty 15)
-
-4
-
-Complex formula (artist difficulty 19)
-
-5
-
-Extensive, complex elements (artist difficulty 23)
-
-6
-
-Also in a foreign tongue and character must have one pip in that language specialization
-
-1
-
-Also must say it very loudly
-
-1
-
-Also will offend most hearing it
-
-1
+.Psionic incantations
+[%header,format=csv]
+|===
+include::incantations.csv[]
+|===
 
 Concentration: The character spends time preparing herself before releasing her psionic ability.
 For each round in which the character concentrates strictly on her upcoming action (with or without performing related incantations or gestures), the player may add a bonus of +1 to the activation total or the first maintenance total, or split between both (the bonus must be split as whole numbers). Additionally, add the number of rounds in concentration to 6 to get the willpower difficulty, modified by the distractions listed in the chart on the next page, which the character rolls at the end of the concentration time.
@@ -192,47 +100,11 @@ Example: Four rounds of concentration gives a +4 bonus with a willpower difficul
 The player must specify, before having her character concentrate, which Psionics skill the bonus will affect and how it will affect that skill.
 The bonus cannot be transferred to another skill.
 
-*Concentration Distractions*
-
-*Level of Distraction*
-
-*Modifier**
-
-Completely isolated chamber
-
--2
-
-Isolated, but some distractions (trees, birds chirping, pictures, white noise)
-
-0
-
-On a park bench, with a few passers-by
-
-4
-
-In a room with a few other people who are being quiet
-
-6
-
-Alone in a booth at a sparsely filled restaurant
-
-8
-
-Alone at a table in the middle of a sparsely filled restaurant
-
-12
-
-Alone at a booth in at a busy hour, in a telephone booth, with many people passing by
-
-14
-
-At a restaurant booth with a few other people who are being quiet
-
-16
-
-Packed ballroom
-
-18
+.Psionic concentration distractions
+[%header,format=csv]
+|===
+include::concentration_distractions.csv[]
+|===
 
 *Modifier to willpower difficulty.
 
@@ -245,19 +117,11 @@ Nothing unreal can happen here: eyes can’t glow red, or flames billow forth fr
 The drawback to an illusion is that, no matter what the victim’s perceptions and predispositions were before the fact, after the image is seen, the victim is forever firmly convinced that the psychic is an inhuman monster.
 Only those already endowed with a psychic or magic ability can accept that image for what it truly is.
 
-*Countenance*
-
-*Change in Appearance*
-
-*Difficulty Modifier*
-
-Noticeable (gray pallor, foaming)
-
--1
-
-Extreme (convulsions, psychic image)
-
--2
+.Psionic countenance
+[%header,format=csv]
+|===
+include::countenance.csv[]
+|===
 
 Feedback: For every -2 to her damage resistance total, the character receives a +1 to the Psionics skill total.
 Neither protective gear nor any type of Special Ability may defend against feedback.
@@ -267,51 +131,11 @@ Link to Target: When an astral form, empath, or telepath wishes to seek out a sp
 Include the Link to Target Psionics skill total modifier when using the relevant skill (see accompanying table). Note that this is different than an astral anchor in that the character and her target need not have been in recent contact.
 The Game Master can also use these modifiers for honing in on specific items (as with far-sensing) or extending the range of certain skills that otherwise have a limited range (such as strike or healing).
 
-*Link to Target*
-
-*Relationship Years Known*
-
-*Skill Modifier*
-
-Constant influence (parents, grandparents, spouse, old friends) 10+ years
-
-5
-
-Recent influence (friends, roommates, old enemies) 5–10 years
-
-3
-
-Newer influence (friends, acquaintances) 1–5 years
-
-2
-
-Sporadic influence (on-and-off relationships) variable
-
-2
-
-New acquaintances 2–6 months
-
-0
-
-New faces/only just met, but have talked for a while (like at a party)
-
--2
-
-Personal sight and name recognition (have met in person briefly)
-
--3
-
-Distant sight and name recognition (like celebrities never met in person)
-
--5
-
-Only a name or only a face
-
--8
-
-Complete strangers and not of the same species
-
--12
+.Psionic link to target
+[%heeader,format=csv]
+|===
+include::link_to_target.csv[]
+|===
 
 Physical Contact: Close proximity to the target can enhance the Psionics use.
 Physical contact requires a successful grab attempt for an unwilling or moving target and no special action for a willing or inanimate target.
@@ -321,32 +145,10 @@ Range: Unless otherwise noted in the skill’s description, use this chart to de
 Ranges are given in kilometers.
 For every +1 added to the skill difficulty, the range may be increased by one kilometer.
 
-*Skill Adds**
-
-*Max Range*
-
-0-2 pips
-
-4
-
-1D
-
-10
-
-2D
-
-15
-
-2D+1
-
-25
-
-2D+2
-
-40
-
-3D
-
-60
+.Psionic range
+[%header,format=csv]
+|===
+include::range.csv[]
+|===
 
 For every +1 pip beyond +3D, add another 60 kilometers to the range.
