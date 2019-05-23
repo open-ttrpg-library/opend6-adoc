@@ -6,19 +6,20 @@ Build into docbook, PDF or HTML with https://asciidoctor.org[asciidoctor].
 
 == To do
 
-* [ ] magic tables
-* [ ] miracles tables
-* [ ] psionics tables
-* [ ] armor weapons and vehicles tables
-* [ ] basic ship design tables
+* [x] magic tables
+* [x] miracles tables
+* [x] psionics tables
+* [x] armor weapons and vehicles tables
+* [x] basic ship design tables
 * [ ] equipment/main tables
 * [ ] space travel tables
 * [ ] skill example tables
 * [ ] do cross-references
 * [ ] creatures and locations?
 ** Big job!
-* [ ] Split paragraphs onto lines
+* [x] Split paragraphs onto lines
 * [ ] check/adjust section levels (use warnings from asciidoctor)
+* [ ] figure out how to escape lines starting with asterisk; find and replace `^\\*`
 * [ ] https://github.com/asciidoctor/asciidoctor-extensions-lab/pull/96[multipage HTML]
 * [ ] PDF theme
 
