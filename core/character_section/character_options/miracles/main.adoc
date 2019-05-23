@@ -162,23 +162,11 @@ If the cleric also had urgent need of that kind of miracle, such as to save a fr
 Miracles that benefit no one cannot be performed.
 Thus, a cleric belonging to a religion restricting killing can cause only harm to another living being if doing so would save another person (and possibly herself) from injury.
 
-*Circumstances*
-
-*Circumstance*
-
-*Modifier*
-
-Violates or stretches values important to mythos
-
-15
-
-Need for miracle is not immediate
-
-5
-
-Need for miracle is urgent
-
--5
+.Miracle circumstances
+[%header,format=csv]
+|===
+include::circumstances.csv[]
+|===
 
 == Invocation Success Levels
 
@@ -262,31 +250,11 @@ Use the accompanying chart to determine the helpers’ faithfulness.
 The level of faithfulness refers only to helpers who believe in the same mythos as the cleric, or who are strongly opposed to it.
 Those who believe in other mythos that share some of the basic tenets of the cleric’s mythos might, at the Game Master’s discretion, provide a modifier of 1 or 2 (depending on how closely the two mythos are). Add the modifier to the Negative Spell Total Modifiers at miracle design or subtract one-half (rounded up) from the sample miracle’s difficulty.
 
-*Community*
-
-*Helpers’ Faithfulness*
-
-*Modifier*
-
-Strongly disbelieve, miracle inconsistent with target’s beliefs
-
-3
-
-Casual, miracle consistent with target’s beliefs
-
-0
-
-Confirmed
-
--2
-
-Devout (have a faith specialization of mettle or a faith-related Advantage or Disadvantage)
-
--5
-
-Mixed (no more than 10% casual and no more than 1% who strongly disbelieve)
-
--3
+.Miracle community
+[%header,format=csv]
+|===
+include::community.csv[]
+|===
 
 == Components, Gestures, Incantations
 

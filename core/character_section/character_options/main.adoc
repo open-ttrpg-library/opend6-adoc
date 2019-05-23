@@ -121,7 +121,7 @@ include::magic/main.adoc[]
 
 include::metaphysics.adoc[]
 
-include::miracles.adoc[]
+include::miracles/main.adoc[]
 
 include::psionics.adoc[]
 
